@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 app = Flask(__name__)
 import pandas as pd
-
+import os
 # Load the metadata CSV
 metadata = pd.read_csv("Summit Smart Library - Smart Summit Libarary content.csv")
 @app.route("/get_summit_session", methods=["POST"])
