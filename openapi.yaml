@@ -1,0 +1,47 @@
+openapi: 3.0.0
+info:
+  title: Summit API
+  version: 1.0.0
+paths:
+  /get_summit_session:
+    post:
+      summary: Get a Blogger Breakthrough session that matches a user's query.
+      operationId: getSummitSession
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                query:
+                  type: string
+                  description: The search query for a summit session
+      responses:
+        '200':
+          description: A matching session
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  title:
+                    type: string
+                  speaker:
+                    type: string
+                  website:
+                    type: string
+                  year:
+                    type: string
+                  lesson_link:
+                    type: string
+                  summary:
+                    type: string
+      security:
+        - apiKeyHeader: []
+components:
+  securitySchemes:
+    apiKeyHeader:
+      type: apiKey
+      in: header
+      name: X-API-Key
