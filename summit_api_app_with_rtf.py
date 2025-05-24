@@ -2,10 +2,17 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 import pandas as pd
 import os
+from flask import abort
 # Load the metadata CSV
 metadata = pd.read_csv("Summit Smart Library - Smart Summit Libarary content.csv")
 @app.route("/get_summit_session", methods=["POST"])
 def get_summit_session():
+    # 🔐 Require API Key in Header
+    request_api_key = request.headers.get("X-API-Key")
+    expected_api_key = os.environ.get("API_KEY")
+
+    if request_api_key != expected_api_key:
+        abort(401, description="Unauthorized: Invalid or missing API key")
     query = request.json.get("query", "").lower().strip()
     print(f"🔍 Incoming query: {query}")
     # Try matching against the metadata CSV
