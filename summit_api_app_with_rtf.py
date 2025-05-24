@@ -54,6 +54,9 @@ def test():
     data = request.json
     print(f"🔥 TEST POST received: {data}")
     return jsonify({"message": "POST worked!"})
+@app.route("/")
+def home():
+    return "Summit API is running!"
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     print("✅ Flask server starting...")
