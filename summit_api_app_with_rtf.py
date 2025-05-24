@@ -55,9 +55,9 @@ def test():
     print(f"🔥 TEST POST received: {data}")
     return jsonify({"message": "POST worked!"})
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
     print("✅ Flask server starting...")
-    app.run(debug=True)
-
+    app.run(host="0.0.0.0", port=port, debug=True)
 
 
 
