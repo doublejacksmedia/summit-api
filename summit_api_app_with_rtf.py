@@ -75,7 +75,7 @@ def get_summit_session():
     query = request.json.get("query", "").lower().strip()
     print(f"🔍 Incoming query: {query}")
 
-    # 1. Try matching CSV
+    # 1. Try matching CSV metadata
     for _, row in metadata.iterrows():
         title = str(row.get("Session Title", "")).lower().strip()
         category = str(row.get("Category", "")).lower().strip()
@@ -97,10 +97,10 @@ def get_summit_session():
                     "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
                 })
 
-    # 2. Try matching .txt transcript blocks
+    # 2. Try matching from session blocks
     for block in session_blocks:
-        keywords = query.lower().split()
-if all(word in block.lower() for word in keywords):
+        keywords = query.split()
+        if all(word in block.lower() for word in keywords):
             meta = extract_metadata_from_block(block)
             if meta:
                 print(f"✅ Matched TXT session: {meta['title']}")
@@ -113,7 +113,7 @@ if all(word in block.lower() for word in keywords):
                     "summary": meta["summary"]
                 })
 
-        print("❌ No matching session found.")
+    print("❌ No matching session found.")
     return jsonify({
         "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
     })
