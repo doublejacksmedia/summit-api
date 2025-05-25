@@ -1,0 +1,167 @@
+Title: Designing Printable Products in Canva
+Speaker: Kate Danielle
+Website: https://katedanielle.com/
+Level: Beginner
+Category: Graphic Design
+Length: 27:38
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/designing-printable-products-in-canva-kate-danielle/
+
+Transcript:
+[00:00:12.610] - Liz
+Alright, guys. I know I say this about every speaker, but I'm super excited for our speaker in this session because this is not her first time in the summit. And the last time she was here, she blew my mind with stuff I didn't know you could do in Canva and tips that I still use to this day. Kate Danielle helps creative entrepreneurs, virtual assistants, and online businesses up level their designs with DIY design tools, Canva training, and resources. She is a Canva champion, Canva ambassador, and loves to create easy to use templates and share simple but effective design tips. Kate, welcome.
+
+[00:00:46.310] - Kate
+Thank you. Thank you for having me back. I'm excited to be here. We'll have to chat about all things Canva.
+
+[00:00:53.700] - Liz
+Yes. Okay. So, for those that don't know, obviously, Canva is a great design tool and we're going to be talking today about designing printable products in Canva, which I think I mean, you can do so much in Canva, but that's where we're going to focus on first today. How do you decide kind of what you're going to create? Any tips?
+
+[00:01:17.510] - Kate
+So, I mean printables can be anything, so it ultimately depends on what your blog is about and what your audience wants. So, it can be, maybe you're going to make like an opt in, a content upgrade of some blog posts. So, you're going to make a really nice PDF that maybe has a little more information, or you're going to make an entire product which is like a workbook or a planner and things like that. So, it's really just kind of what you're already talking about and what your audience would want to see from you.
+
+[00:01:53.220] - Liz
+Okay. So, Canva is a great tool, but it can also be a lot I think it's a lot more user-friendly than something like you know Photoshop. But how you kind of get started, there's so many templates, there's so many different size things, you could do custom. Like where should people start if they want to create a printable product in Canva?
+
+[00:02:15.000] - Kate
+ I typically start with just the US letter size. So, it doesn't have to be that if you're just going to make a PDF that is mainly going to be viewed on someone's computer. But when we're talking about printables in general, you want to make it the size that people can print at home, so the US eight and a half by eleven size is where I typically start. It can be, there's several things that size, I pick flyer, letterhead, whatever, anything that's that size in Canva and you choose to create a design.
+
+[00:02:47.360] - Liz
+I don't know if you could share your screen and kind of maybe walk us through some tips because you know depending on what you're doing, it could take a long time or a little time. And there's always ways to speed that up.
+
+[00:03:00.190] - Kate
+Oh, yeah.
+
+[00:03:00.500] - Liz
+If you can kind of just show us some tips and sort of ways to make creating printables easier and faster in Canva.
+
+[00:03:07.890] - Kate
+Okay, I'm going to, let's say share my screen. And here in Canva, like I said, I just go to create a design up here, find, sometimes it pops up, but if not, I'll search for flyer. Just something that I know is going to be that eight and a half by eleven. And of course today as I'm on a demo, I get this weird like half-page size popping up and then landscape which I never use. So, I'm going to go US letter document. Things are always changing in Canva, always improving. But you can be surprised sometimes when you come back and you're like, oh, something different. And then right off the bat you have templates that pop up. So, this is going to, of course, depend on what you're creating. You can search if you like. We see lots of sign up sheets, it looks like, I'm not sure, I guess it thinks these are what I need based off what I've been working on. But you could search for a planner and things like that and go ahead and pop stuff in and start editing it that way. And it's going to be a fast process if you're wanting to create a freebie or something like that.
+
+[00:04:30.070] - Kate
+If you're creating a product to sell, I like to kind of start more from scratch or more from commercial use templates outside of Canva. Canva can be at times a bit unclear about their licensing, so that's not any legal. That is just my preference.
+
+[00:04:53.290] - Liz
+Yes. I do have an entire blog post on Canva's terms that I'll link to, just explaining it.
+
+[00:05:00.260] - Kate
+Perfect. Perfect. And I'm in the Canva ambassador and still I feel like we're always like what, when they start getting into their licensing. So, I tend to start from scratch or like I said, a commercial use template and it's just going to depend on what you're creating and the purpose. So, if you are creating something that you know your audience is going to want to print out to use, you need to think about if it's going to take a lot of ink and if they're going to mind. So, sometimes if people are in love planners, I love planners and they're buying ones because they're creative and pretty well, they're likely not going to mind that it uses a lot of ink. But if this is more of like a specific tool type planner, like maybe you teach something on your blog and you have this planner for planning blog content, then they may care a little bit more and make it more simplified. So that's the first decision that you want to make. And then I typically will start by determining what kind of headers and footers I'm going to have because those are going to be things that are probably going to stay the same or be very similar from page to page.
+
+[00:06:24.760] - Kate
+So that's kind of getting a general layout. So, I might start with just like a very simple rectangle, which I hit R on a keyboard to drop this in. This is the fun new shapes tool.
+
+[00:06:39.490] - Liz
+Yes. And that was a tip, actually. I think the last time you did that was like my blown. I use it all the time now.
+
+[00:06:44.910] - Kate
+Yes, and it's gotten even better because now I'll get into it. But you can choose all these shapes. You can make this just an outline. So maybe we wanted a really simple header with a word in the middle. There's no longer this need to go find out the outline shape and doing all the hacks and making it really skinny. You can do this now with the shape tool, you can make this border as thick or thin as you want, and then you could hop your headline right in the middle there. And that's why we're on the shape tool. Another reason why I love it. If you're going to make any kind of checklist, checkboxes, you could go ahead and format this. And I tend to make them small and skinny, but I'm just going to go quick for the demo. So say you have a whole checklist, but you want to change up how they look. You could just go, maybe you wanted circles instead of squares and it changes them all.
+
+[00:07:52.860] - Liz
+Yeah, I didn't know you could do that. That's awesome. Okay. All right. So, the shape tool. Fantastic. I know sometimes you like, are kind of copying and pasting and duplicating, and stuff gets, and you're trying to line things up Canva come a long way in making that easier. I don't know if you would maybe show that bit because I think that helps hugely when you're creating grids or graphs or whatever or checklists even.
+
+[00:08:23.210] - Kate
+So, I'll go ahead. So, this was going to be a checklist that I had on a planner type page or even just any separate things. I'm going to select them all. I call this rubber band selecting, where I just click and drag the things that I want. And then you're going to come up here. You're going to find the position tool. A lot of times, tools get hidden under the three dots. If this panel is open, but you can close it and it pops up, or you can just click on the three dots. In this right here, we're going to look at space evenly vertically, and it's going to make sure that there's an even amount of space between all of them and they're already centered up vertically, or else it would not be grayed out. I'll just do it one more time, make it more noticeable. So, now I can center it. And you can also try the tidy up tool, which kind of does all of it, but I typically, I either just space evenly center things. And then once you do that, you're going to group it. And you'll likely have lines or text here, and you would want to group that too.
+
+[00:09:37.300] - Kate
+And I just go group. So, now you can move it all around. You know, it's spaced evenly. And if you wanted to change your page, you could. And let me just pull up, pull up a planner. So, here, I've done it with, I've actually used tables to make these lines, which I can show you. But I've selected all these and used the position tool. The reason why I use tables on this one is because I'm a really big fan of thin thin lines. And for whatever reason, on just the regular line, I can't get half a pixel thickness, like, I can here. You can't select more than one table. That's the downside. You have to do them easily, one at a time. But I've set this to just half a pixel, and it makes it really thin and really nice in the way I like it. You can do that with rectangles, too, but you can't, as you see in this table, which is sort of a newer feature.
+
+[00:11:02.570] - Liz
+Just where to put in a line, which I think it doesn't like, do a half pixel. Okay.
+
+[00:11:07.370] - Kate
+Right. And with the tables, I can take off. So, I've only made it have top and bottom borders by selecting those there. That was just extra because I happen to open this and see it. But yeah, the same thing here. I've made these and I positioned them all horizontally this time. And you can group them together. And then with something like this, so we'll look at my calendar. These are two page spreads. With something like this, what I do is I lay out the first month, and these serve as my master pages. So, when I go and do the next month, I'm just going to hold shift, so I can select both of these. I duplicate those pages, and then I'll go ahead and do it. And I'll put them right next to it. And you can move them, drag them where they need to go, and then I just go in and make the edits, change these to the right month, shift the dates around the way they need to be. But that way, you know I had already decided this is what the title, the month was going to look like. The box is going to be here.
+
+[00:12:29.600] - Kate
+So, essentially, this is my header and the style I'm going for. And I try to just rinse and repeat as much as possible to make the whole process go faster.
+
+[00:12:38.660] - Liz
+Okay, I have two questions. One is, so when you do calendars, because trying to do the numbers, are you just using a text box that you have set in the corner? Is there some trick to it?
+
+[00:12:53.710] - Kate
+Yeah. So, with these, these calendars are using the new table feature. Let me insert a blank page and I'll show you. You can find the tables under elements. Scroll down. They have some pre-populated designs, but I just picked the first one. I set it up. I add however, they're a little wonky to work with. You can't just say I want it five by seven. You have to go add each column, make sure you've selected it all, size everything equally. And then sometimes you have to come look in this top one. But once you get it set, I did here this three by five, I think, or six. Then you could type in these in tables. But I just don't love it. You see it's there in the middle? I can't get it up in the corner. So, I've just inserted text box to make my numbers. And then what I do is once I get three in a row, I select them and I'm just holding shift to select more than one rather than
+
+[00:14:15.530] - Liz
+Yeah, but [crosstalk 00:14:16]. Yes.
+
+[00:14:17.600] - Kate
+Yeah, and then I just hold alt and drag it down. I'm still holding alt and if I add shift, it keeps it all. I can't move it easily out of line. And then I just put it where I need it and then I type in the new numbers.
+
+[00:14:37.810] - Liz
+Okay. I don't think I need it.
+
+[00:14:40.280] - Kate
+So, it seems like a lot and other big programs have tools you can add on to populate it, but there is still just as much formatting. And when I really thought about it, I was like, there are only twelve months. Yeah, so you can just start with one.
+
+[00:14:59.490] - Liz
+Knowing keyboard shortcuts really speeds things up because I mean I know some of them. I'm learning some new ones from you now. Is there a place where people can find all the shortcuts to kind of study them, if you will?
+
+[00:15:13.940] - Kate
+Yes. If you click on this question mark in the bottom right, you can search for shortcuts and it'll pop up keyboard shortcuts and you have an entire menu. And it can be a little overwhelming. Like I talked about last time, these are the ones I use all the time. T for text, R for rectangle. Or as we saw, you can get any shape, L for line, C for circle. And then I always have to search for other ones that I need. And even though it takes some time, then you're likely remember it for that work session and it will help you a lot.
+
+[00:15:58.910] - Liz
+And some of them transfer like command K applies, like in Google Docs. So, you know, some of them, once you start digging into and getting used to them, you'll see them work on other sites. Not all right, but some are kind of pretty standard.
+
+[00:16:14.190] - Kate
+And like the command C and command V for copy, paste.
+
+[00:16:18.480] - Liz
+Yes.
+
+[00:16:23.150] - Kate
+And then just click the X to get to make it go away.
+
+[00:16:27.280] - Liz
+Okay. So, once you've kind of, I don't know if you have any final tips on sort of creating the printable, and then I've got a question for you. 
+
+[00:16:37.430] - Kate
+Sure, yeah. So, I'll delete this out. There's a few more things to keep in mind when it comes to these. I tend to like a very clean workspace, but at times I have to turn on my rulers. And the rulers, what you can see, I have tons of guides. They let you drag these guides in. So, I do that one, so I can be mindful of print margins and that I can keep everything lined up. So, for example, this is a little more in-depth design that is to go in like a disc bound planner. So, I had to be very mindful that. On the pages where they meet in the middle, I needed larger margins. So, I have a line for that. So, then when I come down and what needed to start something else that's there. I can keep these margins. And it takes a lot of, something this in-depth takes some time to really look and go, okay, this is going to be a middle, oh, well, I got an extra page, but this is going to be the middle. And I have larger margins, and then I have a skinnier margin, so I really use rulers a lot.
+
+[00:18:00.040] - Kate
+It can get messy, so then you can just go and hide them when you want to see it clean, but just be mindful of that. Keep everything kind of off the very edge, unless the purpose is to do a bleed off the edge. But unfortunately, a lot of home printers won't necessarily, there will still be a little bit of a white edge around it, and then just go from there. If you ever, the rulers help so much, I used to use rectangles as little placements to make sure things were lined up, and I would delete them later. So, definitely, make sure to turn those off and on as you need them. And then another thing you can do is lock things in place. And the lock feature has actually been updated as well. So, I know that my month is not ever going to move, but I'm likely going to need to edit the month on the next layout. So, if you hit it once, it locks it in place, but I can still type versus if I hit it twice, it's locked and I can't do anything to it. And this is a really useful feature.
+
+[00:19:23.520] - Kate
+You'll know when you need it, because there are sometimes when you'll find you're trying to do something, you're trying to work with frames like these, and things just keep popping in the wrong place or you keep moving something you don't need to move, use the lock.
+
+[00:19:40.480] - Liz
+Yeah, I'm like thinking of as I'm putting together the workbook for the Summit, how much that would be helpful. So, yes, okay. So, once you've got your principal ready to go, what is the best way, in your opinion, to export it from Canva, so that it can be delivered to your subscribers, customers, whatever? What is your kind of preferred file format? Any specific settings when you download?
+
+[00:20:10.780] - Kate
+So, I go to click share, find your download, and I come in here and if I'm printing it, it's pretty kind of self-explanatory in here. If I'm going to print it, I pick PDF print. If this is something that is a PDF that is not going to be printed. So, for example, a lot of times if I'm sharing templates, I make a PDF to share that link. I'm going to pick PDF standard. It tells you it's best for emailing. Now if this was something that you're going to use, say on a tablet, like in Good Notes or something, I'm still going to go with PDF prints, still with the highest quality. And I actually have not done that yet because I have used InDesign for the last digital planner I did. But now I solely like make things in here. But I would compare because anything digital, you still want it to be high quality, but you don't want it to lag. So, if you're making a digital planner, I would start with PDF print. And if you're getting a lag, try the standard. Now the last thing is that when you want to make promo images for your printable, you need to download them as PNG.
+
+[00:21:35.040] - Kate
+So, then you can reupload them into Canva to make any of your promo graphics. You can upload PDF now, but when you, that's going to be for editing purposes. And again, I think it's still in beta and it can be a bit wonky. So, download, I always download them as PNG's as well.
+
+[00:21:57.130] - Liz
+Okay, I like it. And that's super helpful. So, a lot of times when you're making something printable, and we say printable like you're going to print it, but it may be something you know on an iPad or just, you know, a fillable PDF. I've always used other tools to make my PDF fillable. Is that still the best way to do it? Is Canva coming around to that? Do you know?
+
+[00:22:23.600] - Kate
+I haven't heard. Canva doesn't do that as of yet. Canva Docs is on the horizon, but I don't think that means that there's going to be a fillable feature yet. They're comparing it, I guess to Google Docs.
+
+[00:22:41.610] - Liz
+Yeah, which I think will be super helpful because when you're creating like an ebook or something, you, alwaysthe text gets cut off, and then you've got it. So, I have signed up for that beta, right?
+
+[00:22:51.710] - Kate
+Yeah, So, I'm hoping for a lot of things with that. So making it syllable is not something on the horizon that I've heard of. When it comes to things like these digital planners that you see people using on tablets, you don't have to do anything special. They can take that PDF and put it in. I know. For apple. It's good notes. I'm certain there is a similar app for Windows tablets that are, just let you write right on any PDF. If you're wanting people to be able to type and fill it in on a computer, you are going to have to use an outside tool. In the past, I've used the paid version of Adobe Acrobat to create fields and that just you would be, you're essentially drawing active text box wherever you need it to be. And you can Google there are typically free tools available that will do that. It's just been a while since I've used one and they tend to come and go. So, just search for like a fillable PDF maker and it might take you some looking around because you're going to find a lot of things that are like to make contracts, but you just need anything that lets you make little text box in active areas.
+
+[00:24:16.510] - Liz
+Yeah, I think I generally use PDF Escape, which has a free and a paid version, and so, yeah. Okay. So, any kind of final tips for people that are wanting to create you know printables in Canva? Where can they find you, all the things?
+
+[00:24:37.030] - Kate
+So, I would say just get started thinking about what it is you want to create and how creative you want it to be. You can see here I have a very simplified planner design, but if you wanted to make this. So, for example, I've done some holiday-themed planners recently, so if you're going with something that has a specific look to it, go ahead and start searching in the elements for things that you might want to use. So, you might search holiday watercolor and you'll get some ideas. I tend to click just on graphics when it comes to things like this. And you can hart things and put things in certain folders for later use. But I like to just have a blank page that I'm going to add to because you'll see, you get these magic recommendations. And it's great because it's going to show you similar things. So. I might want to use these berries and this flowers, kind of the similar style and this wreath. And that's a really good way to get a collection of graphics you might want to add to your printable. And they can also be very simple. So, if you're not making a planner, you can just have, hit t for a text box.
+
+[00:26:07.250] - Kate
+I don't know why it's not. Now [inaudible 00:26:10] is going to glitch out. It normally works. It's worked at any other time. 
+
+[00:26:17.680] - Liz
+It does. I will attest to that. Sometimes, it just, yeah.
+
+[00:26:22.550] - Kate
+Yeah. I don't know what's going on. But you can add text and just have your logo or your business name up here and just kind of format whatever it is, the information you need to provide nicely. It does not have to be overly complicated. Now, if you do want to create some planner type products to sell, you can go grab, I have a free set at KateDanielle.com/freebies, and you can get started with those, use them as is or make them your own.
+
+[00:26:52.850] - Liz
+Awesome. Definitely, go check that out. Kate always delivers on the things, like, it's fantastic. And again, thank you so much for being here. And if you guys have questions, comment below. Kate, thanks again.
+
+[00:27:08.840] - Kate
+Yeah, thank you. And feel free to reach out, because I know when I get in, there, just anything you want to do. The blinders go on and you're like, oh, look at this idea. And this is neat, too. So, if you have any questions about anything, feel free to reach out to me. And thank you so much for having me.
+
+

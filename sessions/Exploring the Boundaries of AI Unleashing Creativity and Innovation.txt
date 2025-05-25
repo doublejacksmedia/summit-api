@@ -1,0 +1,221 @@
+Title: Exploring the Boundaries of AI: Unleashing Creativity and Innovation
+Speaker: Niki Robinson, President, Posts By Ghost
+Website: https://postsbyghost.com/
+Level: Intermediate
+Category: SEO
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/exploring-the-boundaries-of-ai-unleashing-creativity-and-innovation-niki-robinson-2024/
+
+Transcript:
+[00:00:00.360] - Liz Stapleton, Host
+All right guys, I'm excited to have this speaker back. She's spoken before. I always learn something new from her and end up with another tool that I'm like, "I didn't know it could do that." As President of Post by Ghosts, Niki Robinson's current passions include SEO, data analysis, and practical applications for artificial intelligence. She's the creator of the 90-day SEO Boot Camp for Bloggers, and she serves as the Milwaukee Story, Slam producer for the International Live Storytelling organization, The Moth. A big warm welcome back to Niki. Thank you so much for being here again.
+
+[00:00:40.710] - Niki Robinson
+Oh, thank you so much for having me. I really appreciate it. I always love being part of the summit.
+
+[00:00:45.790] - Liz
+Yeah. So we're going to be talking about AI, of course, but in some different context than we've covered in other sessions of the summit. Real quickly, let's give a reminder of do's and don'ts when you want to start using AI, and then we'll dive deeper into some other things.
+
+[00:01:02.540] - Niki
+Okay. So very briefly on that, I actually started a site just with only AI content from scratch to just see if I just crapped it out, what would it do? And it doesn't do much. I think I've gotten six clicks in two months or something. And it's not good content. It's fine, but it's super inconsistent. It's literally just spit out of a tool. I can't even remember. I think I'm using WriteSonic for that one. And basically, that's not the way to do it. I just wanted to test it to see what Google was seeing and what would happen, which I don't love putting more crap on the internet. That's not great.
+
+[00:01:42.540] - Niki
+But we also have to test these things to figure out what's going on. So yeah, anytime you're using any AI tool, definitely always fact-check. You're going to make sure it's in your voice. You're going to make sure it doesn't say something that's horrible, because I've seen some things that it's spit out that have been just really inappropriate. And so you really definitely want to review everything that any AI tool is going to help you produce. But that said, they can be extremely helpful for helping you be more productive about your work and hashing out ideas and stuff like that, places where you get stuck and things like that, really good for generating creativity and all that fun stuff when you're having —I mean, we've all had those days we were sitting there and you're like, "I just cannot get this out." So, yeah.
+
+[00:02:29.460] - Liz
+Okay, so you brought up something really interesting that I have not really dipped my toes in the water of yet, and it's building out your own AI. Can you explain what you mean by that and how you do that? And is it, I mean, can anyone actually do it? Is it super technical?
+
+[00:02:45.920] - Niki
+Yes. So I have been trying to be really on the forefront of this technology. And so fairly recently ChatGPT introduced, essentially you can build your own GPTs is what they're calling them, which is stupid. Some people are calling them babies, which is I don't know, also weird, whatever. There's not a good name for them yet. Maybe there will be soon. But essentially, they're also called AIs, building your own AI. Before ChatGPT introduced the capability to do that, I got in on the ground floor with a company called Mind Studio, and they have a product called YouAi, which you can find at 'YOU' as in y-o-u ai.ai [youai.ai]. Essentially, you can —well, actually, honestly, the best way to explain it is probably to show it. So should I just share my screen?
+
+[00:03:39.710] - Liz
+Yeah, I love a good screen share.
+
+[00:03:41.450] - Niki
+All right. Awesome. One moment. Okay. All right. So this is the homepage. You can see it's youai.ai, and this is MindStudio. And so what's really cool about MindStudio, and I'm not an affiliate or anything yet. So just so you know, on that front I'm not selling this for anyone else but myself. What's really cool about MindStudio, though, is that it is platform-agnostic. Essentially, you are not just limited to ChatGPT. You can use like Claude or Palm or all these. There's different AIs that —when I say AIs, I mean large language models basically, but there's different large language models that have different qualities, and some of them write things a little differently. I don't know. You have to play around and see what might work for you.
+
+[00:04:32.900] - Niki
+What's really neat about this also is that if you want to get started, I'm not going to go through how to create a whole thing because that would take a bit, but it is actually a lot easier than it sounds. What's really cool about this is you can explore their repository of AIs that other people have created. If you have a similar idea to one of these, you can actually take one of these and remix it into your own AI.
+
+[00:04:59.460] - Niki
+Why bloggers would use this is basically you can essentially create a clone of yourself. Now, I say clone very optimistically. There's still a ton of limitations. We've been experimenting with this a ton with different bloggers, obviously with permission and all of that. That's another thing is like using this ethically is like very much a —there's a lot of gray areas right now. The thing is, though, is that you can actually train it to understand the types of content that you write about and also your writing style, your brand voice, understand your target audience, and then help you create content more quickly in your own voice. Now, again, still need to review it, still need to fact-check it, all that fun stuff. But this is where the action is happening right now in my world. I've taken basically, some of these are remixed from other things. You can see remixed. I don't know, people —I basically dug into all these different types of AIs to try to figure out how they're built and then also be able to build my own.
+
+[00:06:08.060] - Niki
+I've been working on bringing family stories to life with mixed results. I have a bunch of family stories. This is totally applies to bloggers because the thing is too, is that the AI is going to learn from your stories and your quirks and your personality and all of that fun stuff. The one that I've had be fairly successful, that I actually created a whole website for is this, "What's the big idea?" All "What's the big idea" is —hang on. This is their landing page so it's ugly, but I did get a logo for it and whatever, made not by AI, by a person who designs logos. When you do this, it's basically like, "Hi, I'm what's the big idea. I'm here to help you break down big ideas into small doable steps. What's your big idea that you need help make an action plan for?" I can say something like, "I want to learn to scuba dive," and it's going to spit out an action plan with steps, and it's going to tell me timelines on everything so that I can actually see how long this might take me. When this gets done writing this plan, it's also going to ask if you want any of these broken down into more detail. Here it did right here—and so what I can do is I can dive into step four and say, open water training dives.
+
+[00:07:34.560] - Niki
+I can specifically ask it for resources. "Who should I contact?" I can say, "Can you tell me a little bit more about step four, or how can I get this accomplished faster?" Or you can ask it whatever to basically get your big dream to come true. This is what I built in a hackathon over a weekend. The thing is that there's a lot of different pieces to building this out. Again, I'm not going to go through everything, but what I will say is that it is so much less complicated than you might think. Am I in the right one? Yeah. Okay.
+
+[00:08:16.060] - Niki
+The prompt that makes this happen is just this. I just told the AI what it is. "You're a project management expert." But I also applied my background in project management to help me understand or to help it understand what it needs to have, like a timeline, list of supplies, different things like that. But this is all the code that it takes. This one is actually super simple. You can actually build in these automations and have other things happen where you can have a conversation with you and ask you questions, different things.
+
+[00:08:50.590] - Niki
+There's message rules. Here's where I was talking about you can use different language models. They're adding more all the time. This one's built off of Claude because I feel like it has a more —less, I don't know, it has more personality, I guess. You can basically set the temperature of the AI to be more or less stable, which basically allows you to —if the closer you get to one, the more randomness it would produce, and therefore, the results can get really off the rails. This is a really simple example of what you could do with this, but it's really cool. It's a really neat tool.
+
+[00:09:32.030] - Niki
+The next step to this is basically creating something that is your own. I can't show you any of those right now because I'm working with people privately about these things because they're all new, and it's a very interesting time. But what is really neat about this is that basically, you can see there's data sources over here. Basically, you can upload a number of your blog posts, your About page, any information that you think that it would be valuable for the AI to help the AI understand who you are and how you write.
+
+[00:10:10.170] - Niki
+Another thing that I saw recommended that I think is super cool is basically, if you want to tell your blog story, your brand story, all of that, do a video of you talking about what you're passionate about, whatever you're blogging about, whatever your business is about, all of that, and then transcribe the video, which you can now do pretty efficiently automated. You might want to again, edit it, make sure that it makes sense, all of that. And then you can feed it in to this as a data source because that's like you being passionate about what you —and you're sharing your knowledge, sharing your excitement, talking the way that you talk. And so you're giving it really like firsthand you when you do that. So that's like a really neat thing you can do as well.
+
+[00:10:53.710] - Niki
+So yeah, there's tons of opportunity around this. As I was sharing, you can get —ChatGPT has this capability right now, but it's not as pretty as this. It only limits you to using ChatGPT. Also, it's not available to everybody yet. Whereas this, you could start this tomorrow if you want to. I believe you actually can start for free.
+
+[00:11:18.600] - Niki
+You can create as many as you want for free. But then if you want to do certain things, like have a subscription fee for it or whatever, then you have to pay either, I think the tiers currently are like $20 a month and then like $99 a month or something. But the idea would be that you would be then basically selling it as a product, which is not what we're talking about. If you want to build something that is you, you can probably use the free tier to do so, because I have many that I've worked on that are in the free tier that I can use for myself personally.
+
+[00:11:54.170] - Niki
+You can also make it private. It doesn't have to be like on the marketplace or anything. If you want this to just be you and just be a thing you built you can totally keep that to yourself. But just like anything, and Liz, I think you were touching on this earlier, it's like, you're still going to want to be careful about what you're putting in there. Okay, so when I'm saying these things about sharing your brand voice and your blog voice and your expertise and all of that, anything that you're going to already put on the internet is fair game because it's already going to be out there.
+
+[00:12:29.580] - Niki
+Somebody could steal it anyway. These AI tools are probably already scraping it anyway, whatever. But when it comes to sensitive data, basically, there's a lot of security concerns over how any of these tools use your data. And so maybe I should put my face back on instead of sharing this. So essentially, for example, I use ChatGPT and other tools and such to basically come up with like, "Okay, I have an idea for a blog post," but I need to think about keywords or what should I cover? I need an outline because I feel like I just need some structure. It's not coming to me. I use it for that thing.
+
+[00:13:12.580] - Liz
+Yeah. So there's a tool I use, specifically I use because I'm able to set it, "Hey, don't use my stuff for training or anything." And so prime example, this summit, The Action Taker Workbook. Basically, after I'm transcribing the sessions, I'm pulling that transcript into this tool and I'm saying, "Hey, give me an overview and list out all the tools that are mentioned. And what are the key actionable things?" to just help me speed up and creating that I'm still doing stuff, I'm still creating things, but it just speeds it up so much more for me. But if I was concerned that that was going to end up training and being on the internet elsewhere, I wouldn't be putting it in there.
+
+[00:13:57.440] - Niki
+Yeah, that's still a concern. I mean, I don't know what you're using for that, but I'm very hesitant to put any sensitive data into any of these tools because I feel like there's a lot of also super gray area about terms and conditions and these things. And you can read that actually for this hackathon that I was just talking about, the AI that won actually, it's a terms of service summarizer, which is brilliant because yes, at the end of the day, you end up checking the box anyway, but you still want to know what you're checking the box for, right? But I've used, I mean, it shouldn't be a mystery that we're recording this on Zoom. Zoom just recently released the AI summary and AI companion tools, and we use those in our meetings with clients. If it's something where I need very detailed timestamped information, like we're information gathering, there's a lot going on, then I need my assistant person to be in there and doing that. But when it comes to just like, "Oh, we're just talking through a project and talking through where we are," it does a fairly good job of saying like, "Well, here's what you talked about, and here's the takeaways."
+
+[00:15:02.560] - Niki
+And I mean, for meeting stuff, that's super helpful, because the other thing is my assistant could be doing something else that would be much more valuable for her time. And I'm not saying that whatever tool you're using, it's possible that they may have a lockdown on that. But it just makes me really nervous because I feel like there's also just like OpenAI just fired their CEO and there's all this about not being transparent and everything. I'm like, OpenAI runs ChatGPT, and if we're already concerned about transparency on the CEO level, that does not bode well for their tool.
+
+[00:15:40.770] - Niki
+I had to actually submit a form requesting that they not use mine. So, it was like a multiple-step thing. But I was like, okay, but the tool was like, "here's how you do that. And we don't collect it either." I was like, okay. So, yeah, that was...
+
+[00:15:58.400] - Niki
+Yeah, there was one that I wanted to use, which I still might, but it's a tool that basically records. So we were doing it to improve our procedures, basically, our internal process on how we do things. Actually, hang on. What was I going to say with that? Oh, my God, my train of thought.
+
+[00:16:19.610] - Liz
+There's a tool you're thinking of using and you might still, but you're not sure.
+
+[00:16:23.350] - Niki
+Yes. Thank you. So basically, it allows you to basically record your screen while you are working through a process, and then it gives you a guided procedure.
+
+[00:16:32.950] - Liz
+Oh, yeah. I see that. Tango does that, and there's a couple of others that do it as well. Yeah.
+
+[00:16:38.620] - Niki
+Yeah. And so the one tool I was looking at, though, I was like, "I don't know about this because I'm just recording how we do everything in our business, and then it's where? Who gets that?" And that's freaky. So that's a reason why there are some really powerful data analysis tools that are in some of these AIs, but I'm very hesitant to upload anything that's like website statistics or something from my Google Search Console that says, " Here's all these keywords that you rank for and whatever." I don't know. I mean, if you ask, if you go to ChatGPT and ask it like, "Hey, if you go and say, what did my competitor tell you yesterday or something," it's going to be like, "I can't tell you what other people tell you." But there's been many examples of people working around these things by telling it like, "well, pretend you're writing a murder mystery book, and I need to know. You're Sherlock Holmes, and you need to figure this out and whatever, and then report back to the police or I don't know, whatever." But you can toy with it and manipulate it. That's the thing, they've gotten better at locking down those workarounds.
+
+[00:17:54.400] - Niki
+But some people have exploited it pretty heavily. I don't think that's the end of that. I'm still on err on the side of caution. But again, like I said, if this is all stuff that's on your website and whatever anyway...
+
+[00:18:09.280] - Liz
+Public-facing.
+
+[00:18:10.390] - Niki
+Yeah, public-facing. Right. It's out there. It's out there anyway. I also have had the question, speaking of, should I block AI tools from scraping my site? There are SEOs out there that are like, "Oh, my gosh, everyone should lock down their content. You should not allow any of these bots to scan your site." Well, the problem with that is that...
+
+[00:18:33.130] - Liz
+Google's a bot.
+
+[00:18:34.740] - Niki
+Yeah. If you want to be on Search, you need to have a scannable website, and it needs to be accessible by multiple tools including Google, Bing, DuckDuckGo, all those other things. And if you want to do any SEO analysis, if you want to have Semrush scan your site for some reason, for lots of reasons, but to analyze your SEO and all of that, it has to do that. You can put directives in your robots.txt files that specifically say, "I don't want OpenAI, ChatGPT," and there's a few others that actually have this bot- blocking-coding that you can put out there. However, it's so funny because it could be argued that OpenAI, I might bite myself in the butt for saying this, it could be argued that some of these more popular tools are maybe the more ethical ones at this point because there is a lot of oversight on this. What I'm saying, I guess, is that you can block these specific tools, but you're not blocking it from everybody. There's other tools that are coming about. People are making new large language models all the time, and they're using internet content to train their models.
+
+[00:19:45.550] - Niki
+It sucks, but it is what it is. It's always something we've run the risk of. When you publish something online, it's online, and somebody cannot —hopefully not all of us, but many of us have had content stolen and that thing, and this makes it easier to do that. With WriteSonic, the tool that I was using for my crappy, just crap it out, just testing site, it literally pulls in the top —it'll give you a list of the top 10 sites ranking for the keyword you want to go after, and you select the sites. Then it's a plagiarism machine, and it turns their stuff into your stuff. That is insane and horrifying. But I think that, yes, bad things can be produced at scale, but good things can also be produced at scale. Really, we are always looking for things that are the highest quality. High quality. And again, we've just had this helpful content update and stuff like that. I mean, we're looking for —and the hidden gems update is like this whole other thing that's coming around that's been talked about a lot lately, too. We need good content that people want to read.
+
+[00:21:01.990] - Niki
+People want to read stories about other people, people want specific instructions on how to do something from somebody who already did it, but really good, meaty stuff that is showing your expertise.
+
+[00:21:13.910] - Liz
+When you think about it, the rise of influencers and social media is because people want to connect with people. And so that doesn't disappear just because it's a written content, a different form. So just keeping that in mind. I did want to just back up because you were mentioning keywords in AI. And before we hit record, you mentioned keywords everywhere in ChatGPT. And so if you could dig into that a little bit, explain what you were mentioning.
+
+[00:21:42.570] - Niki
+Yeah, absolutely. So basically with all these GPTs or babies or what have you, there's been tools that have been built upon ChatGPT and other tools, as I've mentioned. So there's some really cool stuff, and I'll do another screen share here that I wanted to show you. Okay, so I'm just in ChatGPT. If you guys have ever heard me talk before, I mean, I talk about "Keywords Everywhere" a lot. It's a chrome extension, and it's not free. Yeah, it's not free, but it's so cheap. And you get lots of different things you can do with it. And they've actually started releasing different tools that you can add on to related to this AI stuff. One of the things that if you just have Keywords Everywhere active on your chrome then it produces this window here where it says, it gives you these specific verbs. I know this sounds like so simple, and hopefully you can see it, but these little verbs just say, "Clarify, exemplify, expand, explain, rewrite, shorten, tweetify." The reason that these are helpful is because a lot of people, when they don't get what they want, they say, rewrite this.
+
+[00:23:09.220] - Niki
+ChatGPT does not know what to do with 'rewrite this.' But when you use these verbs, you can say, "expand on this, explain this". Well, that one actually did have rewrite. But basically, we want to use specific verbs to tell ChatGPT what to do so we can get it to give us what we want.
+
+[00:23:24.610] - Niki
+But it also has these templates that are built in. I've had mixed success with these, but you can basically do —I forgot where the blogging one is actually. I don't know. Here, it must be under —yeah, here. So blog writing, you can do a template. You can have it do an outline for you. It basically gives a prompt that allows you to put in what you want to do. You can tell it the tone you want to do. This is not the part. This is very simplistic as opposed to that whole training in AI "to be you" thing. But if you just want to get started with something that's super easy and just try this out and see what you can get out of it, this is a neat little thing that's just like built-in and something you can play around with and see what it can do for you.
+
+[00:24:05.890] - Niki
+Also, as you can see right here, it says, "Remember that ChatGPT may hallucinate data, so always verify what it generates."
+
+[00:24:11.230] - Liz
+I like that phrasing because it's always like, "It's always factual," but hallucinate data. I like that phrasing.
+
+[00:24:18.510] - Niki
+Yeah. Actually, hallucination is what they're calling this now. They're saying that AI hallucinates, and it just makes stuff up. And that's really wild because we think like, wow, it must have an imagination or a brain, but it doesn't. And it's just that the way that large language models work is, basically every word is a token. And it's just generating what is the word that is most likely to come after this word in the context of all these words that we have. And so hallucination is possible because it's like how your brain, when you're thinking about you're out to dinner and you randomly think like, oh, I got to remember to tell somebody that I saw something or whatever. And you're connecting these random dots. And that's what it's doing, but not as —not in any way that remotely resembles a human brain. Artificial intelligence, quote-unquote, is also, it's not general artificial intelligence yet. We're calling this artificial intelligence, which is —kind of is, kind of isn't.
+
+[00:25:13.280] - Niki
+The other thing that's really neat, though, that they also produced is —actually, was this the ChatGPT one? I think, or sorry, was this the, I think this was the —yeah, no, this. Yes, it was. This is the Keywords Everywhere. They created this quality rater GPT. I've not played around with this a ton, but it's been really neat from what I have seen. You can basically ask it questions about all these things that fall under the quality raters guidelines, the helpful content update guidelines, all of the things that tell you what Google wants to see in your content. For example, can you evaluate the EEAT of my website? EEAT being Experience, Expertise, Authority, Trust, which is a big thing that everybody has been talking about for probably a year.
+
+[00:26:01.790] - Liz
+A couple of years now.
+
+[00:26:02.720] - Niki
+Yeah. Well, they just added the extra E. But yes. What do you think about website's user experience? Because a lot of the people that got hit with a helpful content update, what we have seen is just the usability of the site is not necessarily great. Now, that's a bigger conversation than we can have right now. But I will say that usability, like just being able to get on the site, get the information you need, all that stuff. Then is my website's content aligned with Google's guidelines? Can you see if my site's navigation is Google friendly? You can ask it anything in relation to these quality rater guidelines, and it will tell you what Google says about these different things.
+
+[00:26:45.230] - Niki
+I actually do want to say one thing about this, too. I was talking to this AI expert guy who is, he's won the Microsoft AI VIP award five years in a row or something. We were talking about how Google keeps giving everyone these guidelines, but it's been revealed pretty recently through Department of Justice records that Google can't actually recognize what good content is necessarily. That's where we're going to see a lot of craziness happening in the search results, and we're already seeing it with AI content and stuff like that.
+
+[00:27:19.320] - Niki
+What Google tells you to do is what Google aspires to be. I was talking to him about that.
+
+[00:27:26.240] - Liz
+They're faking it till they make it?
+
+[00:27:28.040] - Niki
+Yes, exactly. He actually thought that there would be a possibility of a totally new tool coming on the scene that would help us get where we want to go in a different way. But also we're seeing all this evolution around that already with these custom GPTs and different things. I don't know, some people in search have said like, "Oh, people are only going to use these chatbots basically that they build to ask any question that they want." I'm not sure that that's true. I mean, I don't think that I own a really old house. I'm not going to just have it spit out something that's like, "How do I fix my electrical?" Absolutely not. So yeah. So I think that there's still...
+
+[00:28:10.990] - Liz
+I think it's also important for us, we run online businesses, so we are very engaged. And yes, AI has gone mainstream discussion, but there are lots and lots of people that hardly use it at all, or use it very minimally, or they're like, "Oh, I was playing around making silly photos." It's a very different approach to what they're thinking about AI versus how you or I do it.
+
+[00:28:40.580] - Niki
+True.
+
+[00:28:41.370] - Liz
+I'm pretty sure the other adults in my house have never gotten on ChatGPT.
+
+[00:28:48.920] - Niki
+Sure. Yeah.
+
+[00:28:51.630] - Niki
+And that's really interesting because I think that's where these bots end up being impressive to people, because when you design something that can do something really specific, people go, "Holy crap." But it's like, you're actually just telling ChatGPT or one of these other tools how to do what they need to do. So you're just putting another prompt layer on top of it. Some of the ways that those MindStudio things can be built out are more complicated than that. But essentially, that is very much what you're doing. And actually on that note, Google is still Google. Google still has a...
+
+[00:29:24.780] - Liz
+Reigns Supreme.
+
+[00:29:25.970] - Niki
+Yes. Google still has the majority of everybody's attention and what have you. But one way that you can keep up on what is happening with Google Search is to turn on Google Labs. So you can just google "Google Labs."
+
+[00:29:40.260] - Liz
+I had it show up and then it said I couldn't do it under that Gmail account. I think it was because it was my business Gmail account. If I was on a personal one, I could do it.
+
+[00:29:48.590] - Niki
+Yeah. It also doesn't release all features to everybody. For example, right now you can turn on "search generative experience," and you can turn on "search generative experience while browsing." One will give you an AI summary of your search results at the top for better or for worse. Usually, I have not found that super useful at all times. However, there are more opportunities for you to show up in the search right at the top there in those featured snippets basically there. But and then "search generative experience while browsing" is like, if I'm on a website on my phone, it has a flip up thing that will summarize the article I'm reading, which has not been also that helpful for me in that case. I'm reading the article. I don't need a summary because I was reading it. But I'm being that could apply across the board.
+
+[00:30:34.000] - Niki
+But what I do want to mention quickly is that there are a couple new features that are going to be in there soon for a lot of people. And that is that basically you're going to be able to add notes to search results where you can basically comment on a search result. And you can also follow a search results if you're interested in ...
+
+[00:30:52.910] - Liz
+Staying up to date?
+
+[00:30:54.130] - Niki
+Yeah.
+
+[00:30:54.860] - Liz
+Right. They got rid of Google alerts, I think, or they rolled them back or something. So I feel like that's the better —there was something similar that they discontinued. I don't know. Anyway. Because we've all done that, "Where was that thing that I saw?" like that.
+
+[00:31:11.400] - Niki
+Oh, I know. Google's been through like so many things where they're like, here's a product. Never mind. So absolutely. Yeah, I think Google Alerts is still a thing. But I think I know what you're talking about. And like some vague recollection or something similar. Yeah. And I don't know. This might be so this is something in Labs. It's in beta. It's going to be in beta. We're going to try it out. And maybe it won't be a thing. Maybe it will, but we'll see. So I don't know, exciting times. It's crazy.
+
+[00:31:39.230] - Liz
+Yes. Lots of exciting things happening in the world of AI and content creation. Okay, so I think we should wrap it up there. But where can people find you? Do you have something you want to share with them? Tell us all the things.
+
+[00:31:53.290] - Niki
+Yeah. So you can find me at postbyghost.com. It's posts plural, ghost singular. And you can always contact us through our website. And then there's also going to be a link below for a bonus that at the time of filming right now, I am not quite sure what that's going to be because I really do want it to be as up-to-date as possible with everything, how it's changing. But check for a link below for a very exciting, I'm sure, bonus.
+
+[00:32:16.290] - Liz
+Yeah, for the Speaker Bonus Bundle. And then if you have something just for attendees in general, I think that will also be linked below. So, Niki, once again, thank you for coming back. Again, I always, always learn something new from you. And I know everyone else probably does too.
+
+[00:32:31.650] - Niki
+Thank you so much for having me. Honestly, I always have so much fun.
+
+[00:32:35.580] - Liz
+Good. Okay.
+
+

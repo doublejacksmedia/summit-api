@@ -1,0 +1,350 @@
+Title: How to Use an Email Course for Your Optin to Create a Connection With Your Subscribers and Automate Sales
+Speaker: Kim Doyal
+Website: https://kimdoyal.com/
+Level: Intermediate
+Category: Monetization
+Length: 39:10
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-use-an-email-course-for-your-optin-to-create-a-connection-with-your-subscribers-and-automate-sales-kim-doyal/
+
+Transcript:
+[00:00:13.190] - Kim
+Hey, what's going on? Welcome to Teach.Connect.Sell. We're going to jump into this and this is broken into a walkthrough of what Teach.Connect.Sell is. And then we're going to go into actual emails and we're going to walk, walk through how this whole thing is set up. So first of all, who I am and why I love email.
+
+[00:00:33.370] - Kim
+My name is Kim Doyal at kimdoyal.com. And I started my business way back in 2008. It feels like a long time ago now. When I started, I really didn't know what I was doing.
+
+[00:00:45.500] - Kim
+I was just committed to finding something online that would give me the quality of life I wanted. I started out as the WordPress chick, and I moved to my personal brand in 2018. I started podcasting way back in 2013. Isn't that funny? In Internet years, it feels like a lifetime ago.
+
+[00:01:02.990] - Kim
+It was the WordPress Chick podcast, and it's evolved and is now currently F the Hustle with Kim Doyal. I launched an ecommerce brand, the Content Creators Planner in 2018 that went from a failed kick starter to 67,000 a month in sales. I've done websites. I grew an outsourcing company. I've had a podcast production company, but honestly, my sweet spot is coaching and courses along that journey.
+
+[00:01:30.340] - Kim
+I really fell in love with email marketing and newsletters, and I launched my faithful newsletter in 2019. I have an email insiders cohort based training that I started last year. And I have been doubling down on email marketing and newsletters over the last couple of years, mainly because it is the greatest return I have gotten in my business. Alright, so why email? First of all, you set the tone for building a relationship with your subscribers. You want to remember that your email list is an asset.
+
+[00:02:07.360] - Kim
+It is the traffic that you own and control. According to HubSpot, there are 4 billion daily email users. Email generates $42 for every one dollars spent, which is an astounding 4200% return on investment, making it one of the most effective options available also via HubSpot and marketers who use segments and campaigns noted as much as a 760% increase in revenue and four out of five marketers. So, they'd rather give up social media than email marketing. And I'm just going to go ahead and say, yes, I am all over that.
+
+[00:02:41.350] - Kim
+And I have a saying I jokingly say, and bear with me, the language that this shit works. Email marketing is the only thing I regret not doing sooner in my business. Like I said, I've been online 14 years now and man, if I had wrapped my head around this and really dug in, things would be different. However, it's never too late to get into email marketing. So, this Teach.Connect.Sell outline is totally based on a framework by Brennan Dunn, who is brilliant of creating Cell Co.
+
+[00:03:13.490] - Kim
+Check him out and he has this lesson bridge pitch, survey process. I needed to break it down. Brennan is a programmer and developer, very smart guy. And I needed to break it down to wrap it around my brain. So, this is what I'm going to show you.
+
+[00:03:28.750] - Kim
+We're going to do a visual. I'm going to walk you through the process, and I'm going to talk through the emails. I want you to start understanding the value of what this looks like. So, the Teach piece, we're using Teach.Connect.Sell, is a lead magnet. Okay.
+
+[00:03:45.960] - Kim
+This is where you're going to it's an opt in. Think of it as an email course, like a mini email course. You want to use this as your lead magnet. And this is to set the tone for your subscribers. And this will make a lot more sense when we go through the actual emails.
+
+[00:04:02.710] - Kim
+But we're going to go ahead and start with the Teach piece. This is a pretty involved email sequence, but once you set it up, remember, you don't have to do anything with this. So, the first three emails, we're going to identify that there is a problem. Right. And so, I'm going to break these down individually.
+
+[00:04:20.970] - Kim
+The second three emails that are going to get sent are going to let your subscriber know that the good news is the problem can be solved. And the last three emails are going to identify that you're the one to solve the problem. Alright. So, let's dig into this a little bit deeper. So, again, the first three emails, there's a problem.
+
+[00:04:40.820] - Kim
+We're going to identify the problem. Then you're going to reiterate it. And this is sort of when you say I've been in your shoes and email number three is still there's a problem. And so, we want to sort of drive home that pain point of what happens if you don't fix the problem.
+
+[00:04:58.790] - Kim
+Now, one thing I want to point out with email and writing, a lot of people might feel that I'm not a good writer. Think of this, just like you're talking to friends. Everything is content. And just like you're communicating to one person, there is a rule of one and copy.
+
+[00:05:14.890] - Kim
+And you want to apply this here. You're just talking to one person about one problem here. So, don't overthink this. And this isn't negative to come at this from a place of kind of driving home that pain point.
+
+[00:05:29.490] - Kim
+Good writing, good copy, email that converts all of that is based on psychology of why people, human beings, are driven to do things. And most people will do more to avoid pain than to gain pleasure. Alright. So, we've got the first three emails that are there is a problem.
+
+[00:05:45.990] - Kim
+The second three emails, remember, we're going to identify. Hey, good news. The problem can be solved. Right. So email number four, that's what we're going to drive home.
+
+[00:05:55.530] - Kim
+Email number five is how things are going to start changing. We want them to start getting into that feeling place of what life will look like, what you know the circumstance will change, how it will change when the problem is solved. Email number six is how things change for you when you solve the problem. Right. So, now we're starting to pull in more social proof here.
+
+[00:06:18.750] - Kim
+The last three emails. We're going to start talking about why you are the one to solve the problem. This is to build in some trust because we've identified the problem, we've let them know it can be solved. And now you want to start building that trust and that relationship that you're the one that can solve the problem. And so, email number seven, we're going to jump in with why you want to help them solve the problem.
+
+[00:06:40.540] - Kim
+This is a connection piece, right? Email number eight, we're going to start giving a little bit more social proof proof who you've helped solve the problem. And email number nine is ways that you can help them solve the problem. So, again, we're going to show them why you want to help them, who you've helped and different ways you can help. But we're still not making an offer here.
+
+[00:07:07.230] - Kim
+Alright. After we've sent those nine emails and there's a whole sequence for when they get sent, we're going to wait three days before sending two connection emails. And this connection piece is we're going to be connecting the initial lessons, right? Those nine emails. Think of this again as a mini email course.
+
+[00:07:25.340] - Kim
+We're going to connect those with an offer we're going to make. So, email number ten is very specific to now that you finish the email course, the next thing you need. Right. We're kind of bridging that offer that's coming with what they've already gone through. And so there's two emails.
+
+[00:07:45.910] - Kim
+And again, you'll see the breakdown in the actual emails. So, we're going to send, now that you finish the email course, and email number eleven is I've got a special offer coming for you next week again. So we're setting them up to let them know that something is coming. This is just a reiteration of that. And then we're going to wait three days before sending the offer.
+
+[00:08:07.730] - Kim
+Okay. And I'm going to go into this little bit in more detail here. So, the offer emails, we're going to start with email number twelve. Remember that special offer I promised, and then we're going to go into details about that. Email number 13 is the special offer reminder and FAQs. And I'll explain that.
+
+[00:08:27.080] - Kim
+And you see these little dollar signs. It's because we're making an offer. So, each of these, the content, the body of the email is going to talk about something you have for sale that is related. It's like the next logical step from those first initial nine emails. Email number 13.
+
+[00:08:45.160] - Kim
+Again, this is the special offer reminder and FAQs. And I'll explain a little bit more. Email number 14 is the final reminder. And you're going to send these two on the same day, so one will be in the morning and one could be five, six, seven 'o' clock at night that this offer is closing. You can use a tool like Deadline Funnel, but you want to let them know that the offer goes away.
+
+[00:09:07.900] - Kim
+And so, if you're going to do that, you can either have a coupon that expires. You can use a tool like deadline funnels, deadline funnels. So, there's a handful of options to deal with that, to do that. But you see what we're doing here. And so with the 14 emails we're sending these over a period of a couple of weeks.
+
+[00:09:31.370] - Kim
+And so you're building this relationship with people. And the point of this is to see if you can acquire a customer and remember what you're offering solves the problem as well. So, we've identified the first problem, and this would be the next logical thing. You know in the example I'm going to share with you. It's all about email marketing. So, it'd be the next thing to help people understand email marketing as an example.
+
+[00:09:54.710] - Kim
+Alright. So, after we've done the special offer, we're going to wait a week before sending the follow up. This is teach, connect, sell. Right. So, this is a follow up piece that we add in there.
+
+[00:10:04.680] - Kim
+And we're going to find out why they didn't buy. So, we're going to send them to a survey. So there are five questions you can ask here. You're going to ask them and keep in mind not everyone's going to answer your survey. So, don't be worried about that.
+
+[00:10:19.080] - Kim
+But you want to simply ask them. I noticed you didn't buy product name. You didn't buy the product. I'm curious. If you don't mind, would you just click and let me know?
+
+[00:10:28.870] - Kim
+Was it that you didn't have the time, it's not in your budget right now, maybe it's not something you need, it's not relevant, you don't know me yet.
+
+[00:10:37.320] - Kim
+Want to establish a little bit more of a relationship or, hey, maybe you just missed the deadline. And so, this is an opportunity to extend the offer if you so choose. So, this is all to kind of gauge. And you notice what you're doing here, too, is you're segmenting. Right. And so, you'll get data from this in terms of if you get a bunch of people that say, you know they don't need it, then you want to question where those leads are coming in and what they do need from you.
+
+[00:11:05.180] - Kim
+So, it could be a message and market mismatch there. Alright. So, that's the basic outline next. What we're going to do is I'm going to actually pull up the emails. I'm going to talk you through how we're structuring the actual content of those emails. So, you can see that they'll build one on top of the other.
+
+[00:11:25.840] - Kim
+Alright. So, let's jump into the emails. Alright. Here we go. We're going to jump into the emails, and I'm going to walk you through the why behind a lot of this and so that you can see how these are going to build one on top of the other.
+
+[00:11:40.790] - Kim
+Alright. So, these first three emails, again, we are defining that there's a problem. So, email number one, remember, there's a problem. We're going to start simply by identifying the problem here and all of these are set up. This is basically the email outline. There's not the body content necessarily.
+
+[00:11:57.580] - Kim
+But I'm going to tell you what the content will be, are set with email sending subject content. Call to action. That's what the CTA is. So email number one, there's a problem. We're going to send it immediately.
+
+[00:12:09.300] - Kim
+The subject is, how many times have you heard this? The content is all about the money is in the list. By now, you've probably heard this. This is sort of the war cry of the Internet marketer, that all you need to do is build an email list.
+
+[00:12:23.620] - Kim
+And that's where your money is. It's actually very true, but it's not as easy as it used to be when this whole thing came about. And there's also a much more human way to approach this in terms of it's all about the right list that you build a relationship with, that you serve and they become hungry to buy from you because you've built the relationship and they trust you. You've already shown them that you understand what their challenges are, what the opportunities are and how you can help them, and you do a lot of that for free, as well as having offers that solve their problems. Okay.
+
+[00:12:59.590] - Kim
+So, I'm going to talk a lot about the money isn't list. I'm going to sort of drive home that pain point of being sold that it's just as easy as having a list when it's not because you can build a list and really not know what to do with it, which tends to be where a lot of people drop off. The call to action is I'm going to send them to a podcast episode that I did sort of recently, and it's called email marketing. It's never too late to start. And so, the point of this, right is that I am sending people to my site.
+
+[00:13:32.760] - Kim
+So, this is just kind of a bigger picture view here and that I'm sending them back to my site. And what I love about audio and podcasting is that people or video, but that people can hear the inflection in your voice. There's a connection there. And so, people are willing to listen or watch you, you know that's sort of an added bonus, which is why I'm sending them to a podcast.
+
+[00:13:56.640] - Kim
+Email number two. Still talking about the problem here. We're going to reiterate the problem and we're going to drive home that you have been in their shoes. You're going to send this. One day, after email number one, the subject line is, how did it go?
+
+[00:14:10.400] - Kim
+You might want to include an emoji in this one the thinking emoji like, well, what do you think. And be careful, I don't say be careful, but test emojis sort of strategically. I wouldn't put too many in a subject line. You can test putting it after or before the subject line. See how that works for you.
+
+[00:14:31.630] - Kim
+I know when I send my newsletter I have started adding an emoji prior to the Hustle and I send the emoji right before I put it in the subject line. And Interestingly enough, it's the exact same emoji every week, and my open rates and click through rates are going up because it kind of grabs people's attention right away. So, test that. Just use them sparingly in the body of an email. The content, how did it go, is referring to how did it go when you launched something without an email list and how deflating it is when you don't get any results. You put all this time and energy into create something that you know can help people, but you don't really have a relationship with your list.
+
+[00:15:15.080] - Kim
+You either don't really have a list and so, you try and do it via social only, which there was a time when that probably worked somewhat well. But the deflation comes from all this time and energy and then no one buys even when you do email, because again, if you haven't built a relationship with those subscribers and haven't developed a pattern for communicating with them regularly, they don't trust you enough to just buy when they haven't heard from you. The call to action I'm going to link to a live stream my business partner and I did for the Content Creators planner, and that was how we went from a failed kick starter to over 40,000 a month in sales, which that continued to grow. But the point in sharing this is that we were able to do that because we had a list because I had a list that we launched this to.
+
+[00:16:06.720] - Kim
+We had a relationship with people. We were communicating the whole time what was happening. And so, when we let people know, excuse me, when we let people know that we weren't going to reach the kick starter goal, there was a little bit of a panic like, oh my gosh, I still want this. You're going to continue with it? We said absolutely, we pivoted presold it took care of everything on our own site.
+
+[00:16:27.200] - Kim
+But the point is, excuse me, the point with linking to this is that that worked because we had an email list that we had a relationship with. Alright, and the last email for the, there's a problem, we're going to talk about what happens if they don't fix the problem. We're going to send this the day after email number two, the subject line is vanity metrics don't pay the bills. Or you can have some fun with this. As an example, you could say I couldn't deposit my Facebook likes in the bank or I couldn't deposit my Twitter followers in the bank being a little bit more really driving that pain point home.
+
+[00:17:09.400] - Kim
+So, the content of this email is going to be that there was a time when organic social work. And you guys, it still does. It's not my specialty, but we want to drive home that your followers, your fans, whatever platform you're using, you don't necessarily have permission. You don't have permission to land in those people's inbox. 
+
+[00:17:32.360] - Kim
+So, you have to hope that people see it in their feeds and they engage with your content. All of that. And again, there's an absolute place for that. But again, they're not an asset. You don't want to think of them the way your email list is an asset, and you get to control how solid of a relationship you have with them.
+
+[00:17:51.100] - Kim
+Alright. So, this email again, we're going to talk about there was a time when organic social worked to a certain degree. When you focus on growing followers and fans instead of relationships, you end up stuck in a loop of creating content for people who have no intention of buying. We call these freebie seekers. And the truth is, there's a balance in the content you create as well.
+
+[00:18:10.280] - Kim
+You don't necessarily want to just constantly create here's how to do this, and here's how to do this. You can teach the why of something. But when you teach people too much for free, it often becomes, why should I pay you for this when you've been giving me everything for free? So, you wanna, that's a fine line to walk as well. All right.
+
+[00:18:30.140] - Kim
+And so the call to action for this email is to listen to why I'm doubling down on email marketing. It's another podcast episode. And what I will tell you is what you're also doing with these emails. You'll notice that the structure is the same for each of these. A call to action. It is very rare that I don't include a link.
+
+[00:18:50.410] - Kim
+I would say maybe three or four times a year do I send emails without a link? And those tend to be more of a personal message of it's been a tough year. Be gentle, enjoy your weekend or you know here's where I've been, or what I've been up to. That's a relationship builder, too.
+
+[00:19:10.020] - Kim
+So don't necessarily think that every single time you send an email, you have to have a call to action. But what this is doing is setting a precedence that there is a call to action. And you're seeing where people are clicking through all of this is also going to help you gather data. The second three emails, this is the problem can be solved. So, email number four, this is the good news, right?
+
+[00:19:33.940] - Kim
+And we're sending this the day after email number three, the subject line is Holy Moly. And again, this shit works. Content is we're going to start with the almost daily emails. I did this when I really made a very deliberate decision to focus on email marketing six years ago or so. And there are a lot of people that do daily emails.
+
+[00:19:57.070] - Kim
+I called up my almost daily emails because sometimes emailed on the weekend, sometimes I didn't. But this is a story based email where I let them know. The first month, it was crickets. Month two, I started getting a lot of responses. By month three, I had tripled affiliate income for a product that I talked about and taught about and was using regularly.
+
+[00:20:19.130] - Kim
+And I still get affiliate payments every single month from this company because of the amount of content I have around that. But the point is I'm sharing the story of how I was committed to sending daily emails and what that looked like. So, then the call to action is to send them to a story based email about my choice to move to Costa Rica. I got a lot of responses. So, I also want you to think about bringing there's a difference between personal and private and email, but the more you are relatable, the more people feel connected to you.
+
+[00:20:51.170] - Kim
+So, by sharing a little bit of personal and so many people have loved that I shared the journey of living in another country with them. And so, I send them to a blog post, which was one of my daily emails. The email was simply, it's official I'm moving to Costa Rica. That was the subject line.
+
+[00:21:09.820] - Kim
+I republished it as a blog post, and I highly recommend you do that. Let go of is this supposed to be SEO or not? Because sometimes it's the personal connection emails that drive a lot of traffic, comments and sharing as well. There's a great balance there. Right?
+
+[00:21:24.730] - Kim
+So that's where I'm going to send them. Email number five. Now, again, we're talking about the problem being solved and how things can change. And so, the subject line is let's play the What If game and I had a post and it's an exercise. What if?
+
+[00:21:44.470] - Kim
+Right. What if it were easy? And so, the point being is you really need to have a reframe. You need to change your mindset about email marketing. There's a lot of blocks there. And I'm just going to say this is that it won't get easier until you do it, just to get comfortable with the discomfort.
+
+[00:22:01.620] - Kim
+Initially, it is so worth it and it pays off. So, let's play the What If game. What if you could send an email and make sales? Once you've mastered the basics, then you can get a little more ninja and start automating. So, the whole point of this email, the body content is going to be to get people to reframe what this looks like?
+
+[00:22:20.720] - Kim
+What if you could send an email and make sales? What if your primary marketing was emailing three or four times a week and you could grow a consistent, passive income of a signature course or an entry level course? Whatever you want to look like. But the point of this is get them to start thinking, what if it were easy? What if email really does work?
+
+[00:22:43.040] - Kim
+And then I would include in this piece another example kind of like ,where I talked about tripling the affiliate income. I would give a very specific example of sending email and having sales come in. Right. So, the call to action here is to have some fun with the what if game. I've done a post on it, and so, I want people to go through and reframe.
+
+[00:23:05.880] - Kim
+Right. So, they're starting to shift here. You see the psychology that's happening. I'll give a little bit of social proof in the content, but is, I'm wanting to get people to buy into for lack of a better term. Email really works and it can be fun.
+
+[00:23:21.450] - Kim
+Email number six. This is still the problem can be solved. And this is very specific to how things changed. For me. The subject line is feel the fear and do it anyways.
+
+[00:23:33.570] - Kim
+And I was so nervous about using the language. Okay. This is the content. Right. So, I'm going to tell the story of being very uncomfortable with cart's closing.
+
+[00:23:45.370] - Kim
+Today is the last day. That sort of it feels sales pressurey. It feels a little bit smarty. But the truth is you're stating a fact, today is the last day. The cart is closing. Scarcity works.
+
+[00:23:59.530] - Kim
+It's not good, bad or indifferent. It just is when it's legitimate. I mean, don't say you have a limited amount of a PDF or something, but when a sale is ending, when the cart is closing, you want to do that. So, the content of this is really to let them know that, I was also nervous. So, this is becoming relatable.
+
+[00:24:17.530] - Kim
+I'm letting them know that I was nervous about shifting. I was nervous about people unsubscribing, which I don't ever like it. But I got over it. And so, talking about how you show up genuinely authentically as yourself and how it works. And so, the call to action is that it's easier than you think.
+
+[00:24:38.420] - Kim
+I'm sending them to a very specific issue of F the Hustle. And this was marketing lessons from Adele. And the point of that email, that newsletter was here's this world famous musician who took a sabbatical for like six years, went through a divorce, all of these things and comes out so honestly and so authentic about the challenges, the time to herself. And this is why people love her.
+
+[00:25:04.380] - Kim
+She's so genuine. And I'm not saying everybody loves Adele, but you can't deny she's talented and she is very very well liked. She's very honest. And I have no doubt that a lot of her success is also attributed to her being genuinely and authentically herself. And I gave a couple of links to recent concerts and stuff where she showed a vulnerable side of herself, that it endeared her to people.
+
+[00:25:30.190] - Kim
+Right. So that's what that was. The whole point of this email, again is how things changed for me when I started showing up genuinely what that meant for me with email. You guys, I get responses to almost every single email I send, and sometimes it's like, oh, I love this. Thanks for sharing. Happy New Year.
+
+[00:25:45.980] - Kim
+It doesn't matter. But the fact that people feel comfortable replying to an email says you have a relationship with them. All right. The last three emails, this is why you are the one to solve the problem. And this is why you want to help them solve the problem.
+
+[00:26:03.210] - Kim
+Alright. And obviously the send, I'm not repeating each of these here, but the subject line is I deleted over 3000 people. And the content of this is telling them that I had built a list of freebie seekers when I was the WordPress chick. And I would say I was 100% responsible for teaching people not to buy from me. I had this fear of putting in links and selling whether it was affiliate stuff or like, promoting myself too much. And you guys just truly is my biggest regret.
+
+[00:26:34.850] - Kim
+And to the point where I would get people emailing me, how do I do this? And how do I that? And then I would get offended. And I would think, well, you can hire me, but I didn't let them know they could hire me. Or I didn't make it easy to say, oh, you know what?
+
+[00:26:47.760] - Kim
+I've already answered that in this product here, you can purchase this here. And so, I wanted people to understand that I want to help them avoid spending all this time and energy building a list of people that think you're here to serve them for free all the time. And that's a big generalization. But anyone who has done that understands that pain point. And as soon as I took 100% responsibility for the one who created that, that's when it was time to change it.
+
+[00:27:18.350] - Kim
+Alright. And then I have a podcast episode. I had a previous lead magnet course. And it was called Content Traffic Kickstarter. And what I did with that podcast episode is I shared how I added 500 people in less than ten days, completely free.
+
+[00:27:37.440] - Kim
+And so, there was a piece of that that explains the long term goal. So, what this is doing is this is establishing trust with people they're getting in and listening to why I created a totally free course. I had many people tell me you should have charged for this. I got great testimonials, all of that. But the point is this was very specific to the next thing for sale.
+
+[00:28:03.810] - Kim
+So, this free course, Content Traffic Kickstarter. Anybody who signed up for that you know ended up becoming an ideal client for the content creators planner. So there is that what comes next, sort of the value ladder. If you've ever heard Russell Brunson talk about that. But the point is, again, I'm going to tell them that I've done the same thing. I want to help them avoid the pain I taught people not to buy for me biggest regret, and I want to help them make an offer initially, which is what Teach.Connect.Sell is all about.
+
+[00:28:36.080] - Kim
+And then I'm sending them to a podcast episode on why I created a totally free course, because that might sound contrary to building a list of freebie seekers. But it's all explained in the podcast episode. Email number eight is you're the one to solve the problem still, who you've helped solve the problem. So, the subject line is only eight emails to $7,000. This is when I went through.
+
+[00:29:01.590] - Kim
+I have a course on launching, and there was a very specific eight email sequence to selling a course. And so, I have a course called List Explosion, and I did it as a workshop initially, and then I broke it down into a much deeper, I don't know, six modules. There's like 30 lessons in there, whatever. But I literally use the language that was outside of my comfort zone. The last day, it was cart's closing, 5'o' clock, keep, 3 hours left, and I followed the structure.
+
+[00:29:34.870] - Kim
+I just told myself, okay, this might be uncomfortable, but we're going to test this. So, I followed this exact eight email sequence and with only eight emails made $7,000 for this course. Not huge, but it also wasn't a huge list. But who wouldn't want to be able to say I only sent eight emails and I made $7,000 and it was only a $297 course. So, you start thinking, what if I had done more and you do the math, right?
+
+[00:29:59.220] - Kim
+What if my list was twice the size? It would have been a $14,000. So, you see the value and how this all links together. So, the call to action is how I created a list of people who were interested and ready for this explosion. And maybe in this case I would link to my favorite lead capture tool of choice, which is Convert box.
+
+[00:30:18.810] - Kim
+Alright. Email number nine, this is still you're the one to solve the problem. We want to talk about ways you can help them solve the problem. And remember, we're still not making an offer. So, the subject line is great. But what do I do first?
+
+[00:30:32.480] - Kim
+And you can maybe play with this? Great. I'm sold on email marketing. I don't know where to start, something like that. So, this would be a blog post, or you could do it as a blog post.
+
+[00:30:43.330] - Kim
+I actually just have a workbook. So, this is where I'm going to share the three different stages of email marketing, where they're at in their journey and then link to one resource for each stage, meaning the one resource will apply to each stage. And the goal with this email is to give them one tangible action they can apply. That will make a difference today. So, in this case, this email marketing quick start workbook is about identifying where you are in your email marketing journey.
+
+[00:31:10.090] - Kim
+So, maybe you say I have an opt in on my site, or maybe you start with I have nothing. I don't know where to start. Maybe number two is I have an email opt in. I have a list. I don't really know what to do with it.
+
+[00:31:21.610] - Kim
+Maybe number three is I have an opt in. I have a lead magnet. I email my list. I'm not sure how to monetize it very well. Right.
+
+[00:31:30.000] - Kim
+And so, the workbook will help them identify where they're at and the one thing they can do to move forward in that space. Alright. So, we have sent that's the mini email course. Those first nine emails is what we're calling our mini email course. In this case, it's easy email marketing.
+
+[00:31:48.030] - Kim
+Now, what we're going to do is we're going to wait three days after that last email and we're going to send two emails. These are our connect emails. Remember, teach, connect, sell. So, email number ten. The purpose of these two emails is to connect the free mini email course they went through with the upcoming paid offer, which is going to be the next thing they need.
+
+[00:32:07.080] - Kim
+So, we're going to send it three days after email number nine. The subject line is now that you've finished the email course, and the content of this, again, is still telling, it's story based. Right. But we're going to say in this piece, it's a story based email on the first step in dipping your toes into email marketing. And again, I'm going to reiterate the almost daily email story, and I'll go a little bit more tangible.
+
+[00:32:34.130] - Kim
+And with this piece, you could pull in something different. Maybe you don't want to reiterate a story you've already shared. But now that you've finished the email course, you want to start prepping them, that there's a next step in this sequence. Right. And in this instance, you can say, oh, I've got something special coming for you next week.
+
+[00:32:51.860] - Kim
+You can iterate that, reiterate it in both of these. Right. But I would send a call to action to a daily email. That's a story based email that I published also as a blog post. But I want people to see that it doesn't always have to be this really in depth.
+
+[00:33:07.530] - Kim
+Here's a strategy that you have to have data, and you don't. You need to simply start because otherwise, you're going to be overwhelmed with I don't know how to structure an email or a heading. And I don't understand copy whatever you need to simply start writing is my point with this. Okay. So, the call to action would be to link to another example of a daily email.
+
+[00:33:28.890] - Kim
+Email number eleven, we're going to send this one day after email number ten. And again, this is letting them know you've got a special offer coming next week. So, the subject line will be a drumroll, please. And here we're going to drive home now that they understand the value of email, maybe they're having doubts about the ability to write emails that will connect and sell.
+
+[00:33:48.510] - Kim
+And then I want to drive home this piece here that is you know, it's hard to beat being able to send an email to an engaged list of people who are hungry for what you offer. And I often say nothing beats notification of payment because it's true when you're doing something else and you open your inbox and you're like, oh, I sold something. So, we're just setting them up and it's next week. I've got a special offer for you until then, check out one of my favorite email marketing tools.
+
+[00:34:14.010] - Kim
+I've already done Convert box above. So, maybe it's going to be ConvertKit. I use Spark Loop for referrals. There's a handful of options here and both of these. Let me tell you.
+
+[00:34:22.210] - Kim
+So when I mentioned Convert box earlier or whatever I mentioned here, these will be affiliate links as well. Alright. So, the offer emails. These are 12, 13 and 14 Oops. This says 15, but you'll get the point here.
+
+[00:34:38.730] - Kim
+So, this is remember the special offer, I promise. Right. So, subject is PayPal notifications, anyone. And again, just like I mentioned previously, you want to reiterate that nothing beats receiving a notification of payment when you're off doing something else. What if you could learn how to attract new subscribers, take them on a path to becoming customers all through email.
+
+[00:34:58.620] - Kim
+Right. And so, what you're watching here will be a course on my site, so it will be saved on Teach.Connect.Sell here. Okay. And that'll be a discount code. Either I'll put in a coupon code or I think probably a coupon code where they can redeem it only once is probably the easiest thing to do here.
+
+[00:35:19.570] - Kim
+Email number 13. You see, this is two days after twelve. Right. And you're going to send in the morning. This is subject line, your questions answered, the content.
+
+[00:35:29.230] - Kim
+This is FAQ. This is really, really simple. We're going to be direct with this. Remind them the card is closing, but you had some questions come in about teach, connect, sell and so, write those down. Four to six questions.
+
+[00:35:41.370] - Kim
+What if I don't feel like I know how to write? Who should I use for my email service provider? So, you write the four to six questions and you write the answers. Your subject line again is your questions answered and you're going to, so, the point of this is to remove objections.
+
+[00:35:56.380] - Kim
+Right. So, you want to answer any objections in this email and remind them the cards closing and then your call to action. Click here to save and start selling with email. Email number 15, again, this is your offer email. This is still kind of answering questions, but this is direct, straightforward does not have to be long.
+
+[00:36:16.910] - Kim
+Your subject line, the cart is closing at midnight tonight, Pacific Time or whatever. Right. So, all you're going to do is remind them that your only regret. In this case, my only regret was not starting email marketing sooner, that it's the last chance to save 50% on Teach.Connect.Sell.
+
+[00:36:34.020] - Kim
+And so, again, you can use tools to do this. I would highly recommend once this starts working. You can always say, you know you can test it without it actually expiring if you want. But as this continues to grow, I would put there are too many tools out there that make this easy, like deadline funnels. So, this is going to get sent right in the evening, same day as email number 13.
+
+[00:36:57.420] - Kim
+Again, this is 14. She'll send this in the morning, send this around 05:00 p.m. And let them know. Alright. This is our follow up.
+
+[00:37:06.700] - Kim
+We're going to send a survey email and this is one week after email 14 to about 14 and 15 here. Sorry about the numbers. What you want to make sure to do is that you exclude customers. So, you want to make sure that you have tagged anybody who purchased your offer, that they do not get this. And so the subject line is, Can you do me a favor?
+
+[00:37:26.040] - Kim
+And this is again going to be clear and concise. It does not have to be wordy. Thank them for signing up for your free email course and then ask them to take your survey. And one suggestion is, by the way, if you take the survey, I've got another freebie for you. I've got another and I wouldn't call it a freebie.
+
+[00:37:41.730] - Kim
+But I've got another email framework for you that you'll download on the thank you page after the survey is complete, click here to take the survey. Right. And that's it, guys, that's the whole Teach.Connect.Sell in a nutshell, and I just want to drive home and reiterate that. Again, it is, my biggest regret is not focusing on email marketing sooner. It really, really, works.
+
+[00:38:07.640] - Kim
+And it's such a solid feeling in your business when you have a relationship with a list of people who want to be on the journey with you, they feel like they know you, they have a relationship with you. They trust you enough to take out their wallets and say yes, thank you. I trust you. And it is the best thing you will do for your business. And then once you get this down, once you have your lead magnet in, then you start looking at, alright.
+
+[00:38:34.220] - Kim
+Now, how do I increase list growth? How do I increase opens and of course, data changes with privacy rules and whatnot in terms of getting some of that open rate and everything. But you guys, trust me, this will be one of the best things you can do for your business. If you have any questions, just email at Kimdoyal.com. I hope this was helpful and I look forward to connecting with you.
+
+

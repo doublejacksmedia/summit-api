@@ -1,0 +1,228 @@
+Title: Design that Sells: Boost Your Sales Page Conversions
+Speaker: Christi Cooper
+Website: https://cooperandheart.com/
+Level: Beginner
+Category: Monetization
+Length: 45:24
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/design-that-sells-boost-your-sales-page-conversions-christi-cooper/
+
+Transcript:
+Liz Stapleton [00:00:00]:
+Alright, guys. This session with Christi Cooper is going to be essential if you are selling products on your site. So, Christi, welcome, and thank you for take taking the time.
+
+Christi Cooper [00:00:11]:
+Thank you for having me.
+
+Liz Stapleton [00:00:12]:
+Yeah. Because we're gonna be talking about design that sells and how to create a sales page that's gonna help convert. You know, because, yes, copy's super important, but design makes a difference too. So can you tell us a little bit about your background and and what we're gonna learn in your session?
+
+Christi Cooper [00:00:29]:
+Sure. Yeah. So I currently, I run Cooper and Heart Creative, and I've been doing that for about 2 or 3 years. But it overall, I have 20 years of design experience, in the industry. And when I got into this, my own business and online space, I got super fascinated with marketing and sales and, like, all the psychology behind it and everything. So I kind of, like, dove in and, you know, I've just been doing sales pages for people and it's been a lot of fun. So I love to talk about it. And then I yeah.
+
+Christi Cooper [00:01:05]:
+That's what I do. I do sales pages and I do websites and brandings.
+
+Liz Stapleton [00:01:08]:
+Right. So what are you gonna be covering in your presentation today?
+
+Christi Cooper [00:01:12]:
+Yeah. So like you said, I'm gonna talk about design that sells. So I'm gonna be talking about, specifically, on sales pages, what should be on them to make them more effective. I'm going to be talking about why the design matters, like, what what impact does design have? Because we all know copy is important. We know your offer is important, but what what does design bring
+
+Liz Stapleton [00:01:36]:
+colors and things
+
+Christi Cooper [00:01:37]:
+Yeah. What does design bring to the table and why why does that matter? And then I'm gonna go into, like, common mistakes I see on sales pages and why people should avoid those, and I'm gonna also give, like, just design tips, like, things that people can take and apply to their own sales pages.
+
+Liz Stapleton [00:01:55]:
+Okay. Yes. I think I definitely need that. So I'm excited to go ahead and dig in. Yeah.
+
+Christi Cooper [00:02:01]:
+Alright. Welcome to my presentation. Design that sells boost your sales page conversions. I'm Christi Cooper, as you know. I'm a designer and creative strategist. I have 20 years of experience in the design industry, and I currently help coaches, online educators, and service providers up level their brands by creating beautiful conversion focused sales pages and websites that they love. Okay. So this presentation is for you if, 1, you have an offer that doesn't have a sales page yet.
+
+Christi Cooper [00:02:39]:
+So for example, you might have a shop page on your website that maybe you have, a couple of mini trainings or something like that. And people just go there, click it, and go to the checkout and and purchase, your training, and they don't you don't really have a dedicated sales page for that, offer. Or 2, you have an existing sales page, but maybe it's not working as well as you would like. Perhaps you were really excited to launch, a new digital product. You threw together a sales page the best you could at the last minute, but now that you have proven that it's successful, you really want to make sure that it's going to, be optimized in order to create more conversions for you. Alright. Are we on the same page? So sometimes there's confusion about what a sales page is. So I always like to clarify this at the beginning of, my talks.
+
+Christi Cooper [00:03:38]:
+And a sales page is a web page, and it's focused on one goal, to sell a single offer. So this is not a shop page. Like I was saying, like, it's not a shop page on your website that has multiple things that you could buy. It doesn't put multiple items in a shopping cart. It's not a page with links to other things. It doesn't have, social media links. It doesn't have blog links to your Blogger. You know? It doesn't have other stuff on it.
+
+Christi Cooper [00:04:09]:
+It's super focused on selling one thing. So, typically, you see sales pages used in launches or evergreen funnels. So a launch is, what they call an open and closed cart where the offer is only available for a certain amount of time, for, you know, maybe launch a course and it's only available for 5 days or 2 weeks or whatever it is, that would be a launch. There's a lot of, marketing that goes in the front end of a launch. And then opposite of that is an evergreen funnel, what they call an evergreen funnel, which basically just means that that offer is available, all the time. So you have some way to feed traffic to your sales page in this aspect. Maybe it is just a link on your website. Maybe you have a nurture sequence that people go through, email, like, they opt in for something, and then maybe through that sequence, you offer them this offer and send them to the sales page that way.
+
+Christi Cooper [00:05:17]:
+There's there's different ways that you can do that. The sales page is separate from your website. And so what I mean by that is that, technically, it can be in the same place as your website. It can be on the same domain, built on the same software, you know, WordPress, Squarespace, whatever it is. But it doesn't look like a part of your website. So it doesn't have that website navigation. It doesn't have the header with your logo and the links. It doesn't have your footer with the logo and the links.
+
+Christi Cooper [00:05:48]:
+It doesn't have the sidebar, you know, with all of that information there. It doesn't have any of that. It's very focused. So you see sales pages selling courses, digital products, memberships, events. You you can use a sales page to sell all kinds of things. And then sometimes people refer to sales page, and they're talking about a page that's actually part of your website. And you usually see this more with, service providers, you know, you might have a sales page that's on your website that looks like part of your website, and it's selling a specific service offering. And so it follows a lot of the same rules, but not necessarily all of them.
+
+Christi Cooper [00:06:28]:
+But they are similar and people do call them sales pages as well. K. People often ask me, how long should a sales page be? And so the answer is it depends. The length of the page is determined by all of the different aspects of, what's going into your, your sales page and your offer. So you like, what what are you selling? Who are you selling it to? How much is it? What kind of marketing strategy are you using to drive traffic to it? Is it cold traffic, warm traffic, that kind of thing? And then is it like a main offer? Is it like a signature course that you are offering, or is it connected to a main offer? Is it an upsell or a downsell or something along those lines? In general, and like I said, it really can vary, long form sales pages, the ones that you you scroll through, they have a lot of content, Those are generally used for main offers, signature offerings, courses, memberships, all of those things. Memberships can be kind of medium length. Oftentimes, it really depends. These are gonna be more when they're when they're at a higher price point people generally need more information in order to make a buying decision.
+
+Christi Cooper [00:07:49]:
+Shorter sales pages tend to be low price points. You know, maybe it's a $7 trip wire, what they call a trip wire after you someone opts in for your freebie. So you offer a freebie, they get on your email list, and on the next page you offer, hey. Do you want this thing for $7? That's a tripwire, and that you don't need a very long page for that. That's gonna be, short and sweet. People are gonna make a decision pretty instantaneously on that, and so you don't need a long sales page. And then I put very high price points here. That's really relevant to more, service oriented type offers, you know, people don't tend to buy tens of 1,000 of dollars.
+
+Christi Cooper [00:08:31]:
+They don't purchase a $10,000 offer directly from a sales page. Usually, they want to get on the phone with someone. So, those can be shorter sales pages because they're really, they have a slightly different goal. All right, the key elements of a sales page, let's get into the meat of a sales page. So what makes up a sales page? Should cover that. Right? Your offer, obviously. And I just wanna clarify that your offer is not just the thing you're selling, but how you are presenting it and packaging and and giving it to people. So because your offer might be for example, maybe you are, a productivity expert and you have a specific productivity framework that you take people through or you, promote that others do as well and you wanna sell this framework.
+
+Christi Cooper [00:09:23]:
+Right? So you could you could package that in different ways, like, the same core content, but you could, sell it as a video course. Right? Or you could sell it as an ebook, or you could sell it as some sort of, email mini course or something like that. So how you are packaging that offer and and conveying that information to people really does, make up part of your offer. Then, of course, you have your copy, which is the content of the page, and we can't skip over this part. The copy, you know, speaks to your people and tells a story that they connect with. And then 3rd, we have design, which is my specialty, and those are the visuals and they support the copy. They attract your ideal people. They do some other things as well, which I'll talk about a little bit.
+
+Christi Cooper [00:10:18]:
+But first, you wanna start with your content. So good copy really does help you sell. I always recommend you hire a conversion oriented copywriter if you can. If you're at the right, stage in order to make that investment, it is highly worth it. So your copy is going to help you know what the story is on your page is, what the overall vibe and emotional tone of your sales page is, and this will help you with the design aspect of it. And it also helps you establish a framework for your content, before you get on your platform and start designing your sales page. Okay. So here's a little diagram I created. This is actually part of, a freebie that I offer, hold the key elements of a successful sales page.
+
+Christi Cooper [00:11:12]:
+This is not the freebie I'm offering, connected to the summit. So if you do want this, just send me a message somewhere, Instagram, email, where whatever, and I I can get you the link for this if you want it. But I did wanna go over, just briefly what the key elements are so you know what should be on your sales page. Because this is part of the design process. Like, people don't realize that design is not just the pretty stuff, but it's also it's also how, how that content is structured on the page. So first, you want a compelling headline. You wanna hook people in, grab their attention, make them wanna read the sales page. Then you have, a story or a journey or, copy that really connects with what your readers are struggling with and how they can travel from that struggle to the solution.
+
+Christi Cooper [00:12:13]:
+So the solution is the thing that's going to help them transform from that struggle point to that success point, Right? That's what you're offering. And then you're gonna announce your offer. So whatever, it is say if you're selling a course, you know, what the name of your course and how it's going to be, how you have the solution for them right there. Like, you've told them what the solution is and then you're like, and I happen to have it for you. Then you can go into the benefits. So these are the results that people get. This is not the, I get 5 videos and 3 workbooks type of information. This is I will become using the productivity example, I will become more productive and have more time to spend with my kids and walk my dog and watch TV.
+
+Christi Cooper [00:13:07]:
+You know? So it's it's a little bit different. So this is the thing that people want after they use, whatever it is you're offering. You can't forget your call to action, so your CTA. This is your buy button, basically, and, like, the text around it. So very important, otherwise, people can't buy. Then you have the details of your offer. So these are the features of your offer. This is on a course example you get 5 videos, 5 workbooks, and a Facebook community.
+
+Christi Cooper [00:13:40]:
+So those are like the details of what they actually get. Then you have your pricing. So sometimes you might just have one price point and it's really simple, other times you might have some different value tiers, it kind of depends on what you're offering. Scarcity, not every sales page has this, but those that do usually associated with launches. Scarcity in the form of, like, you only have 3 more days to buy this. You know, usually, you see this in timers. Scarcity is good only if it's true. So don't use it if it's not true because that's unethical.
+
+Christi Cooper [00:14:20]:
+So definitely, as long as you have true scarcity, then it can be an effective selling aspect on your sales page. Social proof is super powerful, and I always, like to talk about it. So these are customer testimonials, success stories, that kind of thing. A guarantee is also really valuable in providing reassurance for buyers, you know, it helps to increase trust. A bio. So this is especially with, cold audience traffic or colder audience traffic, you want to reinforce why you are the person they should buy this thing from. Not every page needs this, but sometimes it's helpful to have, like, who this is for, who it's not for, especially people are unclear on, if this is for them or not. So sometimes it's nice to have that that information on there really straight up.
+
+Christi Cooper [00:15:18]:
+And then FAQs. FAQs are super valuable. Answer those commonly asked questions that people ask. Answer their objections to buying, like, will I have time to do this? How much time will it take me to go through this? Those kind of things. Alright. So now my favorite part, sales page design. Why does sales page design matter? So I wholeheartedly believe that good design converts. It helps you attract your audience and stand out from competition.
+
+Christi Cooper [00:15:53]:
+It helps you convey credibility and trustworthiness. It guides your reader on the page. It keeps them engaged with your copy. And it helps you set the emotional tone of the page which helps you sell. Okay. I'm gonna go into each of these a little more. Design helps you attract your audience. So your branding, the design, the visual tone, it all appeals to the people that you want to attract and repels the people you don't wanna attract.
+
+Christi Cooper [00:16:26]:
+Because we are visual creatures, 90% of our information is taken in visually. The design aspect of it really does matter, and it catches your audience eye or it turns them away. So some really obvious examples of this is masculine versus feminine styles. So if you are selling something that is aimed at men, you would not put flowers and scripty fonts and, you know, pinks and purples. You know, like, you wouldn't put that kind of more feminine associated visuals on a product that's more aimed for men to use and vice versa. Like, you wouldn't do a particularly feminine product in a very masculine style. It would just not work. And, you know, you see this in other ways, like corporate versus fun style.
+
+Christi Cooper [00:17:20]:
+So you might have a pretty serious topic or a serious audience and so it it will benefit more from a much more straightforward clean-cut corporate style. Or you might have a very lighthearted audience, maybe your products aimed at moms with kids and crafts and things like that. That that would probably have a more fun style, and it just kind of depends. But you can kind of see how the design will attract your people or repel your people. Okay. So design conveys trustworthiness. It helps you establish trust and credibility. So people always wonder why that is and, where's my fact? There's my fact.
+
+Christi Cooper [00:18:07]:
+Sorry. I was getting just sidetracked. So 75% of people I need to rearrange my bullets here on my presentation. 75% of people judge the credibility of a web page based on how it looks and how the content is presented and not on the content itself. So the way a web page looks is how people decide whether they trust the source or not. So that's super important for credibility. Like, you don't want it to look like, you don't want it to look like a scam offer. You don't wanna look like you don't know what you're doing.
+
+Christi Cooper [00:18:42]:
+You want it to have that baseline credibility across the board. And if you have a strong visual brand and you're using that consistently, it helps maintain trust and memorability as well. And memorability is important, as you know, with attracting your audience. So let's see. Going back up into my middle bullet here, the ugly ugly converts argument, I think, is BS. So there was I don't know that it says common right now, but there was, a little while back, there was this common thread that people would talk about how an ugly sales page converts better than a well designed sales page. And, basically, they were basing this on they didn't have any competition, and they had a very specific audience. They had a very specific following and a very specific offer.
+
+Christi Cooper [00:19:34]:
+So that does not apply across the board to everybody. In general, design helps. You convert more than, than ugly does because, I mean, if you think about it, if you look at other industries, if you look at corporations, you know that design is often the separating factor between 2 competitors. You know, Apple versus Windows is a classic example of that. Design is a focus for Apple, and they make more sales and more profits because of that. And the first impressions make a difference. Like I was saying, 75% of people judge the credibility of a web page based on how it looks, which is crazy. Okay.
+
+Christi Cooper [00:20:21]:
+So what else does a design do on the on the sales page? It helps to keep readers engaged with the page. You caught their attention. Now you need to keep it. You need to guide them through the copy on the page. You don't want them to be hit by a block of copy. You don't want your sales page to look like a blog post article because as much as we like to read blog post articles, I mean, I personally, I still skim them, and I don't necessarily read them all the way through. So think about how you read things and how people have short attention spans. You really can use design to break up the copy and guide them through it.
+
+Christi Cooper [00:21:04]:
+65% of people are visual learners, meaning they take and think much better when there are visual supporting the copy and not just straight copy. It helps you to highlight key pieces of the copy. So, if you have callouts of certain phrases or sentences, if you highlight keywords, things like that, they can really help, to keep readers interested and really catch their eyes as they scroll down the page. It keeps them from being overwhelmed. Like like I was saying, like, from those big blocks of copy, you don't you don't want them to to just be, like, okay. I don't have time to read this and click away. You you want to keep them engaged. Okay.
+
+Christi Cooper [00:21:50]:
+And lastly, design sets the emotional tone of the page. So we like to think that we use logic when we make buying decisions. But, actually, we buy based on our emotions and how we feel about something, and that all comes from our intuition, our subconscious. And there was a neuroscience study that I was reading that said 95% of our decisions, including purchase decisions, take place in our subconscious. So it's what our, gut feeling is, basically, and then we justify those decisions with logic after we've made that decision. So the feeling of a page is really influenced by the design and the visuals. They really set the tone and the mood of the page much more strongly than words do, like the words kind of come second there. So that's why you need design to support the words on the page.
+
+Christi Cooper [00:22:56]:
+When you have copy that also speaks to emotions and you have design that supports that emotion tone that you're trying to convey, they can be very, they can be a very powerful combination. Okay. So I put a few examples in here because I know some of you are much more visual. So I wanted to kinda point out how different sales pages can have different feelings, and styles. So, like, the one on the left is bright and colorful and cheery and kind of light hearted. You know, it's not it's not very serious even though, you know, she's talking about a serious product in a way, but just her style and her vibe is very fun and lighthearted. Now the one in the middle is not fun and lighthearted, but it's not cold either, but it's definitely got a much more polished look. It's very much, it's a little bit more on the serious side, but not so much that you're turned off as, as a as her audience, would respond to something that's very clean, modern, and polished rather than something that's kind of, like, a little bit too casual.
+
+Christi Cooper [00:24:15]:
+Right? And then on the right, you have something that's very straightforward even though it has colors. The market here is educators and teachers, and so they they're looking for some very structured straightforward information, and they they don't really need that lightheartedness. They don't really need that kind of, polish like in the middle example. So you can see they kinda have some different feelings going on that you just gain from the design visuals. Okay. Now we're getting into some useful stuff. So if you have a sales page, you might want to take some notes. These are some common sales page mistakes that I see a lot.
+
+Christi Cooper [00:25:02]:
+So one of the top ones that I see is a sales page is missing some key information that could really help buyers make a decision. So if you go back to those, the key elements of a successful sales page, they're missing something in there that's really, really key in helping people make a decision. So one of the ones I see is not including enough about the benefits of the offer. So the results and transformation that people will see after they buy it. So don't just tell me I need to buy a productivity course to be more productive because really that's not really what I want. Right? What I want is to buy a productivity course so that I have more time to do things that I like to do, like read a book or play with my kids. So you really want to make sure that you are communicating the results and the transformation that your offer provides. The other thing I see, which is funny, is people don't include enough information about the features of their offer.
+
+Christi Cooper [00:26:12]:
+So I've seen some where they, like, barely touch upon, like, what you get what you actually get when you buy. They're like, oh, yeah. You get, like, a video course and some work books, and, you know, it's like one little bullet point, and it it just doesn't feel like you're getting very much. And especially in this kind of online digital world when you're selling something that is intangible, you want to make it feel like it's much more tangible. So you want to really go into, like, you get module 1, which has a video and a workbook and tells you all about this. And you get module 2 and it has a video and a workbook and it tells you all about this. You really wanna outline all of that stuff in in a way so people can see how much they are actually getting. The other thing that I see missing a lot is testimonials or reviews or success stories or any other social proof that helps you establish credibility and that your offer is something that actually works.
+
+Christi Cooper [00:27:16]:
+People trust other people. So if they see that someone like them had success with your offer, they are much more likely to think, oh, hey. I could have success with it too. I could be just like that. So it's super valuable to have, a lot of really positive testimonials or reviews on your sales page to help people see that your offer really does work for others. And then the other thing I see missing is not addressing common objections. So if you don't address, maybe you have a course and maybe it takes a significant amount of time to complete that course in order for them to see that transformation. If you don't address that objection of, like, well, what if I don't? I don't have enough time.
+
+Christi Cooper [00:28:06]:
+Why why would I buy this? If you don't address that, somewhere, it's usually helpful to address in the sales page. You can address that in other places like email and stuff, but putting it on the sales page just helps to reinforce that, you know, hey. No. Yeah. I totally made it easy for you to make time for this. Like, I've broken it up. I've got a road map for you. You can plan to do it in 1 hour a week or whatever it is.
+
+Christi Cooper [00:28:32]:
+Right? If you address that objection, it's going to be really helpful, and people are like, like, oh, yeah. I guess maybe I could make time for it as an example. Okay. Some other mistakes I see is copy that doesn't connect. So this is headlines that don't hook your reader in. I've seen some that are too, like, generic or vague or, you know, they just don't they don't speak to what your people are struggling with or who your people are. Right? So definitely work on connecting with with what your people are struggling with. So, other things I see is too much industry jargon.
+
+Christi Cooper [00:29:19]:
+You know, industry jargon for me would be like branding and trip wires and all of these things are it's very it's very jargony and not necessarily the words that my people use. So you definitely wanna be conscious of that. Failing to use words that readers use. So maybe you're you're trying to be clever and you come up with clever sayings to communicate things, and that's fine if that's who you are and who your brand is. But if it's not something that your readers say or it's not something that your readers connect with, you're it's gonna fall flat. Not having a story to relate to. So if at all possible, you really wanna communicate either your backstory if it relates to your offer, like, so you can show the transformation or maybe it's a story of someone that you have helped with your offer that kind of showcases that illustration. People really connect with stories.
+
+Christi Cooper [00:30:19]:
+And so if you have a sales page and it doesn't have a story, then it doesn't connect as well. And then I see both sides of this, either a sales page that really is too wordy and too long or it doesn't say enough. So and this can vary a lot with the audience and the offer, but I've seen both of these cases, like, either it's just too much or they just don't have enough to really communicate the information people need. And then, obviously, the other common mistakes that I see is design that repels. So this is design that looks amateur, pieced together, unprofessional. You don't want it you know, you can DIY things and it still look, clean and professional and not, not what I would say is janky. That's kind of a term that I use. You you just want it to you still want it to have a professional feeling even if you have done it yourself.
+
+Christi Cooper [00:31:25]:
+So anything like like that looks 2 pieced together, just unpolished, un and, you know, made it looks a little bit of a mess. I'm sorry. It it just turns people off and it really they just don't trust that that page. Right? So often this can be too many font styles, too many different colors, awkward spacing. So if you have awkward spacing that doesn't keep like a headline with the the bullet points underneath. Like, maybe if there's spacing weird, maybe it's too close, maybe it's too far apart, it can really hinder, reading comprehension. Blocks of copy, like I was saying previously, that aren't broken up or highlighted in in keywords in some way can be, a deterrent. Not making your buy button stand out.
+
+Christi Cooper [00:32:16]:
+I've seen some sales pages that didn't even have buttons that look like buttons. They had, like, text links. So you really wanna make sure that your button stands out and it's clear. And then poor experience on mobile view. So this is also a turn off that repels people, so don't don't forget mobile view. So and this I'm gonna jump on into actionable tips to improve your sales page design. A lot of this is just reiterating, some of the mistakes I talked about, but in a way that, like, these are the things you should do. Right? So I'm kind of flipping that around.
+
+Christi Cooper [00:32:53]:
+So make sure you keep it clean and simple. So choose 1 to 2 fonts, 3 maybe if you have, like, a script accent font or something like that. But just don't use too many. You know, you can use just 1 and just use varying sizes and thicknesses. Choose 3 to 5 colors if you have more color hues, meaning like red, blue, yellow, green, purple, orange, you know, if the more of those, like, strong color hues you have, the harder it is to make it flow. So as a as a designer and I design with a lot of color, I know how challenging it is to make a bunch of different colors work together on a page. So if if you're not a designer, you're not design, inclined, definitely simplify your color palette. Don't don't do too many bright colors.
+
+Christi Cooper [00:33:49]:
+Don't do too just don't do too many colors overall. Don't go crazy with a lot of background images, textures, and patterns. They can just be distracting because remember the design, the job of the design is to support the copy. So when you have, like, background stuff that is a little bit, crazy, like, it distracts from the copy. So remember, you don't wanna distract from the copy. Design a few different styled sections and then duplicate those down the page. It really helps keep the page cohesive and cuts down on your design time. Use white space, left and right.
+
+Christi Cooper [00:34:31]:
+So, like, for example, this presentation I have white space on the left, I have white space on the right. And you wanna use white space between your sections too. So then you have clear, like, here's a block of copy you should read, here's another block of copy you should read. So it's, it feels airy and it's easier for people to take in. Next, you wanna pay attention to your copy. You wanna break up that copy into bite sized scannable pieces. So no big paragraphs here you want, you know, a sentence, a sentence, a a sentence, you know, bullet points, things like that. Something that will help you break up copy is to read it out loud to find natural break points in it.
+
+Christi Cooper [00:35:14]:
+With, your font styling, use 2 to 3 headline, subhead styles and then a body copy style. So don't go don't have too many different like headline sizes and things like that. You if you keep it consistent it'll give you a cleaner look. Use bullet points, use call outs, use, blurbs, you know, like the little 3 columns across or 4 columns across. Definitely use different ways to break up your copy. And then accentuate keywords and phrases. So, like, if you have, like, a sentence and it has, like, a really, juicy juicy word in there that that would stand out to people, you know, like, make more money. You wanna bold that.
+
+Christi Cooper [00:35:56]:
+Right? Or italicize that or, underline that kind of varies or highlight that. Underline, I just say that because sometimes that indicates a link if it's in body copies, so you may not want to underline necessarily. But it can be used to accentuate words as well. And then let's highlight with design elements. So this is bringing in that more visual aspect for visual learners. So use icons to bring attention, help readers visualize what that copy is about, use divider lines to help break up copy sections, use instead of just bullet points, you can use icons for bullet points that kind of add a little subtle message like check marks, you know, these are, this is a positive thing, positive thing, positive thing, or arrows, you know, to bring attention to things. And then when you're using photos, you wanna use photos that either are from your brand or that relate to the copy. But you don't wanna go overboard with a lot of stock photos because that can feel, that can feel a little bit too amateur.
+
+Christi Cooper [00:37:13]:
+And so unless you have, like, a very cohesive stock photo collection or maybe you take your own photos, I don't know, you want your photos to feel as cohesive as possible, so don't when you use a lot of stock photos, sometimes they can just kind of look jumbled together, like they don't really go together. And so that's why I kind of warn against using too many. All right. You also wanna keep conversion in mind. So these are these are things that you just you definitely wanna get right on your sales page. Make your buy button stand out, and that and it can be a bright color. It could just be high contrast on the page. It can be, just a different color from everything else on the page.
+
+Christi Cooper [00:37:54]:
+It could be bigger. You know? Don't make don't make it too small. Just make sure that it stands out from all the other elements around it. Use, especially on a long form page, use multiple buttons on the page. So you and you're going to put these in any place that's a natural place where people would be like, yes. I'm ready to buy this. You know? So that's a good place to put your button in addition to, like, right with your pricing. Use mock up images for digital products.
+
+Christi Cooper [00:38:26]:
+So this really helps people visualize things in a tangible way. So it create makes takes that intangible, information and turns it into a visual that feels tangible. Put, testimonials near your CTA button. So you might have a whole series of testimonials. Put that near one of your key call to action buttons, and it just it has that connection there for people who are like, oh, look. This has worked for others, and there's the button I can just click it. Also, relating to testimonials, use photos if you can. So photos really help people connect with people.
+
+Christi Cooper [00:39:08]:
+So instead of just being text, if you have a photo, people can see their face and that just is like an instant, human connection for them. On the tech side of things, don't forget mobile view, like I said earlier. So when you're checking your mobile view, watch for weird spacing, weird sizing, overlapping elements and then tweak as needed. Speed is important when choosing your tech. So make sure that you have, you know, a good server, that it's it's it's hosting that page in a speed. There's some different things online to check the speed of your page. But definitely, if your page is loading slowly, you can lose people that way. One way you can help your page remain quick is to don't use oversized images.
+
+Christi Cooper [00:40:03]:
+So make sure you use images that are sized for, the location that you're using them and that they're not like 10 times that size. You can compress your images for free using services like tinypng.com, and then there's there's a whole variety of plugins and things like that, but if you can, compress images to help with your page speed. And then don't forget before you put the sales page out there to test your integrations. Make a test purchase. Make sure that they can pay. Make sure it connects to how you're delivering your product, your offer, and your email marketing service. Usually, you you trigger emails that get sent after someone buys. So make sure all of that is working because there's nothing more frustrating than someone being excited to buy something and then being disappointed in the checkout process.
+
+Christi Cooper [00:40:58]:
+Okay. We're almost done. I just wanna do a quick recap. First, remember sales page is focused on one goal, to sell a single offer. Don't forget to structure your content use proven elements of successful sales pages. Remember that design helps your sales page sell. It attracts your audience, it establishes trust, it helps to keep readers engaged with your copy, and it sets the emotional tone of the page. Avoid those common mistakes that I talked about, missing key information, copy that doesn't connect with your people, and design that repels your audience instead of attracts.
+
+Christi Cooper [00:41:42]:
+And then improve your sales page design. Keep it clean and simple. Break up your copy, accentuate and highlight copy. Use design elements to highlight and break up that copy as well, you know, those icons, those blurbs, those kinds of things, and keep conversion in mind. Don't forget your buttons. Don't forget your mobile view, all that good stuff. So thank you so much. I am so grateful for you watching my presentation today.
+
+Christi Cooper [00:42:11]:
+I'm Christi Cooper with Cooper and Heart Creative. You can find me on Instagram at Cooper and Heart. And I know I'm gonna talk about the freebie here in a second, but this is the URL if you wanna jump on it. Cooperandheart.com/bbSummit-free. You can use this to assess your existing sales page and help you improve it for conversion, so maximize your conversions. And I thank you so much, and I hope you have a great rest of the summit. Okay? Thank you.
+
+Liz Stapleton [00:42:40]:
+Alright. Christi, thank you so much for all those tips and, you know, common mistakes. I've definitely made 1 or 2 of them in the past. Now, you know, whatever. Anyway, I'm definitely gonna take what I learned from you and apply it and create better sales pages. So thank you for all that. Any final words, on on design sales, and then we'll get into you know, we've got some free stuff for attendees, but any final words?
+
+Christi Cooper [00:43:08]:
+Just, like, implement the changes. Go in and actually do it. Yes.
+
+Liz Stapleton [00:43:12]:
+Because you've got all this great information. Now you need to take action.
+
+Christi Cooper [00:43:16]:
+Yes. Take action.
+
+Liz Stapleton [00:43:17]:
+You're you're not gonna start seeing more more cheddar in your bank account from your sales page unless you actually take the action. So, okay. Thank you. And I know you have something free for all attendees. Can you tell us about what that is?
+
+Christi Cooper [00:43:30]:
+Yes. So I have a little PDF, sales page assessment tool. So if you have an existing sales page and you wanna basically self audit that sales page and kind of see, like, what you have, that's working, what's not working, what needs improved, you can opt in for that and get that tool. It's called maximize your conversions.
+
+Liz Stapleton [00:43:53]:
+Yep. And the link for that is below and it's free, guys. So, like, why wouldn't you get that to help, you know, make sure your sales pages are doing well. But then I think you even also have a special offer for peep for those that get the All Access Pass. Can you tell us what the special offer for All Access Pass holders is?
+
+Christi Cooper [00:44:08]:
+Yes. Yeah. So I also offer paid sales page assessment. So you'll have me, assess your sales page and give you actionable one to one custom advice, you know, and I'll do a style board and everything. And so on the if you get the all access pass, I give you basically 50% off of that service. So it'd be $75 off of the $150 service.
+
+Liz Stapleton [00:44:32]:
+Which is, you know I mean, there's nothing like an outside perspective to really because you just you things that you've created, like, it's just like when you write. Like, you tend to gloss over errors because you've been through it so many times.
+
+Christi Cooper [00:44:44]:
+Mhmm. Yeah. It's really hard to to do your own thing. Right? Yeah.
+
+Liz Stapleton [00:44:48]:
+And and really take that, like, crucial look at it. So that's a that's a great service. It's a heck of a deal. So, Christi, thank you so much for that, people. You know, get her free assessment. And if you're struggling with that, you know, get the all make sure you grab the all access pass because it's it means you get to watch this session over and over again, but you'll get that amazing discount on an invaluable service because, you know, having a sales page that is converting, you know, amazingly well is just skyrockets your income. So It sure does. Yeah.
+
+Liz Stapleton [00:45:17]:
+Alright, Christi. Thank you so much. I really appreciate your generosity.
+
+Christi Cooper [00:45:21]:
+Alright. Thank you for having me.

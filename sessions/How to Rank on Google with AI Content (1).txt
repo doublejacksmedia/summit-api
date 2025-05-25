@@ -1,0 +1,185 @@
+Title: How to Rank on Google with AI Content
+Speaker: Nina Clapperton, Founder of She Knows SEO
+Website: https://sehknowsseo.co
+Level: Intermediate
+Category: Content Creation
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-rank-on-google-with-ai-content-nina-clapperton-2024/
+
+Transcript:
+[00:00:12.080] - Nina Clapperton
+Hey everybody, my name is Nina Clapperton, and I am the founder of "She Knows SEO." I'm here at the Blogger Breakthrough Summit to teach you all about how to rank on Google with AI content and I'm super excited to dive in.
+
+[00:00:24.000] - Nina
+But who the heck am I? Why am I someone to listen to? Well, my name is Nina. I am an SEO specialist, an AI expert, and a multi-six-figure travel blogger. I'm the founder of sheknowsseo.co, where you can find helpful AI and SEO tips. I'm Canadian, so you'll probably hear me say sorry at some point, probably for my beloved Golden Retriever, Theo, barking at some random thing he saw outside. He's really worried about leaves blowing in the wind lately, which is unhelpful.
+
+[00:00:53.330] - Nina
+I'm a travel addict and got my start as a travel blogger, blogging about living in over 12 countries in the last 10 years. And I am so obsessed with SEO and AI. I really want everyone to be able to achieve financial freedom with a blog or any online business, because I really believe in democratizing entrepreneurship and not just leaving it up for those tech bros. We should all be able to do this, and we can.
+
+[00:01:17.980] - Nina
+But I love to start with a game. So we're going to do "Two Truths, One Lie," which is one of my favorite party games. So my head's blocking the number, but it's three little options here. So if you guys can just pop in the chat which one you think is the lie? So number one, I've been using AI since 2021. Number two, I've coded eight plugins with ChatGPT. Number three, I have written over 500 articles with AI. So, just pop the number in the chat, I want to see what you all think is the lie. And don't worry, I'll reveal it in just a moment.
+
+[00:01:51.870] - Nina
+Okay, it's just one number, so that should have been enough time and you could have written it while I was talking, so hopefully we're good. So which one is the lie? It's number three. I have only written 300 articles with AI, but I have been using it since 2021, back when everyone said that using AI was akin to kicking a puppy or something. It was horrible. People were really mean about it. But I started using AI in October of 2021, and I have had tons of success since then. It has always worked. I've also coded eight plugins because ChatGPT can do some coding. But we'll talk about that a little bit later. But yeah, I've only written 300 articles because then I started teaching a lot more and I haven't had as much time to write them.
+
+[00:02:31.720] - Nina
+So, I want to show some proof that this actually works. AI does rank. In 2021, I found Jasper AI, started writing AI content. I was working four jobs at the time, including working as a law clerk at a law firm. I never say 'firm' right the first time. Clearly, I hate it. It was the reason I left that job. But I was working four jobs and trying to write for my blog and I just didn't have time. So I started using the AI and within six months I got into Mediavine. I went from 5,000 sessions to about 55,000 sessions very, very quickly. So here you can see that in one month I grew by 14,500 sessions with 10 blog posts. That was 10 new blog posts that month. There were some before, for sure. There's backlink building. There's a lot that went into this. But AI really drove the ship, because I could not have written 10 posts in a month if I didn't have AI to help me at that time.
+
+[00:03:25.310] - Nina
+I was too busy with the millions of other things I had going on. And this was back when Google still said, "We don't rank AI content." It's only in early 2023 that they finally admitted, "Yeah, actually, maybe we do." But that was a long time ago, so I want to show you guys something more recent. Now, summer is my peak period. I'll be 100% honest. This is a top-level page views for me. But I had 236,000 page views. I used to like happy dance at 10,000 page views. Now I'm way above that. I mean, holy crap, it still surprises me. So this was in August of 2023, but 100% seasonality happens. I write about Canada. No one wants to come here in winter. Fair. I don't really want to be here in winter sometimes. And so in winter, my traffic does drop to about 150,000 so far. Not the greatest, but it happens.
+
+[00:04:26.030] - Nina
+Now before we start, please turn off your phones, close your other tabs, get rid of distractions. It's all about me. No, honestly, it's not. It's about you guys learning. And I want to make sure that you guys can focus on this. I am known for shoving a ton of information at people, so I really want you guys to be able to listen.
+
+[00:04:43.450] - Nina
+Now, I'm neurodivergent. I have ADHD, so I do understand it is hard to focus on one thing. I try to be quite engaging for you all, but if you need something else to do, pick something that's not really distracting, maybe like a fidget spinner or something to just help you guys focus. Or pet a puppy. I find that helps with my dog.
+
+[00:05:02.780] - Nina
+Now, what are we going to talk about today? Number one, how to use AI for blogging. Number two, does Google even rank AI content? Number three, SEO best practices with AI. Number four, unique use cases for AI. So we're not just going to be talking about writing posts, there's so much more you can do with AI.
+
+[00:05:20.800] - Nina
+So let's dive in. Now, what is AI content? AI content is anything not generated by a human being, basically. It's anything that is automatically generated by artificial intelligence, AI. Now that doesn't just mean that it is AI writers.
+
+[00:05:40.470] - Nina
+There's so many types of AI in the world. Technically, a calculator is AI. And I do often connect AI writers to calculators in the same way, so that's going to come back. But let's talk about different types of AI content on blogs, because there are a number of them, and you are probably using them long before you actually knew you were using AI. I was. I had no idea. So using something like Rank Math or Yoast, that's AI. Even before they added their AI tool. I realize they've done that now and they've completely messed up my example. But before that, when they would just track the number of times that you use the keyword on the page, that was AI.
+
+[00:06:19.890] - Nina
+Now something like KeySearch or Ahrefs or Semrush, whatever keyword research tool, using AI. Using an API from Google AdWords, that they then put through artificial intelligence to create data for you. All a type of AI. And then, of course, there are AI writers. Those are the newer thing. It was vilified for a while. I remember reading this awful, really poorly written article about the dangers of AI and how someone tried to use Bing's AI, I think, or maybe Bard or something, they taught it about shadow cells. And then it got really dark and twisty. And I was like, yeah, because you taught that, and you didn't clear the memory. So when you switched to other stuff, it didn't stop. It was really weird and fear-mongering.
+
+[00:07:07.590] - Nina
+AI is not trying to kill us, guys. It is like a calculator. It's just trying to move things forward a bit. It cannot genuinely think for itself yet. I don't think it will be able to, to be honest with you all.
+
+[00:07:21.130] - Nina
+Now I want to share my two favorite tools for AI writing: Jasper AI and ChatGPT. Now when I did this talk a year ago, I did a very similar one, I only talked about Jasper because it was genuinely the only good one back then. Things have changed. There are so many out there. I trialed over 117 this year. My accountant was — I think he was less confused because I also put dog crocs on there as a business expense because I had those. But he was still like, "What the actual heck is going on here?" But I wanted to try a lot of them. And there are some that are great, there are some that are terrible.
+
+[00:07:57.060] - Nina
+I think the biggest thing is going to be what works for you. AI is always going to be reflective of your use case and of your workflow. So for me, the way that I prefer to write is with an AI writer that can co-write. So something that I can keep working with and reshaping things as we go. I hate one-click AI writers. I have a YouTube video on my "She Knows SEO YouTube" where I analyze seven different one-click AI writers to see which is the best. Spoiler alert, all terrible! Not a single one produced a piece of content that I would put on a blog without significant edits, basically complete rewrites, which is what I ended up doing. It was incredibly frustrating. I spent like $300 on SurferSEO credit stuff to do AI articles with them. Every single one got scrapped, completely thrown in the bin because there were a lot of issues with them.
+
+[00:08:50.930] - Nina
+And one of the biggest issues is that they claim that they're SEO optimized, but they really do cheap SEO. So they're ticking things off the list. They are including a couple of different elements. We'll talk about those in a minute. But they're not actually writing for the user and they're not allowing you to write. So you're not able to build in your personal experience, your expertise, or ensuring that you've touched on everything for your user. That's not great. That's not really helpful.
+
+[00:09:19.920] - Nina
+So that's why I love Jasper and ChatGPT. I use Jasper mostly for affiliate posts, things like that, like long-form content. I've written a number of ebooks with Jasper now. Super easy, super helpful. ChatGPT, I use more for formatting. I really like coding and images and stuff with it now. We'll talk about those later. But I also like it for piece-by-piece content. So if I need to repurpose content, maybe turn a blog post into an email, if I need to write informational content and do header-section by header-section, I refer to those as paragraphs. I hate the word 'header' for some reason. I don't know why, I just don't like saying it. So not my thing. But those are my two use cases.
+
+[00:09:59.140] - Nina
+So I have two tools that I'm willing to use for that. Now, there are millions of other ones out there, and some of them have been very good that I've used, but they haven't been better for my workflow than these two.
+
+[00:10:09.340] - Nina
+So, I'm not saying that these are the be-all and end-all of tools, and every other tool is terrible. No, every tool is going to be different because it should reflect you and your workflow. I do caution against using a one-click AI writer. I don't think that they are sophisticated enough or really beneficial enough, but I think anything else where it allows you to create content with it is very much based on whatever works for you.
+
+[00:10:37.190] - Nina
+Now, I want to know, what have you guys used for AI on your blog? Have you ever used it? What tools? Which ones did you like or dislike? I love learning about new tools. I mean, you all can tell I have a minor addiction to buying them. I still have not stopped. So I would love to know if there are some that you guys use that you really enjoy. Have you used Jasper and ChatGPT? And it's okay if you didn't like them. I know a lot of people who don't, and I will say sometimes that is just because you guys weren't using it right. I definitely had that with a couple of tools I used where I got corrected by friends and strangers on YouTube, and it was helpful actually.
+
+[00:11:11.730] - Nina
+But sometimes it's just either not a good tool or it's genuinely not for your workflow. Totally fair, but I would love to know some of the ones that you guys have used and enjoyed because I want to find more, and I want to bug my accountant now.
+
+[00:11:26.290] - Nina
+Now, I want to talk about Google's stance on AI because I think this is really important. With SEO, obviously, we need to please the Google gods, so we need to write decent content that's going to rank. It's all about rankability, right? So, if we're going to rank on Google, we need to make sure we are adhering to their guidelines. Google does often say stuff that they don't mean. For sure, they've always said that links are not a factor for ranking, and we all know that's not true. So take it with a grain of salt.
+
+[00:11:54.160] - Nina
+In 2022, they explicitly said, "We do not rank AI content." And then I had to show a bunch of slides proving that they clearly had because I was doing great and most of my blog is either AI-written or AI-assisted. I think maybe five articles are not AI, but there's a lot of AI on my sites because it can help me write.
+
+[00:12:14.130] - Nina
+So, these are the official policies of Google from their "Google Searches Guidance" about AI-generated content, which is in Google Search Central. That is where you should go to find basically all of their information on updates, on their rankings, everything. They talk about the helpful content update, they talk about EAT, tons of stuff there. But I pulled out two quotes, or I guess three technically, I don't know, but I screenshotted two things.
+
+[00:12:37.640] - Nina
+So, "Is AI content against Google Searches guidelines?" Basically, no. Appropriate use is fine. It's just if you're using it to create maybe a thousand spammy posts in a day, they don't like that. "Do they automatically detect it?" No, they're not perfect, but it's against their guidelines. "Do they ban it?" No. And I think that they had to admit that because they use AI to run their algorithm, so it was pretty hypocritical when they were like, "You all shouldn't use AI." Meanwhile, they were using all the AI. But I think this quote is most helpful. "Our focus on the quality of content, rather than how content is produced, is a useful guide that has helped us deliver reliable, high-quality results to users for years."
+
+[00:13:20.710] - Nina
+They are basically retracting their statement from before and saying, no, quality is what we care about. We don't care if you hired 100 people to write these things in an hour, or if you used AI to write 100 things in an hour. We just want to make sure it's actually helpful content. And I think that is a better stance, to be honest. They're not perfect with it, but they try.
+
+[00:13:43.630] - Nina
+Now, I want to share a fun fact. When I got into Mediavine in 2022, I polled people in the Facebook group and I was like, "Hey, how many posts did you have to get here?" And on average, it took 100 to 140 posts. Now, for my niche, my primary blog is a travel blog, it took more like 100 to 180, so usually about 160, to get into Mediavine. If you were writing one post a week, which is often roughly what people are doing, and that's actually the advanced level, usually people are doing one every other week, well, it's going to take you like three years to get into Mediavine.
+
+[00:14:22.610] - Nina
+I don't know about you, but I didn't have three years to wait. I was working four jobs, none of which I was enjoying. I was working as a law clerk at an Estate law firm dealing with death and dying every day. I wanted to die. I did not enjoy it so much. I was like, I need to get out of here. But I was doing a lot of other things. I didn't have the time to be able to write 100 articles in a year or something at that point. It was going to take me a lot longer if I had to do all of that.
+
+[00:14:54.110] - Nina
+The problem was, even though technically maybe I had the time, I was exhausted! I was so tired after all of the work. My brain was just melting. I could not sit down and formulate a good sentence. I knew what I wanted to say, but I couldn't put it together.
+
+[00:15:11.860] - Nina
+That's where AI comes in. I was able to completely overhaul my site. I did a six-month push to get into Mediavine, which I thought would take a year, but took six months, where basically for one month, I audited my whole site. I went through, I deleted a ton of content. I had about 180 posts, and 80 of those posts either got deleted or no-indexed, which means that Google can't see it.
+
+[00:15:35.350] - Nina
+I had 100 posts left. In one month, I rewrote all of those posts, completely rewrote them. I think there were maybe two that I only had to half rewrite. But I wrote these like— there was one post that I always talk about because it was so dumb. But it was like I was sitting beside my mom in a bed in Singapore because I had flown to see her, and I was writing, "I'm excited to see my mom in Singapore." Guess who the only reader of my blog was at that time? Yeah, my mom. My mom was the only person reading that. So why was I doing that? What was happening? But I wrote that post. It was 500 words. It was trash. So I turned it into "Most Exciting Things in Singapore," and then we were able to get somewhere later.
+
+[00:16:18.080] - Nina
+I was also writing about 12 new posts a month while working as a freelance writer, writing about 40,000 to 100,000 words a week for a client. So I was able to do so much using my brain power, but just using AI to speed it up. Just like any scientist would — I think scientists or maybe mathematicians are the ones using graphing calculators. I don't know. I haven't touched one since grade school.
+
+[00:16:41.580] - Nina
+But no one gets mad at them for using a calculator. So people shouldn't get mad at us for using something to just speed up what we already know to do. But we need to do it the right way. That's where SEO comes in. And these are my steps and my tips, I guess, for writing good content with AI that is actually going to rank. Because if you just walk into ChatGPT one day, first of all, you're going to walk into a laptop because it's not a place, but you're going to say, "Hey ChatGPT, write me a blog post on Rome." Okay, what? It has no idea what you mean. It doesn't know what type of content you want it to give you. You've basically walked into a classroom of eighth graders and said, "Write me an essay about Romeo and Juliet." But you've never taught them what an essay is, or what essay structure should be, or how to write a good essay. You didn't tell them what about Romeo and Juliet. You didn't tell them even if you meant the book or the movie, or maybe one of the weird adaptations. There's like that gnome cartoon one that exists. You didn't tell them if you meant for it to be positive or negative. You've given no guidance to them at all.
+
+[00:17:47.930] - Nina
+So what are they going to do? Write the shortest piece of content they probably can. They're going to try, but they're just going to go for whatever. And with AI, it's going to do the same thing. So it has a cursory understanding of like, okay, blog post means written content, probably title, chunk of words. That's what it knows. Same with that classroom of students. If you walked up to them and just told them to write this essay, if no one's taught them how to structure an essay with an introduction and a conclusion and all these things, they don't know to do that. So you actually don't get to be mad when the output is terrible, because AI is very much a reflection of what you put into it. So you really have to be willing to do the work to get a good piece of content. It is not a one-click solution.
+
+[00:18:34.320] - Nina
+So many people are in two camps with AI. It is the, "AI is coming for your job. It's going to take everything. Freelance writing is dead." And then the second one, which is, "I hate the AI, it won't write for me, and that it's not stealing my job," and I don't understand either one. We're very much in the middle. Anyone who believes AI is stealing our jobs has not used AI to write a blog post because it can't do it by itself. If I put that graphing calculator on the table, it can't write anything. Even if I just give it 10, and then another number, 12, 000, it doesn't know what to do with that. I've given it no context, nothing to do. Same with AI. You've got to do it. You have to actually do something to help it.
+
+[00:19:18.360] - Nina
+But you also have to make sure that you are structuring this properly. You're teaching it how to create this content. So that's where you're going to have to meld this with SEO. We want to make sure that we're getting a strong output that is actually going to be usable for your site. So the first thing you want to do is do some keyword research. Don't just write a post for the sake of writing a post. Make sure it's relevant to your site and to your content overall.
+
+[00:19:42.750] - Nina
+So, I actually go a step before this even. Who are we talking to? Who is your audience? Who is your customer avatar? Which is something that we did in my marketing degree. So basically, well it was a publishing degree, but we did some marketing. So I don't know. I don't publish, so it's the only thing I got out of it. But basically, you need to figure out who are we talking to? What are their pain points? What are they struggling with?
+
+[00:20:06.280] - Nina
+With AI, I never realized other people were struggling to get it to sound like them because I figured out how to do that pretty quickly. So I was like, okay, ChatGPT sounds like me now. We're set. And then I was like, why is everyone saying that it doesn't sound like them and it sounds like a peppy robot? I do not understand this. And I realized, oh, they don't know how to fine-tune it. Okay, cool, I'm going to write some stuff about that. I'm going to create some social media content about that. Whatever.
+
+[00:20:34.840] - Nina
+It's the same idea here. What are people struggling with? What do they need to know more about? But you can't equally just dive in and go, okay, I'm going to write about the most general thing in the world. Some things are too competitive, especially when you're starting. So yes, we're not just going to go for the easiest random things, especially if they don't relate to each other.
+
+[00:20:56.370] - Nina
+But we want to use a keyword research tool, and I really recommend a paid one. Honestly, I know money is tight for some people. I fully appreciate that. It was for me. The one thing you should spend money on for your blog to start, especially, is a keyword research tool. I recommend KeySearch. It's like $130 a year. I think it might be less. I'm not even sure. They have Black Friday deals all the time. They have all sorts of deals all the time. They are the best tool. You can get it for a year. If you can't even afford that, buy it for a month and then turn it off for two months and then turn it back on. I would probably check it every three or four months. You need this. It is the thing to buy. Okay, guys? Do that, please.
+
+[00:21:35.130] - Nina
+And then look for easy keywords. Things that are going to be green or blue, those are the colors that KeySearch uses to say, "This is easy." That's going to allow you to find content that's not crazy hard to compete with. In the travel world, we're always competing against Nomadic Man, who seems to dominate everything, including solo female travel, where I'm like, "Dude, no. I get that you hired someone who knows this, but come on." So we want to make sure we're finding stuff that we can get into, because to be honest, it's just like when you're starting with anything, you want to start small and then grow and get bigger.
+
+[00:22:10.100] - Nina
+If we started playing basketball and we went to the NBA and tried to play against, I don't know anything about sports, but the biggest basketball player, we're going to quit immediately. So we want to actually start going to, I don't know, is Little League thing for basketball? I'm probably mixing sports metaphors. Why do I always choose metaphors that I don't know about? But you're not really going to succeed at that big one. So go to the small one where you can compete, learn, grow, maybe eventually you get to the NBA. That's where we want to do the same with keyword research for difficulty levels.
+
+[00:22:44.120] - Nina
+We're then going to make an SEO outline. I do not trust AI to make my outline for me. AI is a baby intern on its first day at the job, googling frantically between meetings. What is SEO? How do I do SEO? It doesn't know. And as someone who writes SEO content that ranks on Google, I can tell you that the top results on Google never give you 100% of an answer. They genuinely can't. SEO is very complicated. There is a reason that so many of us sell courses on it because also you really need to see it happening. But it can give you a piece of the puzzle and it might have a ton of pieces of the puzzle, but it doesn't know how they fit together. You know, you have the experience so that you can turn that outline into something useful, beneficial to your audience that mentions things that actually are relevant to them.
+
+[00:23:32.150] - Nina
+Next, I recommend editing as you go. So Liz actually taught me this last year, but you don't own AI outputs if you haven't edited them. You don't. It's a non-human entity that created it. So you actually have to edit. But what I'm referring to here is something a little bit different. Editing as you go means adjusting the content as you're writing so that it reflects your voice. It reflects your style, how you write blog posts, so that it's good as you go, because the natural language processors, the NLPs behind AI Writers use pattern recognition. If you have allowed a pattern to run that you don't agree with, it's going to keep going and it's going to be a problem.
+
+[00:24:13.930] - Nina
+Next, we want to use proper SEO. This means a lot of things. Number one, use that keyword, put it in the title, put it in the URL, put it in the meta description, put it in the alt text, put it where it should be, basically. Use secondary keywords, things that you're going to mention, let's say, "Things do in New York City." You're probably going to mention free things to do in New York City in it. Maybe, maybe not. But you're going to mention things that are tangentially related to that topic.
+
+[00:24:40.790] - Nina
+If you don't, it shows that you don't know what you're talking about. And also, like Google, SEO is us translating English for a dialect of English that Google understands, that's very algorithmic, and based on things like keywords. And yes, the algorithm updates and changes all the time, so we have to adjust our understanding. But including keywords is a part of that. You don't need to include 1,000 like we used to, but you need to include it at least a couple of times. Google is like, "Okay I see, she's talking about things to do in New York. Cool. I get it now. I know what we're on with."
+
+[00:25:13.900] - Nina
+Okay, now how do we stand out in an AI world? Because there's so many, honestly, there are. Number one, original research. And the second one is the same thing, detailed analyses and case studies. You really want to make sure that you are doing research. Research should take you the longest of writing any blog post. And some of that is like your past history doing the thing. I'm not saying sit down and research New York City's subway system or something for a million years. 
+
+[00:25:42.290] - Nina
+Your past experience is research. But you need to both do that research and then put it in the post. Google doesn't automatically know you did that research. And I've seen a lot of people that complain, especially in the recent helpful content update in the fall of 2023 like, "Well, I did the thing." Okay, you didn't show us you did the thing. "Oh, well, I analyzed 500 posts." Did you say that? Did you show that? Did you take a picture of any of those things? That's all going to matter.
+
+[00:26:11.750] - Nina
+So, we do want to have some original images wherever possible. That could be an original graph as well, like infographics work. You want to make sure you're helping the user. You're solving pain points. You're not just writing to write. You're actually figuring out what they're worried about, and you are serving them with an answer. And then we want to use AI as a co-writer. Don't just tell it, "Write a blog post about Rome." You don't know what you're getting and it's probably not good.
+
+[00:26:35.880] - Nina
+Now, a couple of unique AI uses I didn't realize other people weren't doing. Coding UX elements, so elements that help user experience. I started coding calculators with AI to figure out — I coded a page view calculator. It's free on sheknowsseo.co if you want to see it, and an affiliate income calculator because I was doing those anyway. And I realized my users were struggling to make that calculation, so I threw that up there. Then I tried a travel calculator, like a vacation budget calculator. Oh my God, that post did well, and it was not a great post.
+
+[00:27:06.390] - Nina
+But those extra elements can be really beneficial. I don't know how to code, at all. I can center something in HTML and that's it. But I've also coded eight plugins now with AI. Probably by the time you're watching this, I'll have another 20. It's very much a hyper-fixation right now. But I coded a really cool scavenger hunt plugin that randomly triggers pop-ups so that people will go through your site and then get some cool prizes through this pop-up. It was really, really fun. My audience had a great time, and I gained 15,000 page views in two days from doing that. And it didn't cost me, I think it cost me like $700, but $500 of that was credit in my business, so amazing.
+
+[00:27:45.500] - Nina
+You can use this for content audits. I regularly use AI to, especially ChatGPT-4, to read posts and tell me, "Okay, have the restaurants closed? Are they all still open? Has anything moved? Are the addresses wrong now? Are any of these trails closed from wildfires this summer?" Super helpful. Now I don't have to do that.
+
+[00:28:04.120] - Nina
+You can also use it to add keywords and LSI words. Super simple. You just put in your piece of content and then give it a list of keywords or LSI words that it should add to that content, or that it should say that you missed. So maybe you want to add it in, but it can help you identify what you don't have.
+
+[00:28:20.160] - Nina
+So do we have any questions? I'll be in the chat answering them. But while I'm answering those, I just want to take it a step further and give you all a nice little gift. These are my "Best Jasper AI Commands for Bloggers." Now these do work with ChatGPT. It's just when I first made this, Jasper was the only thing that existed. But these are my favorite commands for everything from blog post writing, to email marketing, to rewriting, to creating quizzes that are my favorite lead generation opt-ins, to even making your first digital product.
+
+[00:28:49.680] - Nina
+And this is 100% free. You can get it, just like follow the picture. I don't know. But you can grab that and I will see you guys in the comments to ask some questions.
+
+[00:28:59.020] - Nina
+So thank you so much for joining me today. This has been a ton of fun. I love talking about AI. I love talking about SEO. If you want to find me anywhere else, I am @ninaclapperton on Twitter and Instagram. I share lots of cute photos of my dog who is currently asleep like a bearskin rug beside me. So you can see some cute photos of him in those crocs and help me write them off, because it's a constant battle trying to justify those. You can also find me @sheknowsseo on YouTube. Obviously at sheknowsseo.co, I have a newsletter where I share lots of AI tips and things like that. And lastly, I have my SEO for travel blogger's free Facebook group that you all can join. Any type of blogger, welcome. One day I'll get around to changing it to make it more inclusive. But really, it's just SEO for bloggers.
+
+[00:29:47.580] - Nina
+So thank you so much for having me, and thank you to Liz for running this epic summit. And yeah, I'll see you all in the chat for all of your comments, questions, and concerns. Bye.
+
+

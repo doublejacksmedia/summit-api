@@ -1,0 +1,260 @@
+Title: How To Stay Relevant Amid All the Changes in Today's Online World
+Speaker: Lanie Lamarre
+Website: https://omgrowth.com/
+Level: Intermediate
+Category: Data
+Length: 33:10
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-stay-relevant-amid-all-the-changes-in-todays-online-world-lanie-lamarre/
+
+Transcript:
+[00:00:13.910] - Lanie
+Hello, blogger breakthrough attendees. Listen, I know marketing is getting harder, and I want to do a little presentation on why it's happening and what you can do about it. And I wanted to get on the screen just for a minute because I know this is going to be kind of slide heavy, but I want to show you I'm a real person. In fact, who am I? I'm Lanie Lamarre. I'm going to get off the screen now. My jam is to show you literally using visualization tools how you will achieve the business you want, whether that's with workflows for your processes, which was how I got started in the online world, creating and implementing workflows for service providers.
+
+[00:00:49.370] - Lanie
+But now I also include and love dashboards that simplify how you see your online performance or using profitability calculator to show you exactly what it is, you need to see a return on investment that you're looking for or visualizing your projects in a way that makes it easier for you to take action on with Airtable or working through your CEO days with numbers and strategies and plans and values that you can actually map out. And you find all of these resources over at omgrowth.com that's O-M-G-R-O-W-T-H. I am also the host of the omgrowth podcast, which is in its second season, and this presentation is actually repurposed from a series of podcasts I did on the iOS updates.
+
+[00:01:30.930] - Lanie
+And let's be real. Why the hey you should care about the iOS updates and why the hey it matters to you. So, if you're picking up what I'm throwing down here, I encourage you to check out the oh my Growth podcast and subscribe. I do want to start this conversation off by saying, Listen, I'm not your attorney and in no way am I providing you with legal counsel at this time. If you have any doubts or concerns, I encourage you to reach out to a legal professional who can comment on your specific situation and needs.
+
+[00:01:57.890] - Lanie
+If there's something that you need help with, finding somebody like that, by all means, reach out to me. But having said that, I'm qualified to discuss the subject as I used to be a data Privacy officer, I'm still a card carrying member of the IAPP, which is the International Association of Privacy Professionals. What is a data Privacy officer? Well, it's someone whose job it is to enforce Privacy legislation as it relates to your personal information, how it's being collected, how it's being used, shared, disclosed, all those fun things.
+
+[00:02:26.730] - Lanie
+And you would be surprised about the liberties with which your personal information has been collected, used, shared, and disclosed online. In fact, I was in the industry and I'm still surprised on a regular basis and to provide you with a little example, a little taste of that. I just posted a video on my Instagram feed at oh my Growth to demonstrate how popular websites like CNN. Com, for instance, are monetizing your personal information by sharing it with way more advertisers than you may realize or would even consent to.
+
+[00:02:59.180] - Lanie
+I'm using a free Chrome extension to check out what the tracking is on a popular site like CNN.com.
+
+[00:03:05.050] - Lanie
+We can see that they have 45 potential trackers. It's a third party cookies tracking my behavior, most of which are advertising companies.
+
+[00:03:13.910] - Lanie
+So when you look at companies like Facebook and Google making record profits and positioning its leaders as the wealthiest people in the world, these are companies we all use and none of us pay for. But you have to realize that the reason these services are free is because you, my online friend and all of your online data are the product that they are selling, that they're monetizing. Now, of course, this isn't you, at least not in Internet years. And again, speaking in internet years, the data Privacy legislation in place to protect you isn't exactly new either.
+
+[00:03:46.340] - Lanie
+So, let's take a brief overview and go back to the future of the worlds of Privacy and marketing colliding. If you're an online veteran who's been in the online world for over four years or so, you will recall the chicken little panic brought on by the general data protection regulation put in place by the European Union in 2016. This is also called GDPR, and by 2018 the EU, European Union would begin to enforce this two year old regulation to give individuals the right and control over how their personal information was being used for commercial purposes.
+
+[00:04:23.430] - Lanie
+And what's so wrong with that, right. Now, this may not be the proudest moment of marketers and online business people. It wasn't a good look for us because we became like, opera level dramatic over how this would end and totally ruin all of our email lists and reach. And if you were a grossy pants and ethical marketer, that was a very fair conclusion for you to draw. But for the rest of us just trying to offer value to people who actually wanted it. GDPR mostly meant that we had to add a little checkbox to our forums that said.
+
+[00:04:53.880] - Lanie
+Hey, do you consent to keeping in touch with us?
+
+[00:04:56.840] - Lanie
+We tend to glaze over the fact that around the same time that GDPR was enforced, California was actually putting similar regulations in place. But we'll get back to California in a minute. We'll go back to Cali in a moment because I want to talk about Google and Privacy first, because the following year after GDPR was enforced, we're talking August 2019. Google launched what is called the Privacy Sandbox Capital P Capital S. This was created as a means of putting Web standards in place for websites to access information about its users without compromising their Privacy.
+
+[00:05:30.270] - Lanie
+Now, since we're getting into fun facts about yours truly, I also have a real pet peeve with the term users. I wish we would just come to a consensus over another term because who speaks about their clients using terminology like users other than maybe drug dealers. I kind of frown on how exploited if the word user sounds, but maybe that's the point. But my irritations and I digress. Because in January 2020, Google announced that they will render third party cookies obsolete in 2022. Now, in June of this year 2021, they actually pushed that deadline back out to 3, 2023.
+
+[00:06:11.200] - Lanie
+But it's an important move on Google's part, and it's one that you want to understand because it's going to and probably currently is affecting you. So, what the hey are cookies and third party cookies and all this fun stuff? Well, cookies are the little blocks of data, including your personal information, especially your personal information, to make it possible for your browser activity to be tracked across platforms. Now you have things called first party cookies, and these are the ones that store information on the domain you're visiting.
+
+[00:06:40.200] - Lanie
+So, an example of this because I love examples, when Amazon recognizes that you added that new bestseller to your cart on your last visit and it's still sitting in your cart the next time you log into Amazon, well, that's first party cookies in action. Third party cookies, though, are the ones that store information across other domains you're visiting. For instance, when you're scrolling through your Facebook feed and you're targeted with an ad for a T-shirt relating to the bestseller that you were looking over on Amazon.
+
+[00:07:10.620] - Lanie
+That's third party cookie in action. Third party cookies are the stuff that your aunt gets worked up at over holiday dinner party for being so creepy. And she's not wrong because the Safari browser agrees. And as of August 2020, it also blocked the use of third party cookies. It's all happening, and it's only a matter of time before all the other browsers are also on board with this blocking of third party cookies.
+
+[00:07:35.600] - Lanie
+So, now, I promise we'd come back to Kelly, and here we are with the CCPA that is the California Consumer Privacy Act very familiar to GDPR. But instead of protecting the personal information of EU residents, this one protects residents of California. It was created back in 2018, but as of July 2020, it was announced that this act would be enforced. Again. It's all happening. It's just a matter of time before other States and countries get on board with this precedent, you should fully anticipate these Privacy laws becoming to a region near you.
+
+[00:08:07.460] - Lanie
+Furthermore, GDPR and California Consumer Privacy Act CCPA, these don't just apply to people who live in the European Union or to California residents. These only protect these specific residents. But regardless of where you are, you have an obligation as an online marketer to abide by these Privacy laws. So, if consent isn't already part of your opt in, you want to consider implementing that. If you were marketing inclusively to California residents or European Union residents. Now, if you're exclusively regional to your area, this may not be an issue for you at this point, but again, it's just a matter of time. Because we have the browsers prioritizing privacy and we have governments doing the same.
+
+[00:08:51.700] - Lanie
+And what we are seeing with the Apple updates that everyone is freaking out about is basically them joining the conga line. This is like that scene from Beetlejuice. It's inevitable that everybody would follow suit. It can't be helped. The music will drive them. They will be joining into this conga line of prioritizing privacy. So, let's talk about those iOS updates. Apple launched what it's calling the app tracking transparency, or ATT with its iOS 14.5 update that happened in April 2021. The basics of this is that this update will ask its users to consent to having their browsing habits and personal information tracked and they are given the right and ability to opt out.
+
+[00:09:34.720] - Lanie
+Now, essentially, it's just giving people agency as to how their online behaviors are being tracked.
+
+[00:09:39.550] - Lanie
+So, what does the iOS 14.5 update mean for you and your conversion rates?
+
+[00:09:44.710] - Lanie
+Well, it means your ability to target people based on browsing behaviors and personal information is and will continue to be impacted. And then there's the iOS 15 update that happened in September 2021. And this is giving people agency over how their email behaviors are being tracked by limiting the use of invisible pixels within their inbox.
+
+[00:10:07.450] - Lanie
+So, what does the iOS 15 update mean for you and your conversion rates?
+
+[00:10:11.650] - Lanie
+Well, it means your ability to track things like open rates from your email marketing campaigns is and will continue to be impacted. So, your performance isn't necessarily lagging because of the iOS updates. It's your ability to continue relying on these pixels that have been tracking your performance that is lagging. So, yes, your conversion rates look like they're hurting right now. That totally isn't just happening in your head or just a new thing. However, these changes are all happening as a result of protecting your human rights. While you, my humble and honest marketer, may feel annoyed at how it's impacting your ability to continue marketing the way you always have been.
+
+[00:10:49.980] - Lanie
+The change is necessary because there have been liberties taken far beyond reason or your consent as to how every detail about you is being collected, used, shared, disclosed, stored, and monetized. Keep in mind, this whole digital world is relatively new. And just as you test the marketing strategy by doing it and collecting some information and then making decisions about how you want to move forward and make it better. It's kind of the same deal with online business right now. We did things one way for a while.
+
+[00:11:19.380] - Lanie
+We saw room for improvement and these changes you're seeing from Google, from Apple, from your browsers, from your governments. These are all kind of a collective agreement as to what changes we need to make in the online marketing world to make it a safer and better place for all participants. So, let's get to the most important part of any of these conversations.
+
+[00:11:40.050] - Lanie
+What do these Privacy changes mean for you?
+
+[00:11:43.950] - Lanie
+Well, it means that if your motive for collecting information has been as a means of exploiting the people whose information you've been collecting, it's going to get bumpy for you. However, if your purpose for data collection has been to guide you towards making smarter business decisions, I'm happy to share that the ethical law abiding marketers will be just fine in all of this. Because there are ways you can continue to see how you're performing that is ethical and law abiding. Now you will have to change some things because as we've established, the way things have been done, it's flawed.
+
+[00:12:17.510] - Lanie
+But we're at that.
+
+[00:12:18.820] - Lanie
+When you know better.
+
+[00:12:19.630] - Lanie
+You do better phase of online marketing. And so let's talk about how we can do better, because as Gardener, the leader in tech research and consulting, they're saying that 65% of the world's population will be protected under privacy regulation by 2023. This is a huge shift from just last year in 2020, when only 10% of people had their rights to privacy protected online. Even without the legislation to protect them, people are becoming increasingly savvy with the way their data is being used and shared by employing things like privacy safe and compliant browsers like Brave and DuckDuckGo or by using Ada and cookie blocker tools.
+
+[00:13:02.490] - Lanie
+So, while tracking online never really was a perfect science, it's inevitably going to get a lot less reliable with all of these updates and changes to how we're tracking data online in order to be privacy compliant. So, if you were buying ads, if you're sending emails, if you want to know what people are doing on your website.
+
+[00:13:22.190] - Lanie
+You will have to learn to be data compliant.
+
+[00:13:25.500] - Lanie
+There is no way around this. We have to go through this. And the so called good old days of slapping a few pixels up on your website to collect as much information as that Pixel can or wants to. Those days are over, and that's not necessarily a bad thing. In fact, for ethical responsible marketers who are and want to be intentional, this is an especially good thing. We are all being forced into showing up as human beings. Yes, even online who treat others with respect as opposed to treating them like a hit.
+
+[00:13:53.840] - Lanie
+And we went over the difference between first party cookies and third party cookies and how some browsers, including Google, are rendering third party cookies obsolete. If you've noticed, your Facebook analytics has changed both in its format and the reliability of its numbers. This is the reason why your Facebook Pixel default settings are to use both first party cookies and third party cookies. What's the difference? Well, when you're creating Facebook ads and you target someone's interests or whether they've interacted with your Facebook page, these are your first party cookies in action because everything is tracked and happening on the same site.
+
+[00:14:29.780] - Lanie
+However, when you're using ads to retarget someone who visits your sales page on a totally different domain two weeks ago, those are your third party cookies in action because this is a domain other than the one that that person is currently visiting.
+
+[00:14:44.310] - Lanie
+This means you are going to have to start meeting people where they are rather than trying to lure them from where they are.
+
+[00:14:51.550] - Lanie
+That's why you're going to see an increase in the use of opt in forms on Facebook platform for building your email list rather than redirecting them to your own site. Same deal with sales pages. Why? Because you won't be able to use third party cookies to retarget someone who visits another site than yours, but you will be able to target someone using first party cookies. So if someone visit a sales page or an option you have on Facebook's platform, you can then retarget them with Facebook ads as well.
+
+[00:15:19.920] - Lanie
+Since it's going to become increasingly important to meet people where they are, expect a more diverse means of communication, marketing, and reporting to emerge.
+
+[00:15:29.730] - Lanie
+I'm making predictions today, and my first prediction is that we will see a surge in new and creative ways that will allow us as marketers to communicate with people in a sort of multiplatform approach. As the depreciation of cookies increases, the availability of services like text messaging, messenger, chats, and website intercoms will be the tip of an ever growing iceberg people seem to be referring to as multi channel communications. Another trend you can expect to see emerge is multi-stack marketing. The same way you have multiple social media channels where you post similar content, but in ways that are customized to how that platform works, you're going to be doing the same sort of thing across your marketing channels. Because platforms like Facebook and Google and Amazon will be capturing, collecting, and owning the first party data. You'll likely be creating entire funnels to live within those systems rather than funneling that traffic over to your site as you currently do.
+
+[00:16:27.430] - Lanie
+And finally, because our marketing campaigns will look more like mind maps than they do now, where everything centers around driving traffic to our central site, expect the emergence of multichannel reporting to be a thing. We will no longer be able to rely or even lean on one source to tell us the truth about our online performance, because the data will no longer be allowed to be shared across multiple platforms and channels. Now, before you turn me off, I know this sounds intimidating, but think of this the same way you think of your social media accounts unless it's a team effort.
+
+[00:17:00.430] - Lanie
+Nobody is on all the platforms. Most small online businesses manage best with a focus on one or two platforms. Right? And your marketing is going to be a similar approach. You'll simply have little ecosystems living within each platform on which you have chosen to focus marketing yourself. Another prediction I'm going to make, and I've already kind of hinted at this with the multichannel communications, but engagement is going to be more important and valued than ever. Expect more direct marketing efforts and collaborations, they're going to increase significantly because as these changes take place and people have to adjust their ad campaigns accordingly.
+
+[00:17:37.110] - Lanie
+For many, it's going to be a better return on investment to run campaigns like joint venture Webinars, where people can gain access to each other's audiences than it will be to run ads to your webinars. Now, even collaborations will be faced with challenges because you can expect affiliate links to be impacted as well because they rely on cookies that have a certain duration of tracking attributed to them. Now, while this won't be the most elegant solution if the cookies are problematic for you currently, you may find coupon codes to be an effective control for being able to accurately track those referrals.
+
+[00:18:09.240] - Lanie
+However, I'm excited to see what affiliate marketing software platforms work out as a solution to this. And I'd encourage you to inquire with your provider to see what they're saying about affiliate tracking post iOS updates. Now, as people opt out of being tracked, I foresee a return to the password protected content where you have to log into a website, thereby consenting to having your activity onset website to be tracked as a means of gaining more insight as to how people are behaving online on your site.
+
+[00:18:39.250] - Lanie
+These were popular a few years ago, but I think they may introduce an effective tool in providing something your audience wants from you while you're obtaining the consent that you want from them. Now, as for email marketing, it's very likely that the iOS 15 updates specifically will turn the term open rates into an adorable concept. We will get nostalgic. Do you remember when? Vibes about in Urban Outfitter will probably sell it back to us in 15 years? However, even if all the pixels and cookies get removed, you are still able to track your email marketing performance using UTM parameters.
+
+[00:19:13.270] - Lanie
+You can still get a feel for things like your click through rates or CTR. So if you haven't been using UTMs or you don't know what they are, head over to omgrowth.com O-M-G-R-O-W-T-H and find out everything you need to know about getting intentional with tracking your emails, your ads, your social media performance just for starters. But another element of email marketing that is going to be impacted is how you clean your list. It's known to be a good practice to clean out your email list of people who are not opening your emails, because when you send emails that aren't being open, this can impact your deliverability as well as the cost you're paying for your email marketing provider for subscribers who aren't even seeing or opening your emails.
+
+[00:19:53.050] - Lanie
+So, in the past, what you would do is you would send out an email to everyone on your list who hasn't opened an email in the last six months asking if they still want to receive emails from you. And if it's still crickets, you delete their contact information. But you're not going to be able to track open rates anymore. So, how are we going to do this moving forward? I suspect that engagement metrics like clicks will continue to be available, and so the shift will have to be from did they open the email to did they engage with by email?
+
+[00:20:20.320] - Lanie
+And I hope at this point, you're starting to see the trend here because yes, engagement is the new benchmark against which you will measure everything. The days of being concerned over lowest bar metrics like page views and open rates. Those days are over. You're going to have to embrace these weird concepts called people and engagement and consent. And you know what I bet you'll be just fine with that. In fact, I think you'll do better than most with that. Now we covered a lot here, so let's recap some new and remixed ways to shift the way you're currently marketing yourself.
+
+[00:20:51.800] - Lanie
+One, if you're buying ads, look into integrating freebie, opt ins and sales directly through the platform you're using to run those ads. If it's possible for you to build those sales funnels into Facebook's own domain, it will be easier and more accurate for Facebook to retarget the user's behavior. It can actually collect data on two, put some thought into meeting people where they are, and consider adding in communication channels that would best meet them there like chat bots or website intercoms. Three, anything you or your team are hitting publish on can and should be tracked with UTM parameters, and this will be the most effective way of seeing a return on investment on anything you are putting out there.
+
+[00:21:35.290] - Lanie
+The pay and spray approach to marketing will soon be ineffective. The reason for which it will be made ineffective is actually beneficial to marketers who already rely more on relationship and engagement based marketing. Does this mean we will have to put a little more effort forth to measure its effectiveness? Well, yes, it will. However, we are in an industry of ever changing strategies and tactics, and this happens to be one that not only benefits our businesses in the long term, but also force us all to think and act a little more humanely.
+
+[00:22:07.530] - Lanie
+So, we've covered the changes you're going to have to make to your tracking if you want to keep that data compliant with privacy. But what about your strategies? If you want your online business to be relevant two years from now, you are going to have to make like Zuckerberg and make some changes. You may have noticed that old Zuck has changed the business name and model of the Facebook Empire to Meta. I would bet that you have probably been far more Privacy compliant than old Zuck.
+
+[00:22:35.840] - Lanie
+And so, you'll probably be just fine with making just a few adjustments to your business rather than having to overhaul your entire business model the way he is. But I will provide you with a few strategies you can and should implement as soon as possible. And let's begin with the lowest bar of them all, your Privacy policy. You do not have one. Get one. If you do have one, read through it to make sure it's up to date and make sure you have it on your website and its assets like your sales pages.
+
+[00:23:03.190] - Lanie
+You need a Privacy policy. You need a Privacy policy. You need a Privacy policy.
+
+[00:23:09.230] - Lanie
+Now, I'm not a legal professional and I'm not going to give you legal advice on this matter, but I'm happy to point you towards some affordable professionals who can. But as an online business owner, you have a legal obligation to inform your visitors what information you are collecting, using, storing and sharing. So if you're saying Lady.
+
+[00:23:26.770] - Lanie
+I don't share personal information, you are.
+
+[00:23:29.890] - Lanie
+If you have anything like a Facebook Pixel on your site, because that Pixel is essentially allowing Facebook to collect, use, and store what is happening on the site you've installed it on it's, collecting that information on your behalf. You are sharing that information with Facebook. Now, are there any exceptions to this rule of needing a Privacy policy? The answer is absolutely not. You need a Privacy policy. End of story. Now, the same deal goes for your opt ins. Don't act like a gross gropy frat boy stereotype in about 80s movie fondling
+
+[00:24:03.900] - Lanie
+anyone checking you out, get consent to people opting into your email list. Even if you don't live in the European Union, getting GDPR compliant is a smooth move that will most likely make you data compliant once Privacy laws are being enforced on you, which as we've discussed, is pretty much inevitable. Now, if you're not sure if you're being GDPR compliant, I'm certain totally positive that your email marketing provider has documentation available on this for you. So go ahead and inquire with them. Check that out, search their knowledge base, ask their help desk, whatever.
+
+[00:24:37.600] - Lanie
+Just type in GDPR and see what comes up and see if you're being GDPR compliant. Now, if you're using Google Analytics, and that's a very good idea. By the way, another must have is the new version of Google Analytics. It's called GA4. If you've been online for a minute, you probably have the version called Universal Analytics installed on your website and it's assets. But at this point you want to have both versions of Google Analytics installed on your website and your assets like your sales pages.
+
+[00:25:05.290] - Lanie
+Why? Because these are two totally different data models, which is basically a fancy way of saying they're not even measuring the same thing, and you're not going to be able to transfer the data from one version to the other. So, all your past website visitor information is just no longer going to be accessible from one version to another. Now, the difference between Universal Analytics and GA4 is kind of like the equivalent of planning a road trip where one person is counting the distance in hours and the other person is counting in miles or kilometers.
+
+[00:25:36.220] - Lanie
+It's similar, but you're talking about and measuring two totally different sets of information. And while one may correlate to the other doesn't necessarily. Now another difference is that Universal Analytics is like the old way of doing things. You remember that Nokia phone you had? Yeah, it's about as old as that, and it focused on hits and page views. Like, if you remember those pages counters from back in the days of the GeoCities websites and stuff like that, the metrics that Universal Analytics collects is basically as outdated as that, because that's when it came out.
+
+[00:26:07.120] - Lanie
+But now we're moving more towards those engagement focus metrics that we were talking about last week. Things like clicks and events. Those are the priorities. Now, the Google powers that Be are still working on GA4. There's a lot of improvements and features being worked on at this point, and most analysts are actually still using the universal version for reporting. But the benefit of installing GA4 on your website now is that when it is ready for its close up, you will have all kinds of retroactive data collected because you had the sense to install it on your website early.
+
+[00:26:38.110] - Lanie
+So, all that past website visitor information that you're going to lose when Universal Analytics is no longer active isn't going to be a total wash for you if you have GA4 on your site. Now, I mentioned those old school page view counters we used to slap onto our website to essentially provide new visitors with social proof that, hey, our stuff is worth seeing. Those vanity numbers used to matter like a lot, but everyone and everything is moving away from attributing value to those types of numbers.
+
+[00:27:05.570] - Lanie
+I mean, even social media platforms like Instagram, arguably the pinnacle of fronting social proof. They don't even show the number of likes anymore.
+
+[00:27:13.560] - Lanie
+Using your numbers to identify trends is way more meaningful than the actual value of the numbers.
+
+[00:27:20.020] - Lanie
+Your online performance is not like your account or your bookkeeper, the accuracy and the specifics. They don't really matter nearly as much as gearing that information towards increasing engagement and decision making, seeing those trends. I mean, we kind of do still have a version of those old school page view counters, right? You've seen them where you go to a sales page. And there's this modest little pop up in the bottom saying.
+
+[00:27:42.480] - Lanie
+Sally from Syracuse just signed up for this thing.
+
+[00:27:45.110] - Lanie
+And a second later.
+
+[00:27:46.330] - Lanie
+It's Mona from Milwaukee just signed up for this thing.
+
+[00:27:49.100] - Lanie
+Social proof is totally still a thing. It's just no longer built through likes and hits.
+
+[00:27:53.980] - Lanie
+Your social clout now gets built through creating connections between yourself and other people.
+
+[00:27:59.620] - Lanie
+If you've been playing your online business as a numbers game, consider asking yourself how you can humanize the experience you're offering to those said numbers. Because your relevancy in the near future is certainly going to depend on it, which brings us to how you're targeting people. And yes, even though we tend to use less flattering words like users or conversions or leads, it remains that what we are talking about here are people and those who start acting and interacting with their audience like they are people will reap a bigger slice of the pie.
+
+[00:28:33.040] - Lanie
+So, expect to see on site retargeting to become a bigger deal. You can use services like opt in Monster to track your on site behaviors, and this uses first party cookies, so totally legit, and you can target and engage your visitors based on how they are engaging with your website. So say someone is looking at your thanksgiving decorations, post or video. You could target someone who is 30 seconds into that engaged activity with a pop up that says, hey, since you're digging this, maybe you want to join us for our holiday dinner prep workshop next week.
+
+[00:29:03.240] - Lanie
+You can apply similar strategies with onsite, bots and intercoms. And yes, of course, everybody knows these are automated tools, but when they're used efficiently and intentionally, they can be used to build that clairvoyance.
+
+[00:29:14.810] - Lanie
+I know what you're going to need and like next feeling.
+
+[00:29:17.700] - Lanie
+And in the meantime, the sun is setting on the days of the pay and spray tactics of generic mass advertising. So, look, I've spent most of the last ten minutes just validating the importance of making these shifts. And I've gone on and on about it, but it's actually just a few boxes for you to check off, so let's summarize and frame it as such. Shall we? One put a Privacy policy in place or update the one you have. I've included links to legal professionals. I recommend who can help you with this at an affordable rate, but it is your legal obligation as an online business owner to have this in place and you are a liability and in violation of an ever increasing number of international data compliance laws.
+
+[00:29:56.410] - Lanie
+If you do not have a Privacy policy in place and up to date. Two, make sure your GDPR compliant with the way you are collecting email addresses. This is as simple as inquiring with your email marketing provider to ask them how you can do this using their specific system, so it doesn't have to be any guesswork involved here as to how you're going to set that up. Again. There are an ever increasing number of international data compliance laws being implemented every single week. But GDPR was sort of the first big gun out there, and it's robust enough that if you're complying to it, you're probably going to be in line with anything else being put out there.
+
+[00:30:30.430] - Lanie
+Three, add GA4 tracking to your site and its assets as soon as possible. But keep that Google Analytics Universal Analytics version on your website in the meantime. I have some videos guiding you through how to do this and verify this over at omgrowth.com. But this is kind of like how people said they wish they had invested in Apple in the 80s or in Bitcoin when it was a dollar. GA4 is the future of every data driven decision you'll soon be making. So, save yourself up for that success.
+
+[00:30:59.460] - Lanie
+Now, Four, focus on and value trends over numbers, because when it comes to analyzing your online performance, the numbers themselves carry way less weight than what the numbers are telling you about your online performance. If you haven't already, let this be a reminder that vanity metrics are anywhere near as valuable as growth and engagement metrics. And finally, five, remember whose needs come first, and the answer is not you.
+
+[00:31:27.970] - Lanie
+Yes.
+
+[00:31:28.370] - Lanie
+You want people to revisit your sales page. You want people to sign up for your email list. You want people to look at and share your content, but it's up to you to personalize their experience and give them a reason and connection to your brand. Now, I know change means more work for you in the present tense. But frankly, we as human beings. We need this work. You deserve to be protected and treated like a human being, even online. And that's what all of these changes are about.
+
+[00:31:56.620] - Lanie
+Consent is never an ugly word.
+
+[00:31:59.230] - Lanie
+I encourage you to reframe these changes as an opportunity, your opportunity to be a champion for human rights, consent, and behaving ethically in the online business world. And if there's anything I can do to support you, leave a comment on an Instagram post or slip into my DMs @ohmygrowth. Because while I like to say I've always got you, I've got you extra hard on this one. And if you're picking up what I'm throwing down in this talk, I talk a lot more about these sorts of things and giving you a whole lot more stuff to pick up.
+
+[00:32:28.460] - Lanie
+Over on the oh my growth podcast that's O-M-G-R-O-W-T-H podcast, please subscribe. And I talk about all these sorts of things with the same sort of delivery as you're hearing here. And if you are a visual boss who wants to see, like, literally visualize your business growth, check out my resources over at omgrowth.com. That's omgrowth.com and you can sign up for updates over at omgrowth.com/join. I'm Lanie Lamarre and you're the boss applesauce. We will talk soon. Bye.
+
+

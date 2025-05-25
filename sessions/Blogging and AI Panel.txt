@@ -1,0 +1,407 @@
+Title: Blogging and AI Panel
+Speaker: Kelsey Silver, Nina Clapperton, and Liz Stapleton
+Website: 
+Level: All Levels
+Category: Panel
+Length: 55:33
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/blogging-and-ai-panel-2024/
+
+Transcript:
+[00:00:00.340] - Liz Stapleton, Host
+Welcome, everybody. Super excited for this panel. You may notice that Nina is here, and she was not originally slated to be. Niki had to... She's traveling, super long delay, had to drop. Nina, fortunately, thought she was on the panel anyway and could join us. And I was like, yay. I was literally emailing her to ask. So super excited to have both Nina and Kelsey here, and I'll let you two introduce yourselves in just a second. I do want to give a shout to Link Whisper, which is the sponsor of this panel today. Did actually end up talking about them in the panel yesterday because I used them and it just happened to come up. It's a great tool. I don't know if you guys use Link Whisper, if you can speak to it, but they are very kindly offering attendees $20 off. So if you haven't signed up for Link Whisper, grab that deal. Link should be below or on the logo, basically, and you should be able to get that. So already, Nina and Kelsey, if you guys could please introduce yourself. I don't know who wants to go first. I should introduce myself, actually.
+
+[00:01:00.990] - Liz Stapleton, Host
+I forgot that yesterday. I'm Liz. Let's see if I can remember to introduce myself, especially when I introduce the panel. So I'm the host. Okay, who wants to go first?
+
+[00:01:10.100] - Kelsey Silver
+Nina, go ahead.
+
+[00:01:11.690] - Nina Clapperton
+Sure. Hi, everybody. I'm Nina. I'm the founder of She Know's SEO. I now run a multi six-figure SEO business, and I run a plethora of travel blogs because I have a problem focusing on one thing. I am obsessed with SEO, and I was able to grow my main site to 50,000 sessions in six months with the help of SEO and AI. I've been using AI writers since October 2021, which is why I decided mentally I was on this panel before I even signed up for it, apparently. So glad I'm here. But yeah, really excited to talk about all this stuff. I do use LinkWhisper actually a lot, and I have a lot of tutorials on it all over the place because I think they're really cool.
+
+[00:01:53.040] - Kelsey Silver
+Yes. Hi, everyone. My name is Kelsey Silver. I am the founder of the NeuroSpicy CEO. I am a neurodivergent operation strategist for other neurodivergent entrepreneurs. Since neurodivergent people are three times more likely to end up as entrepreneurs, it's my mission to make sure that all the tips and techniques that all the gurus throw out there are accessible and simple and easy to use for people like me. Neurodivergent spreads the gamut from everything from the common ADHD and AUD all the way through to PTSD, traumatic brain injuries, et cetera. So cover the rainbow. I'm also a MIT trained data analyst and I'm a licensed marriage and family therapist. I've got a therapy background. I've done all the things. My main interest is in how to use tools and technologies to... I'm a Lord of the Rings nerd. So my signature program is Build Your Fellowship. Part of that fellowship is technology. I consider technology part of my payroll. I'm really excited to chat about how AI can both make things more accessible, but for our customers, but also for ourselves.
+
+[00:03:00.470] - Liz Stapleton, Host
+Yes. Yay. Exciting. Okay, so we've already had some questions submitted. We're going to kick it off with one that was submitted yesterday. And it's, is it true that you will displease the Google Overlord's if you create a blog that is about a variety of things, i.e. A luxury hotel blog with reviews of hotels in various places rather than focusing on luxury hotels in one geographic region or country. I feel like Nina can answer this probably really easily.
+
+[00:03:27.280] - Nina Clapperton
+Yeah. Yes, you're going to anger the Google gods because Google doesn't know who you're talking to. Really, Google only cares about the user. A user types something into Google that they want to know about. The thing is, users typically come to Google. If you think of the customer awareness funnel, there's awareness, interest, desire, action. Awareness is where they're like, Where is Rome? What's happening? They're not typically like best luxury hotels anywhere in the world. If they are, it's more going to be like unique hotels, something where the hotel is the experience. But that's more of a Pinterest thing. For SEO, it's more like, Okay, luxury hotels in this district in Rome that I'm already planning to go to, now tell me what's there. So Google's not that they're going to hate you, you just haven't helped their user. And since they're all about helping the user, you're not going to do as well. Pardon me, I'm still a bit sick. Those general things are really great to attract interest on Instagram and Pinterest and things like that. But with SEO, specificity is your best friend.
+
+[00:04:34.320] - Liz Stapleton, Host
+I like that. We're going to cover the gamut because AI has been around actually in blogging, I think a lot longer than people realize. It's just expanded and grown. I think it's just going through boom right now. The next question that was submitted is from Rebecca, and they asked, best tools or resources for keyword, search, and what best practices? Either of you want to tackle that one.
+
+[00:05:01.300] - Kelsey Silver
+I'm going to kick it off with just a very quick disclaimer. The most important things, particularly for the people I work with when they're doing research, is to make sure that you're doing it in a streamlined and organized way, because the last thing you want to do is fall down the rabbit hole. And so whatever tool you choose, and I'm going to defer to Nina on the tools because she is clearly the expert when it comes to that. But whatever tool you decide to use, make sure that it works with the way that your brain and organization structure is set up. Because if you start going willy-nilly into a bunch of different tools, then, and I think Liz, you and I chatted about this as well.
+
+[00:05:40.170] - Liz Stapleton, Host
+I might be a little bit guilty of having done that.
+
+[00:05:42.330] - Kelsey Silver
+I'm not calling you out or anything at all. But really, if you try all of the different tools, you're not going to learn one well enough to actually be able to get down to something that's really usable. That's just my little disclaimer before I deferred to me.
+
+[00:05:57.190] - Liz Stapleton, Host
+No, I love that you brought that up.
+
+[00:05:59.380] - Nina Clapperton
+I 100% agree. I have ADHD. It got diagnosed in the fall, actually, but it made a ton of sense because that's what I do is I tend to... I get a tool and I spend probably 72 hours hyper fixating on it and learning everything it does. For me, that's helpful to teach people how to use the tool. But for a general person, you got to go to work at some point. This is my job, so I'm fortunate. But yeah, I would say for keyword research, my favorite is Key Search. It's $160 a year. I do have discount codes. If you just use Sheknowsseo it's not an affiliate thing. It's just you'll get 30% or they have a general one that's K-S-V-I-S-C, that's 20%, but they do deals all the time. They're really great. I've used them for years now. The cool thing is that you can do a lot of what you can do with Hrefs or SEMrush. They're more accurate than those two I found when I did a little mini test of the keyword volume, which nothing's perfectly accurate. But the thing that I really like is that they segment everything into windows that actually, I don't usually talk about this side of it, but because we have Kelsey here, this is great.
+
+[00:07:05.450] - Nina Clapperton
+I do love that you genuinely have to move to different areas to be able to do the different things, and everything looks different. For my brain, it actually keeps it more organized because I can switch. I'm like, Okay, now we're doing this thing. I don't get confused where I am, where I found with Ahrefs, all the windows look really similar. With Key Search, you can save everything to custom lists as you go. When I do get my, I'm going to I do 20 different types of keyword research at the same time moments, I can save them all to individual lists where I can be like, Hey, this is my affiliate. This is my, I don't know, golden. Yeah, exactly. So like anything you want, and there's no limit to that stuff, which I like. So yeah, definitely recommend them. But just like Kelsey said, and I think this also goes for AI tools, the biggest thing is know how to use the thing, feel comfortable using it, and then spend more time on the strategy because the actual tools are It's usually pretty similar, which is why I often just go for something that's the most effective but also the cheapest because rather than spend a million dollars.
+
+[00:08:08.450] - Liz Stapleton, Host
+I think Key Search monthly plan is 17 bucks. It's really affordable.
+
+[00:08:15.950] - Nina Clapperton
+I think it is $17. And that's great, too. So also more budget friendly. Get it for a month, turn it off for three months, come back. I would not leave it longer than three months because the data can get out of whack. If you just message to if you're on the yearly plan and you're like, Hey, I'm going to take six months off blogging. I've had clients that just messaged them and said, Hey, can I pause it for six months? And they'll pause your yearly plan. I don't know anyone else that does that. That's really good. Yeah. Okay.
+
+[00:08:43.010] - Liz Stapleton, Host
+I like that. Next we have, I feel like this was a question that was actually written in the comments on your session, Nina, but it was submitted here, too, so we'll go for it. It says, After you wrote 100 posts with AI support, did you repost them as new or update title content but not change the old date?
+
+[00:09:00.710] - Nina Clapperton
+I update it as new. Basically, when I go in and update a piece of content, AI, whatever. For one of my updates, I was using the Jasper Chrome extension for some of this recently, which is a really great tool because then you can work inside of your back-end of your site. There's some ChatGpt ones, too, that you can get through Chrome, but they're not official, so the security is questionable. Yeah, up to you to decide if you trust it or not. Definitely, they're out there, so use it your own risk. But what I'll do I'll edit in the document, and then if I've changed a significant amount, so if I've changed all the dates in the document, if I've written new sections, if something is significant enough that I would feel comfortable sending it to my email list like, This is new, that's my mental, I don't know, judges for that, then I'll change the publish date to today.
+
+[00:09:49.880] - Liz Stapleton, Host
+Okay, I like that. I would- Go ahead, Kelsey.
+
+[00:09:53.880] - Kelsey Silver
+I just want to tack on really quickly. If somebody needs a little bit of different way to think about it, think of it in terms of iterative regulations as well, 30% different, is considered something brand new. If you need a number to attach to it, just like Nina was saying, if you've changed enough, well, it's actually legally, it's 30% new. Now, obviously, it's your own stuff, so you can do whatever you want. But 30%, you're absolutely 100% ready to call that something brand new.
+
+[00:10:24.570] - Liz Stapleton, Host
+I will say if your permalink structure includes a date, that's where things get tricky. But ideally, your permalink structure should not be including a date. And if you
+
+[00:10:32.910] - Nina Clapperton
+get rid of that as soon as you can.
+
+[00:10:34.500] - Liz Stapleton, Host
+Yeah, yeah. Well, but it's easier said than done because you need to forward things. If you participated in the Start Your Blog challenge before the summit started, that was one thing we adjusted in WordPress settings. So I always like to say it because it defaults to a date included. And so if you don't know to change that... Anyway, I just wanted to point that out. Okay. So Haley asks, new to blogging and new to AI, what are your top three recommendations when getting started with AI for blogging? Maybe we can each throw our one, like our favorite. Kelsey, you want to go? You look ready to go.
+
+[00:11:10.230] - Kelsey Silver
+There's so many. You're making me choose one.
+
+[00:11:13.140] - Nina Clapperton
+Okay, you could do two All right.
+
+[00:11:16.940] - Kelsey Silver
+So I'm going to use... First, I talk a lot. I'm sorry. I qualify. So the one that I really, really love, and it's so overdone, I know that you know exactly what I'm going to say, but it's ChatGPT and that's because you can have a conversation with it exactly the way your brain works. If you are an oversharer like me, give it all the oversharing. If you don't know where to start, ask it to ask you questions. No matter where you are in the way that your brain works, ChatGPT can be that external processor for you. And even on the free plan, they're up to 3.5 on the free plan, it's still a really great option. Gpt-4 is really just going to give you better writing. But even if you just need to expand, I really love that for idea generation, for exploring trends, things like that. And truthfully, if you get really good at prompting, you can get awfully darn close to something that you just need to edit. Then I'm going to expand the idea of AI a little bit. We think of AI as something that creates something from scratch for us, but AI, it really is a lot more than that.
+
+[00:12:31.500] - Kelsey Silver
+I've programmed my own AIs from when I was in MIT, and so it can be almost anything you want it to be. One that flies under the radar that I think is really useful is Quilbot, even when it's your own in writing because it's a plagiarism checker. But even on your own writing, it gives you a really easy way to rephrase things, to restructure things. I know some people use ChatGPT to be like, Write this in a whatever tone. That's absolutely fine. But Quilbot will do some plagiarism checker for you and things like that. It's just a nice little side tool that a lot of people tend not to mention, but it is built on AI.
+
+[00:13:11.590] - Liz Stapleton, Host
+Nice. I've never heard of it, so I'm going to have to check that out. Nina, what do you got?
+
+[00:13:17.300] - Nina Clapperton
+My number one tip is always use it as a co-writer. Go into this not feeling that it's going to do everything for you. I think everyone comes into AI with two camps. There's either it's going to do everything, yay, and then they're mad it doesn't, or they come into it, it's going to do everything, oh, no, and then they just never use it and realize it can't do that. Do your own research first. That's where writing from a point of expertise and experience is really great. I could definitely try to write about ADHD. I'm not going to do nearly as well as Kelsey is going to do because Kelsey has so much more knowledge on it. If I trust ChatGPT or Jasper, or I've tried about 170 different AI writers now because I have a bit of a problem, don't recommend doing that. Recommend picking one or two that you like and sticking with them. I'm not a fan of one clicks, I will say that. I think you can't really give them enough context or help. But know your topic so that you know the output is correct. You should be the one doing the research, giving it the information, and basically guiding it.
+
+[00:14:19.050] - Nina Clapperton
+You're just asking it to do 10% of the work, essentially, but that often is the hardest 10%, which is the first writing. Then my 1.5 is edit everything. Liz actually taught me this, I think at the summer version of the summit, where you legally don't own the output if you don't edit things. Because it makes total sense.
+
+[00:14:41.010] - Liz Stapleton, Host
+What did I teach you?
+
+[00:14:42.450] - Nina Clapperton
+I should have known it because I did use to work in law, but I didn't even think about it. Because I always edit because no matter what you do, it never 100% sounds like you. I'm a perfectionist, so I like editing. But so always be prepared to do some edits. When you're working, edit as you because it remembers. They're all pattern-based. If you hate the first output and you keep letting it run, chatbot or long-form writer the way that Jasper works, it's going to repeat the mistakes. That's like if I got mad at my dog for jumping up on the couch when for three years I let him do that. I haven't told him to not do that, so I'm just a bitch. So don't do that.
+
+[00:15:25.650] - Kelsey Silver
+They're all learning. I think of them as toddlers. All AI, they're like toddlers. They're absorbing everything. They're going to spit some real interesting stuff out at you, and sometimes it can be really incredibly intelligible. But you always have to help guide them as to what the next step is going to be. I have a two and a half year old, so my world is tilted towards two years.
+
+[00:15:43.960] - Nina Clapperton
+I always think dog or baby intern because those are my two experience.
+
+[00:15:48.280] - Kelsey Silver
+I love it. I love it.
+
+[00:15:49.130] - Kelsey Silver
+I like it.
+
+[00:15:52.520] - Liz Stapleton, Host
+I would just say lean into AI and the tools you're already using, too. Everybody, every tool in their mom is adding AI. So check it out, especially if they're not going to charge you extra for it. And sometimes even if they do, it's still worth it. So I use ClickUp because I can automate so many things inside ClickUp. I think it really surprised people to learn that I don't have a VA. I put this whole summit on and it was really just me. I contracted out proofreading transcripts, but I would not have been able to do that without automations, without AI helping me to I'm going to come up with a quick session description based on the transcript. I used it to be like, hey, read through the transcript and come up with a list of tools and resources mentioned, because that's way faster than me sifting through everything. So lean into the AI and the tools that you use. I use and love the Marketing Magic App from... I'm going to mess up her name. Meneske? Meneske. I can't. I'm sorry, I'm butchering your name. But I do love that tool. I use it quite a lot.
+
+[00:17:02.940] - Liz Stapleton, Host
+I use ClickUp and the automation's in there. For writing, I like to use Frase because I got a lifetime deal on it years ago. So I mean, there's a lot. Ai is everywhere. So it's a matter of, I think just finding what fits into your workflow and the way your brain works.
+
+[00:17:20.860] - Kelsey Silver
+And sometimes it's thinking about what's one little change I could make? What's one small place I can start introducing AI to save myself time right here, especially if you've never dipped your toes in AI before? Because I know we can get down the ChatGPT rabbit hole real fast, right? You start talking to it and suddenly you're three hours in. Not talking from personal experience at all. So if you say, Okay, pick a very specific piece, like your automations, Liz, right? How can I make transcripts faster or these session summaries, how can I make that one specific thing faster? Oh, I bet I can AI for that. Try just that one piece, and it starts to dip your toes in a little bit, and you start getting used to what it could possibly do. Then you get that very brain explodey, oh, it can do all the things.
+
+[00:18:14.960] - Liz Stapleton, Host
+Yeah. I know. It'll hit you one day. You're like, Wait, can I automate that? Can I? And Nina, actually, I've been meaning to set this up because I saw you did this where you set up a Zapier zap with ChatGPT to automatically create social media I was like, I need to get into this, and I haven't done it yet. But it's crazy. The sky's the limit. It's using your brain to put the puzzle pieces together.
+
+[00:18:39.730] - Nina Clapperton
+That's the cool thing, especially between Zapier and it's also Make. So I go between Zapier and Make. Because first of all, I like to have something cheap. And so whatever I can do for some of my baby sites, if they're not making money yet, I need a free plan because they need a minute. But it is so good to find different ways. And yeah, definitely look at what you hate doing. So whatever you love, even if that takes you a while, who cares? So for me, formatting, I hate formatting. It drives me crazy. I'm going to find everything I can do to make formatting as easy as possible. I created templates inside of my WordPress that I can just... They're auto-formatted. I just need to add little bits, and so I built my prompts into them. That's why I use something like the Chrome extensions, because even though maybe... I do think it's a little bit easier sometimes when you're a beginner to work inside the software, but this way I can save myself for what I hate doing. I've been able to adjust my use of it. I think that's the important thing people need to figure out is what's the use case for you?
+
+[00:19:41.510] - Nina Clapperton
+Because sometimes other people don't need what you need. Also, just don't be sucked down by every new thing that comes out. The GPT store launched recently, and I went through and I found, I think, 312 custom GPTs and did a review of them and everything. Again, that's my job. Most people shouldn't do that. Most people should never do that. It was really fun for me, but that's because it's something I enjoy doing. I don't think that's useful for most people. Always a reminder, too, that the people you're following who are in the AI space, they're getting paid to do this, so they can spend that time. Also, for any new tool that launches, I caution people against lifetime deals right now just because so many things are launching. I think it's hard to commit yourself to one of them until you've tried it for a little while. I don't even get yearly plans anymore. I only get monthly plans at this point until I've tried something for three months. Because also, you don't know if you're still going to use it. It changes so fast. And saving yourself, Okay, I could save 40 bucks. Yeah, but you could save 100 bucks if you just stopped using it.
+
+[00:20:57.530] - Liz Stapleton, Host
+So Frase like, Yes. Oh, no. That was a lifetime deal before AI. It didn't have AI. They added it. And you can use it up to five times or something for free on the lifetime plan. But every once in a while I'll go in and I'll turn it on because I want to write a lot more. And this is where I think whatever tool you decide to use, know it. Really know it in and out, because they may not have even realized a use case that you're like, hey, if it does this, can I make it do that? And that's where it's just try to focus. Try not to have 17 different AI tools. Try to have two max, depending on what you're doing. And three, if you want to just have ChatGPT as a backup. And know how they work and know what their capabilities are and their limitations so that you can make it work for you. Yeah, just adding that. Okay, let me pull up another question. Okay, let's get specific. What AI tools do you find most effective for content creation, including idea generation, writing assistance, and content optimization? I feel like we've all touched on this a little bit, but let's actually explicitly share.
+
+[00:22:18.280] - Kelsey Silver
+So I tend to stick... So I had to make the choice for... Pick the one, right? And so I stick with ChatGPT just because I've gotten really, really deep into the prompt engineering for ChatGPT. So if I were to switch to something like Jasper, which I know would likely fit my needs better in terms of longer form content, the opportunity tax, the opportunity cost to Switch right now isn't worth it for me. Will it be worth it down the line? Probably. Right now, I stick with ChatGPT because I've gotten really good at prompt engineering. Then on top of Quilbot, I want to mention the Hemingway app because I love the Hemingway app readability and accessibility in terms of what grade level you're writing at and things like that, so you can make sure that your stuff is really accessible. And then I like to play with Leonardo AI, which is a really interesting image generator and some other fun stuff there.
+
+[00:23:18.540] - Liz Stapleton, Host
+Be really careful with image generators, guys.
+
+[00:23:20.970] - Kelsey Silver
+I know.
+
+[00:23:22.080] - Kelsey Silver
+I play with it to then decide how I want to photograph something, things like that. So I use it. 
+
+[00:23:30.680] - Liz Stapleton, Host
+That's how you should use it. So like Courts have said, images generated by AI aren't copyrightable. Okay, so there's that. It makes total sense. But you're also running the risk of infringing on other people's copyright. And I think it's way more obvious in image generation than it is in written things.
+
+[00:23:49.280] - Kelsey Silver
+100 %. It's so interesting that difference between writing, because we can be inspired by writing style, but typically our content is different, an image, because that artistic expression is just so unique. And even artists who take inspiration, it's even just in the way your hand moves is different. And so there is such an incredible uniqueness compared to writing. I love that conversation as well. Yeah.
+
+[00:24:16.890] - Liz Stapleton, Host
+I always want to throw that out. Yeah.
+
+[00:24:19.230] - Kelsey Silver
+No, absolutely. Definitely use it more for mood board creation, things like that, to really get an idea of how I want a photography session to go and that stuff.
+
+[00:24:26.590] - Liz Stapleton, Host
+Okay. Nina, what do you got?
+
+[00:24:31.250] - Nina Clapperton
+I use so many, but my favorites are definitely ChatGPT and Jasper, but the use case is different.
+
+[00:24:38.120] - Nina Clapperton
+Jasper is amazing for ebook creation because I just can't think of an e-book in the sense of, Hey, we're going to write a chapter. Now I'll tell you what to change. My brain doesn't work that way, but I know that ChatGPT can do it because I have done it. I've tested it. It's not my preferred workflow. Just like Kelsey said, it comes down to what works for you. For me, for Jasper, it works best for affiliate content and long-form ebooks for informational blog posts and things, ChatGPT is amazing. I use it for coding now. I've coded a plugin with it. I don't know how to code. I don't know what I'm doing.
+
+[00:25:12.320] - Liz Stapleton, Host
+I was like, How would you code this?
+
+[00:25:16.290] - Liz Stapleton, Host
+And I was like, Oh, maybe I could do that for next year or something.
+
+[00:25:19.530] - Nina Clapperton
+And it was surprisingly easy. I give it away for free. If anyone wants it, it's a scavenger hunt plugin. You can find it at sheknowessseo.co/everything because I'm not doing tech support. I don't know how to, so I'm not charging for it. But it was surprisingly easy to set the whole thing up, create it. There were minor hiccups because I wanted something way too complicated. But I've also coded just little things for my site, and that's what I like ChatGPT for, is I treat it like it's my personal assistant that I'm messaging or emailing or something. Anything I would trust someone else with, then I'm good for that. Jasper is more like, I need to sit looking over your shoulder as you do everything because you're working with rather than telling it what to do. I prefer that for an affiliate post or things that are a little bit more in-depth. Then I would say, I know this is a different form of content creation, but for Pinterest, Pin Generator is really good. I generated 500 pins in two afternoons, and you can custom write titles and descriptions with it. It's on AppSumo right now.
+
+[00:26:23.340] - Nina Clapperton
+I think it's 99 bucks a year or something for 2,000 pins a month, and you can add as many of your own sites to it as you It'll connect all the different ones. Then the AI is half a pin credit. I've been able to run four sites on it and AI generate every title and description, and I have not hit a limit. It'll generate templates for it. It's really cool. I really like it. I'm not great at Pinterest. I'm still figuring it out, but I do think that takes away some of the barrier for it, which is quite nice. Then I would say there's so many other ones. One that I really love for updating content and content optimization For main content optimization, use something like Neuron writer that's like a $26. Or no, what is it? I think it's like $86 total now, and you get 26 optimizers a month. It's like a cheap rank IQ, but it's a lifetime deal on AppSumo. Copy the LSI words it gives you and just tell ChatGPT to add it to your post. Easy peasy done. The other one I like is Query Hunter, which was developed by Fat Joe Davies.
+
+[00:27:25.100] - Nina Clapperton
+Don't know why he calls himself that. He's a very slim man, but that's his choice. But They have their 2.0 version, which I think is like 70 bucks a year or something. It has a Content Genie built in. So it'll tell you like, Hey, here's a keyword, a secondary keyword that you should have mentioned, you didn't. And then if you use Content Genie, it'll either write a sentence, a paragraph, or an FAQ for you that you can just slot in and edit really quickly. So again, one of those good ones to write inside your content, inside your posts. And with that 2.0 version, you get a Chrome extension too, so you don't have to necessarily have the plugin slowing down your site because sometimes stuff that can be slow.
+
+[00:28:02.690] - Liz Stapleton, Host
+I was like, I need to go look those up.
+
+[00:28:05.250] - Kelsey Silver
+Have you used Optimonk?
+
+[00:28:07.430] - Nina Clapperton
+Pardon?
+
+[00:28:08.120] - Kelsey Silver
+Have you used Optimonk?
+
+[00:28:09.720] - Nina Clapperton
+No, I haven't used that one.
+
+[00:28:11.200] - Kelsey Silver
+So it's this... I don't think it's new, but it's a really interesting I've only dabbled, so fair warning. But it's for personalized recommendations of content within your blog. And what it does is within the blog post, you can actually have, or on the page, you can have segments of the page that update based on the user's behavior.
+
+[00:28:36.050] - Nina Clapperton
+Oh, okay.
+
+[00:28:37.340] - Kelsey Silver
+So you can customize specific parts of your... I'm thinking for affiliate posts, it's probably going to be most useful. What's it called? Optimunk, O-P-T-I-M-O-N-K. But again, I've just dabbled, but it seemed really promising in terms of that personalized content recommendation. You can put, if someone's reading that post, what the other ones are. But I know there's a ton of plugins that do that. But it's specifically around really analyzing your visitor's behavior. So as long as you've got the right disclaimers on your site, you're golden, right? But it's just it seems promising. I'm going to poke at it.
+
+[00:29:21.410] - Nina Clapperton
+I like that. I'll also say if you're on Raptive, highly recommend. It's my favorite ad network, but it's 100,000 page views a month. So it takes a minute to get there for sure. More more than a minute. That was really reductive. It takes a while.
+
+[00:29:33.200] - Liz Stapleton, Host
+I was like, That was a little bit.
+
+[00:29:35.020] - Nina Clapperton
+That was really conceded. No, it takes a while. But when you're with it, they have a content optimizer built in. One of the cool things is it'll go through your Google Search Console, and every month, it'll recommend eight new posts that you should write based on what you're already ranking for, which it seems to run through the SEMrush one, which I don't like SEMrush, typically. I don't really use it. I haven't used it recently. If they do have a content optimizer, it It means that's what's running or. It might also have that capability. If you struggle to come up with new topics, that might be worth it. But you can also just feed ChatGPT a list of, Hey, here's my top 50 keywords I rank for. What are some other content ideas? I quite like that for ideation. I will say, never do keyword research inside of an AI tool like ChatGPT. It does not have the data. It can tell you semantically what to talk about. It has no idea of the competition. I see a lot of people and if you want to go viral on YouTube, a really fast way, apparently, is just to be like, Here's how to do keyword research with AI.
+
+[00:30:41.640] - Nina Clapperton
+And then you watch them and they're all exactly the same. And they just say, Hey, ChatGPT, give me 10 keywords about this thing. And then they're nonsense. So hack for YouTube, not a good hack for your actual content.
+
+[00:30:55.470] - Liz Stapleton, Host
+Yes. Another one I do is... I use Convertbox, which I'm feeling has been glitchy lately. I don't know what's going on. But I will have it display different things based on like, convertkit tags. So actually on the summit. So if you went to the sessions yesterday below where especially I did sales on my legal templates bundles. But if you had signed up for the summit saying that you hadn't started or you've been blogging less than a year, it showed you the sale on my essentials bundle, which is lower priced and more focused for beginners. And if you said you've been blogging a while, it showed you the sale on my more comprehensive bundle. And so that way I was targeting, and it's not always full proof or 100%, but that way you are... Because the more you can create a custom experience for someone, the better conversions and optimizations and everything that you're going to have.
+
+[00:31:51.890] - Kelsey Silver
+And there's so much concern about privacy and monitoring and things like that and fully recognize, and everyone deserves to have that level of comfort. But if you got the appropriate disclaimers, if you're making it very clear, if we're very consent-based in terms of, I am here to customize your experience. I'm not selling your data. I'm not doing all of those smarmy things. I am creating an experience for you. I use AI to create that experience, but it's really in service of you. I think that's probably one of the best uses of AI, is truly customizing the experience. I mean, think about all the things that you go through in your day where it's just like, Oh, they were thinking what I was thinking. Sorry, that was AI. But to me, that's one of the best uses is behavior learning and then implementing something based on that behavior.
+
+[00:32:44.690] - Nina Clapperton
+That's a big thing for people, too, that sell courses is having a chatbot now that is trained on you and who you are. I'm not quite to the point where I feel, I don't know, sometimes I'm like, I couldn't be contained by a chatbot, so I don't bother with it yet. But I've started creating custom quizzes for common questions of which of your courses are good for me, go through the quiz. But AI wrote that quiz for me. Even Interact now, they have the Interact... I never remember the exact name of it, but it's the Interact AI. You can go into the quiz software and say, Hey, I have this idea for a quiz. It's about these three courses I have helping someone pick it. Here's the info of my course. It'll go away, create the entire quiz for you, and just hand deliver it. It's still your ideas, your content, your goals, and so you need to know those things. It's not going to magically come up with what should happen for your business. But I love that AI just democratizes everything. It makes it possible for those of us who don't have time, who don't have the capabilities for certain things to, at a low level, do everything.
+
+[00:33:51.810] - Nina Clapperton
+No, I couldn't code the best app in the world with it because I don't know how to read it to tell if it's working or not. But I could code something that I I probably otherwise would have underpaid someone on Fiverr to do or just completely ignored because I don't want to underpay anybody. But I know that's the quality level I would have gotten considering how I did it. I don't want to have it that way. I think that's important to consider is I don't think it's actually taking real jobs. I think it's taking the low-level stuff and easing it for a lot of people. I definitely pay my VA more. I have two of them now because they do different things. But because we can offload so much of the basic stuff that we can automate their systems. Then they get to work a reasonable amount of hours but get a better pay that I can now afford because things can run more smoothly.
+
+[00:34:45.420] - Kelsey Silver
+There's absolutely something to be said for... Ai is not taking jobs. Ai is taking the jobs of people who won't learn how to use AI. In my corporate career, I was data analyst. My life was around health their data and analyzing that. I had to learn AI where I was going to get replaced by someone who was sitting there having AI help them do the analytics, and I'm sitting there in an Excel table. That's never going to work. But the same goes for those of us who are entrepreneurs. If we're not using AI, we're going to either be paying out the nose for VAs that we probably didn't need, or like you said, Nina, we're going to be paying people to do tasks that aren't necessary for them to do. We could just pay them a really wonderful salary because they're doing higher-level work.
+
+[00:35:35.190] - Nina Clapperton
+It's more fulfilling. I'd also say my example of that's always when I went to the law firm, I was a law clerk and I did a lot of fiduciary accounting in estate law. The woman who taught me fiduciary accounting still had that calculator on her desk with the roll of paper coming out. Then I would have to take the paper and put it into Excel because she wouldn't even do that. It was, first of all, it was sensitive data, so you couldn't use AI at that point because it was only free a.I back then. But it was interesting because I was like, you're making this company pay me whatever it was. I don't know, let's say, 20 bucks per hour. It was a salary, so I don't actually know the hourly. But wasting so much money on Half of my salary is me just typing what you won't type. When you're an entrepreneur, you can't afford to do that. It's just we don't... I don't know. If you have a million dollars to burn, share it, please.
+
+[00:36:26.450] - Liz Stapleton, Host
+But I don't. Okay, we did get a question in the comments. By the way, everyone's like, My brain's going to explode. These are too many sites and uses to keep track of. I will be getting this transcribed afterwards. There will be that to refer to. During your free 24 hour access. Okay, so the question is, is there an app/program where you can upload an image and have AI generate an Instagram caption for you?
+
+[00:36:55.630] - Nina Clapperton
+Chatgpt.
+
+[00:36:57.300] - Kelsey Silver
+Chatgpt is your best friend.
+
+[00:36:59.020] - Nina Clapperton
+Yeah, I created a GPT that's called She knows alt text that can read your image and then write alt text, and it'll also read the text in the image and put it into the alt text. All I had to do to do that is just have GPT 4. With GPT 4, you can upload files and images and then just tell it what you want, but always give it examples. So either build your own custom GPT where you give it like, Here's what a good Instagram caption looks like, because the base of whoever trained ChatGPT on what a good Instagram caption is, is from 2013. It's so bad. I'm not even good at Instagram, and I just thought it was bad. So feed it some examples, and then either do that every time you start or in a custom GPT, it's like you've created a mini workspace where you've pre-trained it to do that for you, so you never have to again. I'm a very impatient person, so I don't want to copy and paste. Also because I'm always going between computers and stuff, so I don't always have them ready, and then I get annoyed.
+
+[00:37:56.170] - Nina Clapperton
+So custom GPTs are a great way for yourself or for someone else. Pro tip, if you build one, you get a backlink from ChatGPT. So pretty cool, like DA90 something backlink.
+
+[00:38:05.620] - Liz Stapleton, Host
+Yeah. Okay.
+
+[00:38:08.530] - Kelsey Silver
+Connecting, if you don't want to go the route of custom GPT, just because I know we're talking low barrier to entry, This is not super low barrier, but you can train a zap to have all the prompts pre-done in a Google Sheet. So you can have it, just read, you can put your image, and then you You have the prompt, the next column is the result, and then the next prompt feeds off of that result, and you can have it run that zap. And it's a little bit complicated, but once you have it set up the first time, then you just put that image in and it'll run every single time. I personally would go the route of a custom GPT. I definitely support Nina on that because the custom GPTs are just so much cleaner. But if you don't know, there's a thousand and one tutorials on how to do a Google Sheet with zap and ChatGPT
+
+[00:38:59.840] - Nina Clapperton
+That's such a good tip because actually Arielle Phoenix, A-R-I-E-L-L-E, she does programmatic SEO like that where she'll build the base of content that way through a Google Sheet.
+
+[00:39:13.050] - Nina Clapperton
+But she builds nearly paragraph by paragraph of a post that way. It's crazy, but it's so cool. She built a bulk publishing plugin that just runs the OpenAI API through the Google Sheet in a slightly more helpful way. That way you don't have to put in... Because with Zapier, the thing is you're the that has to do the prompting, so she's done it for you. I don't use it because that's not the type of SEO I do, but I think it's a really interesting system. And that's something I really want to get more into is like, Zapier and like Google Sheets with ChatGPT because the OpenAI can do so much cool stuff.
+
+[00:39:47.630] - Liz Stapleton, Host
+And Zapier just updated their pricing. You're no longer limited to three Zaps on a free plan, which is awesome. I mean, I'm already on the pro plan. I pay like $600 a year because I use it so much for things. But For people to.
+
+[00:40:01.820] - Nina Clapperton
+I will say Make is a thousand on the free plan. So I will say it's very good if you just want to start from there. If you're a very beginner to this, I will say that the integrations with Zapier, especially for socials, are so much easier. But if you're like, Hey, you know what? I want to test this for just the cost of the API to start. It'll take you an extra second to set it up. But I totally understand. Sometimes the barrier to entry is ease of set up. Sometimes you just have no money. I've been in both places.
+
+[00:40:33.040] - Liz Stapleton, Host
+I've used Make before, and I'm actually going to be using it again shortly for some Thrivecart API stuff.
+
+[00:40:38.780] - Nina Clapperton
+It's very good, the Thrivecart. It uses all my Thrivecart stuff because Thrivecart drives me crazy with some of this stuff.
+
+[00:40:45.230] - Liz Stapleton, Host
+I did figure out how to set up the custom API in Zapier so that Thrivecart, I could connect things. But overall, there's some stuff I want to do with that.
+
+[00:40:57.030] - Kelsey Silver
+Another interesting one, if you're getting into sheets, is Rose. Rose does some really cool stuff with data analytics. So as Liz says, your data dates, right? But Rose can bring in the API data from a lot of different socials, a lot of different CRMs, and it will create your dashboards for you to an extent.
+
+[00:41:21.700] - Nina Clapperton
+Oh, no, I feel a new hyper fixation coming on. I just got to over Looker data studio. Look, her data studio is the most annoying thing on Earth to use, but it's so fun.
+
+[00:41:31.470] - Liz Stapleton, Host
+Yeah, I just got it really going. And especially with Thrivecart is I have it. I have it on a Google sheet.
+
+[00:41:37.600] - Kelsey Silver
+I haven't looked on that.
+
+[00:41:38.730] - Liz Stapleton, Host
+I can pull the data because trying to pull that data from Google Analytics was just like, it was so difficult. I actually been thinking,
+
+[00:41:47.650] - Nina Clapperton
+you can't pull affiliate data, too, which is so stupid with the with the with Google Analytics with it.
+
+[00:41:53.930] - Nina Clapperton
+So you have to route it.
+
+[00:41:56.280] - Liz Stapleton, Host
+You have to take the data from it. I I've gotten good. I took measure and maximize as a course that I signed up for. That really helped me to get a handle on figuring out where the best place to pull my data was from so that I could put together a dashboard that would actually help me and I look at regularly Yeah, I just I just built one out of nothing.
+
+[00:42:19.080] - Nina Clapperton
+And it was the worst idea. I didn't know what I did.
+
+[00:42:22.160] - Liz Stapleton, Host
+I wouldn't say they're pretty, the ones that I built from scratch.
+
+[00:42:26.060] - Nina Clapperton
+Oh, no, mine aren't either.
+
+[00:42:27.300] - Liz Stapleton, Host
+They're effective. I can now I'll see how many people I have in my membership inside of Thrivecart, currently. Because I've got it as part of seven different products based on different funnel things. And it's just, yeah.
+
+[00:42:41.470] - Kelsey Silver
+Well, and being able to visualize that data is so helpful because you can't change what you can't measure. You can't improve what you can't measure. You can't address it. And I mean, even in health care, when we would use analytics for health care, it was the same thing. If we didn't know what clients were walking in the door, how the heck are we going to serve them? But in our little world, especially when you're a solopreneur and you're just like, What's my next step? I throw out the business plan and I go by strategy, right? And so you have guide reels. That's just the way that I teach. And So it's like having bumpers on your bowling lane, right? But if you don't have the data to know whether your strategy is working or not, if you don't have those little, as Liz calls them, those data dates with yourself, then you're not going to be to course correct. But it's so hard for us to get data from all the different places. I'm really excited about Rose and the one you mentioned, I'm going to have to dig into that one, too, because helping people figure out where to get their data instead of doing a weekly entry into Airtable.
+
+[00:43:50.150] - Kelsey Silver
+Oh my God. Please don't do a weekly entry into Airtable. Please don't do it to yourself.
+
+[00:43:54.970] - Nina Clapperton
+This is the thing, and I think it's, especially with SEO and things like that, what I find people do is they either completely abandon the data or they become so obsessed with it, they're checking it 20 times a day. I actually wrote a post recently that was a little bit salty, I will fully admit that, that was basically, are you checking your... How often should you actually check your analytics? Are you doing it two My answer is once a month until you're at 40,000 sessions where it's like you're at the cusp of something like Mediavine or you're at like 90,000 page views, you're at the cusp of Raptive or something, because then there is a chance that any day might be the But if you're at four thousand sessions, I'm sorry, day to day, it's not going to make a difference. What it's likely to do is you're going to start that day either with a massive dopamine rush and then you crash, or you're starting on a low that's really hard to recover from. I find you need to have that balance. For me in my calendar, and I put everything in my calendar because if I don't see it, I'll forget it.
+
+[00:44:51.760] - Nina Clapperton
+The first of every month, I sit down and I check, what are my analytics? Otherwise, I am not checking it unless I'm actively doing an audit or something. Because you can't change it then. I think it's different when it's products and a membership because there's more that you obviously are doing on the go. One of my Looker Data studios tracks for each of my individual courses, it tracks where people are coming to my course from, what inspired them to purchase. So are they from my Facebook audience? Are they from YouTube? And then I could figure out where to focus, which is also helpful because with ADHD, you want to do everything. And so my whole goal this year is pair down. Stop being every platform.
+
+[00:45:32.910] - Liz Stapleton, Host
+I'm really on the automate and simplify. Why am I doing this manually? Okay, really quickly, someone commented, no place to upload an image. I think they're referring to how we talked about ChatGPT. You have to be on the paid ChatGPT plan, I believe, to upload it. It's the.
+
+[00:45:51.780] - Nina Clapperton
+If you're on GPT 4, when you're in the chat bar, there will be a little paper clip.
+
+[00:45:57.740] - Nina Clapperton
+Click on that and that's what you upload through. Yeah.
+
+[00:46:01.080] - Liz Stapleton, Host
+So just making clear on that. Okay. I would love to know what are some repetitive tasks in your blogging workflow that you've automated using AI? Give me specific examples.
+
+[00:46:14.980] - Nina Clapperton
+You want to go first?
+
+[00:46:16.990] - Kelsey Silver
+No, you go. I got first line.
+
+[00:46:19.420] - Nina Clapperton
+I don't know. So the repetitive thing to me is formatting for sure. And that I didn't actually use. I use AI to write inside the template. But with code-blocks or with Kadence, You can just create a pattern out of them of a template for your post. My headers are set, my images are set. I created custom blocks for my affiliates. It looked like Lasso, but then you have to pay for lasso because it's quite extensive, especially at the beginning. It resets all of that. It's already set to no follow links for everything for me because, again, hate little things. The AI just allows me to use it where I could just write inside of it. Then I hate social media. I think it's horrible. I don't understand it. I'm very fortunate to have a great community for She Knows SEO that allows me to be terrible at it and continues to let it grow. But for my other sites, I'm mostly just trying to get something out there. One strategy people were talking about a lot is doing a Facebook post three times a day with a little sentence and an emoji that teases the piece and then just link the piece.
+
+[00:47:23.730] - Nina Clapperton
+I've automated that with... I tried Vista Social, which could do it, but I ended up back with my Zapier thing because it was much easier. One thing that I'm planning to do, and Rose might be able to help me with this, is to create a Google Sheet that it'll just mass pull from for me. That way it can repurpose old ones too. Then I've also done it for Pinterest for Pin Generator. Love it for that. Then there are some things I've used it for. Chatgpt can actually… You can integrate it to your email systems as well. Then I have it auto-respond to some emails where it's like if someone sends me something that says guest post to one of my travel blogs, I don't accept them. It's very clearly written on the contact page, but you get spam. However, there's always one real one hiding in there. I'm like, We'll just reply to them and say, Here are my rates if you want to do sponsored collaboration. Done. I've been able to actually make money off of that where I would have otherwise just deleted all of them. That's a pretty good one. I would say otherwise, it is just sometimes talking to it about ideas that otherwise I'd be bothering my VA with when I pay her hourly.
+
+[00:48:31.750] - Nina Clapperton
+So yeah, that's a good one, too.
+
+[00:48:35.520] - Kelsey Silver
+For a lot of my stuff, the things that I need to replace with AI are keeping me on task as opposed to sometimes the tasks. And so probably the one that's been the best investment I've ever made has nothing to do with my blogging, and it's UseMotion or the Motion app. It is an AI scheduler. And so I plug in my 50,000 calendars, including my personal calendar, and I then use it as a project management tool. I create my projects, for example, this summit. This summit had its own project, and then all the tasks that I had to do. Of course, I used Goblin AI to make sure that I could get all of those tasks down to 15 minutes increments, and I tell it how long I need for the task, what priority, when the deadline is, whether it's a hard or soft deadline. And then it just lots of things into my calendar. So when I wake up in the morning, I don't have to think about what I need to do. Something has already told me, Hey, based on the priority and the deadline, this is what you should probably do. But I can also say, No, I don't feel like that.
+
+[00:49:48.760] - Kelsey Silver
+I'm going to do the task that was supposed to be done at 2:00 PM today. And when I mark that one complete, it moves it and it puts the one I didn't want to do in that two o'clock time slot. And it just keeps moving things If I totally just like, I did no work today because I need to go take care of my mom, it rescheduled all of those tasks for me. For me, trying to think and initiate those tasks was one of the things that held me back the most. I replaced that entire process with AI. But also, I hate social media, too. Nina, I am on that bandwagon with you.
+
+[00:50:24.080] - Liz Stapleton, Host
+I love that we're all like, we all are full-time self-employed, and we're like, none of us are like, Social Media, if you guys love social media, come to the marketing panel. Okay, this is not the panel for social media.
+
+[00:50:35.480] - Kelsey Silver
+Not the panel. This is how do we get rid of it and have something else do it for her. I have been really enjoying video AI, so I'm a talker, right? So I can pop on to video and fake answer questions in the interview format. I'll even do the pretend answering to the side thing, all of that. And video AI will chop it up into a little social news.
+
+[00:50:55.900] - Nina Clapperton
+I will say I just wanted to jump in because Kelsey said Video AI. Love that software. Also recommend Descript. I've been using it instead of Loom recently. And it's really cool because you can edit via the transcript, which I really like. So rather than having to watch for the sound waves and stuff, which takes a minute to load. I'm lazy. I just want to like, Okay, I know that I stopped talking for two minutes here. Let's cut that. I did a three-hour master class on Saturday, and I was able to edit the whole thing down in two hours. That was with me doing a bunch of edits because I was sick, so I was coughing during it and stuff. And that was with putting it in Thrive Cart and with everything. It would have taken me so much longer before. And it's really cool, too, because they have a feature where if you're reading below, it'll auto adjust your eyes. So your eyes are looking at the camera, which I think is haunted doll level creepy, but also cool. So pretty interesting.
+
+[00:51:52.750] - Kelsey Silver
+If you have an inVideo graphics card, so this is me being full on gaming nerd. If you have an inVideo graphics card, so this background is done with my graphics card, not with Zoom. So no matter what video I'm on, this background will always be on there. So that's a really cool AI feature. And then NVIDIA also does the eye tracking, too. So if you have an NVIDIA graphics card and you're a little bit of a nerd, you can go to the NVIDIA broadcast software in your computer and you can set up a virtual background that will always be there no matter what video you join on your computer, and you can have it do the eye tracking for you. I don't have the eye tracking on because it makes my look really weird.
+
+[00:52:31.710] - Nina Clapperton
+Yeah, I feel like it would get creepy after a bit, especially with a live like this where you just everyone's moving. Yeah.
+
+[00:52:37.920] - Liz Stapleton, Host
+I'm like, gosh. Okay, so we need to wrap up. Where can people find you? What do you want to tell them? Again, thank you for being here. Who wants to wrap it up first?
+
+[00:52:54.720] - Kelsey Silver
+Nina, go ahead. Sure.
+
+[00:52:57.130] - Nina Clapperton
+Thank you, everybody. So I'm Nina Clapperton, and you can find me at sheknowsseo.co. It's not. Com, it's. Co. And there you'll find tons of tips for AI and SEO. I also have a free Facebook group if you want to join it. That's where I'm most active. It's called SEO for Travel Bloggers, but everyone's welcome. I need to change the name eventually. One of those paths I'll get to in two years.
+
+[00:53:19.090] - Liz Stapleton, Host
+You're like, I can't get AI to do it for me. I have to actually do it, so it's not happened.
+
+[00:53:23.430] - Nina Clapperton
+And I talk about it so much now. I'm like, I have to stop saying the name for two months to let it connect. And I I don't have the memory to do that. I post tons of tips in there. I just posted the results actually of that 500 Pinterest scheduling thing with a pin generator and how that went, which was pretty fun. Join me over there. If you want to watch me literally now, I think. I'm doing my live where I'll be answering questions in the chat as well about using AI and SEO to rank on Google.
+
+[00:53:55.560] - Kelsey Silver
+Fantastic. I'm Kelsey Silver. I'm the founder and owner of the NeuroSpicy CEO. You can find me as much as I hate social media, the best way to chat with me is on Instagram. Might not post much, but I do talk there. And that's Kelsey E. Silver. So shove an E in the middle of my name. And also I do have a free Facebook group. It's the NeuroSpicy CEOs. And that's where I post my more interactive content. That's the one social media I can really get behind. But you can also check out my website, kelseysilver.Com. And I will be... My session drops tomorrow, and I chat with Liz about simplifying your business to really be able to get to a strategy, as opposed to some ridiculously elaborate business plan that you're never going to follow, because we all fall into that travel. That was awesome being on this panel. It's been a fantastic conversation with you guys.
+
+[00:54:50.490] - Liz Stapleton, Host
+Yes, definitely check out both their sessions. I know Kelsey and I had a great conversation. I always learned so much from Nina. Both of you, thanks so much for coming on this panel. Everyone watching, I'm going to be editing and getting this transcribed as quickly as possible. It usually takes just a few hours in general, just because I have lots. I have to go check all the customer support things that happened while I was here. But if you have any questions or issues, don't hesitate to reach out in the Facebook group. You can go to bloggerbreakthrough.com/support if you notice anything looks wonky. But yeah, thank you guys for being here. And we'll see you at the marketing panel tomorrow, guys, for who's showing in the audience.
+
+[00:55:27.750] - Kelsey Silver
+Thanks, all.
+
+[00:55:29.070] - Nina Clapperton
+Thank you you.
+
+

@@ -1,0 +1,378 @@
+Title: Blogging and AI Panel
+Speaker: Nina Clapperton
+Mariah Magazine
+Anca Pop
+Jenny Melrose
+Website: 
+Level: All Levels
+Category: Panel
+Length: 57:54
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/blogging-and-ai-panel/
+
+Transcript:
+Liz Stapleton [00:00:05]:
+Alright. I think I'm on. I'm double checking really quickly. Yay. Alright. We're live. Fantastic. hello, everybody, who's joining us. big thank you, obviously, to our wonderful panelist. So I'm gonna introduce the trainer, and thank you for your time. I'm double checking really quickly. I need to mute that video. Love that. I always do stuff like that. if anyone has been to one of my summits before, you know, my my lives are my biggest struggles. which just goes to show you. You could be blogging for years and you're still learning things and getting better. So, yeah, if you guys do have questions, I was watching the panel, feel free to drop them in the comments. I've already pulled the questions that were submitted ahead of time, but you can certainly comment with questions and we will I'll be keeping an eye on those as well. so again, thank you to all our wonderful panelists. We've got Jenny Melrose, Anca Pop, Mariah and Nina Clapperton, who, if you all, just wanna kinda go around real quickly and say kind of what you do and kind of the biggest way you're using AI currently in your business. Maybe people can start with Jenny. Okay.
+
+Jenny Melrose [00:01:21]:
+Take it or not. my name is Jenny Melrose. I am a business coach and podcaster over at Influencer Entrepreneurs. And I work with female business owners to help grow their businesses strategically and organically online. And the way in which I actually use AI is I'm using it to help create my podcast episodes. So I do my keyword research prior to because everything podcast episodes get turned into blog posts. And we use AI in order to figure out what questions to ask our people, our guests that are coming on to the show, as well as if I'm doing a solo episode, what I wanna make sure to answer based around that keyword. And then from there, I get the meta descriptions, as well as play with some titles to make sure that it's something that's gonna work well for podcasting as well as for the blog post.
+
+Liz Stapleton [00:02:14]:
+Alright. Awesome, Anca, if you wanna go next.
+
+Anca Pop, SocialBee [00:02:17]:
+Hi. I'm a social media strategist. So for me, AI is all about social media. I use it a lot with predictive analytics. So I look at the posts that I already on social media at the analytics that I already have at the, audiences that I already have, and I put it all into AI and help I make use of that to help create the best strategy for moving forward and improving and growing, the social media and even just creating content and predicting trends.
+
+Liz Stapleton [00:02:49]:
+Alright, Mariah.
+
+Mariah Magazine [00:02:51]:
+Wow. That's amazing. I'm gonna have to reach out. Like, if you don't dive into, like, how you do that, like, hello. okay. So, yeah, I'm Mariah. I'm an SEO consultant and educator. over at mariahmagazine.com. So I help online business owners get found organically through Google. I also run a podcast. I do a YouTube live series. And lately, I have been obsessed with using AI specifically for YouTube. So I use it to help create my YouTube video description because for some reason, I can, like, record a whole thing and then, like, can't describe it within, like, 6 sentences. Well, I use AI for that. I also use AI for my YouTube live streams, kinda just, like, Jenny where it's, like, using it to brainstorm questions in order to ask people. And I also used it for pitching myself to podcasts. Like, sometimes the the guests will be like, do you have questions that you want me to ask? And I'm trying to get found on podcasts for something different other than SEO. So I was like, ah, AI will give me the good questions. Yeah. The questions blew my mind. I was, like, a little impressed. And then I use AI for brainstorming and outlining content.
+
+Liz Stapleton [00:04:02]:
+Alright, Nina. Hey. I know Mariah just said
+
+Nina Clapperton [00:04:05]:
+that that was so cool from Anca, but both of you guys are really cool because I'm so bad at you youtube. So same issue. I wanna learn about that. I'm Nina. I'm a 6 figure blogger and SEO specialist, and, I use AI mostly to write blog posts and create content at scale. so for me, I run 5 blogs now, and I am one lady with one hand because my dog is always being pet with the other hand, So I need help speeding up my writing. so it's all about, yeah, optimizing with AI, getting, new and unique ways to grow traffic, and then using it to fix whenever I think I can code, and it turns out I can't, and it will help me, repair a lot of those issues.
+
+Liz Stapleton [00:04:45]:
+Awesome. No. I love that. so we're gonna dive more into that. I do wanna start off by answer making sure we answer the question that was submitted because that person was on it. And it's, I mean, it's a pretty straightforward question, but are there any good free or low cost AI tools for writing alt text which none of us actually mentioned alt text, but it's obviously a very important aspect of, you know, SEO and, you know, just being accessible to all different types of people, do and I have a tool that I use, but I'm curious if any of you, have started using AI to help you with Alt text.
+
+Nina Clapperton [00:05:22]:
+I am obsessed with alt text with my grandma's blind. So for me, alt text is like a hill I will die on happily. so I found a couple different prompts you can use with chat GPT to develop it, but there's also a plugin called alt text magic. It is not perfect. You will need to adjust it a little bit. it has gotten a lot better, though. When I first started using it, you couldn't add keywords, but I think it's now SEO press or something that they work with. it's not but you do have to, like, get a I don't think it's free. I think you get a certain number free per month and then you need to have a paid plan kind of like with, like, shortpixel or something to optimize images. Yeah.
+
+Liz Stapleton [00:06:01]:
+Okay. Anyone else before
+
+Nina Clapperton [00:06:03]:
+I should
+
+Liz Stapleton [00:06:03]:
+--
+
+Anca Pop, SocialBee [00:06:03]:
+I was just going to say that free, the only ones that come to mind for all text is chat GPT and BART, which is the Google art alternative to chat GPT. But I guess, yeah, now I have to take note of that too.
+
+Liz Stapleton [00:06:20]:
+I'll say I've been using it's literally called alt text dot ai. I think it's actually available as a AppSumo deal and you can buy extra credits if you, you know, maybe need to get caught up on alt text, not that I'm I'm guilty of that. I do. But it also works with, like, Shopify and stuff too. So if some of your Shopify images need, something. And again, and again, you'll wanna go back and review them, but something is better than nothing, I think, to start at the very least. but it was super affordable. I think I got like it's like $5 for an extra 100 or something like that. so Yes. There's lots of different ways. You can kind of use AI and there's different AI tools you can use to help you with alt text. but I mean, that those should hopefully help you get started. okay. So I would love to know, Obviously, there's and if you are just tuning in this panel, we're saying AI, it's artificial intelligence. It's taken especially the online business world, like, really by storm. I feel like if you're not actually in the online business world, you might be I heard of chat GPT at one point sometime, but I don't know what you're talking about. So that's what we're talking about is artificial intelligence, different tech tools to help us do things faster and create faster. So let's go ahead and start with because a lot of you said you use AI to help you come up with ideas Let's talk about kind of what that looks like, whether it's for YouTube or for social media or for blog posts. let's maybe talk about how you're using it for ideas and kind of what your next step after you have the idea is. Who gets started? Whoever wants to.
+
+Anca Pop, SocialBee [00:08:04]:
+Okay. Well, then I I guess I've already spoken. So for me, I use a lot of AI to kind of, look at trends, first of all. So I I try to -- think ahead and think what I could be using from what seems to be the next trend in my content so that I stay ahead because I do generally like to schedule my content ahead of time. And with trends, it's a little bit trickier to do that, but you can predict it, especially if it's a bigger trend especially if you're in a niche where trends are really seasonal, like, I don't know, fashion, maybe. You have fall trends. You have summer trends, things like that. that would work. so, yeah, I guess trends is a good way to use AI to generate content moving forward that you can schedule and plan ahead for. But then I guess the other, way and something that I mentioned in in in my introduction, I guess, is by looking at my previous content, things that worked, things that didn't work, and kind of finding using the AI to find a pattern between those posts so that I can then use that pattern in a prompt formula. to create my content moving forward and to kind of improve it that way.
+
+Liz Stapleton [00:09:28]:
+Okay. And is it so you're like prompt, like, is there like a trends AI tool that you look at, or is it a, hey, you're prompting, hey, what are the coming trends in this niche. Is that kind of how you're using it then?
+
+Anca Pop, SocialBee [00:09:41]:
+So I kind of combine, chatGPT as an AI tool with information from Google Trends to kind of get that, SEO perspective as well. And then I also look at the industry trends in general by looking at news outlets, looking at top leadership, things like that, kind of combining putting all the or dumping all the information into chat, GPT, to kind of get the better Pattern.
+
+Liz Stapleton [00:10:12]:
+Okay. Got it. Alright. Who wants to go next?
+
+Mariah Magazine [00:10:17]:
+I'll go. Okay. So, in terms of, I guess, we could talk about YouTube or, like, interview questions, So, essentially, what I do so, like, when I'm about to interview somebody on my YouTube live, I use chat GPT just because it's easier for me to have a conversation back and forth. so I'll just start off with saying I'm doing a YouTube live interview, and then I explain who my audience is. I think that this is really important. If you don't explain who your audience is, you're just gonna get super generic information. So I'm like, my audience is online business owners that like to DIY their stuff. We try to keep things very simple and practical and approachable. Like, that's kind of the whole situation with my channel. So I think saying that, and then I'll give guest information. Like, I am interviewing, like, I'm interviewing Ryan Robinson about, like, content marketing and that stuff. So he was on the panel in the last summit, which actually connected us. And now we be we became, like, best friends. We voxer, like, all the time. And so I'm interviewing him, and so I was like, okay, I'm interviewing Ryan, and we're gonna talk about content marketing and actually using AI and your human in order to create better content faster. Do you have questions? Like, please list me a couple questions that I could ask on the interview. So I feel like just typing to chat GPT, like it's my personal assistant, giving more information than necessary who the audience is and, like, the more context, the better, that seems to work pretty well in terms of, like, getting questions.
+
+Liz Stapleton [00:11:59]:
+Okay. I like that. Nina, Jenny. Which one of you is gonna jump in?
+
+Nina Clapperton [00:12:06]:
+I'm happy to go.
+
+Liz Stapleton [00:12:07]:
+Okay.
+
+Nina Clapperton [00:12:08]:
+Yeah. Kind of following Mariah. I do something similar for blog posts in newsletters as well. so for blog posts, I I'm mostly driven by, like, the keywords and what's happening and trends there. But I also use a tool called exploding topics, which has, like, rising trends that are coming up, and it tends to touch on things a little bit more specifically or maybe a bit faster than necessarily Google Trends does. so for example, when AI writers first took off. It was it told me about them long before Google ever did, but I was already, I've been obsessed with AI for far too long, so I was already in it. but that really inspired me to write a post on it and then I could go from there. So what I'll often do is take the post idea. Yes, it's always about who is it for, What's the goal? I kind of use, like, the who, what, when, where, why, how sort of system of, like, what are we doing? What's happening? what's going on? Who are we talking to? I think having like a defined audience is so important, and I tell every blog owner, like, sit down make your customer avatar. It's like the one thing that was actually useful from my publishing masters, but, like, everything else about, like, physical book does not cross over. and yeah, so then I'm like, okay, here's all the information. What are some more questions people would have? What are some extra things that I could include to make this more beneficial, and go from there? So it's not necessarily the topic of the blog. And maybe it is sometimes, but then I'm gonna find a keyword to pair with it. And then for a newsletter, same idea of, like, here are ten blog posts I have on my site. Here's my context. Here are my people. What would be a good newsletter? What are
+
+Liz Stapleton [00:13:52]:
+5
+
+Nina Clapperton [00:13:53]:
+good newsletter ideas to write for fall? and then it'll come up with things for me that are a bit more specific, versus just, I don't know, fall in love with fall you're like, what is that? Like, that's unhelpful. So getting something hyper specific definitely comes from the context.
+
+Liz Stapleton [00:14:11]:
+Alright. I'm I'm curious. There's no follow-up. Do you ever use AI to help you find keywords?
+
+Nina Clapperton [00:14:17]:
+Not really as much, to be honest. I I think because I use something called 0 volume keywords, so even the keyword research tools haven't picked up on them yet. And so AI is like, even further behind with it because it was trained more on popular things on the internet. So I find it can't help me quite the same way What I will use it to do is with Bard, you can comb, Reddit, and, Quora, and TripAdvisor's forum because I mostly do travel blogging, and pull information from there that can be a really good starting point on something that is hyper niche not talked about as much that you can rank for really, really fast. And then I will use it more for, like, defining pillars or creating kind of a topical map. for my site because I'm not a very visual person, so I'll be like, hey. You do this. You group all of this. I need 10 posts on this. I've only thought of 9. brainstorm 20 others, and then I'll go and, like, find a keyword kind of, quote unquote, officially, I guess, to bear with it. Yeah.
+
+Liz Stapleton [00:15:20]:
+That's awesome. Alright, Jenny. How are you, prompting chat or prompting AI to help you? Oh, yeah.
+
+Jenny Melrose [00:15:26]:
+Yeah. So for me, I start in key search as my keyword tool, everything for me because I see a lot of the bloggers that I work with make the mistake of thinking they can just don't totally understand what keyword research is. And what a keyword means, a lot of them think, oh, I'm gonna call it, just something cutesy, and that's my keyword, and I'm gonna just put it all throughout my content. I'm gonna rank for it. But what we don't understand is that if people aren't searching for it, doesn't matter because you're not going to ring for that because there is no volume. So starting with something like Keyserve where I can see not only the volume and how often it's it is being searched for within that 30 day period, but the trend that I'm getting for evergreen content, because most of my clients are looking for something that's gonna big and fall or big in December or in the spring summer. And in key search, you can see where that starts to go up in your map. to know when to start to plug that content ahead of time so that by that time it comes around, you're already established with that keyword and can really take advantage of that traffic. Then from there, we take it and we'll actually go into chat GPT. And some of my clients we've talked, we will take a look at the idea of starting with an outline for it. Let create an outline for me of this keyword that we're using, whether it's going to be an apple pie recipe or it's going to be fall decor, whatever it might be. and then from there, being able to ask some of the, what are the key questions being asked about this? So then they can break it down by are they asking for the freezer meals? Are they asking how they can actually what are some of the utensils that need to get used to cut a purpose like the apple pie or whatever it might be. just to make sure they're really robustly answering the question, So the problem is completely solved for them, but based on the keyword first.
+
+Liz Stapleton [00:17:14]:
+Okay. I like that. And you mentioned a big mistake. so let's talk about what are the mistakes you see if people making the most when it comes to trying to utilize AI in their workflow. and anyone.
+
+Jenny Melrose [00:17:28]:
+Yeah. Go ahead. I would say I've seen them think that they can just have AI write an article for them and plug take it and plug it in and pop it in and say, okay, we're done, or go in afterwards and try to add their voice, but they're editing something that doesn't entirely answer the question that their audience has. It's why I loved what Mariah said about really filling in all the information for them for chat GPT to understand who your audience is so that it's not providing you with information that really isn't relevant to your people, and then you're trying to go back and added all of this. It ends up taking them more time because they find that probably shouldn't just written this from scratch anyways or written it from an outline form. So I think that's the biggest mistake that I have seen those my clients definitely making for sure.
+
+Liz Stapleton [00:18:16]:
+I will say on that note, if you're taking whatever AI wrote and just plugging that in, you don't own that content. so you know, anyone could steal that from your site. You know, you have you can't do anything about it. It's not your content. You didn't create it. and we are starting to see all the different legal challenges in terms of AI tools coming out. so if you are gonna use AI to assist you, which I think is how we've all kind of said you should, you need to make sure you're making it your own, that it's coming from your own idea that you kind of have the creative maneuvering of creating whatever it helps you with.
+
+Mariah Magazine [00:18:54]:
+And I think that that's also, like, that's what makes your blog stand out from somebody else's is, like, your experience, your perspective, and your tone. So, like, that's actually a huge problem that I have with AI is like, I've even tried to have it write my newsletter and I read it and my response back was like, can you make this less cheesy? Like, it sounds so cheesy. It was like, hey. And we're gonna skyrocket your and I'm just like, bro. I'm like,
+
+Liz Stapleton [00:19:20]:
+take it like sales. I don't need. Yeah.
+
+Mariah Magazine [00:19:23]:
+Yes. And I've messed around with tones, and I've messed around with all of this stuff. So for me, using it for huge chunks of content gets actually more frustrating for me, but I'll, backpedal a hot second. So one of the biggest issues that I see is actually using it with keyword research without understanding keyword research kind of to piggyback off of what Jenny and Nina were saying too. because, like, if you go to chatGPT and you're like, give me the keywords for ex topic, like, I don't know, like, copywriting tips for your page or something like that. Like, give me give me the keywords. Well, unless I'm mistaken, isn't ChatGPT? Like, isn't it still using data from, like, 2020 or, like,
+
+Nina Clapperton [00:20:06]:
+2019. 2021. 2021. Like -- Yep. Yeah.
+
+Mariah Magazine [00:20:10]:
+Yeah. So, like, how relevant is that? So that's why I think using it for topics versus keyword research also keep in mind if you're using like, free keyword research tools. So, like, word stream, for example, I've heard a blogger recommend using word stream for keyword research. So I, of course, went into a rabbit hole, and I had to test it out. Well, what I realized that a lot of people probably don't realize is that the information that we're pulling out is actually from Google Ads. So same thing with using Google keyword planner for your keyword research. It's great to get some kind of data to go off of. but that's Google AdWord data. That's not SEO data. So you might see, like, copywriter tip oh, super low competition and word search or, like, keyword planner. But then if you go to, like, Sem Rush, which is my tool of, keyword tool of choice, It's wildly competitive. And so there's a huge gap here, and so a lot of people will start creating this content based off of competition that either a free keyword research tool will tell them or chatGPT told them to do it, but it's not accurate. So I say if you're gonna use that stuff for keyword research, you'd have to back it up either with, like, a really robust made for SEO data. or you have to be willing to just throw it at the wall.
+
+Liz Stapleton [00:21:32]:
+Oh, oops. I know.
+
+Jenny Melrose [00:21:36]:
+It's it's that mountain. She's in the mountains. It's
+
+Liz Stapleton [00:21:42]:
+Oh, okay. Well, hopefully she'll come back to us. Oh, we're today. You are. Hello? Beth. Rose on wall.
+
+Mariah Magazine [00:21:50]:
+Oh my god. My face probably. look super cute. So, yeah, so you can still create that content. If you feel really passionate about it, but just know that, like, the data and the accuracy and, like, how long it's going to take to show up on Google for that might be off. So That's what I wanted to say. That's the mistake I see people making.
+
+Liz Stapleton [00:22:12]:
+No. I like that. do do you guys have anything to add to?
+
+Anca Pop, SocialBee [00:22:15]:
+I I kind of agree in the sense that you you all mentioned that we should use AI as an assistant and not as a replacement. That's kind of like the biggest thing I think everyone can agree on. But when you popped the the question, one thing that came to mind was using the first draft of the AI, not working on the actual content that you're you you're given in the AI, but just using the first one, that you have in the prompt. I think it's worth, trying to to improve it before going into the second thing, which is the human touch of it, the human element, which should always be present in your content. to make it your own to make sure that the tone works for you to make sure that you have the accurate information, all of that.
+
+Nina Clapperton [00:23:07]:
+Yeah. And I would add, like, I I definitely think AI should be treating treated like a baby intern coming fresh out of high school first job. Like, doesn't know anything. Like, they can Google to get a vague idea of the industry on the bus ride into their 1st day, but they don't really know what's happening. And so, like, one thing I see I mean, there's so many mistakes people make, but another one to add on to, like, the ones we've already talked about is being that at the AI for the output when it's a 100% on the input that you gave it. So, like, if you had I always use the example of, like, if you have classroom of grade 8 kids and you say write a paper on Romeo and Juliet, and you haven't taught them what an essay is. You haven't told them, like, defined any parameters you're gonna get, like, 10 very different papers. Many are not what you wanted. And in fact, they're likely to not be what you wanted because, like, someone told me write an essay, I'm gonna write the shortest one. I feasibly can because, like, I don't feel like it. So if you said write it, I'm like, okay, easy, like, I don't know, the tangled star cross lovers nonsense, 500 words done, and then the teachers, like, fail. I'm like, well, you did nothing. So kind of on you.
+
+Liz Stapleton [00:24:19]:
+Yeah. I would it's almost like, AI, like, AI can help you speed up the things you already know how to do. If you're trying to replace it as a shortcut, like, you're not gonna get very with it. Like, it's not a place knowing how to write a good post. You if once you know how to write a good post, you can use it to help you speed up creating a good post. but it's not like the end all be all like, oh, I'm just gonna start blogging because AI will do it for me. Like, that's not really gonna get you very far.
+
+Nina Clapperton [00:24:49]:
+It's funny because so many people, like, there's the 2 camps of haters, I guess, is, like, it's gonna steal my job. It's gonna do the whole thing, and then people are mad that it won't steal your job and
+
+Nina Clapperton [00:24:58]:
+do the whole thing for me. And I'm always
+
+Nina Clapperton [00:25:00]:
+like, it's very funny because I think those of us that use it are firmly in the middle of, like, it's it's like a calculator. It just helps us do it a bit faster, but everyone else who doesn't wanna use it is like, it didn't do everything. It can't, like, get it get me to the moon today, or it's gonna get me to the moon. I shouldn't even bother.
+
+Liz Stapleton [00:25:19]:
+I like it. I like it. okay. So a couple other things I kinda wanna ask is because you kind of you guys are mentioning, like, use BARD because it'll do this, but use chatGPT. So how do you kind of where can you find the research to find out kind of where stuff's pulling from for whatever AI you're using and how do you then side which is the best AI to use for each instance?
+
+Anca Pop, SocialBee [00:25:46]:
+I have one. I actually, asked Bard and Chat GPT before this to make a comparison and see what we what each one is So let me just pull it up, and I'll I'll I'll actually answer that really quick.
+
+Liz Stapleton [00:26:01]:
+Sure. And, I mean, there's other AI tools out there too. Right? you know, Nina mentioned Jasper and there's a lot of other writing ones too. So I'm just curious when you're going to your, like, toolbox of AI tools, how do you pick which one to use when,
+
+Anca Pop, SocialBee [00:26:16]:
+I guess. So the answers that Bard gave me is the, in terms of accuracy, I mean, it that BARD is especially useful when it comes to answering factual questions. And I guess that's because it, it has real time access to the internet. Whereas ChatGPT is generally better for for things that are more creative, but not so much with factual information, I guess, because of its limited, info. So I guess that would be one thing.
+
+Liz Stapleton [00:26:46]:
+Okay.
+
+Nina Clapperton [00:26:49]:
+I mean, I guess I think of it kind of as a collaborative effort. So I just and and to be honest, like, I don't always I should check more so, like, where things come from. I have asked Jasper, and then they're like, it's partially trained on Chad GPT, and they won't tell you the rest because, like, it's proprietary.
+
+Liz Stapleton [00:27:03]:
+So I
+
+Nina Clapperton [00:27:04]:
+just, like, Well, I want to understand. I'm I'm nosy. I wanna know where everything comes from. I'm not gonna I don't know how to recreate anything. I can I break my analytics code every other because I decide I can code and then ruin things. So, like, it's it's what I'm known for with my students is, like, Nina will share a graph of, like, 300,000 page views with a plummet in the middle because I did something weird for 2 days. But, it yeah. I think experimenting between them. I love using them kind of like an orchestra together, so certain things for certain pieces definitely, I think Bard is better about doing more, like, real time results of, like, okay, give me actual information. kind of like SGE that way, which I've been playing around with a little bit. Lots of issues with that that Lily Ray on Twitter has been going into in a very, like, detailed way, which is really cool. which is why I have not deep dived into it because I don't fully understand it. But I think, like, every AI has some basis in chat GPT from what I've seen either in terms of, like, inspiration or actually being trained on it. So Yeah. It's kind of it can be interesting how they adjust it.
+
+Liz Stapleton [00:28:16]:
+Okay. Anything else to add?
+
+Mariah Magazine [00:28:20]:
+I personally haven't messed around with Bard. I did hear somebody say that what Bard can do is, like, pull actual data from a URL. Like, it can scrape the URL, well, chat GPT can't do that. So from my understanding, that's the difference. I haven't really tested them out, but that's like a huge thing. where it's like if you wanted Bard to essentially take a look at your Instagram profile, for example, like, you could pop your Instagram URL in there, which sounds really helpful. I primarily use chatGPT just because, like, I'm using it for more basic things than that than really, like, analytical type things and just, like, ideas, but then I also use Right Blogger. And so I use that one because Right Blogger essentially has created, like, I think it's, like, 40 different tools, but it uses on the back end. It uses open AI, which is the same back end that chatGPT uses. But the developer is kind of chunked Right Blogger into 40 different tools so that you didn't have to prompt and keep asking. Instead, there was just, like, the boxes that you could kind of fill out and use. So, like, when I'm having AI create my YouTube video, descriptions. I use Right Blogger because, like, I'm not going to mess around with ChatGPT and, like, having to write this whole thing. I don't need it very specific. It's gotta be, like, one paragraph a couple lines, and so I'll use a specific tool for that. So I think it just really depends on, like, what you're looking to get out of AI.
+
+Liz Stapleton [00:29:47]:
+And Right blogger, I think, is Ryan's tool. Right? Yeah. Yeah. Yeah. He wanted to be he wanted to be here on this panel, but the time he did it work for him because he does, he's created a tool since, like, Yeah. And it's it's pretty cool looking, so I definitely recommend you guys check that out. okay. Any anything else to add to that? No? Okay. so one thing I tend to struggle with will not necessarily struggle, but there AI can do so many things. and I wanna use it so many places, and I've started using it in places, but not all of them. So what I would love to know what are some, like, ways you plan to or hope to use AI, but you haven't maybe necessarily done it yet.
+
+Jenny Melrose [00:30:31]:
+I've had the client tell me that they have used it in order to get code, which I am terrible at. I'm like Nina, where I will break stuff. I'm just old like that. And be positive. It's very unhesitant to do it, but they have said that they've been able to get code that will pop up and it's this beautiful image and it's a button and it does all the things that supposed to do. I just don't know if I can wrap my head around taking the leap to try to break something for probably 2 hours. Whereas I'd rather use it to brainstorm for now, I think, until I'm really ready to have that image, I have a routine, a system down for creating those images now that don't necessarily need to be embedded. That's supposed to help with of course, page speed and site speed, but, yeah, that I'm interested, but, like, tiptoeing into the waters. Okay.
+
+Nina Clapperton [00:31:26]:
+So I actually use it for code because I'm bad at it, and I've coded calculators name generators and quizzes with it. and it taught me. It was like, here's, like, here's why this works, which is really cool. I'm currently working on a plugin with it, which is not going great. I'll be honest with you. both time and coding wise. I don't know what I'm doing, but it's really cool because, like, I created, this page view calculator where you can input the, like, key search page views, and it'll run a calculation to give an estimated actual traffic you'll get and you can add up to 50 keywords. You can drag and drop a CSV file into it, which was just a weird ADD hyper fixation 1 weekend when I didn't wanna be doing something else. So it's kind of like become an active procrastination thing for me to do fun stuff. And so definitely, like, I have a YouTube channel mostly just repurposed Instagram videos, which are mostly I've been driving across the US and Canada with my dog. Need someone to talk to. So I just, like, record a 1 minute video, so they're terrible. Long term, I would like to use it to, like, do video descriptions like Mariah's doing. But yeah, I think I'd also been using a really cool tool called Vidyo where it'll take a long form YouTube video and auto create shorts for you. And the thing is, like, when I try to do it now, because I don't understand YouTube strategy and I don't necessarily watch them back as smoothly as I should, they don't succeed super well. I don't have the strategy behind it, so it's just, I don't know, it's doing the thing in a really great way. it's on me that I have not invested more time or energy into it, but I think it's a really cool tool for repurposing.
+
+Mariah Magazine [00:33:08]:
+Yeah. I've messed around with Vidyo too, and it's amazing. It's amazing. I
+
+Liz Stapleton [00:33:13]:
+actually Like, what?
+
+Mariah Magazine [00:33:15]:
+v i d y o y o dot ai.
+
+Nina Clapperton [00:33:20]:
+It's ai. Yeah.
+
+Mariah Magazine [00:33:22]:
+Yeah. So I think you get up to 75 minutes a month. You can upload, like, a long form video, and so I do podcast interviews. Actually, the last recording from the live summit. I had Elizabeth send it over to me. I popped it into Vidyo, and it took out a genius quote that I said, and, like, it did really well on Instagram Reels. And so it and then I can repurpose those to YouTube exactly like Nina was saying. I would say and, Nina, I'm just very interested, like, how you use a I to create content and juggle 5 different blogs? Because I feel like I wanna use it to create a little bit more content since I'm so YouTube focused, but, like, I got into the industry creating blogs and stuff like that. And I know that I can, like, repurpose my YouTube videos and turn them into blogs, but like, my YouTube videos are super tutorial based, and it's like, I would have to grab screenshots of, like, my screen to walk people through. So I think you've been just using AI a little bit more for the actual content creation process and letting it in because I find Maybe I'm just not prompting it right, but when I let it do too much, I get too frustrated. And then I'm like, dude, I'll just create this myself. And I think part of it is that my brand voice is so connected to my own voice that I can't get it to, like, talk how I would talk, and I'm, like, recreating everything that says. So -- I'll
+
+Nina Clapperton [00:34:48]:
+give you two tips right now. Do it in small pieces always. Do it like like set header by header, essentially. And then number 2, feed it your, like, a piece of your information or a piece of your writing. I do this with newsletters where I'll be like, define this as Nina's style and then I give it something I've already written. And then I say, tell me what my style is. And then I can correct it because sometimes it will. It's like, oh, you're really petty and, like, whatever. I'm like, nope. Let's move away from that. And then we'll, like, work out my style together, and then you can put that into, like, I call it the brand voice area. I know that's not what it's actually called in chatGPT plus where you, like, tell it your history and whatever. and then I find it works a lot better that way because, yeah, it is all AI is technically trained to be a golden retriever, essentially, in terms of, like, everything's so great. Yay. and we need to tone that down a bit. But yeah, so I find break it down to small things.
+
+Nina Clapperton [00:35:47]:
+If you ask it to write
+
+Nina Clapperton [00:35:48]:
+a full blog post? It'll be 500 words, and it'll be terrible.
+
+Mariah Magazine [00:35:51]:
+It's like the worst thing I've ever written. I've, like, ever written just, like, there's literally 7 blog posts that sound exactly like this word for word already on the internet. Okay. Cool. Well, I'm glad that I asked. Thanks for sharing that.
+
+Nina Clapperton [00:36:02]:
+No worries.
+
+Jenny Melrose [00:36:03]:
+I'm wondering too, Mariah, if you could take, like, pieces like Nina's talking about of, like, a transcription of your video so it already has your voice in the way that you broke it down. and pop that transcription into chat GPT and ask it to rewrite it so that it is more less talking sounding and more written sound. Okay. But the brand voice in it.
+
+Mariah Magazine [00:36:25]:
+I'll try it. I'll let you guys know how it goes. I'll try it. I don't have my hopes, to be honest. That's And that's why I kind of just use it for brainstorming and outlining and questions and stuff like that. And maybe it's just my ego being, like, nobody can sell me. I am me. So, I mean, may could totally just be me too.
+
+Liz Stapleton [00:36:41]:
+I'm cure so, like, especially for those of you doing video, whether it's for social media or whatever, Have you tried because there's a lot of the tools now where it's like you pop it in, it'll transcribe it, which, like, automated transcription is not really new, but now it's like summarize and it comes with a summary or it's, like, create social posts on this video or something. Have you guys been using that a lot or have you tried it, like, was been your experience there?
+
+Nina Clapperton [00:37:08]:
+So. I I did some. I I did something for my course. So I have an SEO course, and it's got way too many modules and too much stuff. And when I first recorded it, I just wanted to get it up, so I didn't format it super well. So I've been taking the transcription from Loom that Loom does and putting it into chat GPT and saying, like, summarize what they're gonna learn summarize, like, write a bullet point of the action steps, things like that, but I haven't I don't use social media for anything, but I'm bored. I live alone with my dog. I need human contact once in a while. So, like, I have no social strategy. but I do know people who do, like, repurpose it that way or feed the blog in and say, like, I'm sure Anca can talk way more about this than I can. but, yeah, there's also a plugin or Chrome extension called chatGPT for YouTube, that I really like for summarizing other people's YouTube videos because I do have ADD. I have a very short attention span. And some days, I'm like, is this video worth fighting my attention span for. So I'll summarize it to be like, not worth it is worth it sort of a thing.
+
+Anca Pop, SocialBee [00:38:15]:
+Yeah. I think I think I'm on the same page as I I haven't tried it for actual video summaries, So that's a good tip, but I have tried it with transcripts, that I wanted to create posts around. So we usually have a lot of webinars at socialbee. So I do have a lot of content that I can repurpose then into, LinkedIn posts or into posts for YouTube shorts. I was going to say YouTube reels for whatever reason.
+
+Liz Stapleton [00:38:44]:
+And -- Yeah. Yeah. Basically,
+
+Anca Pop, SocialBee [00:38:49]:
+and there's even a way for you to do that in socialbee where you can add a big chunk of text, whether it's a transcript, whether it's a blog post, whether it's something like that, and just say, hey. Create 10 social media posts based on this. And it pulls out, I guess, 10 ideas or how many ideas you need and it creates content around that that you can then use, I don't know, with Canva to create quotes from that blog post, to create key elements from that, things like that.
+
+Liz Stapleton [00:39:19]:
+as I'm trying to fill out my, like, SocialBee for my evergreen stuff, I'm gonna need you
+
+Nina Clapperton [00:39:22]:
+to send
+
+Liz Stapleton [00:39:23]:
+me the article on how I do that.
+
+Anca Pop, SocialBee [00:39:24]:
+Yep. Absolutely.
+
+Liz Stapleton [00:39:28]:
+We'll separate there.
+
+Anca Pop, SocialBee [00:39:29]:
+I actually have a demo webinar on it coming up next week, so
+
+Anca Pop, SocialBee [00:39:32]:
+you can join that.
+
+Liz Stapleton [00:39:33]:
+Okay. Well, we'll see if I've I've got it. Kids at home. It's it's tough. so okay. Alright. Any anyone else wanna kinda touch on that? Is there no? I think you guys mostly, mentioned Okay. we did have another question come through via the chat, and it was have any of you used content at scale? I don't know if content and skills like the name of something.
+
+Nina Clapperton [00:40:00]:
+It is.
+
+Anca Pop, SocialBee [00:40:00]:
+It is. It's a tool. Yeah. I haven't personally, but we have been, testing it out at socialbee, just to kind of see what's going on with it. From what I can see quite powerful. So I don't know much yet about it, but it's something that I'm currently learning.
+
+Nina Clapperton [00:40:22]:
+Yeah. I demoed 79 tools since the beginning of the year, and I I tried it, and I don't remember anything about it because I was I don't know. All our members, my accountant, yelling at me, so I'm not a 100% sure what which one was which. Oh, yeah. I wish I could remember it.
+
+Mariah Magazine [00:40:39]:
+You have,
+
+Liz Stapleton [00:40:39]:
+like, a blog post on it? Like, did you do a blog post on each of the gazillion tools you tried? Or --
+
+Nina Clapperton [00:40:45]:
+I compared the best ones. So there's a post of, like, 38 or something on -- Okay. -- SEO that, like, talks about them. So it does break it down, but I don't I didn't do, like, an in-depth review of each one because I was just trialing them for a month or so, because I had left my law firm job and I was like, Yay. Freedom. I can do what I want with my time.
+
+Liz Stapleton [00:41:06]:
+Yep. Okay. yeah, so I guess we don't really have an answer, but potentially look at, Nina's site for, see if it's mentioned in 1 of the top 38, I guess. I didn't even know it was its own tool, so I'm clearly not the person to answer that question. There's so many AI tools, and there's like, they're just constantly coming out or they're, like, older ones that have developed into using AI more like Frase, Frase is a tool. I I've had tips for I got it as a lifetime deal because that's what I do. my I've finally gotten my AppSumo addiction under control, but it wasn't easy. it's never easy. Right. okay. So, I guess On that note, I would love to know kind of what are just beyond chatGPT and Bard? What are your favorite tools with the AI component or specifically an AI tool that you would like to use kind of day to day, they're the most helpful.
+
+Nina Clapperton [00:42:14]:
+I'm still a Jasper addict. I know people are off it a bit more, and I think more people will be off it now that they're changing their affiliate program and people were only in it to promote it. but I am I'm obsessed with it. I I like I love writing. Writing is like my 1st and foremost passion, so I like that I can write with and I think that's the thing most people dislike about it. I also enjoyed Koala, but I think Koala's not great for travel writing. It works better for some of my other sites. and they have a really cool feature where it will auto pull Amazon products for a product review and, like, insert images in the links and stuff, which is great. It has to be edited for sure, so then I pull it into chat GPT, but it's a fun one. yeah, so I've used a lot of them, but I think I always come back to Jasper and chat GPT, and I kind of use them in tandem. Jasper's definitely better at affiliate posts, but chat GPT is way better at newsletters.
+
+Anca Pop, SocialBee [00:43:11]:
+Yeah. I was going to mention Jasper, but you you went ahead. I guess outside of Jasper and outside of Bard and Chat GPT, the ones that I usually, go to is the image AI, mid journey, Photoshop image AI, which is amazing, really. So if you need, different background for for your human in the picture, you can definitely do that with Photoshop AI. It's amazing. Canva even has a good Photoshop, a good AI. So image AI for me is something that I've I've really been experimenting with trying to get my prompts better and better so that I can actually create very good images because I'm really bad at design. So I really need all the help I can get there.
+
+Liz Stapleton [00:44:00]:
+Alright.
+
+Mariah Magazine [00:44:02]:
+the tools that I use, we kind of already talked about them, but vidyo.ai I forgot about that. one. I literally use it. I use my 75 minutes up every single month. So definitely that one, if you have long form videos, you wanna clip it into reels, into shorts, into TikToks, into whatever you want. Also, it makes you look pretty professional because I feel like sometimes the videos that do really well is like somebody talking into a microphone, podcast clips, and then you're just like, wow. I look very professional. So I like that. And then I also I like Right blogger. And so after the last summit, the live panel, Ryan reached out and he was like, hey. Do you wanna test this out? Then I started messing around with it. And, like, then I wasn't really 2 into AI wasn't really that into it, but then I started messing around with that and just how simple they made it where it's like, I can literally open up a tab. pop my keyword in and have my YouTube video description created in 2 minutes, not even a minute and a half. and then I don't have to sit there, like, reprompting it over and over and over and over again. So it really does save a lot of time. I like how they pull out the different tools and just try to make it, like, as seamless as possible. So that those would be my 2. Alright.
+
+Jenny Melrose [00:45:16]:
+That's the other one that I used that Mariah was actually the one that introduced me to it. We I did a podcast interview with her when AI was just really picking up. And that was one of the things she talked about when I reached out to Ryan as well, like, loving what he had put together because he does. He makes it so simple with having all those little pockets already put together so that it you're not feeding it what it needs to have. It already knows that your social media title, there's a difference between a Twitter title and a Pinterest title or whatever that it might be so that you can just kinda, like, quickly pick on the category that you're looking for and be able to jump to it. But those are the ones that I have kinda been playing with. And, of course, my Alexa, which I don't wanna say very bad because it'll start listening to me and start putting stuff in my kid's Christmas lift. That's without even realizing it. I'm so, but, yeah, it doesn't be fun.
+
+Liz Stapleton [00:46:06]:
+I like that. No. That's great. okay. So let's we we've gotta wrap up. I would love to hear kind of where you guys think AI and blogging is moving to, like, what is the future gonna look like in your opinion? Where do you see things kind of changing or adjusting or dropping back like I said, the legal stuff is coming to a head. but, yeah, kind of your predictions for blogging and AI, I would love to know.
+
+Jenny Melrose [00:46:32]:
+I can for me, I think AI will always be a brainstorming tool. I don't know that it's going to replace, and it's not going to take over, and it's there's a lot of people that I think have a lot of worries that it's going to replace them as a person, as a blogger. I've been blogging. since
+
+Jenny Melrose [00:46:50]:
+2010.
+
+Jenny Melrose [00:46:51]:
+I feel like dinosaurs from VRF at the time. It is not dead. It is only continued to grow, and has given us more off treaties to be able to monetize. I think if anything, it's going, we're gonna see AI speed up our processes so that we can do things like Nina and how 5 different blogs and it not take as long because we can speed up our entire process. in my mind, that what we're looking towards. It's not something that's gonna take over and find ourselves obsolete. Yeah.
+
+Anca Pop, SocialBee [00:47:21]:
+I agree. I was going to say that, I I feel like it's going to move more in the direction where we would need to edit and proofread and research the article, not so much write it, just the the actual writing part, will take less so that you can focus more on everything else that goes into writing an article, writing a social media creating that strategy, creating everything.
+
+Mariah Magazine [00:47:49]:
+I think and I kind of already mentioned this, but I think your perspective, your piece is going to become increasingly more important. So if people don't know, Google is going to release an updated version of Google search within the next I think it's within the next few months. It might be before the end of the year. So, basically, AI is going to be built into Google search. And so a lot of people are freaking out. I have clients that are like, oh, is all of my SEO gonna, like, crumble and fall apart? And, like, no. Okay. So listen. Basically, what's gonna happen is, like, the organic searches are going to get pushed down a little bit, and so above the fold is going to be AI. But we have to keep in mind that, like, This isn't going anywhere, but Google, it's they're throwing something at the wall to see how it's going to evolve. So as users, we are going to affect how this is going to evolve. If people are really annoyed with it, I'm not saying Google's gonna get rid of it. They spend a massive amount of money at resources. but they will try to tweak it. And also Google search isn't going anywhere because Google makes massive amounts of money from Google ads. So there's no way Google's gonna shoot it in the foot by putting AI out there. But I do think what's really going to matter is, like, your perspective because with AI, you can create generic content all of the time, but what makes you stand out is your experience. So, like, think about if you're trying to plan a trip to Disney World for your family. are you gonna give a shit about, like, what the AI says, like, how to plan it, or are you gonna try to find a blogger that's, like, actually done it? Like, sorry. The robot hasn't gone to Magic Kingdom at 6 AM, but, like -- It's on your list.
+
+Liz Stapleton [00:49:25]:
+It's
+
+Mariah Magazine [00:49:25]:
+great. Like, yeah, with toddlers. So it's like, you're going to I think as humans, we're gonna be trained to really look for perspectives. And so, therefore, I think YouTube is going to blow the hell up, honestly. I think that people are really going to crave proof that a human is saying something that a human is, like, it's their perspective, and I think video is going to take off. That's my perspective.
+
+Liz Stapleton [00:49:53]:
+I heard this summarized in, like, a training I was listening to the other day from, I'm gonna say her name wrong. It's not Minsky, but she does marketing magic. I don't know if you've seen that. but she was like, AI gives you content. You are giving it context. Like, that's really the big difference. is, like, it's not just content. It's context, and that's how it's gonna you're gonna still stand out and stuff. And so content versus context, I think, is kind of a great sort of summary of that. Yeah.
+
+Nina Clapperton [00:50:21]:
+I I a 100% agree. And I think the big thing is, like, we've already seen that with EEAT where, like, Google wants original images. Google wants, like, your actual experience. I think gamifying Google will stop being potentially quite as easy for people. Like, you see people saying, like, I'm gonna, like, seed a post or a site with like 200 posts and then leave it for 6 months and make a $1000, and I'm happy. And it's like okay, but are you helping anybody? So I think prioritizing user experience, giving your context, videos definitely already, like, doing amazing things, even for blog post, like including it inside of blog posts and doing them in tandem is performing really, really, really well. And so I think, like, one area I hope that it takes off more in is that it becomes easier for people to use it to help speed things up because realistically it allows people to launch a new business, to, like, be creative, and not have the same constraints. I launched my blog working 4 other jobs at the same time including being a law clerk full time. So, like, I didn't have unlimited time to do all this. I didn't have unlimited money. it allows you to compete at the same level as people who have been doing this for longer as long as you've got the strategies to go behind it. And so I think, like, it's gonna really show that strategy is king with all of this stuff and people who are, like, petrified about AI I kind of see it as the same way as people who were terrified when featured snippets came in, who were terrified when, like, anything new changes. And part of our industry is that, like, We can't be like the dinosaurs and just, like, lay down and go extinct. Like, we have to adapt, because that's how the online world works. So it actually, I think is challenging us to be even better. Like, I've started having to get over my fear of phone calls to call hotels and ask, like, hey, what's your parking like? How much does it cost? What's your pet policy? Cause none of them ever listed online, and then it gives me a lot more context to help my users. So I actually think my content has gotten better with AI, not because it's a better writer, but because it's forced me to become more unique.
+
+Liz Stapleton [00:52:28]:
+I like that. I like it. That's fantastic. someone snuck one more question in. So we're we're gonna actually not end on that fantastic note. we're gonna just quickly ask. They say, are there any free graphic design ais you would recommend? And I would just before we dive into this, I'm I wouldn't say, like, anti, like, AI image creation, but I'm very I haven't I don't use it because I'm very hesitant because a computer can't pick up a paintbrush. And so it's always pulling from someone else's co likely copyrighted material to create an image. So I'm you can use AI with graphic. Right? Like, bulk design and canvas technically an artificial intelligence that helps you do that, and I'm totally here for it. But the ones that, like, create fresh images where you give it a description, I'd be very hesitant to use. so just kind of that little warning, but I don't know if you guys have any sort of graphic design AI free tools that you really like and recommend.
+
+Anca Pop, SocialBee [00:53:27]:
+Well, I've seen it used with mid journey, which I guess could help. there there's been, like, a whole study way back when in the beginning of of this year, where there was a case study where, someone used chat GPT to kind of describe everything and then use that description -- in mid journey to create, like, a whole brand visual identity and everything. So I guess it can be done. but I still think that, image generation has a long way to go still, especially when it comes to design, especially when it comes to text, especially, and especially when it comes to, faces, to human -- Yeah. -- faces. I think that's where where it struggles still. So I would take it with a grain of salt. Yeah.
+
+Liz Stapleton [00:54:18]:
+I think so, like, Canva I don't the resize aspect is not on the free plan, but that's that's like an automated easy, you know, I would use that. and and Canva is super affordable, really. but I don't know. I mean, I basically just use Canva. I don't use anything else. Superfix.
+
+Mariah Magazine [00:54:35]:
+I basically just use Canva too. and I, like, kind of stick with my own templates. I've tried messing around with it and, like, inputting, like, three people's templates. I'm, like, here, use this, and it was the worst thing I've ever seen with my own two eyeballs. So, like, I haven't really messed around with it outside of that.
+
+Anca Pop, SocialBee [00:54:53]:
+Yeah. I mean, I guess also photo Photoshop AI can help, but you have to have something of your own first. So what I typically do is I create my poor design first, and then I use AI to select elements from that design and improve it.
+
+Nina Clapperton [00:55:13]:
+Okay. Yeah. I think also just be cautious with free tools because often, they are the worst version of the thing. So they'll make you hate the tool a lot, and then you're gonna, like, have a very bad idea of it. Yeah. So I'm not, I'm not, I'm not an image focused person, especially in travel. Like, we need to go and take photos of the actual thing. I'm lucky I have a pretty dog, so anywhere. I put him in a blurry photo. It still looks okay. But, I think just be cautious with looking for the cheapest version or the cheapest alternative of things because especially with some AI writers, that's gonna, bite ya in the butt, really intensely.
+
+Anca Pop, SocialBee [00:55:53]:
+Yes. I agree.
+
+Nina Clapperton [00:55:55]:
+Yeah. But I think Jasper's art 1, I will admit I did cartoonify my dog and it was really cute, but it's it's not free. You have Jasper and then you have to pay 20-29 bucks a month on top of it. but I was just trying it then I just made a bunch of cute cartoons of him for my own use. I would I think like Liz having worked in law, I am very wary of the legal ramifications of it, and having artist friends who, I don't know, there's a reason we pay people to do these things. Like, they're much better at them, and they deserve the money.
+
+Liz Stapleton [00:56:27]:
+Yeah. I mean, there's been not to go down this rabbit hole, but, like, my hobbies art, and I have a background as a lawyer. And I literally see the post where they're, like, an AI generated thing had, like, is a blurry. Like, you can see the artist's signature that's, like, in it. And it's so, yeah, I just I I really steer clear of that. But, but, yeah, so are any final words on blogging and AI before we we kinda stopped stopped being live.
+
+Jenny Melrose [00:56:55]:
+I I will add because Mariah started talking a little bit about it, but that whole shifting perspective Google through looking for more information on that. She did an amazing interview with me that the example she gave about the shift in perspective that you can give I was trying to find it while we're here in the blog post, and I did not that quick. but it was a great example and it's just influencer entrepreneurs is the podcast and one of the most recent episodes that I've done with her.
+
+Mariah Magazine [00:57:23]:
+Oh, thank you so much.
+
+Jenny Melrose [00:57:25]:
+Yeah. It was it stuck with me.
+
+Liz Stapleton [00:57:29]:
+Yeah. Definitely go check out all of these wonderful panelists. You know, they've got podcasts blog posts. Socialbee is a great tool, a lifetime deal for me, but, did I mention I have an app sumo addiction? you know, so there fantastic. You should be able to click on each of their names on this page and go just see all their awesome stuff. And, guys, thank you so much for being here. I really appreciate it.

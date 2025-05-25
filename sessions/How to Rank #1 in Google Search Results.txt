@@ -1,0 +1,314 @@
+Title: How to Rank #1 in Google Search Results
+Speaker: Ryan Robinson
+Website: https://www.ryrob.com/
+Level: Advanced
+Category: SEO
+Length: 30:04
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-rank-1-in-google-search-results-ryan-robinson/
+
+Transcript:
+[00:00:09.380] - Liz Stapleton, Summit Host
+All right, guys, super excited to be here with Ryan from ryrob.com. Welcome, Ryan. I appreciate you being here.
+
+[00:00:17.420] - Ryan Robinson, ryrob.com
+Yeah, thank you for having me. I'm excited. 
+
+[00:00:18.740] - Liz
+Yeah, because you have an incredible site that really dives into a lot of different aspects. We're going to be talking SEO today, but do you want to give everyone just a little bit of your background and we'll dive into the good stuff?
+
+[00:00:30.530] - Ryan
+My journey has been one of ups and downs and it's been eight years in the making like most people. I think it's really important to say I'm not an overnight success with blogging. But today, what I do is kind of meta: I blog about blogging, which is very funny for me looking at it today because I really started by talking about my journey as a freelancer.
+
+[00:00:55.490] - Ryan
+So rewinding eight years, I started my own freelance career. I started blogging alongside, just sharing my experiences; what sucked, what I did well, what was working. So I built my initial audience around this crew of freelancers and I was a freelance content marketer.
+
+[00:01:12.350] - Ryan
+It naturally blended over into, all right, a lot of my freelancers want to learn marketing. Alongside that, I'm growing my own blog audience, too, and teaching some courses, and starting to get into podcasting. Eventually, my blog grew to about 500,0000 monthly readers and I switched over to, mostly today, talking about blogging, still dabble a little bit in the side hustle stuff and the freelancing stuff.
+
+[00:01:39.080] - Liz
+I feel like a wandering dabbler at some point because you learn so much when you blog that you end up offering some service at some point along your journey.
+
+[00:01:49.580] - Ryan
+Yeah, or at least I hope so. That feels like the most authentic way to do it. Someone that starts by blogging about blogging or podcasting about podcasting is very funny to me.
+
+[00:02:01.490] - Liz
+Yeah, I agree. I started like six years ago. We're going to be talking about how to rank number one on Google. It makes sense, with your background, that you certainly know how to do this because that's where you get a ton of traffic. Once you put in the work, Google does the work of sending traffic your way. I know a lot of people start diving into SEO and they're like, it's a lot. What would you say is the first place to start?
+
+[00:02:32.560] - Ryan
+I think it is important to acknowledge that it is undoubtedly a lot and you can get fully in the weeds on all of these different little things, too, like 20 to 30 different buckets that you can be investing your time and your effort into.
+
+[00:02:47.410] - Ryan
+To really simplify it, for me personally, I think the number one thing to have good control on first is the right technical SEO aspects of your site. If you're not using Google's Lighthouse tools, totally free, to run your own website or specific blog URLs even through the tool to see what their exact recommendations are for how to improve your site speed, performance, usability, user experience, do that right now because Google gives you actionable suggestions on what they're telling you will make your site better for their readers.
+
+[00:03:26.740] - Ryan
+So, from a technical standpoint, that's a really basic starting point. Today I work with a more technical consultant who helps with fine-tuning kinds of stuff. But I think just getting the best practices dialed in is always the first step. Then beyond that, publishing truly transformative, excellent, high-quality content that helps real people. I think that's the foundation that you should always have in mind.
+
+[00:03:55.070] - Liz
+Truly transformational content is easier said than done. Where do you start in deciding what you want to write about? Do you go about it in a very analytical way or how would you get there?
+
+[00:04:14.730] - Ryan
+I think the way that I started versus what I do today is a little different, to be fair. Today, I do a mixture of keyword research and planning based on market opportunities, blended with also answering reader questions because I have so many people that ask me super specific things that I realize other people have the same questions.
+
+[00:04:37.320] - Ryan
+So, today I'm kind of a blend, but when I first started out, I definitely very narrowly focused on keyword opportunities. Oftentimes that comes from competitor research. So seeing what other people in my space are writing about always gives me inspiration.
+
+[00:04:53.880] - Ryan
+It doesn't necessarily guarantee like because Neil Patel's writing about this, that means I should do it, too. I think there's a lot of missteps you can make if you're just chasing the competition. But chances are if someone has been doing this for many years, they have clearly monetized content, there will be opportunities you can identify just from looking at competitors and double-checking your own keyword research, whether it's using a free tool or something like Ahrefs or Moz.
+
+[00:05:25.110] - Ryan
+I think those are really valuable and validating there are real people out there searching these things.  I'm very SEO-focused, but again, if there's real people searching on Google, there's also real people talking about it on Facebook, other social networks, too. So I think it's a winning combination by thinking through an SEO lens.
+
+[00:05:48.160] - Liz
+Yeah, I think it helps you figure it out. But also, you want to write for people, not algorithms.
+
+[00:05:52.680] - Ryan
+Sure.
+
+[00:05:53.340] - Liz
+If you're writing just for the algorithm, people aren't going to stay and it's not going to do a lot of good. Going back to keyword opportunities, how do you determine that a keyword is an opportunity?
+
+[00:06:07.050] - Ryan
+I like to think today that purchase intent drives a lot of my focus when I'm doing keyword research. If you get an article that does really well SEO-wise, and you get, let's say, 10,0000 people to it coming a day, but they all just leave, they don't complete any sort of action for your business, that's arguably not that much of a win unless you're doing display ads and somehow generating lots of revenue from that.
+
+[00:06:40.590] - Ryan
+I don't often advocate for that route with blogs, at least most bloggers. So, yeah, I like to think through purchase intent whether that's some sort of course that I want to eventually sell one day or a digital book you might be able to offer based on your skills and your expertise.
+
+[00:07:00.300] - Ryan
+Just thinking through, all right, who's searching for the term like "how to write a blog post"? What are some ways that that might be monetized, whether it's through recommending affiliate tools, selling your own products, having a podcast that people can subscribe to and you can get sponsors from the podcast?
+
+[00:07:21.720] - Ryan
+I like to think through before I get started in the writing process, like, all right, how can a post like this, it doesn't need to be today, but how can it be monetized at some point in time?
+
+[00:07:33.490] - Liz
+Okay. Then what is your writing process? What do you think is the best way to go about creating that transformational content once you settle on the focus of the work?
+
+[00:07:46.900] - Ryan
+Yes, this is the million-dollar question. I think lots of different writing processes do work for different people. But for me particularly, I always start with a headline. I'll approach it with some sort of framing in mind that feels most natural to me.
+
+[00:08:06.970] - Ryan
+I always try and gut check that by just doing a Google search. Seeing the 10 headlines that come up on the first page often gives you a pretty good insight into what Google's saying the intent of searchers might be.
+
+[00:08:20.500] - Ryan
+If it's like 10 results that are all talking about top tools for something, then that tells me that you should probably consider following that format for your headline, too. It doesn't necessarily mean that's the right way to go, but the headline dictates the structure an article will take for me.
+
+[00:08:41.360] - Liz
+Okay.
+
+[00:08:41.790] - Ryan
+Then I'll outline it. I'll do a little competitive research to make sure there's not something I'm completely missing and to look for opportunities to use my own experience or my own research to back-fill holes that I've identified competitors missed.
+
+[00:08:59.980] - Ryan
+So, from outlining, then today my process is a little different as far as writing goes than it was a few years ago. I use a couple of good freelance writers that I've worked with for years now and I'll take the headline, take the outline, and then I'll kick it over to them and they'll often generate a first draft that's a couple of thousand words, few thousand words, and they get it back to me.
+
+[00:09:22.780] - Ryan
+And I'm more of an editor who, my gosh, I'm so obsessive about my process. I end up doubling or tripling everything I get back from them as far as word count goes, but that's fun.
+
+[00:09:35.020] - Liz
+Okay. How important is word count? It depends, I think, on the topic, but if you want to touch on that, explain how it relates to whatever you're writing about, I think would be helpful for a lot of people.
+
+[00:09:48.420] - Ryan
+I tend to be one that really leans into in-depth, comprehensive, we talked about transformational earlier. I hesitate to give a really specific number to people, but I don't tend to publish anything less than like 5,000 words on my site these days, for the most part. Sometimes there's a little variance.
+
+[00:10:12.370] - Ryan
+I published a guide to blog marketing recently that was 12,000 words. That's the first version that went up and that's on the really high end. Sometimes I'll have something that's 2,000-3,000 words, but rarely is it anything less than that.
+
+[00:10:32.950] - Liz
+Okay, gotcha. Then if you're getting articles that are this long, which take time to make them good, how often are you publishing? Because there's a lot of talk of you need to publish at least once a week for blogging, when it comes to SEO, it's quality over quantity, is that fair to say and how do you decide when you're publishing?
+
+[00:10:58.920] - Ryan
+Yeah. I for sure take the approach of quality over quantity today in my process. To be honest, for most of the time that I've been blogging, I haven't had a rigorous schedule of, all right, I need to publish this on this day. It's often kind of how am I feeling about writing today? And if it was a good writing day or a good editing day, am I getting something up?
+
+[00:11:26.130] - Ryan
+I do aim for trying to publish something once a week when I'm really on my game. But oftentimes I find that even though I aim for once a week, it's more like once every other week or maybe three a month. That's what I've realized I'm falling into.
+
+[00:11:43.940] - Liz
+But it still works. You still get lots of traffic, right?
+
+[00:11:46.510] - Ryan
+Yeah.
+
+[00:11:47.880] - Liz
+Once you've put in the work to creating good content, I'd like you to speak on linking within that and how that can help you. The other question I want to ask you is how long it takes to start seeing the results. So touch on those things. I know, big, wide questions, but...
+
+[00:12:11.720] - Ryan
+Well, from the linking perspective, I think starting with internal links, I am psychotic about internal links with my content. Well, an internal link is linking from one article in a blog post to another article on your own site. I'm maniacal about making sure I'm doing that as much as possible. Like, I'll have 10 to 50 internal links in every article I publish.
+
+[00:12:40.680] - Liz
+When you have 5,000 words, it's not excessive. If it's 700, 50 is a bit excessive.
+
+[00:12:48.840] - Ryan
+Yeah. You don't want to be unnaturally plugging your content. You want it to be contextual. It needs to make sense. You don't want to have 50 of your own links and no links to other websites either. It needs to be somewhat balanced.
+
+[00:13:03.480] - Ryan
+Some of it comes with scale. But the importance of interlinking just from the perspective of trying to make Google highly aware of every article on your site and the interconnectedness of the topics you're covering, there's some sort of magic behind the scenes there. I don't really have a quantifiable way to describe it, but it's worked very well for me.
+
+[00:13:27.060] - Ryan
+The other component; external linking, so going out and getting links from other authoritative sites, pointing back to your content. Promotion-wise, backlinks, that's by far the most bang for your buck in my experience, when you're promoting your own blog posts.
+
+[00:13:45.810] - Ryan
+I think guest blogging, even though some Google experts or employees will frown upon the formal process of guest blogging in their statements and what they say on the Google blog, in practice, it works, at least today. It's the best way to increase the authority of your site more broadly, but then also to increase your rankings for really specific keyword phrases, is by going out and writing 10, 25, 50 guest blogs.
+
+[00:14:16.950] - Ryan
+I've honestly written hundreds of guest posts over the last few years. When I'm really on it, I'm having people help me scale up the amount of guest blog posts I'm writing so that I can keep pace with publishing on my own site, alongside publishing for other sites.
+
+[00:14:35.100] - Ryan
+I would say do it tastefully. Don't try and cram tons of links into your guest blog posts because then Google will look at that as a little bit more suspicious. So I think keeping it as genuine. Don't overly plug your stuff. You want it to be valuable content for the audience you're writing for, too.
+
+[00:14:57.960] - Ryan
+So it shouldn't be treated as a pure tactic. I think it's a combination of audience building and lending your own content credibility. When it comes to the audience building, you want to actually deliver on good articles for those guest sites.
+
+[00:15:14.580] - Liz
+Yes, and they may even have guidelines like you can link to your site this many times. I know when I've had a guest post I've taken links out or they put in their affiliate links. I was like, "This is my site. I'm obviously linking my own."
+
+[00:15:26.580] - Ryan
+Yeah, don't do affiliate links. 
+
+[00:15:30.200] - Liz
+That's a not cool move right there. We talked about backlinks pointing to your site and then we talked about external links in your posts. So there is a difference there and you do want to make sure you're including some external links within your post that go to other sites, correct? I just want to make sure we clear on that.
+
+[00:15:47.020] - Ryan
+Yes, for sure. I do always recommend linking to the most reputable source that you can find whenever you want to link out. I would advise against linking to a site that, say, is highly competitive with your own sites. If you're writing about, let's say, podcast hosting, definitely don't link to another article on a different site about podcast hosting because you're shooting yourself in the foot. You're lending them credibility for the same keyword phrase you're going after.
+
+[00:16:19.910] - Ryan
+But, that being said, within your podcast hosting article, you obviously want to link out to the top podcast hosting platforms. So there's a game to dance between a little bit in some respects. Yeah, I do always recommend linking out roughly somewhere around however many internal links you have. It's not so much a science for me as it is just a feeling. 
+
+[00:16:46.480] - Liz
+You do what works. Like you said, you want to be genuine. Don't just link to match numbers or something.
+
+[00:16:55.540] - Ryan
+Exactly. Yeah.
+
+[00:16:57.520] - Liz
+Going back to backlinks, what have you found to be the best approach beyond just guess posting to actually get backlinks to a specific article? What's been the best approach in your experience?
+
+[00:17:11.950] - Ryan
+I've experimented with lots of different things over the years. I've done just the peer blogger outreach where you're just reaching out, identifying an authoritative site that talks about the subjects that you blog about on your own site and saying, "Hey, you have an outdated link here or it's linking to a resource that's five years old. Here's my article that's brand new or just refreshed. Would you be interested in replacing that old link with my new link?" I don't have much success with that or I didn't rather so I don't do that anymore.
+
+[00:17:49.810] - Liz
+It's very time consuming.
+
+[00:17:49.810] - Ryan
+Yeah, very time consuming, low conversions, you could say, but sometimes it works. That's why I always fall back to guest blogging as my number one steady, tried and true practice. I do think also there's a lot to be said about getting a publication column. It doesn't necessarily need to be like the Forbes and Business Insiders of the world. It can just be like an industry site.
+
+[00:18:20.170] - Ryan
+Like for marketing, there's Content Marketing Institute, Social Media Examiner. There's lots of niche publications that will allow you to become a contributor if you prove yourself and show that you can write well and deliver on promoting your content a little bit and driving them some readers. They care about eyeballs, too.
+
+[00:18:41.380] - Ryan
+Getting a column on an industry publication can actually be an amplification of your promotion because lots of these publications get syndicated by other websites. So I've seen that publishing to contentmarketinginstitute.com, they'll get syndicated by 10 other blogs. Occasionally, if the post does really well, they'll actually work to syndicate it to an even larger site. So you can see some nice surprise wins happen. I don't think it's safe to bet on everything getting syndicated.
+
+[00:19:16.420] - Liz
+Yeah, I know. With freelance writing, that's a lot of my credits of being syndicated to other places. I'm like, my links are on Entrepreneur and you didn't necessarily have to do that. The people you wrote for did it. I was just excited. 
+
+[00:19:36.190] - Ryan
+Exactly. Like my very first guest post that I ever wrote was for the Buffer social media tool and I got syndicated to INK like the week after, which was completely shocking. I had nothing to do with it.
+
+[00:19:48.820] - Liz
+I have to say, you never know what's going to happen with your guest blog because my very first guest blog, which I didn't even know that it was called a guest blog, ended up in a book she wrote. 
+
+[00:19:48.820] - Ryan
+Wow, that is super cool.
+
+[00:20:03.030] - Liz
+You really never know where guest blogging is going to take you. Back on track,  I wanted to get back to how long does SEO take to, obviously rankings will move around, but to start seeing some results? Is there a typical time frame or window you'd suggest don't give up until you've really put effort in for this long?
+
+[00:20:29.730] - Ryan
+Yeah. This is one thing that I will say I have quantified to kind of a science, although it is warped a little bit by how much I'm promoting my content very actively and how authoritative my site already is. These timetables won't be the same for everyone or for many people who are just getting started. But it gives you a barometer to work towards.
+
+[00:20:53.580] - Ryan
+Whenever I publish something new, if I know it has the high potential for being lots of traffic and monetizable content, I will work my butt off promoting it. And that's often guest blogging. So I'm writing, ideally, a guest blog post every week with the goal of promoting this one article.
+
+[00:21:11.820] - Ryan
+If I'm doing that kind of a cadence promoting it, I will expect within the timeframe of three to six months to see it ideally moving around midway of the first page of Google search results for a keyword phrase. Again, so much variance based on how competitive that search term might be.
+
+[00:21:31.560] - Ryan
+But if you're really working hard to promote your content and it is truly a standout blog post within its niche, then I think it's safe to expect like within six months I should be able to start cracking the first page unless you're talking about all 10 results are Forbes, Entrepreneur, INK. It is much harder to compete with those.
+
+[00:21:58.080] - Liz
+It isn't impossible but it's harder.
+
+[00:21:59.280] - Ryan
+Yeah, it's not impossible. It's just more difficult or it may take longer.
+
+[00:22:03.440] - Liz
+Yes, which brings me to my next question. Part of the way you figured that out is using tools, like you said, Ahrefs or Moz to figure out how hard is it going to be to try to rank for this? I believe Moz has some free tools; Ahrefs is a paid tool. How do you go about learning that tech because like Ahrefs can be very overwhelming if you don't know what you're doing? It can. I remember the first time I looked at it, I was like, I don't know what to do because there are so many things.
+
+[00:22:40.830] - Liz
+How would you recommend going about that? Because when you start, you probably don't want to invest $100 a month for a tool, but Moz has some free options. How would you recommend that or what should you start with when you're trying to use those tools because there is so much you can do?
+
+[00:22:56.880] - Ryan
+Yeah, it's crazy overwhelming. Me today, I'm always elbow deep in Ahrefs. I'm so invested in their platform from an understanding point of view. But with free tools, it seems like every free keyword tool, once they get popular enough, they become a paid tool overnight one day. So I'm always hesitant to recommend a specific one.
+
+[00:23:21.600] - Ryan
+I just say Google search free keyword research tool. Often, Google's doing a good job of servicing the ones that are truly free. So try out those options. What I've found is that going after the low to medium volume and ideally, low to medium competition keyword phrases are the sweet spot when you're just getting started because your goal isn't to launch your blog today and rank in a couple of weeks for something like business ideas.
+
+[00:23:55.280] - Ryan
+That's a crazy competitive search term. It will take you likely years to get to a point where you could rank for something like that. So going after something like, rather than business ideas, how about small business ideas for moms. That's something that might actually have a decent amount of search volume to it, but maybe it's just a few thousand people a month and maybe the competition is not as crazy competitive for something like that.
+
+[00:24:27.770] - Ryan
+Usually, those free tools, I know Ahrefs because I'm using it so much, does a really good job of trying to help you find the right balance between keyword volume and the competitiveness of a keyword phrase.
+
+[00:24:42.350] - Ryan
+They'll often say something to the effect of they give you a meter; like on a scale of 0 to 100, how competitive something is. And they'll give you an estimate like you'll probably need to get links from 40 sites in order to rank on the first page for this term. I'm not sure if Moz's free tools give you something as quantifiable.
+
+[00:25:02.190] - Liz
+I think they'll probably give you some idea of the keyword difficulty, but not the details of what you need to do. And they limit the number of results you see, I think, on their free because they have a paid version as well.
+
+[00:25:14.900] - Ryan
+Again, even all these tools, even the best paid tools in the world are never 100% accurate. I use it as just kind of helping to plot a course.
+
+[00:25:26.760] - Liz
+Yeah. And I would say because you can get lost in these tools and doing keyword research forever, you got to actually write the articles.
+
+[00:25:36.230] - Ryan
+Yes. Oftentimes I try and recommend and follow my own advice to publish articles before they feel ready. I think if I'm sitting on something and trying to perfect it for days or weeks, I often can wind up optimizing in the wrong direction compared to what readers actually want and what search engines are rewarding best.
+
+[00:25:59.600] - Ryan
+So I think there's something to be said for publishing first drafts and then just knowing like, all right, I'm going to come back next week, next month, update it a little bit here, check what kinds of keywords it's starting to rank for over the course of a month. Then maybe that informs you on a total shift about what the topic is for the blog post. So keep an open mind, I always say.
+
+[00:26:22.880] - Liz
+Yeah. The beauty of blogging and the internet is very few things are permanent.
+
+[00:26:28.250] - Ryan
+Yes, exactly.
+
+[00:26:30.740] - Liz
+You can change most everything. 
+
+[00:26:32.960] - Ryan
+Yeah. When you look at my articles today, virtually everything on my site has changed dramatically over the course of years. The older an article is, the more it's changed. The more I've added to it, subtracted to it, tweaked the keywords, done different little formatting things. It's kind of crazy.
+
+[00:26:53.630] - Liz
+Yeah. And you'll become a better writer over time, too. I'm always like, if you aren't embarrassed by something you did a year ago, you're not learning. 
+
+[00:26:53.630] - Ryan
+Exactly. And you'll become better too at figuring out what works for your particular niche as far as SEO and little formatting things about your blog. I think it's important to say, everything can improve over time if you have the right mindset about it and you're still learning and practicing. It's an ongoing effort for sure.
+
+[00:27:24.350] - Liz
+Yeah. Anything we didn't cover because these sessions are meant to be short and to the point, anything we didn't cover in terms of ranking on page one that people should know, that you're like, we can't not say this?
+
+[00:27:39.620] - Ryan
+Oh, my gosh. At the risk of providing too much advice, I would really just drive home focusing on publishing good content, getting your SEO technical best practices good enough, and then guest blogging as much as you can to promote that stuff. You can add on from there over time, but just doing those three things really well will totally set you apart from the pack.
+
+[00:27:24.350] - Ryan
+As you keep building on it and making progress, the rewards really compound too. Once you have a couple hundred guest posts out there, let's say this takes years, but a couple hundred guest posts out there, your site's going to be humming along pretty well, I would argue. At least it should and you'll also have a much easier time at ranking for keywords a year or two down the line if you just start promoting your content as early as you can.
+
+[00:28:37.750] - Liz
+All right. Awesome. I know you have a great free resource for everyone. You want to tell them about it?
+
+[00:28:43.000] - Ryan
+Yes. I've got free blogging books. I've been writing for years now about blogging and I've packaged my best advice on getting started the right way, writing effective content the way that I go through my own process, and then also promoting your content. It's just at ryrob.com/free-blogging-books.
+
+[00:29:05.500] - Liz
+I'll link to that on this page so they can definitely grab it there. Ryan, thank you again so much for taking the time. I learned some things. I know everyone else learned a lot too. Any final words?
+
+[00:29:19.720] - Ryan
+Hey, thank you for having me. I'm excited. Keep your excitement going. Channel it into your blog. I love it.
+
+[00:29:26.020] - Liz
+Yes. Awesome. All right, guys. And he's on the chat if you want a couple of last minute questions for him to answer. With that, we'll definitely go check out his site, grab those free books. I'm sure they'll help you and we'll catch you at the next session.
+
+[00:29:40.870] - Ryan Robinson
+Yeah, thanks for having me.
+
+

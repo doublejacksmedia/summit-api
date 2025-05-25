@@ -1,0 +1,218 @@
+Title: Creating an Accessible Experience as a Blogger
+Speaker: Erin Perkins, CEO of Mabely Q, Founder of Successible
+Website: https://www.mabelyq.com/
+Level: Intermediate
+Category: Accessibility
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/creating-an-accessible-experience-as-a-blogger-erin-perkins-2024/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton, Host
+All right guys, I'm really excited to have the speaker back at the Blogger Breakthrough Summit. She's spoken a couple of times, and I always learned so much from her. I'm always trying to get a little bit better every year. A big warm welcome to Erin Perkins. She is the CEO of MabelyQ. She's deaf-blind, although you may not be able to tell just by looking at her. She started out under the guise of being an operations manager and graphic designer and then quickly realized that business owners don't know a whole lot about accessibility. And so she's pivoted to teaching businesses how to be accessible, leaning on her life experiences and her mission is to make the world more accessible one business at a time. She's definitely helped mine. I'm getting there. Thank you, Erin, for coming back.
+
+[00:00:53.320] - Erin Perkins
+Thank you for having me. It's really awesome to be able to speak to a Blogger Breakthrough Summit, I love speaking to you guys because blogging has my heart through and through. I still read blog to this day. I was reading blogs way back when I was 15, 20 years when it first came out. I'm still a loyal blog reader, so don't stop.
+
+[00:01:18.480] - Liz Stapleton, Host
+Yeah, I started my first blog in 2014, but then I realized I actually did a live journal in 2009, way back. So I hear you. Okay, so we're going to be talking about accessibility. And I think a lot of bloggers, the only thing that maybe would come to mind is like alt text, but it's so much more than that. I mean, that's a great place to start. But what are some of these things you see bloggers just completely missing?
+
+[00:01:53.600] - Erin Perkins
+One, the biggest one, because now I feel like bloggers have been making a lot of videos over the past few years, is they're missing out on capturing the video. They might think that, Oh, maybe they're just playing music or something. But make sure you highlight that there is music playing. Even if it's just at the very beginning, just throw in there that whatever music, say you have a little instrumental going, throw that in there and say that there's music coming because otherwise we wouldn't know what's happening and we're like, Wait, are there captions or are they not? Just enabling that and adding that in is just that simple, but it creates a better experience.
+
+[00:02:43.250] - Liz Stapleton, Host
+It's impactful. It gives the context.
+
+[00:02:45.860] - Erin Perkins
+Yeah.
+
+[00:02:47.120] - Liz Stapleton, Host
+I feel like if you're ever a little unsure of what to do, first of all, AI will help a lot, correct me if I'm wrong. Yeah, for sure. Go ahead next time you turn on Netflix, turn on captions, and you'll be able to see some examples, I guess, of Oh, it's intense music or it's whatever.
+
+[00:03:06.620] - Erin Perkins
+Yeah, just watch different shows on any channel, any streaming, and you'll see how the caption does. Not everybody does it the same way. But one other thing I do recommend when you do caption, keep it the standard, like black box. Maybe you can make it a little transparent with white text. Because that's just like a standard. Don't try to colorize it. Don't try to make it fancy and stuff. Don't try to be artsy. It needs to be legible.
+
+[00:03:42.240] - Liz Stapleton, Host
+Yeah, is there? And I think, so I was actually just watching a training on building accessible websites because I'm building a custom site for this summit. Hopefully you all are enjoying it when you're watching this. But isn't there like there's like a website where you can check to make sure your colors are contrasting enough?
+
+[00:04:00.540] - Erin Perkins
+Yeah. My favorite website is coolors.co. So it's like colors, but with double O's. And that one I find has been really easy to access, and it's just like putting your Hex code of your colors, see if it works. If it doesn't, then you might need to find a different color to make sure that all complements one another. Contrast is one of the highly missed things when it comes to colors. People will pick their own colors. I understand that. Sometimes you're going to pick your favorite colors or your brand colors, and they can still work. But my original colors for my branding was navy blue, and coral, but the contrast was never great. I would always have to add on more color to that. I'm a graphic designer by trade. That was one thing that frustrates me is that they never taught accessibility when it comes to design, and it's still the case these days. Now, when I'm teaching people, I'm like, You want to think about how the contrast is on your website, the colors and stuff. That way, when you're putting it out there, it really does have a good experience for people.
+
+[00:05:27.300] - Erin Perkins
+People are not like, Oh, my God, this is too bright. This is too dark. I can't read it. That's why when I speak about caption, this is the one thing I will stand behind because I grew up with it. Maybe this makes me old school. I like my black box with white caption. It's easy. It's all I know. The white caption, when all the letters are white, but there's no background, that's actually very hard for me to read because you never know what is going on in the scenery. Sometimes when you go to the movie, it's like, Wait, what was that word? Because the background is white too? You can't read that.
+
+[00:06:09.180] - Liz Stapleton, Host
+Yeah. I've seen people who have a teal footer and then pink text, and it's... Even for someone without any eyesight issues or different, that's hard to read. So just take a step back and make sure stuff is readable, not just like, Oh, it's.
+
+[00:06:27.860] - Erin Perkins
+Like a little - Still do your brand brand I have new brand colors. I had it redesigned a couple of years ago, and it's very color contrast friendly, but it's beautiful, at least I could say so.
+
+[00:06:41.770] - Liz Stapleton, Host
+Yeah, it's definitely possible. So don't think you can't use your brand colors, but just be mindful in the ways you use them would be probably the best approach. Okay, so we've talked about captions, we've talked about colors. We did briefly touch on alt text, and I'll let you chat on that in a second. But, what, let's take a step back and talk about the different tech that people with different abilities use to see a website or hear it, or that people should keep in mind when they're creating their content.
+
+[00:07:14.700] - Erin Perkins
+So, screen readers are very commonly used by a lot of people, more than you realize. The one thing I am going to tell people do not accessibility overlays on your website. That's just like a hard no. No accessibility overlays. The reason being, these companies are going to sell you on it. I'm going to be like, No, they're going to charge you outrageous amounts of money. It's not a good good thing, because when you think about it, most people with disability, we have already created our own system for what what works. We have our own setup. For me, for example, my setup was when I use this loop that I have around my neck, the black loop, it streams stuff to my hearing aid and my cochlear implant and it works for me. When I'm asked to wear different, like headphones it's not going to work for me because it's not compatible. I've already created a system that works for me. The same rings true for a lot of people with disabilities, they may use only only keyboard because they can't use a tracking pad or a mouse. Sometimes when you have an overlay, it interferes with the tech that they bought and set up for themselves because it's worthwhile for them.
+
+[00:08:50.180] - Erin Perkins
+Overlays, are literally a Band-Aid. If you want to think about it that way, they're a Band-Aid fix. Those band-aids always fall off, don't they? You know they suck. Let's not do that. Do it from the beginning. Build your your website, create access that way with your website. Don't just slap on band aid fixes.
+
+[00:09:17.480] - Liz Stapleton, Host
+I will say I think it's easier to build an accessible website from the beginning than it is to go back and fix fix it. I'm definitely in that boat where I didn't know any better when I started some of my websites. I'm still, years later being like, Oh, wait, that is missing an alt text. My very first blog, do as I say, not as I do, I totally used for a while headings based on how they looked and not necessarily...
+
+[00:09:49.040] - Erin Perkins
+I did too, 100%.
+
+[00:09:51.620] - Erin Perkins
+I think we all did. The website, content accessibility guideline, WCAG guideline, that is still a relatively new concept in terms of age. I don't even know how long ago it came out, but that concept is still new. Honestly, it is really hard for a lot of people to understand. I like tech, but I'm not a super nerdy, all into coding. I don't do any of that. I can't do any of that. My brain brain doesn't work like that. What I did was I went in and tried to learn so that I can turn around and teach all of you how to make your website accessible without even needing code. You don't need code. You don't need to know code. You just need to know how to do certain things to ensure that it's accessible. You're right, it is better to do it from the beginning. But if you have to take a step back, it's okay.
+
+[00:10:58.120] - Liz Stapleton, Host
+Yes.
+
+[00:10:59.410] - Liz Stapleton, Host
+You said there are some certain things that people do need to know how to do without coding to make their site accessible. You want to give a couple of examples?
+
+[00:11:09.780] - Erin Perkins
+One of the examples that you said that dropping in, the wrong Heading, and maybe you would create a graphic so that it is your your fits look. Don't do that. Just find a good picture, resize it according to how it is, put in the text that you need, and then look at how it it mobile versus desktop. That way you can see how it looks and make sure it flows on either one. You always want to check both sides. You want to make sure things are mobile-friendly. Most websites do allow you to push things up on either side. I use Squarespace. I don't use any coding whatsoever. It's literally I can rearrange things mobile and it doesn't affect my desktop. I really like that. If you're just starting out as a blogger, that's something you might want to consider. How are things laid out so that you can be able to make it how you want it to look without throwing in all the fancy fancy.
+
+[00:12:22.740] - Liz Stapleton, Host
+Yeah, and I think a lot of WordPress themes and things have that that built You click over and see what it looks like on mobile and make any adjustments you need. But it is something that I think a lot of bloggers are guilty of because we're always working on our desktops, and so we forget to see what our site looks like on mobile.
+
+[00:12:41.280] - Erin Perkins
+I I will say one of the things I've noticed, I like to read my blog on my iPad, and there's two or three that don't translate well on my iPad. Landscape it is really weird. If I try to turn it to portrait, but it won't resize, which I find really interesting. That's something you might have to consider. How does it look on different platforms.
+
+[00:13:11.840] - Liz Stapleton, Host
+Yeah, because some will do desktop, tablet, and mobile. I think in most instances tech-wise, if you adjust stuff on tablet, it's going to adjust it on mobile as well. Then you would want to go and adjust mobile because it'll adjust down but not up.
+
+[00:13:31.310] - Erin Perkins
+That makes sense. Then the other thing I want you guys to consider is the sizing of your picture photograph.
+
+[00:13:38.600] - Liz Stapleton, Host
+Okay.
+
+[00:13:39.610] - Erin Perkins
+I think that's a big thing because people who might be reading your blog might be in a low-access area. They might not have a lot of money, so the internet is low, not as high power that we're all used to. That's something you need to to consider quickly do those photos load on somebody else's website if they don't have high internet speed?
+
+[00:14:07.920] - Liz Stapleton, Host
+The file size.
+
+[00:14:10.070] - Liz Stapleton, Host
+Of the.
+
+[00:14:11.150] - Liz Stapleton, Host
+Actual image. Guys, there's tools that will help compress them without making them lose any quality. I use use short pixel on to help with file sizes and loading, and it just makes your site better if it loads faster for everyone.
+
+[00:14:27.800] - Erin Perkins
+Yeah, and that's what we're about, creating a better experience for everybody.
+
+[00:14:32.140] - Liz Stapleton, Host
+Everybody. Okay, so we talked about about sure you're using headings correctly, not stylistically, and checking your image sizes, I'm wondering, do you want to talk about, because I feel...
+
+[00:14:46.590] - Liz Stapleton, Host
+Sorry.
+
+[00:14:47.020] - Liz Stapleton, Host
+I'm wandering with this question, alt text. It's not necessarily required for every image, correct?
+
+[00:14:52.810] - Liz Stapleton, Host
+But how do you differentiate?
+
+[00:14:57.090] - Erin Perkins
+I mean, if it's a decorative image on on your website it doesn't necessarily pertain to the story you're telling, then you can get away with that. However, I feel like it's very tricky with bloggers because you all put in a lot of pictures, which I understand. I enjoy these pictures. Let me say say I'm a huge fan of Emily Henderson. Her blog is amazing. Her team does an amazing job. Pretty sure they probably don't put in in alt text in all their pictures because they load a lot of pictures in. I think that's something to consider. If you are a DIY blogger, if you want someone to understand and visually see all the steps that you're doing, you might need to copy and paste your steps and use that as alt alt text that can help the people follow along with the images. I think you need to… If you are a photographer, I think it's very subjective. Are you going to want to put in or test for every single one of that family, the same family, but it's just everyone posed differently? Probably not. But you still want to give them an idea of how much they are describing what they look like in some form or way, and then just say these are just different pictures of everyone posing.
+
+[00:16:44.180] - Erin Perkins
+I think you do need to think about how the pictures are the content of the picture and how to do it. But don't keyword stuff with with Don't just be throwing things in because Google will know when you're trying to stuff in all the keywords. So be mindful of how you're using your alt text.
+
+[00:17:07.910] - Liz Stapleton, Host
+Okay. No, I like that. I want to ask because I feel like it's just the direction that tech is heading. Ai is a great tool. I mentioned I use it to help me create my transcripts and captions as a step one. There's also AI for alt text. What are your overall thoughts on AI in helping a site gets become more accessible and the best practices.
+
+[00:17:35.230] - Erin Perkins
+I have tried AI for helping me create images, the image description, and I do think it's helpful. But don't just take what AI does and just throw it in there. There. I just thought I don't feel like you might have to, will have to edit some of those, but I think it's very helpful. I'm a big fan of AI. I think it really helps people get ideas going and stuff like that. Use it when you need to.
+
+[00:18:06.220] - Liz Stapleton, Host
+Are there any AI tools you would recommend to help people get their stuff in order if they have to go back and fix things.
+
+[00:18:12.030] - Erin Perkins
+I have to go back to, I can't remember those those AI I feel like there was one that was AI, AIAlttext I tried that out. It wasn't too bad, but it's probably better since last time I used it.
+
+[00:18:29.230] - Liz Stapleton, Host
+Okay. So starting off right is the best option, but if you're going back and fixing things, how would you prioritize different... What do you need to fix fix first and what is 'keep fixing it as you go' type of a a thing? Like is an emergency? I mean, it's all not great if it's not there, but what is something that, okay, keep working on it as you go versus this needs to be fixed now? Now?
+
+[00:18:57.290] - Erin Perkins
+I'm going to say that don't feel like you have to go back to every single blog and edit those. Don't feel like you need to do that. I would say definitely make sure the framework of your blog, all the stuff that is repeated throughout the website is all set and good to go. Then just start from where you're at now. Say that you are starting fresh February first, right after this Blogger Breakthrough Summit, you're like, All right, I'm ready to do this. All right, so now you're going to be just like take one by one, say, say, know what? I'm going to look at doing the alt text for this blog from this point. Once you feel like you've gotten comfortable with that, and then move on to the next step of that.
+
+[00:19:47.850] - Liz Stapleton, Host
+Okay, I like that. The framework, so things that you're talking about there, I just want to make sure I'm understanding, the theme, the footer, the header, the share buttons. Link colors
+
+[00:20:04.090] - Erin Perkins
+Anything that is is repeated, is basically the foundation of your blog. Make sure that's all good to go. Everything the images, the links all look good, the color, all of that. Once you have that foundation, good to go. And I would step into when you post your blog and make it go from there. Okay.
+
+[00:20:29.980] - Liz Stapleton, Host
+Okay. Looking at my... Oops, make sure I've got my notes and things. Okay, so we talked about video and captioning, but I feel... So video isn't just on a blog, though. Social media has hugely moved towards video. Besides captioning, are there other issues you notice notice with bloggers social media in terms of accessibility?
+
+[00:21:03.570] - Erin Perkins
+Hashtag.
+
+[00:21:04.800] - Erin Perkins
+If you're doing hashtag, you're going to want to make sure first letter of each word is capitalized.
+
+[00:21:16.880] - Liz Stapleton, Host
+Okay. Is that a screen reader? Otherwise, it's trying to sound out a whole word.
+
+[00:21:23.510] - Erin Perkins
+It's a screen reader, and anybody who might have a learning disability, they actually have trouble trouble working out those words. It's like for multiple purposes. The screen reader definitely can't read those. They're reading it and they're like, whatever that is.
+
+[00:21:43.230] - Liz Stapleton, Host
+Yeah, like as a single word.
+
+[00:21:45.350] - Erin Perkins
+Yeah.
+
+[00:21:46.380] - Liz Stapleton, Host
+Okay. No, I wouldn't have thought of that. Anything else you think would be helpful for bloggers to know in terms of just trying to create a better experience on their site?
+
+[00:21:57.840] - Erin Perkins
+I mean, it's just like being being outside your box, think outside your circle. Most people who follow you are following you for a certain reason. A lot of them probably have ADHD, any types of disability that they're not going to necessarily share with you. When you're sharing them your world, they want to be a part of your world. They want to have that access to you. That's why I fell in love with blogging. I never did blogging myself, except for when I was doing DayNote back in the day. But because I want to be part of your world, and the more you create that inclusive experience, I feel like you are writing for me. I remember one blogger they decided to switch totally over to podcasting. I was so bummed about it because I was like, You're leaving us behind because at the time, transcripts weren't coming out and stuff. That was very frustrating to me. It's like, think about the diverse people that you have in your world, and you're very fortunate to have them in your world. Make sure you create that better experience.
+
+[00:23:20.870] - Liz Stapleton, Host
+There's probably more of them than you think. Like you said, they may not stand up and be like, Hey, but there's probably a lot more than you realize.
+
+[00:23:27.910] - Erin Perkins
+I mean, at least 90% of disabilities are invisible. Yeah.
+
+[00:23:34.030] - Liz Stapleton, Host
+I will say I always working to make stuff more accessible. If there's some way that I haven't accommodated you, please do tell me. I will appreciate appreciate it, 
+
+[00:23:45.600] - Erin Perkins
+I taught you how to turn on zoom captions.
+
+[00:23:49.340] - Liz Stapleton, Host
+Yeah, very much appreciate Erin walking me through Zoom captions.. And I mean, so first year I did the summit I didn't have any transcripts because I was like, I can't do this much work. But I was hand trying to do transcripts. But I've developed systems over the years, and I'm slowly going back and adding transcripts to those earlier sessions. So if there's something, especially regarding the summit, because it is time sensitive, please reach out because I will work with you to get you what you need.
+
+[00:24:23.380] - Erin Perkins
+For sure.
+
+[00:24:24.280] - Liz Stapleton, Host
+I just wanted to say that. Erin, I know you have some resources for for attendees. You want to tell us about them?
+
+[00:24:32.210] - Erin Perkins
+I believe the Freebies the Social Media Accessibility correct?
+
+[00:24:39.220] - Liz Stapleton, Host
+Okay. If you say it is, then it is.
+
+[00:24:43.210] - Erin Perkins
+Okay. All right. Then the other thing that is for the VIP or Access Pass. Whoever you are.
+
+[00:24:51.070] - Liz Stapleton, Host
+ Whatever we're calling it. It.
+
+[00:24:53.130] - Erin Perkins
+Yeah, everyone calls it different. For you guys, you're going to get a checklist that is going to help you walk through what things you should be looking out for to make sure your website foundation is all set to go and then you can hit the road running.
+
+[00:25:12.530] - Liz Stapleton, Host
+I like it. Awesome. Definitely, guys, check that out. The link for the social media accessibility info is below. Then if you haven't already upgraded, you can do that to get that fantastic checklist from Erin as well. Erin, thank you so much for coming back and teaching me and being part of this community.
+
+[00:25:29.760] - Erin Perkins
+I love being part of this community. You guys are awesome. Keep blogging people.
+
+

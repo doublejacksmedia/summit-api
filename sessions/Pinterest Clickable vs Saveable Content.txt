@@ -1,0 +1,554 @@
+Title: Pinterest: Clickable vs Saveable Content
+Speaker: Carly Campbell
+Website: https://mommyonpurpose.com/
+Level: Beginner
+Category: Pinterest Marketing
+Length: 32:18
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/pinterest-clickable-vs-saveable-content-carly-campbell/
+
+Transcript:
+[00:00:09.490] - Liz Stapleton, Summit Host
+I'm super excited today to have Carly Campbell back at the 2021 Summit. Carly, welcome! Thank you! You're one of our most popular speakers last year. So I was really, really glad to have you back. And we're going to talk Pinterest, but I'm going to let you kind of introduce yourself a little bit and we'll dive into what we're talking about today.
+
+[00:00:28.450] - Carly Campbell, mommyonpurpose.com
+Well, thank you for having me. I love to talk about Pinterest. I know this past year has been kind of volatile and frustrating on Pinterest for a lot of people. It has not dampened my love of the platform at all. I am still just as fascinated by it as I've always been. One of the things that I've found really essential this year is going back to the basics of what makes Pinterest, what Pinterest is, and not for bloggers, for the end-user.So, yeah, so that's something that we miss a lot as bloggers. We get so in our heads, we hear something, we think that's the thing and we stick to that thing, whatever it is.
+
+[00:01:14.790] - Liz
+Yeah.
+
+[00:01:15.120] - Carly
+Good advice, or bad advice.
+
+[00:01:15.912] - Liz
+Yeah.
+
+[00:01:15.930] - Carly
+But, we forget that the end-user is the one who makes the rules really.
+
+[00:01:20.940] - Liz
+Yeah. Yeah. For Pinterest, for Seo, for Google.
+
+[00:01:26.250] - Carly
+For everything!
+
+[00:01:26.300] - Liz
+We talked about, Grayson and I, go look at your site, like, signed out every now and then. You'll notice if something's broken. Like, go to an incognito window and see what your site looks like to someone who is visiting it for the first time.
+
+[00:01:42.360] - Carly
+Yes! Yeah, it is crazy. You know, we weren't going to talk about this, but this has brought this up. You know, I'm actually doing an experiment right now. I'm trying to determine if, average time on page from Pinterest is actually affecting traffic right now, and I believe it is.
+
+[00:02:00.270] - Liz
+Okay.
+
+[00:02:00.390] - Carly
+Which means as an end-user, if you don't often visit your page from, especially from your cell phone, and if you don't realize that your cookie notice and your popup video from your ad company...
+
+[00:02:14.640] - Liz
+Completely blocks everything.
+
+[00:02:14.690] - Carly
+Like if you're attacking your user within the first 30 seconds of getting to your page, I believe that is...
+
+[00:02:23.760] - Liz
+If you have to exit out of all the things to get to the content you leave.
+
+[00:02:26.000] - Carly
+Yep! They're just leaving. They're just going back to Pinterest. They weren't there looking for you in the first place. They were there looking on Pinterest and they're just going to go back to Pinterest and look for the next closest thing. So I believe that the end-user experience on your site is huge for your long term Pinterest traffic.
+
+[00:02:43.320] - Liz
+Yes.
+
+[00:02:44.070] - Carly
+It's not going to do anything for your short-term Pinterest traffic, which means, like, if I publish a Pin today, that Pin might still get into the feed. That's fine. I'm talking about what's happening on your site in a year or so. So that's a great, great thing to do, no matter what you're working on. Look at your site.
+
+[00:02:57.720] - Liz
+Yes. So always think about your reader first, like not just the coolest, hippest strategy chasing those squirrels or whatever, but user experience. So we're actually today talking about clickable vs. Saveable content we'll actually get on to the topic we said we were going to do.
+
+[00:03:16.860] - Carly
+Well, I was going to say from the end user perspective, that's the user who's deciding whether or not your content is clickable or saveable on the platform. And before we talk about clickable vs. saveable, we kind of have to understand and clickable and saveable mean inside of Pinterest.
+
+[00:03:32.430] - Liz
+Yes. 
+
+[00:03:33.600] - Carly
+So clickable is the kind of Pin where somebody is going to click through the Pin and go to your site. Saveable is a kind of, and I'm talking about the idea of, not the actual function of the Pin, which we will talk about.
+
+[00:03:48.300] - Liz
+Yeah,
+
+[00:03:49.200] - Carly
+But is the idea of the Pin, an idea that somebody is going to say, I'm going to save this picture, this image for the information on the Pin so I can refer to the information on the Pin later.
+
+[00:04:05.850] - Liz
+Yeah.
+
+[00:04:06.340] - Carly
+Or are they saving it, thinking to themselves, I'm going to refer to the information behind this Pin later.
+
+[00:04:13.170] - Liz
+Yeah.
+
+[00:04:14.040] - Carly
+So a really good example is an infographic versus a informational article. So you'll save an infographic for the information on the pin.
+
+[00:04:25.110] - Liz
+Probably not clicking to the content though.
+
+[00:04:27.900] - Carly
+You're probably not. You're right, all the information is right there on the pin.
+
+[00:04:31.780] - Liz
+The other example I always think of are quotes.
+
+[00:04:34.500] - Carly
+Yes.
+
+[00:04:35.070] - Liz
+They're like, I do a ton of quotes. I get all sorts of saves and no clicks. And you're like, well, why would they click through.
+
+[00:04:39.570] - Carly
+Yes, yes. No, totally. And I read the other day that, and I might get this wrong, but I think it was 30 million people per day save quotes on Pinterest. Pinterest was the one pushing that stat out as an amazing stat. And I'm like, "That's great for you, Pinterest. That's not so good for me."
+
+[00:05:01.980] - Liz
+Yeah.
+
+[00:05:02.700] - Carly
+Saveable content is good for Pinterest, clickable content is good for you.
+
+[00:05:10.590] - Liz
+Yeah.
+
+[00:05:10.980] - Carly
+And you have to remember that there is a difference.
+
+[00:05:13.710] - Liz
+Yeah.
+
+[00:05:14.790] - Carly
+So saveable content will not hurt your account, like putting out quotes, putting out infographics, putting out instructional videos where people watch the video, just see the process. That will not hurt your account because they will get distributed through the platform. People will save them. That's fine. They're not going to help you as a blogger. Clickable content, on the other hand, is content that requires the person to click through to the other side to really get what they're after.This would be like a informational article where you have a really good title that inspires a click. You can have an informational title with a terrible, terrible title that doesn't inspire a click.
+
+[00:06:09.900] - Liz
+Yeah.
+
+[00:06:13.000] - Carly
+Instructional content where in the last few steps go like it's fine to do an instructional video, show the first few frames of you doing something, show the last frame of the completed product project, don't show them they're really important part at the end, and then on your last frame, you can put "Click for instructions" or "Click for complete instructions."
+
+[00:06:37.520] - Liz
+Yeah.
+
+[00:06:38.680] - Carly
+You want to encourage that click. However, with the end-user in mind, I've been finding lately that sometimes as bloggers, as Pinterest experts, we always say don't bother pinning Pins without text on it, because the text is encouraging to the quicker.
+
+[00:06:59.740] - Liz
+It's a call to action.
+
+[00:07:01.180] - Carly
+Yeah. However, we've been finding that sometimes the title can be all that is required. That little title underneath the Pin can be all is required to encourage a click when the image checks the right boxes.So for example, a a finished craft project with no text over it.
+
+[00:07:30.380] - Liz
+Yeah. 
+
+[00:07:31.480] - Carly
+but in your title underneath it says - complete tutorial for this thing, the picture is of.
+
+[00:07:37.270] - Liz
+Yeah.
+
+[00:07:38.140] - Carly
+Yeah. So because the title appears underneath the Pin, if you are taking advantage of that title, those plain images can be both saveable and clickable.
+
+[00:07:50.950] - Liz
+Yeah.
+
+[00:07:51.700] - Carly
+And that is the winning combination on Pinterest.
+
+[00:07:55.600] - Liz
+Yeah, I see that with, one of my clients is a food blogger and so comparing it with the title on the pin versus just the image of the food because she has gorgeous photography, you know, like she's it's, it's different results in terms of saving versus clicking, but it does bring in traffic, too.
+
+[00:08:17.140] - Liz
+So it's kind of it's interesting to look at that. I've been experimenting with that as well.
+
+[00:08:21.850] - Carly
+Good. That's exciting to hear because the thing about clicks and saves, and we actually had somebody bring this up in my mastermind group the other day, she had this beautiful Pin with thousands of clicks and she said, I feel frustrated that Pinterest, isn't giving this Pin more feed time. Everybody is clicking it. But the fact of the matter is, Pinterest has told us in their algorithm, saves are greater clicks, which means a Pin with more saves will get more distribution than a Pin with more clicks.
+
+[00:08:55.060] - Liz
+Yeah.
+
+[00:08:55.720] - Carly
+So if you can utilize those beautiful no text images to get the save, they'll get the clicks by default because that's what's out there.
+
+[00:09:05.460] - Carly
+That's what's getting feed time. Yeah. So sure, the one with the text on it might outperform if it was getting the same feed time, but it might not get the same feed time because saves are greater than clicks.
+
+[00:09:17.320] - Liz
+Got it, Yeah.
+
+[00:09:18.730] - Carly
+So we can we can hopefully we can expand this idea, this makes sense so far, right?
+
+[00:09:26.020] - Liz
+Yeah, yeah. No it does. Yeah.
+
+[00:09:29.320] - Carly
+So hopefully we can expand this idea of capitalizing on clickable content to generate saves by applying the same principles to quote Pin or infographics Pins if we think about the end user and what they might be looking for when they see that, quote Pin or that or that Infographic Pin, what might the title be underneath that Pin that would encourage them to click over?
+
+[00:09:58.670] - Liz
+Yeah,
+
+[00:09:59.190] - Carly
+So that might take some out-of-the-box thinking.
+
+[00:10:03.230] - Liz
+Yeah.
+
+[00:10:04.100] - Carly
+But if you're so, for example, in my niche, which is momming, if I was thinking about a really a quote about parenting.
+
+[00:10:16.130] - Liz
+Yeah.
+
+[00:10:17.390] - Carly
+What user is this quote speaking to and what's her problem today.
+
+[00:10:25.100] - Carly
+And the title under that Pin is more information, that user might click on that quote anyway, just based on the title underneath.
+
+[00:10:32.990] - Liz
+Yeah.
+
+[00:10:33.740] - Carly
+So it's really essential that we start experimenting with different titles and thinking about how our title alone can generate the click and include a non text image. Whenever you can, just to see.
+
+[00:10:50.600] - Carly
+Is that the one that some...
+
+[00:10:51.470] - Liz
+And those are easier to make because they you don't have to mess around with the text.
+
+[00:10:56.090] - Carly
+Yeah, absolutely. Particularly those are particularly easy for food or DIY.
+
+[00:11:02.930] - Liz
+Yeah, we're getting a little more thinking. Like I can see another client of mine is in the fitness space. And so, you know, people are like, look for fitness, motivation quotes or something, you know, so you could do like a quote.
+
+[00:10:50.600] - Liz
+And the title could be like how to get motivated even when you're not a morning person to run or something like so it actually feeds into what they were looking for, but also gets that save.
+
+[00:11:28.070] - Carly
+Yes. Yes. What is the end user looking for? That is that's absolutely, the most important thing. So speaking of the end users and saves are greater than clicks and all this stuff, Pinterest has recently rolled out story Pins. Story Pins.
+
+[00:11:48.310] - Liz
+They sure have.
+
+[00:11:48.480] - Carly
+ I just hate them, so, so the problem with story Pins and the problem is, is actually huge. And I don't know how many people realize how huge the problem is, but story Pins get a lot of impressions really fast.
+
+[00:12:03.710] - Carly
+So bloggers like them and they, they want to make them it's nice to get all those impressions. You cannot put a link in a story Pin. So a story Pin by default is never clickable. Even if you make the most clickable image ever. It's never clickable, ever. It's automatically only saveable. And we know that saves are greater than clicks. So we know that over time, as people save  story Pins, I believe that our story Pins will naturally, algorithmically suppress our regular Pins because everybody's home feed or following feed or to any feed that you have on Pinterest, you automatically set to a certain percentage story and video Pins, right away out of the gate when we interact with a story or video Pin, which includes saving it or clicking on it or liking it or whatever.
+
+[00:13:03.450] - Carly
+The percentage of our feed that is that a story Pins or video Pins increases. That's what Pinterest is designed to do, they've intereacted with this, they like it. They want more of it. They give them more of it.
+
+[00:13:12.980] - Liz
+Yeah.
+
+[00:13:15.090] - Carly
+What's it taking the place of then? If they're putting more story Pins in the feed of the person that's interactived with they're taking the place of your regular Pins, the ones that have links.
+
+[00:13:26.410] - Liz
+Yes.
+
+[00:13:27.240] - Carly
+Yeah. So they're absolutely going to suppress our regular Pins over time as people interact with them. So when we were considering saveable versus clickable content, and what is more important to us as bloggers, I implore you, do not make story Pins, you're ruining Pinterest.
+
+[00:13:43.350] - Carly
+ Story Pins will be....
+
+[00:13:48.740] - Liz
+Hopefully, by the time this airs story Pins will go away.
+
+[00:13:51.150] - Carly
+Oh my goodness. Wouldn't that be amazing?
+
+[00:13:53.380] - Liz
+It will be like a t2021 gift for 2020 being so 2020.
+
+[00:14:00.240] - Carly
+I don't think that's going to happen yet, but the only way that it will happen is if we refuse to make them.
+
+[00:14:06.840] - Liz
+Because there's no benefit to content creators if people can't click to our content. So I do want to, because we're talking about stories Pins in particular you can do a link on video Pins and they do help get impressions. I haven't noticed tons of clicks. When I've done video Pin, I experimented with them. What are your feelings on sort of the animated Pins, which is technically a video Pin? But you know what I'm talking about how there's like you can animate in Canva and I'm assuming Picmonkey like a little. What are your feelings on those?
+
+[00:14:33.960] - Carly
+OK, so I just did my first three of those about three weeks ago and I am watching them to see what they do. Out of the gate, they got better impressions, like we know that, depending on the niche. I tried them in a number of different niches, depending on the niche people would react to them and that boosted them even further.
+
+[00:15:01.340] - Carly
+And the problem with them, I think, is that you still can't you can't click directly through them, so you have to click on them and scroll down to click on the link at the bottom, just like a video. Because to Pinterest, it's a video.
+
+[00:15:15.020] - Liz
+Yeah.
+
+[00:15:15.980] - Carly
+So I think that the problem with them is that they're not immediately clickable. What I haven't tried yet, but I think it would be amazing is promoting them because when you promote something, it's instantly clickable.
+
+[00:15:29.320] - Liz
+Yeah, right.
+
+[00:15:30.540] - Carly
+So I think that they do they do call attention to the user, that, they stand out in a way that's not the same as video. Like a person sees it right away and doesn't have to watch it for ten seconds. So you don't need to hold their attention. So I think that promoting them, might inspire good click through rate for that promoted Pin. But as far as just using them as an everyday Pin, I'm hesitant about them also, like they are being treated the same as video in the algorithm.
+
+[00:16:07.790] - Liz
+As far as Pinterest is concerned.
+
+[00:16:09.440] - Carly
+Yeah.
+
+[00:16:09.950] - Liz
+So not as much work as creating a video Pin in the way we would think about it, but. Yeah,
+
+[00:16:15.230] - Carly
+Right. But the work is. The amount of work is. I mean, if creating video Pins brought thousands and thousands of views to my site, I would do the work I would create the video Pins. Yeah, the thing is that I I've created these animated Pins and they both brought less than all three of them, brought less than 10 clicks, even though they got over 5000 impressions within a minute, they all got less than 10 clicks.
+
+[00:16:40.370] - Carly
+So. I still don't think that there is as much ROI there as there is in learning to create good Pins the garner both saves and clicks. Yeah, so I am, I am, I mean, I'll watch them. They're only three weeks old, maybe in 20 weeks they will do amazing things. But...
+
+[00:17:03.860] - Liz
+Yeah, and that's the thing is with Pinterest and I think a lot of people new to Pinterest lose sight of that is Pinterest is a long game. It's not as fast as it used to be anymore. It is more similar to doing like SEO type of work. You'd give it, I think, a minimum of three months being consistent and really six. And you're not going to be able to tell the first year, like, don't freak out over the the dips, you know, the peaks and valleys because every niche has them and you're learning what yours are.
+
+[00:17:34.540] - Carly
+Yeah. And on Pinterest are, sometimes I think that we almost invent dips, we think we're in a dip, but really what we're in is the downside of a peak. Because it's really easy to get a good bump on Pinterest.  Then we think this is our new normal but normal is still down here. Yeah, we think our traffic's going down, it's not going down.
+
+[00:17:59.130] - Liz
+It's just leveling out.
+
+[00:18:01.920] - Carly
+Yeah, it's nice. Enjoy the, enjoy the peak, but get used to the baseline.
+
+[00:18:07.400] - Carly
+Yeah. And work to grow your baseline over time. Slowly with clickable and savable content.
+
+[00:18:13.130] - Liz
+And being consistent.
+
+[00:18:14.990] - Carly
+Consistency is really important. Yeah.
+
+[00:18:17.030] - Liz
+I feel like that. I mean that's true of every aspect of blogging I feel like.
+
+[00:18:21.260] - Carly
+Absolutely. And and I think too, some that has gotten kind of swept under the rug in the last couple of years of Pinterest traffic is, Be consistent with Pinterest but be consistent with your blog and content creation, because Pinterest wants more content. They like, yes,
+
+[00:18:42.470] - Liz
+At least they say they do. They're like we want more content. But do story Pins.
+
+[00:18:47.840] - Carly
+Yes, exactly. Create content on Pinterest for Pinterest. Don't do that. But they do want, for the past year and a half, it's been frustrating because I had so many people say "my new content doesn't get clicks, only my old content gets clicks."
+
+[00:19:04.730] - Carly
+And it makes us feel like we don't want to bother creating more content on the platform, but we know it. My top post on Pinterest right now are posts that I posted in, I want to say April and September of 2019, after posting each of them, I said my new content doesn't get any any traction on Pinterest, none.
+
+[00:19:25.610] - Liz
+The tractions is taking so much longer.
+
+[00:19:29.790] - Carly
+Yeah, it took eight months for that content to get traction. Now I will say the Pins for that post are hyper clickable, not saveable.
+
+[00:19:43.410] - Carly
+So the Pins when I put them out didn't get a ton of saves. And I think that if you can get a ton of saves on a Pin when you first get it out, that might gain traction a little faster.
+
+[00:19:56.940] - Liz
+Yeah,
+
+[00:19:58.100] - Carly
+You don't need to wait for it to marinate in the algorithm.
+
+[00:20:01.530] - Liz
+So we've talked about kind of what makes it saveable, where we're like it's inspirational and but what what makes a Pin really, really clickable? Like, let's talk about that for a second, because ultimately they want clicks, that's what matters.
+
+[00:20:13.350] - Liz
+Like your number of impressions or your reach really doesn't matter. It's how many clicks are you getting?
+
+[00:20:18.240] - Carly
+Yes, absolutely. So clickable content is obviously content where the reader wants to know right now what is on the other side of that Pin. So, yes, people do save our Pins with the intention to come back and read later. But let's not rely on those people for traffic, because how often do you start a project and then. Always come back to the project later to finish it, right? Ya, I know I'll save ideas. I'm going to make this, I'm going to make this toilet paper roll monster.
+
+[00:20:50.280] - Liz
+I also like haven't been able to view my boards on desktop, so.
+
+[00:20:53.430] - Carly
+Oh, really?
+
+[00:20:55.260] - Liz
+Yeah,
+
+[00:20:55.770] - Carly
+That's not good.
+
+[00:20:56.820] - Liz
+But like with my clients and stuff, too, I was like, well, how am I supposed to find my ideas? But but I'm wondering if that's just a business account aspect.
+
+[00:21:04.770] - Carly
+We can hope so. But regardless, it's a good example of why we shouldn't we shouldn't count on the people who are saving our Pins to be the ones who are going to click them later. What we really want to do is have people clicking through the feed when they find our Pins now.
+
+[00:21:17.910] - Liz
+So, yeah, it's also another reason why I'm like, OK, I am kind of moving away from group boards, even quality ones because I'm like, if you can't see them.... Sorry, sorry, but back to clickable content. Sorry,
+
+[00:21:29.600] - Carly
+The glitches they come up with just ruin my life. So clicks happen from multiple places in the Pinterest feed, one place being, well, the main one place being the Pinterest home feed, when somebody is just scrolling. The second main place being Pinterest search, when someone searches for an idea and then your Pin surfaces and they are looking specifically for that idea. So they click it. So. It's a little bit harder, I would say, to get that instant click from the home feed.
+
+[00:22:07.610] - Carly
+But for people who like them, OK. But for people who, who are blogging on subjects that don't have a huge search volume, that is the best place to get the click. So, how would you get the clicks in the home feed? It is being extremely, like it is OK to be clickbaity on Pinterest, let me say that. If you deliver on your clickbait-y idea on the other side, if you're not misleading, people clickbait-y titles are fine.
+
+[00:22:46.890] - Carly
+One of my most popular Pins of all time has three complaints about the clickbait title on the Pin. But it doesn't matter, I'm sorry that those people felt like it was clickbait-y. I delivered the full solution to the problem that I was talking about on the other side and I don't feel bad about my clickbait title at all. So go ahead and use clickbait, things like, things that sound a little bit unbelievable.
+
+[00:23:12.540] - Carly
+That title, for example, is "How I Cured the Terrible Twos in two days" and parents who are struggling with a toddler in the terrible twos. They're going to click on that when it's scrolls by, just the clickbait nature of it will cause them to click and actually that Pin ranks now and people click on it when it ranks, also. But using the word like "dangerous" or "mistake" or "overwhelmed" things that really speaks to the underlying emotions that your target reader could be feeling in the moment when they're scrolling.
+
+[00:23:52.830] - Liz
+Yeah,
+
+[00:23:53.190] - Carly
+Those are really good ways to get clicks right in the home feed.
+
+[00:23:58.260] - Carly
+They're also good ways to get clicks after ranking.
+
+[00:24:01.110] - Liz
+Yeah,
+
+[00:24:01.410] - Carly
+But after ranking, you can also get clicks with the, with the more straightforward title, the less clickbait title like, you know, five ways to deal with the terrible twos that that could be a title for the same article. But you can get clicks with that title also in the search.
+
+[00:24:25.170] - Liz
+Yeah.
+
+[00:24:26.130] - Carly
+Whereas it's all going to be harder to get clicks with that title in the moment in the home feed.
+
+[00:24:32.610] - Carly
+Does that make sense?
+
+[00:24:33.420] - Liz
+Yeah, yeah. Like as the child is screaming, you're like, I don't need five ways, two days sounds great.
+
+[00:24:38.520] - Carly
+Exactly. And I mean, you never know exactly what's going to go by in the home feed. But Pinterest is very, very targeted, like Pinterests knows if you've been looking at content about your angry two year old, they know that. And they will send you more stuff like that.
+
+[00:24:55.320] - Liz
+Yeah, the Internet is creepy. We all know that
+
+[00:24:57.630] - Carly
+The Internet is creepy. And, you know, I, I actually was so creeped out by Pinterest last summer, I almost couldn't use it anymore. My in-laws were visiting and I bought them Strombo cider at the liquor store. And I had I had never bought Strombo cider before. And the next day Pinterest started advertising Strombo cider to me and it had never advertised before. And I had to like look into how they knew this because I was like Pinterest can't hear me through my phone.
+
+[00:25:28.740] - Liz
+Yeah.
+
+[00:25:29.700] - Carly
+But apparently MasterCard gives your information. They, they sell not your personal information.
+
+[00:25:37.470] - Liz
+No,
+
+[00:25:37.950] - Carly
+Just your purchase information. Yeah, I didn't know that. But I also know Pinterest is creepy. I couldn't believe that they could target me that way.
+
+[00:25:49.080] - Liz
+Yeah. Yeah. No that's that's insane.
+
+[00:25:53.220] - Carly
+But sorry, so back to clickable and saveable yeah, clickable will will definitely have some sort of missing information whereas saveable Pins have all the information. Clickable Pins will be something else.
+
+[00:26:11.310] - Liz
+Yeah. It's the open loop thing that when you, when you're in all those business books and psychology and people want to close the loop and so yeah.
+
+[00:26:20.040] - Carly
+So for example, how I, how I cured the terrible twos, the two days. Well, how did you do that. I mean, yeah, I didn't put that information on the front of the Pin. I didn't even hint at it. Another one of my really popular Pins is "The Number One Mistake Parents Make When Potty Training." What is the number one mistake, you know they have to know?
+
+[00:26:40.840] - Liz
+Yeah,
+
+[00:26:42.870] - Carly
+I tried also putting a different title below the Pin. So instead of putting, you know, the same thing again, "what is the number one mistake parents make?"
+
+[00:26:53.830] - Carly
+I've added extra information in the title underneath the Pin by saying doing this makes potty training take way longer. So now not only do they know there's a mistake, they know that the mistake adds time to potty training.
+
+[00:27:08.910] - Liz
+Yeah,
+
+[00:27:09.690] - Carly
+No one potty training wants to do that. They want potty train... So the Pin is extremely clickable, it brings thousands of pageviews a week.
+
+[00:27:17.100] - Liz
+Yeah. Yeah. So definitely think of all the places that you can help encourage people to click, like your title, your description, the title on the Pin versus you know, so, people just recycle and I'm like you could, you could do so much more.
+
+[00:27:32.760] - Carly
+You could do so much more.
+
+[00:27:33.900] - Carly
+And you know, if you find that you have a Pin that is getting a ton of impressions and not a ton of clicks. Look at the further stats. You can click in to see more stats, and if that Pin is getting a lot of close ups where people actually open the can, you can edit the description to try to give more, because if they close up to the Pin, then they're going to see the description.
+
+[00:28:02.300] - Liz
+Yeah.
+
+[00:28:02.960] - Carly
+So if you're feeling like you could encourage a click through, it's very much the same as if you're ranking in the first three spots in Google, but you feel like your click through rate's not good.
+
+[00:28:13.820] - Carly
+What can I improve in my meta or how can I improve my title to make people click. Yeah, the same idea. What can you do in your description when there's already close ups if people aren't even closing up on your Pin, don't worry about it.
+
+[00:28:26.810] - Liz
+Yeah.
+
+[00:28:27.380] - Carly
+They're not seeing your description anyway, but when they're close up on your Pin and they're not clicking. What can you put in your description that could encourage the click? So don't be afraid to edit.
+
+[00:28:38.630] - Carly
+Now, if the Pin is ranking, I would be hesitant to take things out of the description. But go ahead and add things into the description. That would be.
+
+[00:28:49.520] - Carly
+Yeah, just like, just like with something is ranking on Google. Let's not take away the information that the algorithm might be using.
+
+[00:28:56.690] - Liz
+Yeah.
+
+[00:28:57.320] - Carly
+They got the result that you were hoping for.
+
+[00:28:59.330] - Liz
+Yeah, certainly add to it. All right. Any last bits of advice, clickable versus linkable, or clickable versus saveable content?
+
+[00:29:11.240] - Carly
+Well, do remember, like, I see a lot of people frustrated with their lack of click through on Pinterest, but do you remember that when people come to Pinterest, they are often looking for actionable ideas, which means that if your content doesn't lead to an action, so, for example, if your content is a funny short story, that is always going to be harder to get a click on because the person is not taking action on what they're looking for there. So if you feel like you're doing everything right with your Pin, then you might need to rethink the the actual content that you're putting on Pinterest and what the user intent is of a person on Pinterest, because that is what makes a click or saveable Pin.
+
+[00:29:55.830] - Liz
+OK, yeah, no, I think that's a great point to end on.
+
+[00:30:01.190] - Liz
+Definitely. Check out Carly's site. She has a great freebie for you guys. You want to tell them about it?
+
+[00:30:07.400] - Liz
+Yes, I have Pin templates for you and I am really excited about. Well, I've I've been using a lot of Pin templates this year because putting out a lot of Pins is a really crucial, new pins. So we can't just keep repeating the same image over and over. Templates make that process a lot faster. And I've made thousands and thousands and thousands of very successful things on Pinterest. My templates are designed to stand out in a feed, before we can be clicked or saved we have to be seen, so my templates are designed to get your Pin seen, check them out.
+
+[00:30:43.550] - Liz
+Yeah. So those are free, the link to that below. And then if you've got the Pro Pass or if you are thinking of getting the Pro Passss, Carly's included something in that, in there as well, A Pinterest Traffic Title Hacks?.
+
+[00:30:54.320] - Carly
+Yes, and so we did touch on two out of the Title hacks that are that we go further into detail in the book, which is making a different title below your Pin and what's on your Pin to encourage a click. And we did touch on the importance of aiming it at an emotion, an underlying emotion of your end reader. But there are also five other title hacks in that book that will encourage click through. Click throughs is what is so important for a lot of bloggers.
+
+[00:31:24.770] - Liz
+Yeah, and if you get Pro Pass, you'll get access to that too. So check it out. Carly, again, thank you so much for being a part of the Summit. I always love having you and I just I can't thank you enough.
+
+[00:31:38.390] - Carly
+Thank you for having me. I always love a good chance to talk about Pinterest.
+
+[00:31:41.370] - Liz
+So. Yes. All right. So, yeah, if you guys have questions, you know, if she's in the chat and she's, she's awesome, she's always very helpful. Join her Facebook group. She gives great advice there, too. So
+
+[00:31:54.890] - Carly
+Thank you. And thank you for doing this, Summit.
+
+

@@ -1,0 +1,347 @@
+Title: The Power of Automations: How to Work Less and Achieve More in Your Online Business
+Speaker: Stephanie Blake
+Website: http://www.theblakecollective.com
+Level: Intermediate
+Category: Productivity
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/the-power-of-automations-how-to-work-less-and-achieve-more-in-your-online-business-stephanie-blake-2024/
+
+Transcript:
+[00:00:03.280] - Liz Stapleton, Host
+All right, guys. I'm super excited to have this speaker back. She's spoken at the Blogger Breakthrough Summit before, I think, multiple times even really. I'm excited to welcome Steph Blake. She's the founder of Simple Business School and 20 Hour Week Club. She's a business coach and productivity expert who helps online business owners run simple, streamlined and profitable businesses in less than 20 hours a week. And she's been in business for over seven years. She is a tech nerd, system strategist, wife and mom. Steph, thank you so much for coming back.
+
+[00:00:43.670] - Steph Blake
+Yes, thank you for having me. I think this is year three or four. I don't know. I can't remember but I'm glad to be here.
+
+[00:00:49.460] - Liz
+I think it's the third one you've been in. This is the fifth Summit. That sounds about right. Because I think you did 2020, and I think you did last year also.
+
+[00:00:59.730] - Steph
+Yeah, I don't know. The years are all starting to blend together.
+
+[00:01:02.720] - Liz
+Right? They really are. And you just stop. I'm like, my camera is up here and I'm looking at you down here. So, today we're going to be talking about automations. The ability to automate things has expanded so much in the last couple of years. You throw in AI and it's like a whole other level. So, let's maybe start with just qualifying what you consider to be an automation, because I feel like some people view that differently sometimes.
+
+[00:01:36.400] - Steph
+That's a good question. So, when I think of an automation, in its most basic sense, I think of something that is happening without me. So, something is automating behind the scenes, the robots are doing their work so that something takes place without me having to manually do it. So, for example, we have automations in our lives and our businesses. Automations are everywhere, which is great and also sometimes not great. So, I guess we could talk about the pros and cons of automation as well as part of this. But yeah, I love automations. I could talk about this forever. As online business owners, if you don't have automation set up, you're working too much, honestly. You're working too much and you're likely spending too much money on team members that you don't need to be spending either. Because there are a lot of different tasks in your business that a robot could do for pennies on the dollar of what you're paying an actual human. And people might not be happy with me for saying that, but it's the truth, right? We're all business owners. We have to make a profit.
+
+[00:02:46.670] - Liz
+Yeah. And I will say it's not to say that you don't have things that humans can do, that you could then hand off to them so you're working less.
+
+[00:02:56.010] - Steph
+Totally.
+
+[00:02:57.030] - Liz
+I love automating. So, for this Summit, the initial transcript that's generated is done with AI. But then I pay humans to go through and make sure it's right. And it's a lot faster for them to go through and check what AI did than it is for them to by-hand transcribe. It's things like that, making AI or using automations and AI to make life easier and speed things up rather than take over necessarily, and that's how I like to view it.
+
+[00:03:24.950] - Steph
+Yeah. Totally.
+
+[00:03:26.160] - Liz
+So, automations are things that take place without you. I want to touch on before we get into what you think are the most helpful automations in business, we can maybe give some life examples just to get people thinking about it. But because I was just actually asked this question, is the difference between... Because automations are basically made up, correct me if I'm wrong, you've got triggers and you've got actions. And so what are the differences and how many of each? And I think people get tripped up trying to understand that context sometimes.
+
+[00:03:59.430] - Steph
+Yes. So, basically, a trigger is something that starts the process of an automation taking place. You can't have an automation run without something telling it to run. So, for example, if I wanted to bring new people onto my email list, I would need somebody to first enter their email address into the form. So, that's the trigger. And then the action would be take that email address, put it into my email marketing tool. So, very basic automation is something that every single online business owner should have in their arsenal. Everybody should have some kind of lead magnet to get people on your email list. And of course, this can get very complex very quickly. If you are techy and nerdy like I am, you can go down rabbit holes for hours and hours and hours to automate every part of your business. Now, one thing I do want to say is while I love automations, while they're incredibly important to have, don't forget that you are a human, right? And you want to give that human experience to the people who are in your world who are trusting you not only with their email address, but also their money. Right?
+
+[00:05:20.950] - Steph
+So, I think there is a really important blend of mixing automation with personalization. And yes, you can technically automate personalization, but there needs to be a healthy mix of the two. Again, at the most basic level, we have the trigger, like I said, the email address and the action, which is adding somebody to your email list. And then after that point, you can set up a whole host of different automations depending on what your goals are. But really, that's the first thing you need to figure out. What are your goals in your business? Not just how much time do you want to be working, but what are the goals? And that's honestly where it's tough to talk about automations because it's so unique to each person. It's so individualized, the specific automations that you need to have set up in your business. Does that make sense?
+
+[00:06:15.180] - Liz
+Yeah. No, because for bloggers, you might automate moving a blog post down the pipeline of getting it published, right? And that can involve lots of little, 'Hey, when I check this box, it's going to update the due date.' That can do all sorts of things. For me, for the Summit, I have an automation that, when I finish editing a video, I upload it to a folder. Then it uploads it to Vimeo and it uploads it to my transcription tool, and it goes and it finds the task in ClickUp and it checks a box. It can get crazy.
+
+[00:06:48.150] - Steph
+It can get really crazy and really out of control if you let it.
+
+[00:06:51.990] - Liz
+Let's try to talk about what you think are some specific automations that are most helpful when you're running an online business. 
+
+[00:07:00.350] - Steph
+Yeah. So again, it really comes back to the type of business you have, what your goals are. However, I want to talk about tools first because I think that this is a good place to get started. So, my number one tool for automating is Zapier. I'm sure you're using Zapier in your business, right? And basically what Zapier does is it connects two apps together or two programs together that don't normally talk to each other, right? So, for example, if I have my landing page software and I want to connect it to my email tool, I can set up a form on my landing page software that will connect to my email via a Zap, it's what they're called.
+
+[00:07:45.290] - Liz
+I'm going to quickly share my screen so we can actually show visually what we're talking about.
+
+[00:07:50.440] - Steph
+Perfect. Thank you.
+
+[00:07:51.240] - Liz
+So, here's Zapier, right? One of the things I love about Zapier is figuring out what I can do.
+
+[00:07:58.500] - Steph
+Yes. And they just released this AI thing.
+
+[00:08:01.100] - Liz
+Yeah. I've barely touched the AI. But if you have a landing page tool, say you're using Leadpages, which I don't use. Are they on here? Yeah, they are. Of course, they are.
+
+[00:08:11.690] - Steph
+Pretty much everything is in Zapier, which makes it great. 
+
+[00:08:15.550] - Liz
+Except Canva. That's the one thing. Oh, my God. If Canva got in Zapier, I wouldn't know what to do with myself. But you can see it says triggers and actions, right? Because I've got to think, 'Okay, what do I want? What is the trigger?' The thing that I'm going to end up doing anyway to kick this off or that is going to kick it off? And then looking at the actions, right? So, you say new form submission, and then what did you want to connect it with?
+
+[00:08:44.540] - Steph
+Let's say ConvertKit. Or what email tool do you use? Do you use ConvertKit?
+
+[00:08:47.830] - Liz
+I use ConvertKit. I love ConvertKit. 
+
+[00:08:50.360] - Steph
+Okay, cool. So, then let's connect that to ConvertKit.
+
+[00:08:52.190] - Liz
+Right.
+
+[00:08:55.170] - Steph
+So, that is connecting your landing page tool where you collect that customer information to your email marketing tool.
+
+[00:08:59.560] - Liz
+ Yeah. So, if you're doing lead pages as the trigger, then as the action, you can do any and all.  
+
+[00:09:06.510] - Steph
+All of those different things.
+
+[00:09:07.600] - Liz
+I will say if you're on the free plan of Zapier, you can do one thing at a time. You can only do a single-step Zap. If you're on the paid plan, you can do all the things, basically.
+
+[00:09:18.440] - Steph
+And you can create fun paths and lots of other exciting things inside of there, too. Yes. Yeah, we'll get there later. 
+
+[00:09:25.430] - Liz
+So, if you're curious about what a tool can do in Zapier, just look up the tool and then scroll down to triggers and automations. And if the trigger is what you want, go look up the other tool you want to connect and see what the actions are, right? Because it's not exclusive to the ideas that are listed here. It's just giving you ideas.
+
+[00:09:47.260] - Steph
+Right. Well, the most popular tools have a Zapier integration. Other ones, they may not have a direct integration. Now, I don't want to get too complicated here, but they may have either, one, a private invite where you can get access to behind the scenes. So, it may not show up when you're doing a search. So, that's something you can reach out to that tool and ask. Or, you can set up what's called a webhook. And that could also... But again, I don't want to get too technical with that. But there we go. So there's a webhook right there. So, there are ways to work around it if the tools aren't in there.
+
+[00:10:25.730] - Liz
+Yeah. And I wouldn't say you need to have a solid understanding of API documents and webhooks to use them. If you can copy and paste and you can Google, you're good. Some of them are easy, just, 'Oh, I just got to copy and paste that.' Other times you're like, 'How do I?' And you can find someone that did a video for you on YouTube or something.
+
+[00:10:44.790] - Steph
+Exactly.
+
+[00:10:45.160] - Liz
+So, don't let, "Oh, it's only through webhook." Stop you from trying to automate that, because you don't have to know everything about webhooks to get it to work.
+
+[00:10:57.040] - Steph
+You don't. You don't. Not at all. Do you have a more complex one that we can show people just to give an example?
+
+[00:11:07.970] - Liz
+Yes. Let me pull up the one I did. Nope, that's not the one I want. Hold on. Go back. Go back. What was the one? I set up a six-step. Here we go. So, this is a multistep. It doesn't have a path, but I have ones that have paths. So, this includes formatting. There's a lot it does. Or do you want me to try to pull up one that has a path?
+
+[00:11:38.210] - Steph
+No, I mean, this is fine. I just wanted to show more than one step. So, you can see here when there's a new video in Vimeo, it's going to complete all of these different steps for her. So, this is where the automation comes in, it's where all of these things are happening behind the scenes without her having to do it or a physical person having to do it
+
+[00:11:55.190] - Liz
+All I have to do is save the file with the file name format that I've decided to make this work, to this Dropbox folder, and then it does all these things.
+
+[00:12:06.000] - Steph
+Exactly, which is amazing. So, if you think about it, if you multiply the time that it would take to do all of these different steps, how long do you think this specific step would take you if you were doing it manually?
+
+[00:12:19.430] - Liz
+Oh, well, I'd have to sit there and wait for it to upload to these. So, that's at least five minutes each. How long it took me to set this up? But this I could probably do a little faster maybe, but I'd say it's at least 10-15 minutes times 50 sessions.
+
+[00:12:41.420] - Steph
+Right. Exactly. So, that's too much math for me to figure out.
+
+[00:12:46.430] - Liz
+Yeah, I was like...Uh.
+
+[00:12:47.510] - Steph
+And on top of that, all of the context switching too. So, we're going back and forth. So, for example, if she was uploading this video on Vimeo, she probably wouldn't sit there and watch it. She'd probably be doing something else, right? So, when she's working on that other task, she's actually not as productive because she has her attention split. 
+
+[00:13:06.380] - Liz
+Monitoring to make sure it uploads correctly.
+
+[00:13:09.340] - Steph
+Exactly. Exactly. So, that's why this is so incredible. Now, for example, if there was a task down at the bottom that said, create a new ClickUp task, and there were...
+
+[00:13:21.490] - Liz
+Well.
+
+[00:13:23.100] - Steph
+Subtasks in there that were assigned to her team members.
+
+[00:13:25.610] - Liz
+Hold the phone. Because when it updates this task in ClickUp, I have an automation in ClickUp to update things.
+
+[00:13:32.590] - Steph
+Okay. All right. So, now we're just getting really wild and crazy right now.
+
+[00:13:35.900] - Liz
+I know. I'm sorry.
+
+[00:13:36.950] - Steph
+But basically, to keep it simple. At the very end, if she had - say, step number 8 was to create a task in ClickUp - and she pulled a template that she had already created in ClickUp, maybe there were team members assigned to it, right? So, then that would automatically create that task for the team members to work on. So, she wouldn't have to manually go in and create that task. So, that's where we blend the two together with the automation, but then having those manual. And that's just one example. One example of that.
+
+[00:14:07.940] - Liz
+ Zapier and ClickUp automations, I use them so much.
+
+[00:14:13.510] - Steph
+I use Airtable too. 
+
+[00:14:16.170] - Liz
+I should be using Airtable better, but I don't. Between ClickUp and Zapier, the number of automations I can do and the things I could not have to do manually... I mean, even in ClickUp, say I checked the box that this got uploaded, well, then the processing status needs to change. And no, it wouldn't take me that long to do that. That's one less thing to do if it just automatically, when I check the box, moves it along.
+
+[00:14:44.170] - Steph
+Right. And I mean, again, it's not that it takes a lot of time to do these things. It's about being productive during your working hours. And that can lead us into an entirely different conversation, which we don't have to get into right now. But that's really what it's all about, right? We have these businesses, these online businesses so that we can have more time and freedom. So, when you can create automations for your specific business to take that time off of your plate, again, that's 50 times however many - a zillion hours, we're just going to say a zillion hours of work. 
+
+[00:15:18.350] - Liz
+Right! And that's for a Summit that I run once a year. If you're doing a blog post, which you're hopefully... The key to success in online, really, an online business is consistency. So, for every blog post, you're going to have to do similar tasks. Even just the checkboxes. How many of those can you automate once you've done something? And that's over and over throughout the year, year after year. Whereas my Summit, my automations adjust a little every year, but each year I automate more and more. The first year of the Summit, I had a VA that probably did at least 60 or 70 hours towards the Summit. Last year I think the VA did two.
+
+[00:16:01.580] - Steph
+Right. And then you're paying for, I'm sure, like Zapier.
+
+[00:16:06.310] - Liz
+Yeah, I'm on the pro level of Zapier. So it's not cheap. But honestly, for all the stuff that it does, it's way easier.
+
+[00:16:14.350] - Steph
+Yeah, so it's way less than what you would be paying your team member to do.
+
+[00:16:19.200] - Liz
+Yeah.
+
+[00:16:20.030] - Steph
+Absolutely. Now, again, when it comes to creating the specific automations for your business, I don't have this automation set up in my business because I don't need this specific automation, right? Now, for example, I have bundles that I host and I will have automations that are specific to that. Or I have memberships, and when people come in and join my memberships, I have automations specific to that. So, again, that's why it's so important to know what your goals are in order to strategically create automations that work for you. And then also that...Yeah, go ahead.
+
+[00:16:53.160] - Liz
+I was just going to say, another thing that I think is great to automate, that I was way too slow to the game on, is creating databases of your work so you're not having to reinvent the wheel and find things. So, anytime I publish a new blog post, it gets added to a list and ClickUp so that I can track, okay, it hasn't been indexed by Google yet. I'm not having to go and copy and paste the link and pull it into... It just automatically does that for my broadcast to ConvertKit. Because I love, love, love ConvertKit, but if ConvertKit had a few more organizational features, I'd love it even more. I have an email broadcast database in ClickUp, and I can go and it pulls it in and it's like, here's the subject, here's the content, and here's the link so that I can go pull it open in ConvertKit if I want. And then I go in and I'll add the open rate and what it was on and what product it mentioned. So, the next time I run a sale on that product, I can be like, 'Hey, which one worked best?'
+
+[00:17:53.270] - Liz
+And I'm not having to start from scratch. So, using automation is just to create databases of the things you create, which is very meta, I think, in what I just said. It's a huge time saver in the future.
+
+[00:18:07.370] - Steph
+It really is. Yeah, absolutely. And there are so many different ways we can... I know a lot of your people don't do any service-based work where they're working with clients or anything. It's more digital, right?
+
+[00:18:18.560] - Liz
+I mean, it varies, right? So, we always get a mix. But I think the focus of the Summit is more content creation based probably.
+
+[00:18:29.270] - Steph
+Yeah. I mean, well, regardless of whether you have customers or clients, I like to differentiate the two. I don't know why. Clients are people I work with more closely.
+
+[00:18:38.040] - Liz
+That's like a one-on-one relationship, whereas customers could be more of a one-to-many, I feel like.
+
+[00:18:42.770] - Steph
+Right. Yeah, exactly. Like a digital product, like a course that you sell. In my mind, that's more of a customer. But either way, you need to have an onboarding process for that group of people. So again, that could be automating the entire process of getting them onto your email list and capturing the payment for the digital product, nurturing them until they're ready to purchase that product. So, from the moment you capture their email address, you can then create different automations- different funnels in your email service provider - that can do the work for you behind the scenes to nurture those people until they're ready to buy and purchase. So, that's something that's happening more behind the scenes on a mass scale versus something like this with Zaps, where it's very specific to one thing. Right? So yeah.
+
+[00:19:32.830] - Liz
+I mean, I can up ConvertKit too.
+
+[00:19:36.390] - Steph
+Yeah, that's fine.
+
+[00:19:38.260] - Liz
+But yeah, I would say most tools have some form of automation, whether or not they call it automation. Like with Convertkit, yeah, there's an automation section, but there are also rules, which is what they started with. They didn't use to have visual automations. And I've been on ConvertKit so long I know that. There are rules. Like ThriveCart, if you're using that, you can automatically send someone to ConvertKit to start the product onboarding sequence. ClickUp has automations. If you're not a ClickUp person, don't worry. Trello has automations, Asana has automations. Gmail has filters and things, which are automations.
+
+[00:20:20.140] - Steph
+Yes, exactly. 
+
+[00:20:22.230] - Liz
+That can save you so much time. Okay, I feel like we really started getting into the weeds.
+
+[00:20:29.590] - Steph
+Yes, I know. This can go in so many different directions. It's really hard to get it in.
+
+[00:20:35.250] - Liz
+Honestly, I'm like, 'Wait, I can automate that.' And then I take the time to automate it. I'll be honest, I hate setting up automations. I really do. It's so tedious to get it, to test it, make sure it's working. But I love them once they're working. It is so nice.
+
+[00:20:52.770] - Steph
+I love setting them up.
+
+[00:20:53.450] - Liz
+I hate to set them up, but I love to watch them work.
+
+[00:20:58.510] - Steph
+Actually, what you said right there was really great because you said as you're just going through your day-to-day process, ask yourself, can this be automated? Yes or no? If your answer is no, then you can step back. Ask yourself that again. Do you actually have to be the one doing it? And if a human being does have to do it, maybe doesn't have to be you. Maybe it can be a team member. And maybe there's a part of that process that can be automated. So, maybe it doesn't have to be the entire process. I want people to just think about this from a different perspective instead of thinking that robots are completely taking over the back end of their business and they don't talk to anybody. That's not the case. For example, as a photographer - that was just the first example that came to my mind - you want to make sure that you're having some relationship with your clients, but you don't have to be the one sending them the onboarding form to fill out their questions or whatever you need to know, right? You don't need to be the one sending them a gift. There's a lot of different parts that you don't need to be doing.
+
+[00:22:03.170] - Liz
+Yeah. I mean, the other day I was like, 'My inbox has gotten out of control and I'm losing track of things I need to pay attention to.' And I was like, 'Oh, I need to just go update the filters so that the new newsletters I sign up for skip that part of my inbox and are just there ready for me when I want to look at that.'
+
+[00:22:22.580] - Steph
+Yeah, exactly.
+
+[00:22:23.710] - Liz
+So it's an ongoing thing. It's not necessarily a set-and-forget, but it's' ongoing and can be improved and better and added to.
+
+[00:22:32.590] - Steph
+Yeah. I mean, just using the Summit as an example. The first time that you ran the Summit, you didn't have that many automations, I would guess, because you didn't really know what you needed. You were just piecing it together. Now, five years later, it's like everything's streamlined.  
+
+[00:22:49.310] - Liz
+As much as possible!
+
+[00:22:50.780] - Steph
+Exactly. Exactly. So, if you're brand new to automation, you're brand new, I mean, even to business, you've been doing things on your own for a long time, just also give yourself a break. This is something new that you're learning. You don't have to have all of the answers right away. Go into Zapier, see if two things can connect. Start there. 
+
+[00:23:15.860] - Liz
+Yeah. Yeah. And on the free Zapier plan, because I'm always mindful, especially if your blog isn't earning money yet. Although if your blog can cover the 20 bucks a month, I think, 20 bucks a month on the annual plan, 30 bucks a month on Zapier. I was just looking at this. Then it's worth it. Pay for it.
+
+[00:23:32.740] - Steph
+Oh, yeah.
+
+[00:23:33.640] - Liz
+If you're not earning any money, still use the free plan. That's five things you can automate for free, right? Clickup has, I think, you get 50 different automation tasks and a hundred instances a month for free, right? I think Make even has a free plan. So, if you really wanted to, you could really bootstrap with multiple tools. I don't know if Pavely has a free plan.
+
+[00:24:02.890] - Steph
+They just have the lifetime access, I think.
+
+[00:24:05.250] - Liz
+Okay. You can really bootstrap and get a lot of free automations if you're willing to be a little creative and dig in to the functionality of the tools you're using. I wouldn't say switch a tool simply for free automation, because especially things like email marketing, go with what you're going to stick with. That'll slow down your progress. That's a whole other conversation for another day. Okay, you may or may not have a good answer for this. What are five places they should start to look at automating?
+
+[00:24:51.010] - Steph
+So first, I'm trying to...I'm assuming there are a lot of bloggers here, right? So, your automation that you mentioned with pulling the copy from your blog and then adding in the link. I'll be honest, I'm not a big blogger, but I know you said that you have an automation specifically for that. So, where after the blog post is published, it will pull the link and it will add that into your database, right?
+
+[00:25:19.910] - Liz
+Yes.
+
+[00:25:20.200] - Steph
+Okay, so that's one. For bloggers specifically, use that because you need to track the data to make sure that your blog posts are working, right? You need to have that. Also, you need to be marketing your business. So, using social media scheduling tools, we didn't talk about that, but that's also part of the consistency portion, right? So, if you want put your blog post on Pinterest, that is something that you can automate. You can take that blog post after it is posted to your blog and automatically upload it to Pinterest. That is not something that you manually need to be doing. You can also create an Instagram post or a Facebook post or whatever, wherever your audience is at, you can create social media content from it. 
+
+[00:26:06.110] - Liz
+And again, with free tools.
+
+[00:26:08.870] - Steph
+Yes. Exactly.
+
+[00:26:09.490] - Liz
+The extent of how many things you can do. So, the reason I have paid levels of tools, right?  My business is almost 10 years old. I have four different websites. I run a Summit. I need the higher volume of things. But if you have one blog with free tools, like Facebook Business, whatever, you can schedule Instagram in Facebook. There are a lot of different ways to approach that. I always like to point out, because when we're talking about tools and stuff, people can get overwhelmed. I think they need to spend a lot of money and you don't.
+
+[00:26:43.490] - Steph
+For sure. Yeah, you definitely don't. Eventually, will you as your business grows? Yeah. But that comes with the territory, depending on what your goals are, what your business model is, and all of that. Another big one, I'm assuming you will be selling something of some kind and you need to deliver a product to that person. So, whether you create a small course, whether you create a freebie, you need to have some kind of onboarding process. Again, whether it's a freebie or paid product, that is a non-negotiable. Because the last thing that you want is somebody saying, 'Hey, I signed up for this. I downloaded this, and I'm not getting it.' Because that's just a customer service nightmare that you don't want to deal with. Another one is... I'm looking at my notes right here. So, this is a fun one. This is just a bonus one that I really like that automates. My main social media platform is Instagram. So, you can actually set up an automation inside of Instagram. When somebody says a keyword, it will deliver a specific message to them. So, for example, if you are running the Summit, if you put a post up on Instagram and you say leave a comment with the word Summit, anybody who leaves a comment with that word Summit, it will send them a message, a direct message with a link to say, 'Hey, sign up for the Summit here.' So that automates your lead generation and even selling process for you. 
+
+[00:28:12.360] - Liz
+So, I see those posts. I had no idea that was an automated thing. That makes a lot more sense. You could tell that I'm not on Instagram and I'm terrible at it. It's a goal. It's always been a goal. The last four years of the Summit, you will see videos of me being like, 'Oh, I want to be better at Instagram.' It just hasn't happened. Of course, it's going to be automated. Who has time for that?
+
+[00:28:31.630] - Steph
+So, the funny thing is... Funny thing. So, not everybody automates it. So, this is a whole other conversation. But there are a lot of people copying what other people do, copying strategies, but not knowing how to actually implement them on the backend. That's a big one that I see. People will say, comment with word, somebody comments, and then nothing happens, because they're manually following up with those people instead of actually setting up the automation in the background. So, that's a whole other conversation that we can dive into. But yes. So ideally, if you see that set up somewhere, there should be an automation that delivers that to you. And let me see what else. Those are really the main ones. We need to make sure that your content is getting out. We need to make sure that you're getting paid. We need to make sure that you have lead generation happening, whether that's for freebies or paid products. We always need to make sure that things are running in the background. And the most important things are leads, potential clients, money and clients. Or else you don't have a business. You just have a very, very, very expensive hobby. Right?
+
+[00:29:41.250] - Steph
+So that's, again, why it's so important to go back to what your goals are and then just ask yourself, 'Okay, I'm creating 10 blog posts a week.' That sounds insane. 'I'm creating 10 blog posts a week. What parts of this process are taking me a lot of time?' Right? So, if uploading the blog post is taking you a lot of time, all right, let's take a step back. What parts of this process can we automate? And again, if you don't know, Google it. Literally, go into Google - how to automate my blog post? You're going to get 10,000 articles. You're going to get 50,000 YouTube videos. People will show you how to do these things. There are videos, there are references for doing everything. But again, you have to take a step back and you have to figure out what those things are that need to be automated in your business. 
+
+[00:30:30.930] - Liz
+Yeah, yeah, yeah. That's fantastic. All right. So, I think we've covered a lot. And hopefully people aren't overwhelmed. Seriously, if you guys have questions, drop them in the Facebook group, drop them in the chat. Pretty sure both Steph and I love to talk about it. Like I said, I'll talk about it. I love watching them work. I hate setting them up. I will do it, but I hate it.
+
+[00:30:56.330] - Steph
+I love all of the parts.
+
+[00:30:58.220] - Liz
+ So, between the two of us, I'm sure we can get your question answered. Thank you so much for coming back again. I know you've got something for attendees and then something for those that get the Speaker Bonus Bundle. You want to share those things?
+
+[00:31:15.190] - Steph
+Yeah, absolutely. So, my whole thing is helping business owners run simple, streamlined, and profitable businesses in 20 hours a week. So, the free gift that I'm giving is a workshop, and it's called it's called the Simple Business Workshop. You can get it at 20hourweektraining.com. And it really focuses on helping you figure out exactly what you need to focus on in your business, so that you can start seeing results without working a zillion and a half hours a week. Because I've been there, I've worked the 80 to 100 hours a week. Not fun, not necessary. And yes, automations are part of that, but there are also a lot of other strategic considerations to remember. And so, that workshop really dives into setting up the foundations of your business, using strategy, and then from there, that's when we can start to add in those additional elements like automations and whatnot. So, that is the free gift I'm giving. And for the little bonus gift I'm giving, it's called Automating Your Online Business. And that really takes everything that we've talked about to the next level. It's a training. So, it has a very concise overview of what automations are in your business, and how to figure out the specific automations that you need for your business.
+
+[00:32:38.430] - Steph
+So, I have a formula that I use in that training and I break it down for you. I also give a bunch of examples of different automations that you can use in your business. So, it's really good. It really takes this conversation to the next level in a more concise way. So, we were all over the place with what we were talking about. So, that will really help you get started. 
+
+[00:32:58.160] - Liz
+That was all good.
+
+[00:32:58.490] - Steph
+Yeah. No, it's all great. It's all really, really great. But that will help you really get started with figuring out exactly what you want to automate your business.
+
+[00:33:06.500] - Liz
+All right. So, guys, definitely the links are below to the free gifts that she has for you guys. And then if you haven't upgraded to the Speaker Bonus Bundle or the annual plan of the Blogger Breakthrough Summit membership, go do that because that comes with the Speaker Bonus Bundle, and you'll get access to that awesome training as well. So again, Steph, thank you so much. And everyone, if you have questions, let us know.
+
+[00:33:29.110] - Steph
+Yeah, thank you for having me. This is great.
+
+

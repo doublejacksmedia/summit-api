@@ -1,0 +1,107 @@
+Title: Master Your Content Organization with Airtable
+Speaker: Rebekah Lara
+Website: https://www.rebekahlara.com/
+Level: Intermediate
+Category: Tech
+Length: 21:12
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/master-your-content-organization-with-airtable-rebekah-lara/
+
+Transcript:
+[00:00:12.760] - Rebekah
+Hello and welcome to Master Your Content Organization Using Airtable.
+
+[00:00:18.580] - Rebekah
+I'm Rebekah Lara, and I'm honored to be here with you today. Thank you to Liz for hosting this amazing summit, and I can't wait to help you master all of your content in one simple tool. I'm Rebekah Lara. I'm a certified life coach and creator of the Time to Thrive program. I'm also an online business manager and most importantly, the mom to three girls. As you see here, who all happen to have some extra needs. S,o I share that with you because.
+
+[00:00:48.190] - Rebekah
+I want you to know that my business was born out of a necessity to keep things simple for myself, because I had become a full-time caregiver and parent to my daughters. When we realized that as each was born, they had a host of medical challenges and diagnoses. It became even more important when my oldest daughter went into acute liver failure, which resulted in multiple organ failure. She was in a medically induced coma for four weeks, and in the hospital for a total of 74 days.
+
+[00:01:28.060] - Rebekah
+But even after she was released home to us, I became her full-time caregiver. And I also started my business shortly after that. And it evolved over time, but in the process, I had to learn how to completely streamline my business to make it run in the simplest, easiest way possible, so that I could be present, not only for my daughters and all of their needs. And as my oldest was recovering, it took her about three and a half years to get to the point where she did not need an intense level of care each day.
+
+[00:02:11.590] - Rebekah
+So, even though I am, I shouldn't say even though, now I am happy to say that she has recovered to a point where she lives life almost the same way as her peers and classmates do. But even so, all three of my girls still have chronic medical conditions.
+
+[00:02:31.480] - Rebekah
+So, I spent a lot of my time taking them to doctors' appointments and specialists and therapies and all the things that they need to support them in the best way possible. But I still have a strong desire to have my own business, to be a career-driven woman. And I love showing up for my community and teaching them how to do this for themselves as well.
+
+[00:02:54.510] - Rebekah
+Because I know that each and every one of you has your own set of challenges in life, maybe with your own medical conditions or loved ones, maybe a caregiver, or going through some other difficult life circumstance. It happens to each and every one of us. And I want you to be prepared in the best way possible to handle those challenges and still allow your business to keep running alongside life and all that it throws your way.
+
+[00:03:26.890] - Rebekah
+So, before we get started, I want to ask you a couple simple questions that will help bring awareness to where you currently are in your business in life and how this tool can help you too. So, tell me, are you tired of spending hours at your computer and still not getting anything done? Tell me in the chat, share with all of us, where are you currently? Are you fed up with this as well? And if you can relate to any of my story and maybe you have some other outside life circumstances that prevent you from spending hours and hours at your computer, I get you. And if you do have that limited time, you don't want to be spending it searching and looking for content and trying to figure out the best way to repurpose and recycle what you've already created, those assets you've already created in your business. Likewise, are you tired of trying to keep track of all this content across multiple platforms? You may be sharing this content out on social media platforms such as Facebook, Instagram, TikTok, Twitter, you name it.
+
+[00:04:43.600] - Rebekah
+There are so many options, right? On top of that, you probably have an email list and potentially some other places you share content like, podcasts or YouTube, blog posts, the list goes on. Tell us in the chat if you are tired of trying to keep track of this and you end up feeling like you have information spread out all over the place and you spend all your time trying to find it instead of actually repurposing it and reusing it in the best way possible.
+
+[00:05:18.110] - Rebekah
+So, if you can relate to anything I've shared so far, I would love to introduce you to one of my favorite tools, Airtable. In my opinion, this is a great place to organize all of your digital content. Not only content in the term of like blog posts and social media posts and podcast episodes, but Airtable can really be used across your whole entire business to organize your expenses and keep track of subscriptions, logins, optins, products, blog posts like everything that you use in your business can be organized and housed within your table, so that you have a one stop place to find everything that you need for your business.
+
+[00:06:11.340] - Rebekah
+And you can save a ton of time searching for this information. So, we are going to talk about some of these quick benefits, which I've kind of already mentioned, but I want you to really understand why I love this tool so much and why I think it can help you and your business as well. Now I'm going to demonstrate for you right now how you can get started with it once you click on the link and create your own free account, by the way, in Airtable, in order to use this.
+
+[00:06:41.790] - Rebekah
+Most of my clients and myself for a very long time used just the free version of Airtable to do everything that I'm going to show you. You can upgrade for additional features, but to get started, I recommend just signing up for a free Airtable account. It's all you really need to begin using this super valuable tool. Okay, so here we are. Once you click on the link, you will be brought to a page that looks just like this. And you'll notice in the right-hand corner, it will say sign-up and you'll want to click there. If you don't already have an Airtable account, again, free version, perfectly fine.
+
+[00:07:21.010] - Rebekah
+And you will sign up, get your free account and open this link, so that you have this template here. It should prompt you to make a copy. It usually will say something like copy base or allow you to save a copy into your own workspace. So, I'm going to hop over to my example version of this same template. Content bank is what we call it. By the way, you can customize anything I show you here in Airtable, rename it, change the colors, delete and add to it. So that is the good news. You don't have to use it exactly as is. But I'm going to show you how I set it up for you, so that you can get started. These are suggestions for how I've used it and my clients use it. But again, I want to encourage you to take this and tweak it and make it work best for you. So, you'll notice up at the top, I'm going to give you a quick tour here. You'll have all of these tabs already set up for you. The content bank, optins, products, and so on. We're going to click through each of these quickly and show you a quick tour of how you can use this.
+
+[00:08:29.830] - Rebekah
+But the thing I love about Airtable is that it is kind of like an Excel or similar Google Sheets kind of software, but it's kind of like amped up and has more power to sort and group and track and find things easily, which is why I love it. It has even more capabilities beyond that. You can create calendar views and forms and collect data from other people. It's really super helpful. So, right here in the content bank is where you can store all of your content. So, I like to kind of think of this as my bank that I'm going to go to and find the content over and over again, so I can repurpose it for different places such as Facebook, Instagram, TikTok, podcast, blog posts, and so on.
+
+[00:09:24.640] - Speaker 2
+Once you create the content, you store it here, so you can access it over and over again and you can take it and tweak it to fit each platform in the best way for that platform. But you won't have to start from scratch. So, here in the content bank, you'll notice I have different categories set up. So, one category for my business might be Asana tips.
+
+[00:09:45.550] - Rebekah
+This is another digital tool that I love, Asana. And so, I may create multiple pieces of content about how to use Asana. So here is my example. I put the main topic here, the date it was published. I can even link directly to a URL here, to a Google sheet, to the actual published URL, like if it was a blog post, for example. Keep track of the categories here, which by the way, you can have more than one category. And you can set these up by customizing the field here.
+
+[00:10:18.210] - Rebekah
+So, you can edit the field, change the name, add more of the categories down here, even customize the colors, and so on. Once again, in my upgraded product that I offered in the VIP pass here, you can learn how to customize this even more. Moving forward here, you can keep track of where you are sharing this out, and so you can keep track of did I share this to Facebook or Instagram yet? And so, you don't have to try to mentally keep track of these things. So, if there are related posts, you can find them here and link to them, so you know that you have shared it in a related post.
+
+[00:11:04.000] - Rebekah
+You can keep track of URL when you shared it on Facebook or Instagram, even if you shared it as part of an optin or product, affiliate program, newsletter or social media. All of these by the way, are linked records. When you see this little symbol here, it means it's linking to these other tabs or they're called records, and it's like a hyperlink. So, when I click here, it will open up directly into this other tab and it will show you where you saved it or shared it out on social media, which is the beauty of Airtable.
+
+[00:11:41.520] - Rebekah
+So, all this information is linked together, easy to find. And the second tab here is where you can keep track of all of your optins. This is super helpful if you have multiple optins or lead magnets and you can connect them to that content. So, you'll notice here, when you click on something like this and you open it up, it is showing you this information in the other tab. It's like a window into the tab. And notice this white line here links back and shows you where it's pulling the information. So, this is not a copy of that information, it's just a viewport into it.
+
+[00:12:21.510] - Rebekah
+So, you can see it in multiple ways. But the information is the same, it's not duplicate, it is the actual information that you put in over here in the content bank. So, if you had an optin that was related to how to use Asana, you might link it here, save all of this other information like a landing page wire, if you have that connected to your optin notes you want to keep for yourself, and so on. The next tab is products. So, maybe you sell products or services that are related to this content and maybe you post a blog post, right?
+
+[00:13:03.010] - Rebekah
+A lot of us are bloggers here. So, you might have a blog post related to Asana tips, but you also have a product that you're selling that is related to the same thing. So, you can keep track of those products here, what platform you might sell it in. Again, you can customize these by the way, once you get into here, the date you created it, and so on, always sharing and linking to the other fields, which we're going to get to next. So, the next one is email marketing.
+
+[00:13:31.600] - Rebekah
+So in other words, these are the emails or newsletters that you send out to your list. And in some cases, you are promoting a free lead magnet or a product or service that you offer. So you can keep track of each of those emails if you desire, with the date, the subject line, the link to the content. So, this is helpful by the way, you don't have to rewrite things. If you already wrote a blog post about how to use Asana, you just click on that every time you add something to this bank over here, it's going to show up in this list linked to content banks. So, when I click the plus sign, all of them will show up here.
+
+[00:14:12.070] - Rebekah
+So, as you have 50-100 blog posts, for example, they're all going to show up here and you can either search for them by typing in some keywords here and those will pop up, or you can go through the list and click on them. Once you do that, it's here. And then notice like if you have a Google Doc or a URL to the actual published post, you can click on them here and copy that text that you already wrote to use for your email newsletter or email that you're sending out. So, you don't have to rewrite everything. You can take and repurpose things you've already written. You can save attachments and graphics here by uploading them directly.
+
+[00:14:53.920] - Rebekah
+This is really helpful because in Airtable, you can upload them and then download them again. So, it's kind of a nice storage system. If there is a graphic that you sent out in the email that you might want to reuse on social media for example. So, once you save it here, you can download it again. Then you can even keep track of analytics and other information about your emails if that is helpful to you.
+
+[00:15:19.290] - Rebekah
+If something is not helpful to you, by the way, you don't care how many people you sent it to. For example, you click on these arrows throughout Airtable and it gives you this menu. You can go in and delete or hide fields. You can duplicate or insert new fields to add on to this. Similar to the other tabs, this is for affiliate program. So, if you're promoting someone else's program, it relates to your content. You can keep track of all of that here again linking to that previously written content that you stored in your bank. And then the final tab here is social media. This is general here. And I wrote month one because you can duplicate this by clicking on the arrow like I said, and clicking duplicate table. So, duplicating table is going to, excuse me, it's going to duplicate this entire thing for you, so you can keep track month by month. So, this might be for January 2023, and then you might duplicate it and make one for February, March, and so on. And you can rename your tables at any time. So, you can come in here and rename this as January 2023 or whatever you desire, and it will save it here.
+
+[00:16:37.080] - Rebekah
+And then in here, you can plan out your social media. I go into this further and more trainings that I have on social media planning and getting organized in Airtable. But the quick way to think about it is that you can type your caption right here in this box. If you want to expand the record, you click on these arrows and it opens it up in a larger window. And you'll see, you can type your whole caption here in this box as much as you want to write.
+
+[00:17:06.810] - Rebekah
+And then within that, you can either look at this information here in this card view or across the grid view. It doesn't matter. It's the same information, but you can link to that content. So, if you wrote a blog post now you want to capture some of that text, copy it and use it here for your Facebook caption. You can do that easily. Keep track of the date that you plan to publish this on Facebook, the graphics you're going to use, you can keep track of the status. So, maybe it's something that's a draft and you're working on or it's ready, or you've already published or scheduled it out.
+
+[00:17:43.750] - Rebekah
+You can keep track of the different types of content and again, the different platforms. So, if I create something for Facebook and I want to do something very similar on Instagram, I can click on this box and right-click with my mouse to get the duplicate record and then notice it made a copy here of everything that's the same. But I want to put this on Instagram instead. So, if I change the platform to Instagram, it will automatically sort it down here. I can open this up, notice it made a copy, and I can you know  add hashtags or tweak this, so that it fits the Instagram platform better. But most of my caption will already be written. I don't have to start from scratch. And then from there, you can you know create a schedule to publish out, whether it be the same day or next week or in three days, whatever it might be. You can keep track of that here with these dates, and you can even view it in a calendar view. So, notice here it shows you how many posts are going out on the 15th of August in the past or in the future.
+
+[00:18:51.640] - Rebekah
+You can drag and drop things to reorder when things are going out. It's a very handy tool and really easy to customize. So that was a quick tour of Airtable. I hope you found it to be incredibly valuable tool. I know that it saved me and my clients a ton of time in streamlining our systems and allowing us to find, track, sort, and repurpose our content to make our business run in the easiest, simplest way possible. If you have any questions, I encourage you to reach out to me through the Facebook group here in the chat or at hello@rebekahlara.com. And if you do need more support, I encourage you to download my free Time to Thrive series.
+
+[00:19:36.340] - Rebekah
+This free series, found at Timetothriveseries.com, will include 38 workshops for you to help you create more time in your schedule. So that you can find time for your business and run it efficiently with even the limited time that you have, how to plan your week and prioritize your tasks, so you're always focused on those most important revenue generating tasks moving forward and how to stay accountable to yourself. So that ultimately, once you have this all in place, you can follow through on your plan.
+
+[00:20:08.740] - Rebekah
+Likewise, if you purchase the VIP upgraded pass for the Summit, my product featured in there is the Get Organized with Airtable Master class. And in this Master class, I dive even deeper into how to use, organize, and take the templates in Airtable to tweak them and customize them for you and your business. So that you can create these simple systems to help you thrive in your business moving forward. It's been a pleasure to be here with you today.
+
+[00:20:39.910] - Rebekah
+I thank you for your time and I hope that you take these templates and this new knowledge and put it into action right away, so that you can save time in your business. So, you can focus on the most important tasks moving forward. Thank you to Liz for hosting Summit and thank you to all of you as well.
+
+

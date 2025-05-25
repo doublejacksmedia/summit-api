@@ -1,0 +1,158 @@
+Title: 7 SEO Tips For Bloggers Who Want To Stay Ahead of the Curve in 2020
+Speaker: Rob Powell
+Website: https://robpowellbizblog.com/
+Level: Beginner
+Category: SEO
+Length: 32:52
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/7-seo-tips-for-bloggers-who-want-to-stay-ahead-of-the-curve-rob-powell/
+
+Transcript:
+[00:00:03.120] - Liz Stapleton, Host
+All right, guys. I'm super excited for the session with Rob Powell from the Rob Powell biz blog, joining us from Australia, as you believe. Thank you so much for doing the session.
+
+[00:00:13.150] - Rob Powell
+You're welcome, Elizabeth. Good to be here. Thank you for having me on the program.
+
+[00:00:18.610] - Liz Stapleton, Host
+Yes. And we're going to be talking about SEO or Search Engine Optimization, which is something a lot of people get tripped up on. Can you give us the highlights of what you're going to cover?
+
+[00:00:28.890] - Rob Powell
+Yeah. Well, I'm just going to be talking about the seven trends for 2020 in SEO, which are basically from a focus on keywords to topics, featured snippets. Video is going to be very big. Mobile user experience is huge. Adapting to zero click searches is another new thing that's started in 2019. Optimizing for voice search and using structured data on your website.
+
+[00:01:02.510] - Liz Stapleton, Host
+Okay, yeah. I want to be doing all those things. So let's go ahead and dive in.
+
+[00:01:08.170] - Rob Powell
+Yeah. So I thought I'd just start by talking about why SEO is so important. It's getting really difficult now to get noticed on the internet. So I started blogging about three years ago, and even in that time, it's become much more difficult. They're just a sheer amount of competition. What I like about SEO is it delivers highly targeted people to your website. So if someone finds your website through Google search, it means they're absolutely looking for what you're offering. They're not.
+
+[00:01:41.570] - Liz Stapleton, Host
+Browsing interest, yeah.
+
+[00:01:44.010] - Rob Powell
+That's how Google works. It only delivers targeted people. The other thing I like about SEO is it's incremental. So every new blog post you write builds on the traffic from the blog post before. That's quite different to social media, where social media posts just have... They just tend to disappear. And then when you add your next post, you're just starting from scratch again. So to give you an idea of what that means, a tweet lasts 18 to 20 minutes, and a Facebook post lasts two and a half to five hours, and an Instagram post lasts about 19 hours. But by contrast, I've got articles on page one of Google that have been there for over a year, and they're just delivering passive traffic without me doing anything. So the third thing I like about SEO is it's quite stable. So as I said, those posts of mine on sitting on page one, they just sit there month after month and I don't do anything. So that's basically why I think SEO is a very, very good option for bloggers.
+
+[00:02:54.290] - Liz Stapleton, Host
+Yeah. I do want to just interject for a second on the stability, because if you're producing quality content, it's stable. But if you're on shaky ground in terms of the quality of your content, then Google keeps getting smarter. And that's where you might see drops because some people like the what was it? The update a year or two ago about the health niches and the eat update with authority. So as long as you're in your zone of genius and you're producing quality content, SEO traffic is very stable.
+
+[00:03:24.370] - Rob Powell
+Yeah, that's right, Elizabeth. You've got to have topical authority for what you're writing about. And that is the key, really, and I'll be coming to that in a minute. But it's all about topical authority now. And you do have to write very good content. And in fact, with this update that came out, I think on the 10th of January, the January core update, again, it's all about quality. So that's a huge issue for... But yeah, so it will be stable if you write good content. So the first trend, I think this is huge from keywords to topics. Of all the seven points, this is the most important. So basically, the Google algorithm now, it can measure topical authority. It can measure... What it does is it looks for patterns in the way that words clustered together. And by looking at those patterns, it can work out what a topic is and how many subtopics it consists of. So Google now understands thethe depth and breadth of any given topic. And that means that Google can measure topical authority. And what's going to happen is that the piece of content with the highest topical authority is going to be ranked higher.
+
+[00:05:03.630] - Rob Powell
+So definitely there's a preference for long-form content that covers the topic in-depth. And there are two ways basically that you can establish topical authority. One is when you're going to write on a topic, map out all the subtopics you can belonging to that main topic and make sure you cover as many of those subtopics as you can. And the other technique is to use what I call or what many people call topic clusters, or they're also called content hubs. This is where you write a main post like a pillar post, and then you have satellite posts all around that main post that go into subtopics in more detail. And I'll just bring up the next slide. So here's an example of a topic cluster. Another example would be, let's say you wrote a pillar post on looking after budigars. The satellite pages would be, budigar diet, budigar space requirements, teaching budges to talk, clipping budigar wings, breeding budigars, and diseases that affect budigars. Can I ask?
+
+[00:06:43.190] - Liz Stapleton, Host
+Sorry, what is budigar? I know this is an example, but I don't know what that is.
+
+[00:06:49.960] - Rob Powell
+Yeah, well, that's just rock climbing. So these are the different bits, types of equipment.
+
+[00:06:56.210] - Liz Stapleton, Host
+No, that I understand. But you were talking about Budgigar?
+
+[00:07:00.350] - Rob Powell
+Yeah, Budgies. Budgigars, yeah.
+
+[00:07:03.030] - Liz Stapleton, Host
+Is that an animal?
+
+[00:07:04.510] - Rob Powell
+The little pet birds that people keep in cages. Oh, okay. Yeah.
+
+[00:07:08.810] - Liz Stapleton, Host
+Sorry, I didn't know what those were.
+
+[00:07:11.210] - Rob Powell
+Yeah. So the basic point is that the hub page is an overview of the topic, and then the satellite pages go into individual aspects of that topic in much more detail. And that's a very good way of the establishing topical authority because Google is going to say, well, this is really thorough content and it's going to rank it higher. So the next thing is featured snippets. They were huge in 2019, and they're going to get bigger. So featured snippets are part of what's driving featured snippets is Google is trying to keep people on the page. They're trying to stop people clicking away from the results page by presenting the answer to someone's question actually on the results page. So here's an example of a featured snippet. And according to MoZ, the SEO website... Well, the search is more than the search. For those 23 % of all search result pages now have a featured snippet. So people expect this will just increase as Google continues with this focus on giving results on the page itself. There are basically three reasons why featured snippets are a good thing to have. Firstly, they act like a stamp of approval from Google, so they build credibility and trust in your brand.
+
+[00:09:03.820] - Rob Powell
+Secondly, Google takes its answers to voice searches from featured snippets, so they give you an extra source of traffic. And the third thing is that featured snippets actually steal traffic from the number one position in the search results. But it's very important when optimizing for featured snippets to understand that there are three kinds of all featured snippets, and it's really only paragraph snippets that you need to be chasing. So paragraph snippets are 80 % of all featured snippets, and they're the ones to go for. So there are three main ways to optimize for featured snippets. One is to ask questions and then answer them. So in other words, that means targeting keyword phrases that are questions. The second way to get feature snippets is to be explicit about what you're about to... If you're about to give a definition, be very explicit about that. So what you say is here's the definition of XYZ, or are you wondering what the definition of XYZ is? The third tip for optimizing for featured snippets is to write very short sentences. So the average length of a featured snippet is 40 to 50 words. So if you keep your sentences in that range, you're much more likely to be selected for a featured snippet.
+
+[00:10:53.990] - Rob Powell
+The third big trend in 2020 is going to be video. So according to Forrester Research, video is now 50 times more likely to be ranked in the top position on Google than a text-based web page. And that trend is only going to increase. And it's estimated that by 2021, a massive 82 % of all consumer web traffic will be driven by video. So in terms of optimizing for video, the first thing that bloggers can do is every single blog post can be turned into a video, basically. The only thing is you may need to condense your articles because the average length of a YouTube video in 2018 was 8.4 minutes. So just be aware that some blog posts may need to be condensed. The third thing is divide your videos into clearly marked sections that deal with different subtopics, and that allows Google to pull clips from your video that are relevant to a particular search. It's true.
+
+[00:12:15.070] - Liz Stapleton, Host
+And we have sessions on video where we talk about how to do that too. Definitely check out those other sessions.
+
+[00:12:22.380] - Rob Powell
+Yeah, for sure. And the third thing, obviously, is just optimize your... Use the tags within YouTube to optimize your videos for YouTube SEO. So that's the title field, the description field, and the tags. So the fourth big trend is mobile, mobile user experience, that's going to be huge. The move towards a mobile dominated SEO landscape has been underway for quite a few years. In March 2018, Google announced mobile-first indexing, which basically meant that instead of taking the desktop version of your website for the starting point, Google now takes the mobile version of your website as the starting point. So Google is basically saying mobile is the standard for us. So the question comes up, why is Google so keen on mobile-friendly content? The thing is that in October 2015, already more than half of all Google searches were on mobile devices. And in 2019, 63 % of Google US organic search came from mobile devices. So this is a huge trend that Google obviously is aware that if it doesn't provide the best search experience for mobile users, it will lose market share. So it's a really big issue for Google. How to optimize for mobile?
+
+[00:14:12.030] - Rob Powell
+The most important thing is speed. So in July 2018, Google introduced the speed update, the July 2018 speed update. Basically, Google expects a website to load in less than three seconds. And the reason for that is that mobile devices are often not on very good networks compared to desktop. They're not on broadband. So websites that load slow are going to really give a poor experience for mobile users. And Google is very concerned that websites load fast on mobile. The second thing is to use accelerated mobile pages or AMP, and that's a Google sponsored format for mobile-friendly web pages. It's basically a stripped down version of your normal web page that loads very fast on mobile devices. And the third thing is just to make sure that you're using a responsive WordPress theme. And yeah, mobile responsiveness just means that a website's content adapts to whatever device a person is using. And this is the graphic that Google published in April 2015 to show what it wants and what it doesn't want. So you can see from that graphic that in a responsive theme, the text has been made much larger. So it's readable on a mobile device.
+
+[00:15:57.100] - Rob Powell
+So I think that covers the fourth point. The fifth big thing to watch out for in 2020 for SEO is adapting to... Sorry, just before I go to the next point, if you're concerned about whether your site is mobile friendly, just type in Google, mobile friendly test, and you'll see this box here where you just enter your domain and it'll tell you whether your website is up to scratch or not. So the fifth big trend is adapting to zero click search. So what is zero-click search? Well, a zero-click search is a search where that doesn't result in any clicks because the answer to the question is actually given on the search results page. And in 2019, 50 % of all Google searches were zero click. So here's an example of a zero click search. The question is, what's the highest earning movie ever? And the answer is there. You don't even have to click through to the website to get the answer. There's a lot of panic about zero-click search, but I want to make something clear, which is that it's only certain kinds of sites that really need to worry about it. So recipe sites, do it yourself sites, product review sites, travel sites.
+
+[00:17:44.000] - Rob Powell
+These are these websites publish information that can easily be summarized in a 40 to 50 word snippet. But if your site gives visitors detailed information on something, such as step-by-step instructions on how to do something, you're much less vulnerable to zero-click search. For example, if you wrote an article on how to set up an email funnel, that's not going to be vulnerable to zero-click search because anyone who wants to learn how to do that will have to read the article itself. But having said that, if you really want to avoid zero-click search, try to avoid using... These are the top 30 most frequently found words in featured snippets, so it's worth keeping an eye on that. Try to write your content without using these words. Write long-form content that covers the topic exhaustively and in great depth. And I'll just give you an example. An article titled How to set up a YouTube channel and get more traffic to your website. That's not going to be very easy for Google to summarize in a featured snippet. But the same article, if it was titled Five Tips for ranking your videos on YouTube, that's quite likely to be summarized in a featured snippet.
+
+[00:19:17.220] - Liz Stapleton, Host
+And the thing with a long-form content, if you're covering something exhaustively, like a small part of it, so the YouTube example would be like, Okay, how do I name my channel or something? That could be a featured snippet. But if they're seeing the articles, how to set up a whole YouTube channel, that could then result in clicks. So you still want featured snippets and long-form content to avoid zero-click searches can help with that, too. So it's a little contradictory of when you want to be in a featured snippet and when you don't.
+
+[00:19:49.750] - Rob Powell
+Yeah, that's right. I guess the other thing is that if your article is a long form piece of content with very detailed instructions, sure, Google might extract an answer, but the person who sees it is probably going to click through to your article because they realize, hey, this is a definitive guide thing. So the sixth trend is optimizing for voice search. So voice search is on the rise, no doubt about that. Twenty % of all Google searches are now voice searches. And the factors that are driving voice search are mobile phones. So it's just much more convenient for people on mobile phones to speak into a phone than type in a search query, and it's faster. Hummingbird, the Google algorithm Hummingbird is now very good at understanding natural language queries. So that's the second factor. The third factor is all the virtual assistants like Google now, Apple, Siri, Microsoft, Cortana, and Amazon, Alexa. Those are all driving voice search. So how to adapt, how to optimize for voice search? Use structured data or schemes schema. Basically, what schema or structured data is it allows you to tell Google, it allows you to give information to Google about what's on your website.
+
+[00:21:42.510] - Rob Powell
+So in a way, in a sense, it's meta information. It's information about information. And when you use structured data, Google has a far easier job understanding your content, and it's more likely to pull your content out to answer a voice query, a voice search. The other thing is to use long tail keywords because voice searches tend to be much longer than text searches. So when you target long tail keywords, it's much more likely that your content is going to be used in a voice search. And the third thing is to deliberately target keywords to the questions. Most voice searches tend to be questions. So, yeah, those are the ways to optimize your sight for voice search. But having said that, I haven't got the graphic here, but there is a graphic on my website that shows that 50 % of all voice searches are actually done in the car. So it gives you... That statistic just shows you that people are not really looking for detailed information in voice search. They're looking for directions or things like that. So again, if you're providing really detailed information on your website, you're probably not going to be able to take advantage of voice search at this stage anyway.
+
+[00:23:12.330] - Rob Powell
+It's just people are just... Yeah, it's just very, very... It's not detailed information people are after with voice search. So the last point is structured data or structured data. It's also known as schema marker. And as I said, it's a way of telling search engines about what information is on your page. Search engines, you'd be surprised, they're very advanced, the algorithms are very advanced, but they still find a lot of online content ambiguous. And what structured data does is it removes that ambiguity, and that makes it much more likely that the algorithms will use your content in featured snippets and to answer voice searches. There are lots of ways of adding structured data to a website, but the easiest, in my opinion, is just to use a plugin, a WordPress plugin. There are many of them. But the most popular structured data plugin is called All-in-One Schema Rich Snippets. That's a free plugin. And once you have that plugin installed and activated, what it does is it adds a meta box to the edit screen of every blog post on your site. Just before you hit publish or after you hit publish, you can come into this box and just add the relevant information or upload it.
+
+[00:24:51.570] - Rob Powell
+So there's an article image there that you can upload. Just fill in all those boxes, and it's going to make it much more likely that Google uses your content in featured snippets or voice searches. So that's really it. Those are my seven SEO trends for 2020.
+
+[00:25:16.580] - Liz Stapleton, Host
+And how to take advantage of them. So one just follow-up question I do have is we talked about choosing keywords that are long tail or whatnot. Do you use any keyword research tool or anything like that to help you see what you need in your content to have it perform well? An Ahrefs or Ahrefs, I think it's actually pronounced Ahrefs, or an Semrush, or there's like Keyword Finder or something. Is there a tool that you use or that you think does really well, Moz, for that thing that you recommend?
+
+[00:25:54.690] - Rob Powell
+Yeah. Well, I've used SEMrush and I've used Ahrefs. But what I'm using at the moment is Keyword Finder. I find that very, very quick compared to the more enterprise level tools like SEMrush, and aHrefs. It's got a really easy, intuitive, user interface. And I particularly like the way it ranks. It ranks your... It keeps a track of how well you're doing overall in terms of your positions in the search results. Okay. But more and more, actually, I'm just using Google's own data. So whenever you type in a search query, you'll see this thing called auto suggest that is anticipating or suggesting search terms that you could you could use. I'm getting a lot of my keywords, my long tail keywords just from those five or six suggestions that Google is giving. And also, if you scroll, if you look about halfway down the search results page, you'll see a thing called people also ask. And there's lots of related keyword, long tail keywords there as well. And if you go to the bottom of the page, there's a thing called... I think it's called related searches. And again, there's more suggestions there. And, in fact, you can really...
+
+[00:27:34.870] - Rob Powell
+When you look at those things that I've just mentioned and you use those as your keywords, you're really taking advantage of the topical authority thing because what Google is saying is Google is actually telling you these are the things that I understand or Google understands to make up that topic. So you can't actually do better than that because that's coming straight from Google. Google is actually saying these are the topics that we associate with... You've entered your main topic, but these are the other things that we believe make up the whole topic. So you can't do better than that. The only thing I would say about... So in a way, it's... Sorry, in a way, it's- If you want to.
+
+[00:28:21.510] - Liz Stapleton, Host
+Stop sharing your screen, that's fine.
+
+[00:28:23.960] - Rob Powell
+Yeah. It's possible not to use a keyword tool at all. You can just use Google.
+
+[00:28:29.180] - Liz Stapleton, Host
+Yeah.
+
+[00:28:29.480] - Rob Powell
+The other thing I do is when you type a search query into Google, you'll see this little text just beneath the box that says the total number of results that were found. That's the level of competition for that keyword. And it'll vary depending on what niche you're in or what industry or sector. But where I operate, I find that the magic figure is about 50 million. So if there's more than 50 million results, that tells me it's starting to get quite competitive. So the other thing about Keyword, I would just say about Keyword tools is that they all have this thing called a Keyword difficulty score, but they're really not an objective metric. I mean, they're just something... Everyone has their own metric for that, but they're not really very reliable. And anyone who does SEO knows that you've really got... Based on those keyword difficulty scores, they don't give you any idea of how likely you are to get on page one. And the other thing is that keyword tools is that the search volume is just a guess. It's just each tool has its own methodology for coming up with search volume. But Google doesn't actually give out search volume.
+
+[00:29:48.070] - Rob Powell
+Those are all estimates.
+
+[00:29:51.540] - Liz Stapleton, Host
+That's guesses, yeah.
+
+[00:29:52.940] - Rob Powell
+Yeah, they're just guesses, really. Yeah. So it's just something to be aware of when people are using paid keyword research tools that some of the information is a bit dodgy. The keyword difficulty is really random, and the search volume is just their best guess, really. Yeah.
+
+[00:30:13.000] - Liz Stapleton, Host
+Yeah. So don't be afraid to go after something if you are using something like that, don't necessarily be afraid to go after it if it's saying it's hard because you don't know how it really is necessarily.
+
+[00:30:22.810] - Rob Powell
+And the other last point I'd make is if a lot of people worry about whether a search term is going to have enough traffic, but if it's coming up in Google auto suggests or people also ask, basically, there's enough traffic to make it worthwhile going after. So it wouldn't be coming up in Google if there wasn't enough traffic behind that keyword phrase.
+
+[00:30:49.120] - Liz Stapleton, Host
+Yeah, I like that. I think that's great. Tiff, any final words before we... I know you have preview we're going to tell them about, but any final words and SEO trends to look out for in 2020 and to be prepared for?
+
+[00:31:01.610] - Rob Powell
+I just think that it's keywords from keywords to topics. So the days of optimizing a piece of content for a single keyword are well and truly over. And you really have to look at the whole topic you're talking about. And you need to demonstrate to Google that you've taken a holistic approach to that topic. That's really the key, I think, for 2020. Yeah.
+
+[00:31:25.760] - Liz Stapleton, Host
+I think that's a great point. And then you do have a freebie of how to get on page one of Google. It's email course. You want to tell us a little bit about that? The link is definitely below, so you don't have to tell them the URL or anything. But if you want to share some information about what they'll get if they go there and.
+
+[00:31:43.140] - Rob Powell
+Enter their email... Yeah. I've got three videos that basically show you my approach to SEO. So my approach to SEO focuses on establishing topical authority. So I write content with very high topical authority, and I guess that's my secret source for getting on page one of Google. And that's what I show you how to do in those three videos, as well as some other stuff like how to win the battle for... How to edge your listing up the search results page by increasing your click-through rate on the search results page, that thing. Yeah.
+
+[00:32:37.540] - Liz Stapleton, Host
+They should definitely go grab that. Thank you again so much for doing the session. This is really helpful. I certainly learned a lot. I'm sure the attendees did as well. So just thank you for taking the time.
+
+[00:32:48.600] - Rob Powell
+Right. Thank you, Elizabeth. Thank you for having me on the program. Thank you very much.
+
+

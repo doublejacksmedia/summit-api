@@ -1,0 +1,557 @@
+Title: Canva Tips and Tricks for Beginners
+Speaker: Kate Danielle
+Website: https://katedanielle.com/
+Level: Beginner
+Category: Graphic Design
+Length: 32:35
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/canva-tips-and-tricks-for-beginners-kate-danielle/
+
+Transcript:
+[00:00:10.060] - Liz Stapleton, Summit Host
+All right, guys, I'm super excited for today's session with Kate Danielle, who is a Canva master. I was looking at her blog recently and I was like, I didn't know I could do that. And I've been using Canva for like five years. So, Kate, thank you so much for being here. I really appreciate it.
+
+[00:00:25.060] - Kate Danielle, katedanielle.com
+Yes. Thank you so much for having me.
+
+[00:00:27.890] - Liz
+Yeah. So why don't you give us just a really quick little background of how you gotten the Canva, because Canva actually hasn't been around that long. I think it's 2013?
+
+[00:00:37.990] - Kate
+Right? Yeah.
+
+[00:00:39.700] - Kate
+Yeah. So I kind of stumbled into it. I, I was in graphic design and you know, it's very big into Adobe and the Adobe tools, but they are, they're a beast of a system.
+
+[00:00:58.750] - Kate
+And I was, you know, several years ago, probably around 2014, I was creating my first graphics kit for bloggers and I was in a group of business ladies. And I asked them, I said, what? What is this Canva and why? I knew what it was, but I was like, why are you paying for this software when you could get Photoshop for the same price? And they kind of they explained it to me.
+
+[00:01:29.690] - Kate
+They're like, "we do a million things. And this helps streamline our process." And I don't want to learn Photoshop and it was just a huge eye opener for me, so I pivoted because I learned that my target was not in Photoshop, they were using Canva and so I started creating things for Canva, learning more about it. And then I was invited to be one of their certified creatives. And I'm just dived in I spend way more time in Canva than any other design platform, and it's such a great tool.
+
+[00:02:08.970] - Liz
+Yeah. And so you brought up streamlining. Right. And so one of my biggest struggles, I've had Canva a long time, is keeping it organized. Right. Because I have, I literally I started blogging in 2014. I initially started Photoshop and I was like, this is freaking hard and I hate it. And I eventually did Canva I go back and forth between Canva and Google slides now. But one of my biggest issues and it could have been because there wasn't organization tools that are in there now is keeping stuff organized and trying to constantly find what I had worked on previously.
+
+[00:02:41.840] - Liz
+Go find that logo I made or whatever. So what are some tips you have to stay organized? Whether you're on Canva Free or Canva Pro so that you actually can streamline, have a process.
+
+[00:02:55.300] - Kate
+It is a definitely a little bit harder to find things in the free version, to my knowledge. And I always have to to go and check and see. I can do that right now.
+
+[00:03:07.990] - Kate
+You can't search for your own designs in the free version and but you do get two folders.
+
+[00:03:16.000] - Kate
+So let me just make sure that I'm speaking correctly.
+
+[00:03:22.690] - Kate
+I believe when you search in the free version, it's only going to bring up their templates. Yeah, you can't search for your own designs because typically, I would say naming your stuff appropriately is very important. And that is true in Canva Pro. If you name your stuff and come up with a naming system that you can remember, then you can search for it. Because if you notice on that Canva home screen. It's in chronological order when you go into your designs.
+
+[00:03:51.580] - Kate
+So in Pro name things, you can utilize folders in pro and with Pro, then I would just recommend staying out of that all design area. It's been suggested to Canva to kind of make that process, like if it's a folder to clean up that area, because even if you put it in a folder, they're still there. So just save your sanity and stay out of there. Of course I don't. I get so unorganized with trainings and leave things and don't know what, but I know how to be organized.
+
+[00:04:24.310] - Kate
+In the free version, I would suggest batch designing in the same Canva workspace. So say if you were designing Pin for your blog, maybe you have, one set for that month or even that quarter, depending on how many you do, and you just keep designing them, one under the other. So you're not having 50 different pin that you're trying to scroll and find in that section, and then you can utilize the two free folders you get in the free version.
+
+[00:04:57.240] - Liz
+So what is a naming system you would recommend?
+
+[00:05:01.410] - Kate
+I typically, I go back and forth between one and name it for the size or the platform. So like a Pin or IG for Instagram and Facebook, which pretty much now I use the Facebook and Instagram interchangeably and I have used just doing Q1, Q2. And then sometimes maybe I'll just say October 2020 Kate's Pins, and if you happen to work with other brands, put your name in it too or your business name. So I have to do that for myself or I will lose all my stuff and be searching for, you know,
+
+[00:05:41.130] - Liz
+the client things and stuff. OK, gotcha. So. That's kind of organization, so would you mind kind of sharing your screen and let's talk about sort of a good work flow of creating, you know, whether it's Pin or just sort of the best way to do that sort of the system and workflow you find to be the most productive? Because my biggest issue is how long Canava takes, which is why I do jump to Google Slides sometimes because it's just easy, I can automate more there...
+
+[00:06:14.050] - Kate
+Yeah, yeah.
+
+[00:06:15.570] - Kate
+So when you come into Canva, you come to this, your main Canva homescreen here, the very first thing I tell anyone is to one have branding in Canva so have set colors and fonts already decided and you can even set that up in the free version just by utilizing templates. So let me pull up one of mine. So this is a template set that I copied over and when I say templates, I mean anything that you previously created or you can buy or use Canva's, but I'm not saying necessarily go in and pull some of these right here.
+
+[00:07:14.590] - Kate
+I'm saying have stuff set up already with your brand colors and fonts. So then when you are creating a Pin, all you have to do is change the title. And then of course, if it's, if I'm using like creative elements that swap those out or if I don't have a photo, but if it was a photo, then you just swap out the photo.
+
+[00:07:35.720] - Kate
+So that saves so much time. And so this is a set that I've actually copied and I've only utilized the first Pin. So then I may come in and redo this one for whatever I needed to market next, or especially with Pinterest, maybe you're going to make five pins for the same post or opt in and you just kind of reusing and you're just making small tweaks if you already have the preliminary work set up for you.
+
+[00:08:06.670] - Liz
+But it's key to actually make a copy so you don't lose the designs you did previously.
+
+[00:08:13.370] - Kate
+Yeah, so if I, if it's something I still need, which I have Canva Pro, so I would delete stuff off my computer and leave it here since I can search for it. But maybe if you're on the free version when you download your graphics, maybe you want to keep them organized in a file on your computer because it's easier for you to find them again. But say I might use this Pin again, so then I could just duplicate it, make a copy right under it and keep going.
+
+[00:08:47.130] - Kate
+I can also go up to file and make a
+
+[00:08:50.290] - Liz
+Copy of the entire thing
+
+[00:08:52.540] - Kate
+and it'll open up a whole new tab for you and then you just rename it Go from there.
+
+[00:08:58.000] - Liz
+Gotcha.
+
+[00:08:59.320] - Liz
+And I know, so I know you can do this. I haven't actually done it though. But you can connect to Dropbox and like Giphy?
+
+[00:09:06.200] - Kate
+Yes.
+
+[00:09:07.000] - Liz
+Because all my stuff is in Dropbox.
+
+[00:09:07.430] - Kate
+So because, Giphy is super fun. It is all the way you see mine's here, but it's that's not natively there. You find it under the more tab and it usually shows up. But if it doesn't, you can search for things, OK, and it just basically opens up the Giphy search. So what happens when you search for something and add it, so I'll just pick one.
+
+[00:09:37.330] - Kate
+It's actually uploading it into your Canva, which I didn't even, it took me a minute to realize this.
+
+[00:09:43.210] - Kate
+So if you come to your uploads and over to video,
+
+[00:09:47.500] - Liz
+Is it like you're the ones to use all the time?
+
+[00:09:50.320] - Kate
+Yes, it will save em, you see I have lots of...
+
+[00:09:52.270] - Liz
+Nice.
+
+[00:09:52.600] - Kate
+ these. So if you ever download your design with a gif and it's not working, chances are you just might have had a slow connection and it hasn't fully uploaded yet. Dropbox, I love, it does the same thing, though. So I've recently started utilizing the Dropbox feature. Again, you find that under "more" and you'll have to connect it.
+
+[00:10:17.130] - Liz
+Ooo, you can do Google drive too. Oh
+
+[00:10:18.790] - Kate
+Yes. And Google Drive.
+
+[00:10:20.120] - Kate
+So what happens, but I love this, because you can search for folders. So I was a member of Social Curator for a while and so, I have... I've uploaded all of the photos that I got in that membership.
+
+[00:10:46.780] - Liz
+This is where, like your naming system, has to be real solid, right,
+
+[00:10:49.660] - Kate
+yes.
+
+[00:10:49.660] - Liz
+We all. This is where, like, if you're a beginner blogger, like, learn from our mistakes.
+
+[00:10:55.870] - Kate
+Yes. For some reason it's not. Maybe.. Show more. There we go. So it opens up all of those stock photos and this works the same way. So typically, what I should do is after I use one...
+
+[00:11:11.810] - Liz
+That's still so much easier than having to open up a folder, you know, and then drag it into upload or whatever.
+
+[00:11:21.070] - Kate
+Yeah. And it's working on uploading. So if I wanted to keep this clean, I could just come back and delete it out of my uploads. But yeah, with Canva pro. You get lots of storage, but I didn't want to take the chance of uploading a bunch of high res photos that I may never use.
+
+[00:11:37.750] - Kate
+So I like just accessing them through Dropbox or Google Drive or...
+
+[00:11:44.370] - Liz
+There's all sorts of stuff.
+
+[00:11:45.610] - Kate
+Yeah. And you can search there's a whole list of...
+
+[00:11:48.520] - Liz
+Oh wow.
+
+[00:11:49.420] - Kate
+Things there and let me...
+
+[00:11:50.800] - Liz
+I like didn't even know that was there.
+
+[00:11:52.540] - Kate
+Can you see.
+
+[00:11:54.250] - Liz
+Yes I can.
+
+[00:11:55.340] - Kate
+OK, I like to log in to a demo free version,
+
+[00:12:02.390] - Liz
+OK.
+
+[00:12:03.010] - Kate
+So that I'm not saying something that might not be true. So yeah it looks like you have all the same features here in this, it'll ask you to connect. So it looks like the free version of Canva has the same.
+
+[00:12:19.030] - Liz
+Ok and Youtube, wow.
+
+[00:12:22.150] - Kate
+Yeah. And I think you can even bring in Facebook photos, which. I don't know that those would be great quality, but,
+
+[00:12:29.720] - Liz
+yeah,
+
+[00:12:30.370] - Kate
+you could.
+
+[00:12:31.510] - Liz
+OK, so another sort of, because templates are great and templates, even just stuff you previously design. But there are so many template packs out there right, like you buy a template. So everyone's got like a free template often. Whatever. How do you keep that organized? So because I was actually I thought I'd saved them all templates. It turns out I didn't. And it was very confusing for me to figure out, OK, how do I get these so they're in the template section so I can find them?
+
+[00:13:01.310] - Liz
+And keep that organized. I don't know if you have some advice on that?
+
+[00:13:05.060] - Kate
+So, like, if you're purchasing and putting them in your account?
+
+[00:13:10.130] - Liz
+Yeah, because it'll be like, you know, it's like, oh, they shared this template with you, do you want to use it and it goes, yes, but it just goes into your designs typically then?
+
+[00:13:18.590] - Kate
+Yeah. So what I would do in that case, again, if you're on Canva Pro you can make an unlimited. Don't want to say it's unlimited, but I'm not sure..
+
+[00:13:30.720] - Liz
+Tons of folders.
+
+[00:13:30.760] - Kate
+Tons of folders so you could have a template folder. And what I always suggest is you get a set of templates. So let's just say that these were.
+
+[00:13:46.190] - Kate
+(the zoom bar is in my way.) Let's just say that these are the templates, oops where did they go. That you had purchased. So what I would do is, it ugh, clicking all kinds of wrong things. It might say like KateDanielle Template or whoever you got them from.
+
+[00:14:08.400] - Liz
+Yeah.
+
+[00:14:08.750] - Kate
+And so I would maybe add "Master" to the front if you wanted to keep an unedited version and then you could put that in a folder if you have it, or just leave it at that.
+
+[00:14:22.730] - Kate
+And then you can make when you make a copy, click, "make a copy", it's going to pop open again. It always puts a copy of the name.
+
+[00:14:32.000] - Kate
+Yeah. So you could say why "your copy here", "your blog name", "your business name" change it so you know that these are the ones that you are editing. That's what I try to do when I'm behaving. But if you are to look through my account, you would see lots of things that say "Copy of copy of copy". I think I've counted like six.
+
+[00:14:53.120] - Liz
+I'm terrible about updating the name.
+
+[00:14:55.790] - Kate
+Yeah. And if you start from scratch, a lot of times it pulls in random text or text,
+
+[00:15:02.750] - Liz
+Yes!
+
+[00:15:02.750] - Kate
+So it's good, good to get in the habit of naming things.
+
+[00:15:09.670] - Liz
+I have so many that are just untitled.
+
+[00:15:11.530] - Kate
+Yeah, and and even on the free version, because you never know that you may decide you need some pro features eventually, so go ahead and get your naming down.
+
+[00:15:23.920] - Liz
+Well, I think even if you can't search through Canva, you could probably do like a control find on the page.
+
+[00:15:28.870] - Kate
+You probably could.
+
+[00:15:29.940] - Kate
+Yeah. Yeah.
+
+[00:15:33.380] - Liz
+OK, so then the other question, I don't know if you have an answer to is so especially Pinterest in the whole fresh pin thing and creating multiple Pins that are very different looking or different looking is constantly having to copy and paste the title in different ways. Is there an easy way to do that, that I'm just unaware of? Or....
+
+[00:15:57.880] - Kate
+There's a yeah, there's not an easy way to like do the title in different ways other than....
+
+[00:16:05.020] - Liz
+Just swapping colors and stuff like that's fast enough. Right. But I was just, I was just curious if I was unaware.
+
+[00:16:11.890] - Kate
+Yeah. So what I do.
+
+[00:16:16.660] - Liz
+Like, it's almost like you can change all the colors, like can you change all the words?
+
+[00:16:20.670] - Kate
+You cannot yet what you can do is there is a this little feature. Let me pull up this window to make sure it's there.
+
+[00:16:31.790] - Kate
+There's this little roller brush. And I don't know if this would really help with what you're talking about, but I can copy the style of this one and paste it there.
+
+[00:16:41.510] - Liz
+Oh, OK. So you're not like having to go in and be like, oh, what font was that? And drop that. Right. That actually is a little easier. Yeah.
+
+[00:16:49.250] - Kate
+And I think there's a shortcut for it. Somebody told me the other day. But if you come to that "help window" and search for "shortcuts", it'll pull up a whole menu for you and somewhere, which I'll have to look later. There's a shortcut for that. And the shortcut will actually work over and over. Whereas say I had this just happen to me the other day, I was decided I wanted to change the style of my text on ten pages.
+
+[00:17:18.740] - Kate
+And using that brush, I have to go back and select it every time and paste it again. And apparently the shortcut you can just keep using until you're done, you don't have to keep copying, basically.
+
+[00:17:31.670] - Liz
+All right. What are your favorite shortcuts?
+
+[00:17:35.870] - Kate
+So the one I use probably most often is T for text and that pops in a text box and it tries to predict your font. So sometimes I don't know if I have I may have branding set up or actually no it's pulling in because now that's the only font in this design. It tries to predict what kind of font you're going to use or it'll pull in. Whatever you said is brand font. I use R for rectangle, C for circle.
+
+[00:18:08.140] - Liz
+What?! I didn't know you could do this.
+
+[00:18:08.400] - Kate
+L for line. So those are probably the...
+
+[00:18:16.670] - Liz
+So is it like command L?
+
+[00:18:19.400] - Kate
+No, you just hit the letters.
+
+[00:18:21.010] - Liz
+So what?
+
+[00:18:23.410] - Kate
+Yeah. So they're super....
+
+[00:18:26.480] - Liz
+I have like I just Kara Fidd who was on first because last year, she is speaking again this year, I learned the whole trick of like the arrow to like move stuff just a teeny tiny bit. But I didn't know you could hit the letters!
+
+[00:18:39.050] - Kate
+Yeah. You hit the letters. Another one that is super helpful. So sometimes things like this happen or maybe I... The text is just longer, but I've got that whole rectangle blocked so you can hit tab as long as you have something selected here.
+
+[00:19:00.860] - Kate
+I can hit Tab and it's going to start scrolling through all the elements and typically if you shift tab, it goes in the opposite direction.
+
+[00:19:11.420] - Kate
+So sometimes that helps....
+
+[00:19:13.730] - Liz
+Based on the layering.
+
+[00:19:15.230] - Kate
+And yeah, you go through the layering without having to totally move everything.
+
+[00:19:20.630] - Liz
+Yeah,
+
+[00:19:21.740] - Kate
+But yeah, it's super kind of cool just to go through here because you'll learn. Ones that you may use often, grouping elements, I don't, I don't actually use that one very often, but, you know, you kind of just get into a flow.
+
+[00:19:38.660] - Liz
+Yeah.
+
+[00:19:39.380] - Kate
+Of things you would use.
+
+[00:19:43.130] - Liz
+Yeah. Because I always have to go on and find, like the rectangle or the circle...
+
+[00:19:49.280] - Kate
+Yeah, they save so much time and especially the dropping in a text box.
+
+[00:19:54.990] - Liz
+Yeah.
+
+[00:19:59.400] - Liz
+Woah! Mind blown a little bit here, so so I know this is only a feature that's available on Pro. I'm curious your thoughts on it, the resize feature, which I haven't used in a long time. Is it worth it? Because, I mean, the last time I used it, I feel like it pulls in all the elements. Then I still have to resize everything.
+
+[00:20:22.170] - Kate
+Right.
+
+[00:20:26.230] - Liz
+So I'm just curious,
+
+[00:20:27.460] - Kate
+To be super honest, that was that is that is not the reason, I would tell anyone to upgrade to pro. There's so many other awesome things, I do know. We'll see what happens.
+
+[00:20:40.990] - Liz
+It's almost better to do the resize once or something and then edit it and then just use whichever file.
+
+[00:20:46.370] - Kate
+Yeah. I do know that they have been working on this maybe a little bit, so we'll see what happens. Just looks like normal because you can always copy and paste.
+
+[00:21:00.370] - Liz
+Yeah, that's what I've always like. It's almost just easier to copy and paste
+
+[00:21:04.300] - Kate
+Same everything and you still have to. And then either way you have to kind of adjust everything. So yeah, the only down, the only thing that's different is obviously you saw there's checkboxes. So I could check, I could check three.
+
+[00:21:22.600] - Liz
+Yeah.
+
+[00:21:23.320] - Kate
+But then it kind of gets overwhelming in my opinion, because then you have three more tabs that all say copy of.
+
+[00:21:30.860] - Liz
+Yeah.
+
+[00:21:31.290] - Kate
+So the magic resize it. Yeah. That's not one of the selling points just in my opinion.
+
+[00:21:40.450] - Liz
+Yeah. I think for me because I go back and forth between having a pro account and having a free account based on what's going on.
+
+[00:21:47.200] - Kate
+Yeah.
+
+[00:21:48.160] - Liz
+But I think having the branding colors in the fonts in there and being able to do multiple brands and stuff is is key for me. I wish I could have like multiple brand font chunks, but I don't think that's possible yet. And then, but that I think just saves you so much time rather than trying to like constantly use something that has your colors in there or whatnot.
+
+[00:22:11.590] - Kate
+Right.
+
+[00:22:16.210] - Liz
+OK, so those are some great shortcuts and workflow I, I do love to copy and paste from previous things, that, I use that all the time.
+
+[00:22:26.260] - Kate
+Yes, actually in Canva Pro, I just remembered one thing you can pull in your designs here so you can either do it from a folder or you can go into all designs, which is a little crazy. So maybe I needed to make a Pin out of this and then it just opens up.
+
+[00:22:53.860] - Kate
+So it's similar to copy and paste. And again, you can only do that in Canva pro, but that is a quick way to without having to open several different tabs.
+
+[00:23:02.360] - Liz
+Yes, I think I'd do that to just elements. But I think I just I just learned you can save an element that you've. Or you can "heart" it or something?
+
+[00:23:12.170] - Kate
+Yes, and they've actually added this is fairly new, it came out this month that when you...
+
+[00:23:19.370] - Liz
+We are recording this a little while before the Summit. So it may not be that new.
+
+[00:23:23.810] - Kate
+So in October, they added the little eye button. So if you click on anything like an element or a photo, it will give you the information and you can add it. You can "heart" it, which adds it to your likes. So in your free version.
+
+[00:23:47.030] - Kate
+You get to do that and the folder was there, but I believe it's not. Oh, it looks like you can actually add.
+
+[00:23:55.040] - Kate
+So that is also something that you can add them to your one of your two folders and yes, then you just find that in your little folders tab and there's everything I liked. It's also super great. So maybe you wanted something similar. It gives you the keywords in the name and you can actually click on these. But I find it better to combine a few of them, depending on what you're looking for in the search. So, yeah, that's so helpful, especially if you use something in the past you're trying to find it again for some reason.
+
+[00:24:31.490] - Liz
+Does it save, like when you like it, does it save sort of whatever color you chose?
+
+[00:24:38.910] - Kate
+I don't think so. I think it's just going to be back to its, back to its default.
+
+[00:24:49.860] - Liz
+Just curious. I mean, that still helps, right.  Yeah, saves you from having to go find things. Which can take a lot of time.
+
+[00:25:00.930] - Kate
+Oh, yeah, sometimes the key words are not that, you know, when you're searching for thing,
+
+[00:25:07.200] - Liz
+I mean its a graphic design tool, right? It's not a search engine.
+
+[00:25:09.650] - Kate
+Right. Mm hmm.
+
+[00:25:14.100] - Liz
+Any sort of final tips or tricks or things you think people should know to make their life easier when it comes to creating, particularly in Canva, but just in general too.
+
+[00:25:28.620] - Kate
+To not overcomplicate it, I think, and. Now, more than ever, we're getting to just simpler is better, a lot of the stuff that we're creating is viewed on phones.
+
+[00:25:45.790] - Kate
+And I even pulled up my Instagram account because I tend to want to jazz everything up and put on my graphic design spin on it, but really just these big, bold words or quotes like that may have even been. Too much, too little. It was a different style graphic, but, you know, just the bigger, bolder, easy to read, we don't have to put all the flourishes ever on it.
+
+[00:26:17.260] - Liz
+I always like to zoom out in Canva.
+
+[00:26:18.970] - Kate
+Yes,
+
+[00:26:20.170] - Liz
+So I create, and then I zoom out to make sure I can still read it for whatever, because it's going to be smaller than a phone,
+
+[00:26:27.850] - Kate
+Right. Exactly. Yeah, that is the biggest thing. And just go ahead and get colors in to Canva. So I use a little color drop tool of a chrome extension. Yeah. Mine is colorZillah. So you can pull any color from anywhere. Of course these are already in my Canva account.
+
+[00:26:17.260] - Kate
+It gives you the code to then paste it in your color so you can paste it in here and it will pop up or in your brand section on Canva pro. So that's just so important. And to stick with them, it's it's a fun. At least I think it's fun to play with colors and fonts all day long, but that's....
+
+[00:27:11.560] - Liz
+It can become such a time suck.
+
+[00:27:13.150] - Kate
+Yes. And it's one of those I feel busy to tasks, but are you really being productive?
+
+[00:27:19.180] - Liz
+There's a difference between, busy and being productive.
+
+[00:27:21.370] - Kate
+Yes. Mm hmm. Yeah.
+
+[00:27:24.070] - Liz
+All right.
+
+[00:27:24.730] - Kate
+There's so much fun stuff to play around with in Canva and we talked a little bit about the magic resize, but there's so many. Last year, Canva added that all elements and photos are available in Canva Pro.
+
+[00:27:38.770] - Liz
+ I mean, it's there there's a lot of benefits, Canva work. There's, you know, the elements and the photos. But there's also just the organizational aspect, the like. There's a huge list. Resize wouldn't necessarily be the reason I would recommend for someone, but there's a ton of other reasons, I would, like the multiple branding for different things the like. Right now I'm like blanking on the different things that Canva for work comes with.
+
+[00:28:07.670] - Kate
+Yeah,
+
+[00:28:08.440] - Liz
+like I'm not an affiliate, I'm just, you know, I definitely like I do use Google slides, but I there's a time and place I use Canva too because I just there's stuff I can do with it that I can't do easily elsewhere.
+
+[00:28:21.940] - Kate
+And there are definitely a few hacks to get around. Some of these like to copy and paste for the resize.
+
+[00:28:29.440] - Kate
+And yeah,
+
+[00:28:32.260] - Liz
+The background remover is awesome to at some really cool features that make life a lot easier, especially if you compare it to if you've ever had to try to learn Photoshop.
+
+[00:28:43.340] - Kate
+Yes. So it's it's definitely it's my most used tool.
+
+[00:28:47.830] - Kate
+They. Yeah, I'm just. Yeah, it's great the getting to use a gif here that I pulled in. Yeah. So it's so much fun, explore with these tabs, their animations are great, you really can go....
+
+[00:29:06.990] - Liz
+It's come so far in the last couple of years,
+
+[00:29:09.540] - Kate
+They are really wonderful, wonderful company about listening to feedback.
+
+[00:29:14.130] - Kate
+I know in the past two, maybe even three years, they've changed a lot, but they are, they, they listen, they put stuff out and they listen to the feedback and then they make improvements. So it's just wonderful and it's a great tool. I mean, their mission is to help everyone be able to design and it really serves that purpose.
+
+[00:29:41.070] - Liz
+Yeah. Okay. So wrapping up, where can people learn more about you? Do you have anything you want to send them to that would be helpful?
+
+[00:29:55.030] - Kate
+Yes, so you can people can find me at KateDanielle.Com.
+
+[00:30:02.510] - Kate
+My blog is there with tutorials.
+
+[00:30:04.995] - Liz
+And the link to that is below
+
+[00:30:05.220] - Kate
+I'm going to, you to go grab a free template set there. It'll be right there on the top bar, the top navigation bar. And I have a group which is you can get to it by going to katedanielle.com/canvatips
+
+[00:30:25.730] - Liz
+And all those links will be below.
+
+[00:30:27.860] - Liz
+And it's an awesome group, guys, just to answer the questions to get in. And I was playing around in it this morning and and there's a lot of great advice in there. And then you've also included something awesome in our Pro Pass for those that have the Pro Pass. Do you want to give a little preview of that? I mean, they'll, they'll see the details when they go look at that. But if you haven't gotten the Pro Pass already, definitely consider it, you can see Kate's an expert.
+
+[00:30:52.320] - Kate
+In the Pro Pass, the thing I have in there will be a set of more of my premium templates for that you can use to to promote your post, your opt-ins, whatever across social media. So for Instagram and Pinterest and some stories there and Facebook in there, too. But nowadays like I mentioned before, I use that Instagram square for both Instagram and Facebook. So and I'm a template fan.
+
+[00:31:28.100] - Kate
+Even if you create your own templates,
+
+[00:31:31.190] - Liz
+I love templates, just they, they save me time. Look, I don't have to think as hard. Plenty of other things to think about these days, so. So, yeah, definitely consider getting the Pro Pass. Definitely check out her Facebook group, her website. Kate, again, thank you so much for joining us. I really appreciate. I mean, I'm going to go check out shortcuts now because I didn't know that easy way to find them and that you could do all that cool stuff.So thank you.
+
+[00:31:57.650] - Kate
+Thank you. Thank you so much for having me. It's always my pleasure to to come on and talk about Canva.
+
+[00:32:04.230] - Liz
+All right, so again, guys, you know, don't don't be shy about asking questions and check them out and we'll catch ya at the next session.
+
+

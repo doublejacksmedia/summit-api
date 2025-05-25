@@ -1,0 +1,185 @@
+Title: Creating Great Content in the Age of AI
+Speaker: Ryan Robinson, Blogger & Co-Founder of RightBlogger
+Website: http://ryrob.com and rightblogger.com
+Level: Beginner
+Category: Content Creation
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/creating-great-content-in-the-age-of-ai-ryan-robinson-2024/
+
+Transcript:
+[00:00:03.180] - Liz Stapleton, Host
+All right, guys. I'm so excited to have this wonderful speaker back at the Blogger Breakthrough Summit. He has been here before. He's been on panels. He's awesome. He's a blogger, podcaster, and recovering side-project addict. I can relate to that. He is the co-founder of RightBlogger and head of content at close.com. A big warm welcome to Ryan Robison. Ryan, thanks so much for coming back.
+
+[00:00:29.800] - Ryan Robinson
+Hey, thank you. I think this is my third time back.
+
+[00:00:34.130] - Liz
+It might be. I don't know. This is the fifth year, though, which is crazy to me. I'm super excited to talk to you about AI and content creation because it is, I feel like it exploded in 2023 massively. I mean it was creeping along in 2021 and 2022, but it really hit mainstream in 2023. And it's got its pros and cons. So how do you think it's been helpful or hurtful towards content creation in general? We'll start there.
+
+[00:01:12.650] - Ryan
+It has been both helpful and hurtful. That's the most important takeaway is that these tools help us to do things faster. They don't do them better than humans, in my experience. That is one of my most important messages I want to drive home is that AI content generators, they are not replacements for us as human writers. You just will never be able to completely rely on a tool to generate what you, yourself can uniquely do with your own life experiences. There's just no possible replacement. This is coming from someone who owns a AI tool company, RightBlogger. I started that with my friend Andy earlier this year, who's also a blogger of 15 years. We really have this hypothesis that these tools can take the mundane out of your workflows and speed those things up, say, outline generation, if you're writing a listical, company descriptions, things like that. But...
+
+[00:02:17.059] - Liz
+Usually
+
+[00:02:17.680] - Ryan
+Usually. Yes. Sometimes AI hallucinates, too. These tools will never be perfect. They'll never be a replacement for yourself. But they're good starters when you use them mindfully.
+
+[00:02:30.990] - Liz
+Okay, so what tips or strategies would you give people who are wanting to dip their toes in the AI waters to help with their processes? Because it can be overwhelming. And I think some people try they're like, "Oh yeah, click a button" and then it's awful. And then they're like, "Never mind." So what's the best way to get started with that? The approach, ways to think about it?
+
+[00:02:54.650] - Ryan
+Yeah. Well, I'll share my own process with it. So I don't usually, and again, there's some exceptions to this, but I really don't usually generate entire articles from AI tools. Even though I own RightBlogger, I don't use the article tool all that often. Occasionally, I do. But for me, where I get the most value out of these tools is by using them for smaller things. So generate an outline if you're feeling stuck on how to approach a topic. You can use ChatGPT or in RightBlogger, there's specific tools for this. You can generate an introduction. You can generate blog post ideas. You can do keyword research that is connected to longer-tail ideas based on root terms, and maybe you don't think of those longer-tail ideas.
+
+[00:03:42.360] - Ryan
+So, there are really cool ways these tools can be used in both research and in just structuring how you can approach content. Because ultimately, at the end of the day, I think you should not take yourself out of the content creation process because I don't know about you, but everyone watching and listening can probably tell when they land on a post that was totally AI written. And in almost every instance, I bounce immediately. I'm like, "Nope, this isn't for me."
+
+[00:04:11.450] - Ryan
+And I want to feel something from the writer who is actually behind the content. And if anything, in the age of AI, that makes our superpower as humans, that much more powerful and important when plenty of people will just be generating content from the prompts to publish, we now have the opportunity to really shine as the unique people we are.
+
+[00:04:37.200] - Liz
+Yeah. No, I like that. Just as an example, because the Summit, I automate more and more every year. This is the first year that I'm using AI to help me with some things. And obviously, I've watched every session at least once, usually up to three times by the time I edit it and all that jazz. But then I'm putting the transcript into AI and I'm like, "Give me the talking points," so that I can help speed up the Action Taker Workbook creation, which I'm then still adding to it and stuff. But it's really speeding that process up for me, or I'm like, "Give me a list of all the resources mentioned,"  so I'm not having to scan through and remember what was mentioned in each talk. So I feel like that's right on path with what you're saying.
+
+[00:05:21.410] - Ryan
+That's such a good one. And we have a tool that I made in RightBlogger that takes a YouTube...What's that?
+
+[00:05:28.770] - Liz
+Just share your screen.
+
+[00:05:29.840] - Ryan
+Oh, yeah. Let me show you right now. We're going to talk about this. Let's talk about this, right?
+
+[00:05:35.060] - Liz
+Yeah. I'm like, let's just share a screen. I love the sessions where we just dig into it.
+
+[00:05:40.940] - Ryan
+Okay, let me share my screen. Here we go. This is the inside of RightBlogger. And so my favorite tool is the YouTube video to blog post generator because you can take the URL of any video on YouTube, plug it in here, select the  —we have my tone, which is customized. If you want to add more instructions, you can. But basically what this will do is it'll just take any video and it'll write the shell of a blog post for you. So this is exactly what you're talking about.
+
+[00:06:17.730] - Liz
+I know. Yeah. And I think what's nice about —there's AI tools where it's like, "Hey, just give us a thing and we'll give you everything."  But what you're talking about is really a piecemeal approach, which is I think the most successful way to do it. How can you get creative with AI though? Because you can do tone. What are the best ways to make it the most sounding like you?
+
+[00:06:46.780] - Ryan
+So, get super specific with the prompts you use. And if you're using a platform like a RightBlogger, Jasper writer, whatever, you can often give the tool instructions that will just be applicable across the board. "This is my voice. This is my brand, my style." But when I'm using, just interfacing directly with ChatGPT to get something quick, I will be so specific with my instructions. I will say something like —I have enough content on the internet to where this works easily for me. "Write this in the voice of blogger Ryan Robinson. Be casual, be fun, but don't be too fun." Really get super specific as if I'm talking to a human writer. So, I think that often gives me like much more, much closer stuff. And then you put your editor hat on after you get any output from an AI tool because, man, it just will not be perfect.
+
+[00:07:48.130] - Liz
+Okay, so what are some —so a couple of follow-ups. You've given us an example prompt, and now I'm wondering if it would work for me in the personal finance space when I used to be a personal finance freelance writer. But when you put that editor hat on, what are the main things you're really checking on AI? I think facts is a big one. It's gotten better. But what is your checklist of being an editor when you're starting with a rough draft? I consider AI a rough draft.
+
+[00:08:17.570] - Ryan
+Exactly. And especially if you're —I mean, you can give a lot of prompts and generate an article that is going to be a pretty good first draft, right? But for me, fact-checking, always number one, right? If you have any statistics or data mentioned in your article, really approach that with skepticism. Almost assume it's wrong and then verify if it is actually correct. So, that's a huge one.
+
+[00:08:45.100] - Ryan
+But for me, I really spend the most time on looking at the structure of an article first. So does this article actually approach the topic the way that I would do it? I'll usually catch that during the outlining process. But sometimes AI does weird shit and they'll just throw a random section in here or there that may or may not be accurate. So, really start from that high-level perspective of does this feel like the right article? Does this even make sense? Because you can go through and look for spelling and grammar mistakes, but at the end of the day, if your article doesn't actually make sense for how to approach the topic, you're missing the point entirely.
+
+[00:09:29.040] - Ryan
+But voice and tone. I will always, in the introductions, pretty much completely rewrite them. There'll be something that leans into a personal story or something just funny or interesting that is happening in my life, as a way to segue into writing an introduction that is just going to be far more interesting than —AI learns from content that exists already out there. And it often just follows the average template for an SEO-driven article that ranks in the top 10, and that's often very boring stuff.
+
+[00:10:05.870] - Liz
+Let's talk about SEO and AI.
+
+[00:10:09.160] - Ryan
+Yeah. Oh, I got thoughts.
+
+[00:10:11.400] - Liz
+Please share them. I'm just going to give you free rein on that one.
+
+[00:10:14.640] - Ryan
+The best way that I like to use AI for SEO-related stuff is in optimization and keyword research. So the two different ends. Helping me to decide what I write about, how to choose topics, right? I try and always meet this crossover of something I'm interested in, something people are searching for. And so that overlap is really the sweet spot. And AI tools can do really a good job of helping you figure out, all right, the term 'blogging', yes, it gets 100,000 monthly search volume, right? But it's probably one of the most competitive terms you could ever try and go after ranking for in organic search. So run a term like 'blogging' through an AI keyword research tool. We have one inside RightBlogger. It'll give you a ton of different options and ideas for ways to approach blogging-related topics. And maybe one of those examples would be like, "How to start a personal finance blog." Still competitive, but not as many people competing on it as, say, blogging, right? So finding those more niche, longer-tail opportunities is something that I would say AI is uniquely good at because we don't always come up with every possible idea and angle in our own brains. I love that one.
+
+[00:11:38.160] - Ryan
+And then second, optimization. So this is where tools like ClearScope is probably my favorite as far as content optimization. They use AI to power a lot of the recommendations, how many times you should mention your main keyword phrase, and then you get a list of semantic keywords that they've run algorithms and determined it's important to mention this term this many times. I don't treat these things like they're the Bible, that you got to follow each rule every single time and get to an A++ score with every one of these articles you publish. But I find that if you directionally use these tools and you optimize a piece of content into being an A grade, that is often enough to give you an edge over sites you're competing with who are similar to your domain authority and whatnot.
+
+[00:12:34.290] - Liz
+Yeah. And ClearScope is one I hadn't heard of. There's so many guys. So if we're saying a tool and you're like, "but I use this", chill.
+
+[00:12:42.820] - Ryan
+The list of your tools mentioned in this is going to be long.
+
+[00:12:46.520] - Liz
+Yes, right. I use Frase, I think, more for like —and I got a lifetime deal on it forever ago. So, everyone's got different things. Okay, so I like breaking that out. I wonder, because AI for repurposing content, for creating content in a different context almost, do you have any advice or tips for that? Particularly, like if you've got a blog post, it's doing well, or you've got a video, and now you want to create social media videos, or snippets, or just social media posts, or whatever. I'm clearly not a social media marketer. I'm like...
+
+[00:13:30.520] - Ryan
+The do social media. Yeah, that is another use case that is really great at it. So, the way that I often think of AI tasks are, what would a virtual assistant be able to do for me, without me needing to really get zoomed in and critique, and edit super intensely? So, something like what you were just talking about, you have a blog post, do you plug it into a tool and get a YouTube video script based on it? So, then you can create a video. And then things like obviously social media posts, that's a great one. It can give you, again, very good directional posts to put on your social media channels. And the prompts you use or the tool you use, you'll be able to curate it. Say, if it's Twitter, say, maximum 280 characters or something like that. And you can even instruct it in ChatGPT, especially just tell it like, "Hey, this will be a tweet for Twitter or X," whatever we're calling it this week. "And please make this engaging in the style that people really interact with on Twitter." So, you can get super specific. And I find that the more specific you are and what you want generally in life, and especially with AI tools, the better your results will be.
+
+[00:14:57.710] - Liz
+Okay, let's walk through, if you don't mind, step by step creating a blog post and where you insert the AI assistant, if you will.
+
+[00:15:08.190] - Ryan
+Hell yes, I love that. We talked about one of the most useful ways, keyword research. If I don't have a topic already in mind, which is pretty rare for me, my brain is very active, I will go do some keyword research. Then from there, I'll choose usually something that's a little bit longer-tail, maybe in the thousands of monthly search volume rather than tens or hundreds of thousands. Then from there, I will run it through something like, we have a post ideas generator tool inside RightBlogger. It takes this main term, let's just say, "How to start a food blog." It takes that term and then it'll generate a bunch of ideas based around that. Maybe "How to start a vegan food blog, how to start a gluten-free food blog." These are the kinds of things where I will use these tools to directionally guide me towards topics I should really prioritize, where I'm going to be able to rank faster and get more traffic as a result.
+
+[00:16:10.810] - Ryan
+So starting with that, choosing the topic, and then from there, if I'm really running dry on inspo for a headline, then I'll use a headline generator just to spit out a few ideas. And basically, the purpose of that is to position how I would want to approach an article. So it gives me ideas. I don't often use an exact headline from an AI tool itself. I'll tweak it, or there will be the core of something good in there that I'm like, ooh, that. I can make that better now.
+
+[00:16:42.280] - Liz
+The combination of the ones they give you, yeah.
+
+[00:16:44.720] - Ryan
+Exactly. And then from there, that's when I personally like to outline my content before researching how other people approach it. I like doing that because it feels more authentically real to me to just see, "How does this topic generate from within?" first. Before I go out and see the ways that other humans have approached it, or other AI have approached it, and so that's usually on me, the outline process. And then from there, I'll tackle some subjects, some sections that are interesting to me. And then if there's a section that's not interesting to me, I will throw that into a paragraph generator tool or something like that where it gives me a quick foundation for how I could approach something. But that's, again, only when I find something that's not inspiring to me. I'll usually try and make the genesis of actual content come from myself, and then optimization after writing.
+
+[00:17:56.150] - Liz
+Okay. So optimization, you've got it in there. Are you using AI to help you make sure you're linking to all the things to create images? Because writing is just one aspect of a blog post. That's a lot of people who start blogging, they're like, "Oh, it's more than just writing." So keep going. What's the rest of your steps, Ryan?
+
+[00:18:22.360] - Ryan
+Oh, my gosh. Yes. Let me grab —I wanted to give you the name of a specific plugin because I love it. Okay. I use this one in WordPress for internal linking. So perhaps this is considered an AI tool.
+
+[00:18:38.880] - Liz
+Is it Link Whisper?
+
+[00:18:40.340] - Ryan
+It is Link Whisper. I got it. Yeah, I'm a big fan of them. I don't often take their straight recommendations and click yes to all, but I will go through and look at which ones do make sense here. So again, it's another case of AI is not perfect. Don't blindly trust it with anything, but directionally useful for me.
+
+[00:19:04.220] - Liz
+Yeah. Shout out to Link Whisper because they also are sponsoring the Summit. Love them, but also I actually got to meet them at a conference last month. So it was nice getting to chat with them in person.
+
+[00:19:15.960] - Ryan
+Yeah, they're cool people.
+
+[00:19:17.380] - Liz
+They are. Cool tool.
+
+[00:19:20.130] - Ryan
+I mean, aside from internal links, you got things like —you mentioned image generation. I don't typically do that.
+
+[00:19:28.580] - Liz
+There's too many lawsuits.
+
+[00:19:29.840] - Ryan
+Yeah, there's too many interesting challenges with it right now. I'm a big fan of Unsplash and Pexels. Those are just the sites that I love to grab stock images from. And yeah, for me personally, I also like having a personal hand in making my featured images for blog posts. I am a very mediocre graphic designer, so I enjoy doing that bit. Now, that is something where I have outsourced graphic design bits to, say, DALL-E inside ChatGPT, and I've gotten good stuff. So there's interesting use cases.
+
+[00:20:09.520] - Liz
+Yeah. Okay. So for bloggers who have listened to this but may also be overwhelmed, what advice do you have for them in terms of incorporating AI? Where to start and where to just be chill for now or something?
+
+[00:20:29.620] - Ryan
+Yes. Well, first of all, what I really want to drive home is that AI will get better. It will meaningfully change the way we do everything in our lives, during our lifetimes I believe, and especially in content creation. So, I think that having a hand in learning this stuff, in what is the infancy of this age of AI let's call it, is a really good idea, so that you understand where it's at today and see where it's going.
+
+[00:21:02.140] - Ryan
+Now, for me, when I'm recommending people to get started with this stuff, I don't recommend diving straight into the deep end of the pool and generating 10 articles in 10 minutes, and hitting publish on all of them. I would say start small, use things like idea generators, keyword research tools, optimizers. Just get a feel for how these things could be used in your process. And when you're evaluating specific elements of your content creation process that you would consider outsourcing to an AI assistant, think about the things that don't bring you energy. So for me, coming up with topic ideas, that's usually pretty fun. I like that. Maybe I'll take an edible(??) and do that, right?
+
+[00:21:47.360] - Ryan
+But something like outlining blog posts, I don't really love that, to be honest. I will lean on AI at times when I'm feeling like, "Oh, this topic, I don't have something that's bursting from within," on how to approach this. So, then I'll outsource something like that.
+
+[00:22:05.500] - Liz
+Okay, I like that. Any final words in terms of using AI to create not just like content, but great content that people will like, that Google will like, that will move you towards your goals?
+
+[00:22:23.040] - Ryan
+Yeah, I highly recommend experimenting with them. I mean, use ChatGPT. If this is really new to you, use ChatGPT. It's free. It's really interesting and insightful. Just play around and experiment with it. Ask it weird questions. See how specific you can get with these kinds of tools. And I think you'll pretty quickly get a feel for how it can be used uniquely for you because it's going to be different for us all. There's different aspects of the content creation process that each of us enjoy more. And so that mix will look different, and I just really recommend experimenting with it to see what your mix is, if it's even for you at all. That's the other thing, is I think, trying this stuff is great. And if you decide wholeheartedly, "Yeah, this isn't for me," then you found your answer too.
+
+[00:23:16.170] - Liz
+All right. I like that. I think you have something you want to tell people about that they can get from you?
+
+[00:23:23.500] - Ryan
+Oh, my gosh. Yes. So, I mentioned RightBlogger a few times. This is my suite of blogging tools. Most of them are AI-powered. Some of them aren't. But they're the tools that I wish I had for a price point that I wish I could have afforded back when I started blogging too. So, that's the real genesis of this. And if you want to try them out, I'm doing a 50% off lifetime deal for everyone at the summit. Just use the code "blogger50," blogger five zero, and you'll get lifetime half-off.
+
+[00:23:54.120] - Liz
+Fantastic. And then you have something in the "Speaker Bonus Bundle" as well. Is that right?
+
+[00:23:59.490] - Ryan
+I think so. I'll have to check on it and get back to you on that.
+
+[00:24:04.750] - Liz
+Okay. The details will be included below, guys. You can just see we're pre-recording. We got to work out the kinks. Ryan, thank you so much. This has been super helpful. I know I learned some new things. I have some new tools to look at, and I'm sure everyone else here did as well.
+
+[00:24:23.120] - Ryan
+Thank you. Thank you so much.
+
+

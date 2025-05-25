@@ -1,0 +1,266 @@
+Title: What Bloggers Need to Know about Google Analytics 4
+Speaker: Sherry Smothermon-Short
+Website: https://painlessbloganalytics.com/
+Level: Intermediate
+Category: Data
+Length: 31:16
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/5-actionable-google-analytics-tricks-sherry-smothermon-short-1/
+
+Transcript:
+[00:00:13.060] - Sherry
+Hey there. I'm Sherry Smothermon Short from Painless blog analytics. And welcome to my presentation today. We're going to be talking about Google Analytics Four, which I know has caused a lot of angst in the blogging world. But before we get into that, I do want to say a big thank you to Liz for having me here at the Blogger Breakthrough Summit again this year.
+
+[00:00:31.920] - Sherry
+So, thank you so much. Let's go ahead and jump into the presentation. Now one thing I want you guys to know is that this presentation is really focused on Bloggers and not on ecommerce, and you'll learn a little bit more about that as we go through here. But I just wanted to make sure that you guys know that this is for bloggers and not necessarily for ecommerce sites.
+
+[00:00:54.490] - Sherry
+Let me talk a little bit about what we're going to cover today. We're going to talk about what is Google Analytics four. I'll share some differences between GA4 and universal analytics.
+
+[00:01:05.310] - Sherry
+We'll talk about the cool stuff and the not so cool stuff in GA4. We'll discuss what you should do now, and we'll talk a little bit about events, which we'll cover that in just a little bit to explain to you what that is. And then I'm going to do a quick Google Analytics 4 walk through at the end. So, who am I? Well, I have been a blogger at Cub Scout Ideas for a decade now.
+
+[00:01:30.560] - Sherry
+I also blog at Painless blog analytics and the Facts Vault. I used to work for an insurance company, and I love digging around in block data. And I think when I worked at the insurance company, even though I wasn't an analyst, I think some of their, you know, numbers wave runs off of me a little bit. My superpower is making analytical information easy to understand for people who have never been exposed to it before or who are very confused by it. I live in Nashville, married to Scott and mom to Parker and Grant.
+
+[00:02:05.310] - Sherry
+Parker is a sophomore in college and Grant's a high school junior. I love Diet, Dr. Pepper, and you'll probably catch me in my spare time reading or watching mysteries. Why did Google decide to make this pretty dramatic change? Well, the primary reason was because of privacy.
+
+[00:02:19.690] - Sherry
+We've all heard about GDPR, we've all heard about, you know, the California privacy laws, and over time, people have become more conscientious about privacy and being able to protect that. I think we'll probably see more privacy laws as time goes on. So that's one of the main reasons why Google decided, hey, we need to make a change and make our product a lot more privacy centric. The other big change is that the way we've shopped online has changed a lot.
+
+[00:02:48.570] - Sherry
+And one thing to know, Google Analytics is really built, it's built for all websites, but it really is focused a lot more on ecommerce sites than on bloggers. And our needs are very different and all that. But if you think about it, think about the way ten years ago that we bought something online. We went to a website and we made a purchase, and that was it. Now, and I'll give you an example.
+
+[00:03:10.510] - Sherry
+My college son was a wrestler in high school. And so, if you know anything about wrestling, wrestling shoes don't last very long. They're just really hard on them. So, a lot of times I would search for, you know, most durable wrestling shoes. Let's say I was looking for that one day, sitting at my desk, you know, looking at it on my desktop, and I find a pair, and I think, okay, those are the ones I'm going to get.
+
+[00:03:30.700] - Sherry
+Well, then I look at the time and realize that I'm supposed to be picking up my son right then. So, I hop in my car and drive over to the school to pick them up. When I get there, they're not done yet, so I have a few minutes to wait in the car. At that point in time, I'm probably going to pull out my phone and I'm going to, you know look up those shoes and go ahead and make that purchase on the phone and probably on an app from that retailer. So, in the past, there was no way to say, okay, the Sherry that did all this looking for durable wrestling shoes is the same Sherry that made this purchase in the app.
+
+[00:04:03.210] - Sherry
+And so that was really caused an issue for a lot of ecommerce sites because they didn't have all the data they needed to understand the lifecycle. Like, where did I start and how did I end up purchasing? So Ga4 is Google's attempt to kind of help with cross platform and all that. So, those are the two big reasons why Google changed. Now let's talk a little bit about the Ga4 timeline.
+
+[00:04:28.090] - Sherry
+First of all, it was really introduced in 2020, and it was still a beta product and all that. So, it was introduced in 2020 and in March of 2022, that's when we found out that universal analytics was going to be sunsetting, and we would not be able to use that anymore. If you haven't heard the date, universal analytics will stop collecting data on July 1st of 2023. Now, a couple of things.
+
+[00:04:55.380] - Sherry
+Even though UA will stop collecting new data on July 1st, we will have until October to have access to our historical data. So, there won't be anything new in UA after July 1, but you will be able to go back and look at your historical data up until October. There's no way to transfer your UA data over to GA4. And I'll explain a little bit more about why in just a bit. But there's just no way to transfer it over.
+
+[00:05:21.460] - Sherry
+There are going to be some ways that you can export your data and have access to it in the future. And I think as we get a little bit closer to that July timeline, we will have a lot more information about what we can do with that. Now, you may have heard a rumor that the sunset date has been postponed until 2024, and that's kind of true. If you didn't know, google actually has a paid analytics product called Google Analytics 360. If you are paying for 360, your sunset date is not going to be until July 1st of 2024.
+
+[00:05:53.230] - Sherry
+I'd be willing to bet 99.99% of us are on the free plan. So, we still have the July 2023 sunset date.
+
+[00:06:04.090] - Sherry
+So, let's talk a little bit about some of the differences between UA and GA4. Well, probably the biggest one is that the data model is fundamentally different. With UA, the data model was based on sessions. So, everything related to sessions. With Ga4, everything is going to be based around events. So, I'll get into events a little bit more later on in the presentation.
+
+[00:06:29.650] - Sherry
+But let me tell you, just kind of a high level overview what that is. An event is a distinct user interaction on your website or on your app. So, hopefully, that kind of gives you. So, I'll be giving you lots of examples of that in a bit. So, just keep in mind that that's something that's going to measure interactions.
+
+[00:06:49.240] - Sherry
+As I talked about earlier, GA4 is focused on the user journey. So, there's going to be cross device and cross platform reporting that will be available. Now, this is not such a big deal for bloggers because most of us don't have an app, so it really doesn't matter too much for us, but it is very significant for companies that are ecommerce companies. There are fewer standard reports in GA4, but it's a lot easier to create an ad hoc report.
+
+[00:07:17.510] - Sherry
+Now think about when you go into universal analytics. Over on the left, we've got a whole long list of all these different reports that we can look at and we can manipulate them a little bit. So, just to give you an example, one of the reports that I love to look at is I look at my traffic by page and then by source medium. So, I have to go in every time that I go to that traffic by page, and I have to add that source medium, so that I can see exactly where the traffic is coming from for that blog post. In GA4, I'll be able to easily create a report that shows me that, so that I don't have to add it every time, I can just click on the report and I've got it.
+
+[00:07:55.680] - Sherry
+So, I think you'll find that even though there's a lot fewer standard reports, it is going to be a lot easier to make your own now. Now there's going to be a lot better user behavior tracking. And this, I think, is really going to be cool for Bloggers. I think we're going to be able to get so many more metrics that we can use to make our blogs better, get more people there, keep people there longer and all that. And in fact, I want to talk a little bit about the differences in user behavior.
+
+[00:08:24.990] - Sherry
+So, in Universal Analytics, we focus on bounce rate, page views and sessions, average session duration, conversions, you know, if you were an ecommerce site or conversion rate, those were the things that we really focus on. Now in GA4, we have a really cool new metric called engagement rate, which I really love. So, for a session to be considered engaged, one of three things has to happen. Either the person has to be on your page for 10 seconds or longer, or they have to visit two or more pages, or they have to do some sort of conversion.
+
+[00:08:59.170] - Sherry
+So, if you're an ecommerce site, that would mean making a purchase. For us, it's, whatever we define it as, it could be the newsletters sign up, whatever. So, I think that's going to be really powerful and it's going to help us determine, okay, on this page, my engagement rate is really low. So, you know, maybe I need to do something toward the top of that blog post to entice people to either stay a little bit longer or visit more than one page.
+
+[00:09:23.360] - Sherry
+The next thing that we have is something called scroll. And this is actually pretty cool. So, what that means is that 90% of our page was visible. So that means a reader scroll pretty much to the bottom of your blog post and read the whole thing. So, you'll be able to tell my blog post, okay, this one, my scroll rate was really high.
+
+[00:09:44.520] - Sherry
+So, this is great. This one over here, they didn't scroll very far, so maybe I need to do some work on that. First visit, now in GA4, there's a lot more focus put on the first visit and I think that's going to be helpful for us over time. So, for example, if you, instead of looking at total visits, you'll be able to break that out and say, okay, the first visit, the very first time somebody came to my site, they're all coming from Pinterest or they're all coming from organic search.
+
+[00:10:16.180] - Sherry
+And so, I think that will give you a way to really break that down and see where you're attracting people for the very first time. Outbound click. Now this is pretty cool. If you do a lot of affiliate marketing, this is going to help you be able to track what are people clicking on. So, if you have a blog post that's getting a lot of traffic, but there's a certain link on that page that's not getting very much love, you can go in and look and see.
+
+[00:10:40.690] - Sherry
+Do I need to do a little bit better job of explaining the product? Do I need to make the anchor text a little different? You know, do something like that to try to improve that click rate for that particular link. I think this is also going to be good for those of you who do sponsored work. Let's say you're a travel blogger and you're working with convention and visitors bureau, and they've set you up to stay at a hotel, go to a couple of restaurants, do a couple of attractions.
+
+[00:11:05.340] - Sherry
+You'll be able to tell them, okay, from this blog post that I did for you, we had this many clicks to the hotel, this many to the attractions, this many to the restaurants. So, I think that's going to be really helpful to be able to provide some reporting back to our sponsors when we do sponsored work. File download. If you have files that are available for people to download, you'll be able to tell how many of those are getting clicked. And then if you embed YouTube videos on your blog post, you're going to be able to track things like video start, how far they go, how many of them watch the whole thing.
+
+[00:11:38.830] - Sherry
+So, I think that's going to be helpful for us too.
+
+[00:11:43.460] - Sherry
+Let's talk about some of the cool GA4 stuff. Now, I've already talked about our new engagement rate metric. I think this is going to be huge for us. We're going to have the opportunity to get very granular in analyzing our blog posts and know which ones we really need to work on, you know, to get people to stay. Because if you're getting them over to your website, want them to stay there a little bit, at least get them there to read a little bit of your blog post.
+
+[00:12:07.570] - Sherry
+So, I think this is going to be really significant for us. Bounce rate is totally different. Totally different. In the old UA, bounce rate was basically when somebody came to your site and left without doing anything else. And that's going away, and I think that's a good thing.
+
+[00:12:27.430] - Sherry
+So, let me give you an example. Let's say your blog gets a lot of pinterest traffic, and maybe you're a food blogger. Well, we know a lot of times people will come to your site and they'll look at your recipe and leave. You might have a high bounce rate for that particular blog post, but it may be that the reason they left was because they got the recipe they wanted. They didn't want to look at any of your other recipes.
+
+[00:12:49.560] - Sherry
+So, you know that looked really bad. Like, oh, we've had this super high bounce rate for this blog post. Well, with GA4, what bounce rate is now is it is the inverse of this engagement rate metric. Let me just give you an example. I looked at my Cup Scout Ideas blog, and you know, I would have the typical blog bounce rate, which would be 75, 80%, sometimes even a little bit higher than that.
+
+[00:13:16.740] - Sherry
+But when I looked at the bounce rate in GA4, it was about 35%. I also had an engagement rate of about 65%, so that adds up to 100. So, it's basically the opposite of that. But the good news about that is it tells me that even though people might come to one blog post on my site and then leave, they're staying there for a little while. It's much better than what we thought before.
+
+[00:13:42.040] - Sherry
+I love that we can track outbound clicks. I just think that's going to be really helpful for us for lots of reasons. I think that's pretty cool. We can customize our reports so much easier. Even with a few standard reports that we have in GA4, we can customize those.
+
+[00:13:58.510] - Sherry
+And I love that. I think that's just going to be really super good for us. It's going to mean the difference in you go into analytics, open it up, and then having to manipulate a report that you look at. Like I mentioned, that in the source medium. You don't have to do that.
+
+[00:14:12.940] - Sherry
+You've got your report, you can go right in there. You can even set your menu to be just the reports that you want to look at. So, I look at this one, look at this one instead of having to maneuver around like we had to do in universal analytics. And there's a new thing in here called Analytics Insights. And this is pretty cool.
+
+[00:14:30.870] - Sherry
+So, if you set it up, Google will let you know when things are happening on your site. So, for example, with Cub Scouts, my busy time is September, October, November, and almost every single day, especially in September. I'll get an email from Google that says, hey, your traffic has spiked. So, what they're doing is they're saying, okay, typically we expect Sherry to have this many sessions on her site. And you know what, she's had a lot more than that. So, it lets me know I've had a traffic spike.
+
+[00:15:02.670] - Sherry
+Now I have gotten the opposite, your traffic has decreased, which can be good. We want to make sure there's nothing wrong with our site if we get one of those. So that's just one example. There's lots of different insights that, you know, Google will notify us about.
+
+[00:15:15.910] - Sherry
+It's not all roses and rainbows. There are some things that are not so cool, and I want to go through these with you. First of all, it is built for ecommerce. It really is. So, there's going to be an awful lot of numbers that we don't need.
+
+[00:15:28.960] - Sherry
+The beautiful thing is you can create your reports, leave all that stuff out and you won't even see it. So that's a way to combat that. Can look overwhelming, and there is a learning curve. I mean, this is something we're all going to have to get used to. This is just one of those things we're going to need to get used to, because the more we dig into it and the quicker we get over that learning curve, the less overwhelming it's going to look, there are over 200 dimensions and metrics, but as bloggers, we're only going to need about 25 or 30 of them.
+
+[00:15:59.370] - Sherry
+Your numbers are not going to match UA. I wouldn't even try to figure it out, and there are a lot of reasons for that. Things are named differently. Things are not measured the same, like bounce rate. Bounce rate is totally different.
+
+[00:16:13.270] - Sherry
+The way things are collected is a little different. So, don't waste your time because you can go down that rabbit hole and spend way too many hours and have no answers. So, just don't even try to match those because they're not going to match. And I think another not so cool thing is there aren't as many predefined reports, and so we're going to have to build our own to get exactly what we need. We can do it.
+
+[00:16:38.520] - Sherry
+We can get through that. And then you've got it set.
+
+[00:16:43.390] - Sherry
+What should you do now? So, there's a few things that you need to do now. First of all, you want to set up a GA4 property, but do not delete UA. I have heard a couple of rumors that there are some folks out there saying, oh, don't install GA4 now, and that is absolutely the wrong advice. Please don't listen to that.
+
+[00:17:03.360] - Sherry
+And let me tell you why. Remember I mentioned that your UA numbers are not going to transfer over into GA4? Well, if you don't set up GA4 now, you're going to have zero historical data. If you set it up now, you'll at least have a little bit. So, I think I set mine up in March or April of 2022.
+
+[00:17:23.010] - Sherry
+So, I'm going to have a little bit over a year's worth of data that I can look at. But if you wait till June 30th to set up GA4, it's going to be like a clean slate, like you've got a brand new blog, and so you want to go ahead and set it up now. However, do not delete UA. Leave that alone. It is perfectly fine for both of those to run alongside each other, and it's not going to count duplicates.
+
+[00:17:45.520] - Sherry
+Nothing like that's going to happen. But just don't delete that. If you have an ad network, you definitely don't want to delete that. I know, my ad network, mediavine doesn't have everything set up for GA4 just yet. So, if you delete UA, it's going to impact your ad revenue.
+
+[00:18:01.020] - Sherry
+So make sure you set up GA4, but then leave Universal Analytics alone. The next thing you want to do is you want to make sure your enhanced measurements are turned on. And I'll talk a little bit more about that in just a little bit, but that just involves the things that it tracks. Some of the things that I mentioned earlier, you do have to have this turn on to be able to track. You want to connect your Google search console to GA4.
+
+[00:18:27.100] - Sherry
+This is not an automatic thing. Just like we had to set it up with UA, you have to set it up with GA4. And this is not required. This is just kind of a Sherry thing. Right now, the retention period is going to be defaulted to two months, and you can change it to 14 months.
+
+[00:18:44.190] - Sherry
+And personally, I want to have that 14 months. Now, this does not mean that you're only ever going to have 14 months of data. What this is, is this is a lot of the real specific stuff. You'll still have the high level page views and, you know, all those things. But the real specific stuff, if you don't set this to 14 months, you're only going to have two months of it.
+
+[00:19:03.280] - Sherry
+It doesn't hurt anything to go ahead and have 14 months. So, I would have it just in case you ever need to go back and really dig into some things.
+
+[00:19:13.010] - Sherry
+Okay, let's talk a little bit more about events. And as I go through this, I'll be giving you lots of examples of events. We mentioned earlier that this measures user interaction on a website or your app. So, there are four types of event categories in GA4, and the categories have to do with how they're collected. I wanted to let you know about this and give you some examples of exactly what events are.
+
+[00:19:45.790] - Sherry
+Okay, the first type of event is those that are automatically collected. We don't have to do anything for Google to record this information for us. And some of the examples of this are things like first visit, page views, session start, page title, page refer, you know, where they come from. So, those are some of the examples of automatically collected events. There's a whole lot more, but those are the ones that bloggers will be more focused on.
+
+[00:20:12.940] - Sherry
+Enhanced measurements. You do need to have enhanced measurements turned on. And a little bit later in the presentation, I'll tell you how you can get some information to check and make sure that yours are turned on. But some of the examples of this are the scrolls, outbound clicks, video engagement, file downloads. So, these are some things you definitely want to measure, and so you want to make sure that these are turned on.
+
+[00:20:37.160] - Sherry
+Now, Google does recommend some events. Most of these are for ecommerce and gaming. Like, I never thought about, you know, gaming companies wanting to keep track of all the stuff that they do. So, some of the events that Google recommends for those types of sites, and you all are going to laugh. I thought this was funny.
+
+[00:20:54.480] - Sherry
+If you earn or spend virtual currency in your game, if you watch a tutorial, the beginning and the end, if you request a refund, if you level up or unlock an achievement in your game, those are all recommended events for, you know, those types of websites. And then you can create custom events. Now to do a custom event, you are going to need to do either a little bit of coding or set it up in Google Tag Manager. But some examples of the types of things that you might want to set up is, let's say, you have a donate button on your blog. You can set that up to be a custom event and you can track that, a button that leads to a Contact Us page, a product rating.
+
+[00:21:36.750] - Sherry
+Those kinds of things are things that are custom events. And like I said, there's a little bit more set up involved in that. So, I don't know that very many of us will set up very many custom events. Now what events should bloggers focus on?
+
+[00:21:51.450] - Sherry
+Well, page views, obviously, sessions, engage sessions. That's something that I would encourage everyone to start monitoring, scroll and outbound clicks. So, those are the ones that I really think are important for Bloggers.
+
+[00:22:09.340] - Sherry
+Now I want to do a quick GA walk through for you. I'm not going to have time to do a very in depth walk through, but I am going to try to hit the highlights for you, so that you'll be able to see what's in there. Let me get over to that. We're looking at the facts vault, which is a new blog of mine, so I don't get a lot of traffic to it yet. Okay, on this homepage here, you got your menu over here that you can hover over and the menu is kind of what I would call like a two tier menu.
+
+[00:22:41.710] - Sherry
+So, some of these things, when you click on them, you're going to see more options. So, when I click on reports, it gives me, you know, more menu options here. Okay, I'm going to go back to home for a minute.
+
+[00:22:56.590] - Sherry
+You'll notice that things are in white boxes and those boxes are called cards.
+
+[00:23:03.490] - Sherry
+And these cards are kind of set up the same throughout all of GA4. So, when you look at like this overview card, you see a graph here and actually you see two lines on that graph. The solid blue line is the last seven days and the dotted blue line is the seven days prior to that. Let's say I go from users to new users. This graph is going to change to reflect this and you can tell which method you're looking at because it's got the blue line on the top.
+
+[00:23:33.040] - Sherry
+Down here, you've got your date ranges and you can change all that if you want to. And then you can also click here and go over to review your report snapshot. I'm not going to do that here, but I just know that there's more detail when you click that. This next card is your real time card. And the cool thing about real time is that it shows users in the last 30 minutes instead of the last five minutes, which is what we had in UA.
+
+[00:23:59.590] - Sherry
+The next thing on this homepage is something that I think is really kind of cool. What this does here is this shows you what you've recently viewed. So, let's say, you've looked at a particular thing. You can just click this box and will take you right back there. Now down here at the bottom, if you have insights and recommendations, you'll see those down here.
+
+[00:24:19.270] - Sherry
+I don't have any on this particular blog, but if I did, they would show up there. Okay, let's go look at reports. Now, one thing for you guys to know about reports is that some of them that you had in UA are not available anymore. Some of them have different names or they may be in different locations in GA4. Google tried to categorize these into, you know, things called content, lifecycle, search console user.
+
+[00:24:48.370] - Sherry
+Well, they didn't use these terms in UA. So, first time I opened it up, I was like, where in the world do I go to see which pages people have seen? So, you'll see that things are called different names. Now the beautiful thing about this is I can change the names of these.
+
+[00:25:07.240] - Sherry
+I can delete things off of here that I want to delete. I can add things on here that I want to add. I can change the names, I can rearrange stuff on here. Any of that stuff I can do, which I think is really pretty awesome. You do that through the use of this library down here.
+
+[00:25:23.010] - Sherry
+And I am not going to get into the library in this quickie overview, but just know that the library is where you can create new reports. You can add and subtract things from here, just all kinds of things like that to make this truly your own. I do want to look at page views really quickly though.
+
+[00:25:43.990] - Sherry
+This is showing me the pages. And one thing that you'll find in GA4 is that you'll see page title and screen class. Screen class is basically a page view on an app. So, we can see over here what people are looking at. And we've got a line graph and our bar chart here.
+
+[00:26:02.220] - Sherry
+And then down here is where we see more of what we were used to in universal analytics. Here's where you can change your rows per page. Let's see what else here. Up here at the top, we have our dates that we can change. And then here, you can click this little icon and you can customize this report.
+
+[00:26:20.880] - Sherry
+And let me just show you how easy this is. Let's say, I don't want this graph. This is just hard to read when you're looking by page views. So, what I can do is I can go over here to this line chart and I can go, and now it's gone. And then I can save this report, and I've got just what I want to look at.
+
+[00:26:38.010] - Sherry
+That's pretty cool, I think. I'm going to go back, not going to say that. Okay. 
+
+[00:26:53.330] - Sherry
+So, being able to customize this I think is really pretty awesome. So, our third option here in our main menu is the explore tab. And explore is where you can create your own reports. Well, I haven't created any for this particular site, so I'm going to click over to my analytics for Cub Scott ideas and show you explore on here. Okay. So, you can see here's where I created myself a report for outbound clicks and one for file downloads.
+
+[00:27:24.400] - Sherry
+But let me show you the outbound clicks really quickly.
+
+[00:27:32.240] - Sherry
+Your variables and tab settings are going to show up here by default, but you can just minimize those if you want to. I'm going to leave the variables open because that's where I changed the date. Let's see, and this is just for like almost the past month. But you can see this right here is actually a product that I made and that I sell on Etsy.
+
+[00:27:49.970] - Sherry
+So, I'm getting lots of clicks out to that. That's a good thing. And then you can see there's a YouTube. Some of these are reference guides that come from the Boy Scouts of America since I'm a Cub Scott blogger. And then we get into some of our affiliate links.
+
+[00:28:03.070] - Sherry
+This one, the tidd.ly is an etsy link. Here's an Amazon Link. Another Amazon Link. So, you can see where are people going, you know, where are they clicking to?
+
+[00:28:15.440] - Sherry
+Okay, let me go back over here too. I'm actually going to go back over here. In the Explore, there are different types of that you can use to create your reports. But to be honest with you, not sure that for bloggers or for most bloggers that we're going to be delving into some of this stuff to figure out actual things that we can do on our blog.
+
+[00:28:35.740] - Sherry
+So, what I would always do is start with this blank exploration and then you can build from there. This advertising tab is for people who pay Google to advertise their site. So, Amazon is probably going to do a lot of that. Sherry from Cub Scott Ideas is going to do none of that, so we can just ignore that.
+
+[00:28:57.300] - Sherry
+In the Configure tab, this is where we can create our own events or modify events. We can define what is considered a conversion. We can set up custom audiences if we want to. This is getting really kind of deep, but you may want to do some of that. Then we can also create some custom dimensions as well.
+
+[00:29:16.330] - Sherry
+Okay, I'm going to go back to home. But So that's our high level overview. Now I'm going to click and go back over to the presentation. I set up a page just for Blogger Breakthrough Summit attendees and it's at PainlessBlogAnalytics.com/BBS. And on there, I have videos that will show you how to set everything up.
+
+[00:29:39.680] - Sherry
+So, those [inaudible 00:29:40], make sure you got GA4 set up. There's a video on there to show you how to do that, how to check to make sure that all of your enhancements are turned on, how to connect Google Search console. You're going to find videos for all that on that page. The other thing that's on that page is your printable of dimensions and metrics that are important for bloggers. And then the last thing on there is a discount for my course, which is called the Data Driven Content Creators Guide to the New Google Analytics Store.
+
+[00:30:08.180] - Sherry
+I think if I probably tried, I could have made that name a little bit longer, but it's very descriptive. Anyway, that's my new course that I released recently, and that course is just for bloggers. I don't cover anything ecommerce. It is just for people who blog. And in there, you're going to find out how to create your own reports, how to customize those reports in much more detail.
+
+[00:30:30.110] - Sherry
+I'll also have some premade reports for you, and you might not even have to make your own. You can just use the one that I make for you. But there's a lot of good stuff in there that is going to help you get used to GA4, I have a discount for you on that page, so I hope you'll join me over in the course. All right. So, where do you find me if you have questions or need some help, you can find me on Instagram, Facebook, or you can always email me.
+
+[00:30:56.960] - Sherry
+Thanks so much for having me today. I hope that you found this presentation helpful, and I hope to see you in my course.
+
+

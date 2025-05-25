@@ -1,0 +1,1019 @@
+Title: Strategies for Growing Your Email List: Beyond Opt-ins and Landing Pages
+Speaker: Allea Grummert, Email Marketing Strategist & Conversion Copywriter 
+Website: http://duett.co
+Level: Advanced
+Category: Email Marketing
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/strategies-for-growing-your-email-list-beyond-opt-ins-and-landing-pages-allea-grummert-2024/
+
+Transcript:
+[00:00:03.200] - Liz Stapleton, Host
+All right, guys, I'm so excited to have my friend, Allea, back. She is an email marketing strategist and conversion copywriter who helps bloggers make a lasting first impression through automated welcome and nurture sequences. She helps her clients create strategic email sequences that engage email subscribers, build brand loyalty, and optimize conversions for sales and site traffic. She is Allea Grummert from duett.co. And welcome back, Allea. I'm so excited to see you again. 
+
+[00:00:34.850] - Allea Grummert
+I'm so excited to talk about this too. I love all things email, so happy to have this conversation and hopefully it'll help your attendees.
+
+[00:00:42.850] - Liz
+Yes, and we're going to be talking about -- I know we're both a little ConvertKit obsessed. So, this is -- this chat is going to be more ConvertKit focused. But we're going to be talking about tracking where leads are coming from and how it impacts your list growth. So why don't you kind of tell us how those things tie together a little bit and then how they kind of play off each other.
+
+[00:01:06.130] - Allea
+Yeah. I think when you get started with blogging, you're just like I need to get -- I need to get an opt-in form. I just need to get a landing page. I just need to put them on my list. And with time, you get to try out a bunch of different type of offers, freebies, and so it's important to know how those are actually performing. So I just worked with a client on like an opt-in audit and optimization type project so actually looking at the numbers and seeing how people are actually joining the list based on whether it's through Grow, like the Grow plugin, or if it's a resources page on their website or sharing on social media and actually looking at the conversion rate of those forms. But if you don't look at your data, you don't actually know it's working, and for a while, I think like having just a few that you're just like I'm over here building like my blog. I just need my opt-ins to be working. That's great. But there's also a season for going and seeing how you can optimize those things. And then once you know it works, then you put those in those prominent positions and places on your website or on social media.
+
+[00:02:08.070] - Allea
+Yeah, and that will drive your list engagement even more.
+
+[00:02:12.640] - Liz
+Yeah, because if you see that a form is converting really well but it's not getting a lot of page views and one that is getting a lot of page views isn't converting swap those out.
+
+[00:02:22.860] - Allea
+Swap them.
+
+[00:02:23.730] - Liz
+Yeah.
+
+[00:02:26.610] - Allea
+Yeah.
+
+[00:02:26.950] - Liz
+Yeah. Okay. And I'm actually -- so I know I used to be better about this. I'm actually guilty of not really tracking how well those landing pages going. I'm great at tracking like my broadcast and sequences and stuff, but I'm like yeah -- I'm working on it. I'm actually working on building out a dashboard.
+
+[00:02:41.800] - Allea
+Yeah.
+
+[00:02:42.810] - Liz
+But how -- what would you consider to be like a conversion rate where you're like, you know, we're going to let this ride or this needs some serious tweaks? And where do you start? Like how do you kind of start evaluating that?
+
+[00:02:56.620] - Allea
+Great question, Liz. It really depends on the type of form. So, like if you have a form in your footer, that conversion rate is going to look abysmal. I think it's going to be like point one percent or something because it's showing up on every form whether -- or showing up on every page of your site whether they're scrolling all the way to the footer, or not.
+
+[00:03:17.020] - Liz
+Yeah.
+
+[00:03:17.340] - Allea
+That's going to have a different conversion rate than say like a landing page. So, part of it is relative. But yeah, one of the things actually -- I have so many ways we could go with this -- but yeah, well try out the different forms on your own site and just see if that impacts the actual conversion rate or number of subscribers over a certain amount of time. But like a landing page, if you can get 25 to 30 percent, I think that that's good. I'm sure that there are actual statisticians or how do you say it? Statisticians?
+
+[00:03:50.750] - Liz
+[Crosstalk 00:03:51] Statisticians was correct.
+
+[00:03:51.030] - Allea
+[Crosstalk 00:03:51] People who follow -- statisticians? Who are like, um, like Litmus is really good, L-i-t-m-u-s. They're like an email marketing expert. Anything HubSpot says. You can also check out like ConvertKit will probably have a report, and any real ESP will have a report on that.
+
+[00:04:07.110] - Allea
+But, you know, I have a old business coach that she said her convert -- her landing page was converting at like 50 percent or -- I don't know.
+
+[00:04:14.590] - Liz
+[Crosstalk 00:04:14] Yeah, I feel like that's the standard if it's a freebie.
+
+[00:04:16.980] - Allea
+[Crosstalk 00:04:17] Like it's a freebie.
+
+[00:04:17.930] - Liz
+Yeah.
+
+[00:04:18.640] - Allea
+Yeah. And it, it might be just a matter of getting in front of the right people. One of the things too is like to not judge the conversion rate too soon like if you're not getting a lot of page views, you know.
+
+[00:04:30.540] - Liz
+[Crosstalk 00:04:30] Need more data.
+
+[00:04:31.600] - Allea
+[Crosstalk 00:04:31] You need more data to work with in that case. So, and that's where you can create like a similar landing page or different landing pages for different offers and just see like, is it, you know, but if it's all kind of like the same style, then you can actually test the offer. Or if it's the same offer, the same freebie on different styles of forms, that's kind of how you can compare and see which, which type of form and which freebie are actually benefiting you the most. And then like you can experiment like off of your website too. Like so on your website, there's like your footer, your sidebar. Having it in Grow. Changing out your Grow call to action. How you're positioning that freebie in just a few words will really challenge you in a really good way, I think. You can have a banner across the top of your website. If you have, you know -- the About page is usually one of your highest -- most traffic pages, so make sure there's some opt-in there. I always recommend some resources page, not necessarily a library, but a page with your resources. I'm not saying you have to have like 15. If anything, like kind of pick one from each type of maybe segment of your list or segment of your content.
+
+[00:05:41.850] - Allea
+And then off your website too, like sharing on social media and sharing in stories, doing a list swap with somebody else's email list, things like that is definitely a way to get more traffic to those forms.
+
+[00:05:52.610] - Liz
+All right. I'm going to share my screen so we can give some real-world examples because I feel like that's always helpful. All right. Can you see my screen?
+
+[00:06:05.930] - Allea
+Yes, I can.
+
+[00:06:07.050] - Liz
+So this is a resource page for one of my sites. I think it kind of aligns with what you are talking about. It's not a library, but there's different, you know, I've got my free webinar here. I've got my checklist. I've got some articles that I think are helpful or just the direct link to FTC disclosure information, right, for ebook, things like that. This is like a paid ebook, but it's, it's directing them to my resources.
+
+[00:06:31.450] - Allea
+Absolutely. But you can go to mine too if you want duett.co/resources.
+
+[00:06:36.560] - Liz
+[crosstalk 00:06:37] Oh, yes. [inaudible 00:06:37] 
+
+[00:06:36.560] - Allea
+So I've got my freebies here. There's actually a paid product listed up in here too, up in this part. And then as you keep scrolling, you'll actually see I go into like recommended tools and talks,
+
+[00:06:55.730] - Liz
+Yeah.
+
+[00:06:55.890] - Allea
+and podcasts, and books and stuff too. But my opt-ins are up there towards the top. And then at the bottom of every page on my site, nope not that page, is -- it would be like an opt-in if you go to my home page or whatever, you'll see a freebie at the bottom of the home page.
+
+[00:07:12.830] - Liz
+Yeah, so I've got, and I'm going to show -- so
+
+[00:07:15.770] - Allea
+[inaudible 00:07:15] Every...
+
+[00:07:15.420] - Liz
+those of you familiar with like Lizzy Goddard and her Everything Page, that's kind of what this is. But then I also have, let me hide my face, like a resources page that's a little more. So there's kind -- there's different approaches you can take to it, right. These are all like specifically products of mine. Some are free. Some -- most are paid. Not scrolling very fast, I realized
+
+[00:07:41.990] - Liz
+but
+
+[00:07:42.590] - Allea
+[Crosstalk 00:07:42] Yeah, and just like...
+
+[00:07:43.040] - Liz
+similar idea. There's a lot of different approaches you can take to it.
+
+[00:07:46.780] - Allea
+Yeah. Let's see. I have a client that I did that opt-in audit with. You know, 
+
+[00:07:52.480] - Allea
+she had really specific things to like baking and whatever.
+
+[00:07:56.320] - Liz
+Uh-hmm.
+
+[00:07:57.040] - Allea
+Like you might even have seasonal freebies that you want to try out. But if you're not tracking how they're actually performing, then you don't know whether to mess with it the next year when the holidays come around or something like that, or this particular event, or this type of traffic coming to your site versus trying out a new opt-in like message or freebie because the freebie could be the same. It could just be the message or the style of the pop-up could impact things as well.
+
+[00:08:22.690] - Liz
+Correct, agreed. And I -- you have to figure out where you're going to just pull that data from, right.
+
+[00:08:28.810] - Allea
+[Inaudible 00:08:28]
+
+[00:08:28.950] - Liz
+So I would go to ConvertKit which is [inaudible 00:08:30] ConvertKit. This is actually not very reflective of the actual stats because I use ConvertBox, and so a lot of it's just a pass-through type of thing.
+
+[00:08:42.080] - Allea
+[Crosstalk 00:08:42] Uh-hmm.
+
+[00:08:42.520] - Liz
+Whereas at one point I may have had it embedded, but now it's a pass through, you know, it's why you have this where it's like a 5,900, you know. It's because it's never actually seen that form, but somehow it's gotten 59 subscribers because I use another tool.
+
+[00:08:54.990] - Allea
+[Crosstalk 00:08:56] Yes.
+
+[00:08:56.090] - Liz
+So just, yeah, you can see a lot of these images.
+
+[00:08:59.280] - Allea
+Yeah.
+
+[00:08:59.609] - Liz
+Yeah.
+
+[00:08:59.960] - Allea
+And the sweet team member is like I don't get it. How can I have 1,200, I'm like,
+
+[00:09:03.980] - Liz
+[Crosstalk 00:09:04] Yeah, [inaudible 00:09:04]. 
+
+[00:09:04.780] - Allea
+subscribers to have [inaudible 00:09:06] with like one view. And so, yeah, just making sure that you grab that data from the source itself. I know that Grow doesn't have that kind of data.
+
+[00:09:17.070] - Liz
+[Inaudible 00:09:17].
+
+[00:09:17.070] - Allea
+And so what you could do with Grow is just look at the number of subscribers you got and then divide that like by page views
+
+[00:09:25.650] - Liz
+Yeah.
+
+[00:09:25.860] - Allea
+to your blog pages. You know, if you kind of narrow that down in Google Analytics,
+
+[00:09:29.620] - Liz
+Yeah.
+
+[00:09:29.920] - Allea
+that's one way to do it. And that way you can hopefully see that number change over time.
+
+[00:09:34.460] - Liz
+Yeah. I just wanted to point out because we were going to talk about this is I've been like pleasantly surprised I get at least one subscriber a day from Creator Network
+
+[00:09:45.110] - Allea
+Yes.
+
+[00:09:45.590] - Liz
+which has been awesome. Like this is -- I feel like it's more than that. I don't know if this is like a date range or something.
+
+[00:09:53.760] - Allea
+Uh-hmm.
+
+[00:09:54.160] - Liz
+I don't know. But I just like it's such a -- like I didn't do a whole lot, and it's just bringing in people.
+
+[00:10:01.360] - Allea
+Yeah.
+
+[00:10:02.070] - Liz
+So -- but you are definitely more of an expert in terms of the Creator Network than I am. You're like the -- you're like the face of the Creator Network when all the ads came out.
+
+[00:10:12.420] - Allea
+I was. That was
+
+[00:10:13.750] - Allea
+really funny.
+
+[00:10:14.690] - Liz
+That was yeah. I was like you're ConvertKit famous.
+
+[00:10:17.550] - Allea
+I got so many text messages. I was like that is my face, you're right.
+
+[00:10:21.460] - Liz
+Yes, so why don't you maybe kind of tell us a little bit about -- see, I recommend you.
+
+[00:10:26.240] - Allea
+Oh.
+
+[00:10:26.490] - Liz
+[Crosstalk 00:10:26] I don't really send a lot of your way. I'm not, I don't have my settings very good. But...
+
+[00:10:32.890] - Allea
+Yeah, let's talk about it. Like...
+
+[00:10:34.400] - Liz
+[Crosstalk 00:10:34] Yeah, let's, let's talk about this as a strategy because this is very easy to track. It tells you where you're getting stuff from.
+
+[00:10:42.270] - Allea
+Oh, my goodness. Yes. And it's just a really great way to cross-sell related content between different bloggers and creators and maybe people you haven't even met yet which is what the Discover tag is for. But [inaudible 00:10:55] -- Liz, if you want to open up even just your profile,
+
+[00:10:58.850] - Liz
+[Crosstalk 00:10:59] Oh, okay.
+
+[00:10:59.430] - Allea
+sorry taking you for a loop, but on the bottom right where it says Preview so this is your creator profile, and so you can share this link all right at all times. So you can have links there. You can link back to blog posts so people can click through look at the blog post. Yeah, if you want to click on it, Liz, you'll see your name and the opt-in form.
+
+[00:11:20.590] - Liz
+[Crosstalk 00:11:20] I will click on the post. This is...
+
+[00:11:23.180] - Allea
+[Crosstalk 00:11:23] Is it a blog post? And that's...
+
+[00:11:24.710] - Liz
+No, these are email broadcasts I've sent.
+
+[00:11:27.240] - Allea
+That's what I meant. Yeah, so if you click on that. So when you send out emails through ConvertKit, you can turn it on to make it public and it'll show up here. But notice the subscribe button is on the left. So like this is a whole resource in itself. So, if people refer you out, you can see this. What I recommend is just making sure that like what you deliver and who you serve is so dang clear. Right where it says, "Hi! I'm Liz and I help blogger save time, stress less, and earn more," like that is what people are going to see when you're being recommended to their audience, right, and so it just has -- and it is really clear, Liz. So instead of it just being like, you know, food blog or something or whatever, how do you make sure it's really clearly speaking to the right people so when they see that for a blip of a second they're like, oh, yeah, I do want that. And then when you make your recommendations --
+
+[00:12:17.170] - Liz
+[Crosstalk 00:12:17] [Inaudible 00:12:19]
+
+[00:12:17.170] - Allea
+-- yeah, mine says email marketing for bloggers.
+
+[00:12:19.680] - Liz
+Nicely done.
+
+[00:12:20.270] - Allea
+[Crosstalk 00:12:20] profile. Yeah, yeah. Yeah. So and I've got a lot of words there because I'm a wordy person --
+
+[00:12:25.170] - Liz
+Uh-hmm.
+
+[00:12:25.310] - Allea
+-- and I don't really have a name for my newsletter.
+
+[00:12:28.870] - Allea
+It's just -- it's about email marketing for bloggers. So yeah, those are some of my public blog posts. I hate GIFs, as you can tell. I can't believe now that I love GIFs. They're all over.
+
+[00:12:41.810] - Liz
+[Crosstalk 00:12:41] I hate too, but I call them Gifs.
+
+[00:12:43.500] - Allea
+All right, you know what? We're all going to go to the grave saying something different. So -- but if you want to -- yeah, there's one of my products and then my recommendation.
+
+[00:12:52.660] - Liz
+[Crosstalk 00:12:52] And these are -- this is a product that's like hosted through ConvertKit, correct?
+
+[00:12:56.310] - Allea
+Yup.
+
+[00:12:56.540] - Liz
+Yes.
+
+[00:12:57.170] - Liz
+Okay.
+
+[00:12:57.970] - Allea
+And then links as well to follow me on Instagram, a couple of my freebies, so I'm treating this as though people seeing this have never met me before.
+
+[00:13:07.630] - Liz
+Yeah, [crosstalk 00:13:07] Madison.
+
+[00:13:10.160] - Allea
+Yeah.
+
+[00:13:11.340] - Liz
+Another speaker this year, I believe. I'm pretty sure she's here. Yeah.
+
+[00:13:15.200] - Allea
+So, if you go under your ConvertKit backend again --
+
+[00:13:19.900] - Liz
+Uh-hmm.
+
+[00:13:20.670] - Allea
+-- and you look under my recommendations, this is where you -- okay, good. The page you're on is perfect.
+
+[00:13:27.360] - Liz
+Yeah, no, I just wanted to show how you got there.
+
+[00:13:29.080] - Allea
+Oh, yeah, recommendations this is where we are. So the tabs here where you have recommended by, my recommendations, [inaudible 00:13:34] cover. Under my recommendations, you can add as many creators as you want. And then under your settings, you can choose how many actually show up in the modal. So, I guess we should -- we should have said, if you're not familiar with the ConvertKit network, it's basically when people are opting in for your email list, like one of your freebies, you can recommend three to five other people like with a little pop-up, it'll come up that create kit -- Convertkit manages. And then all they have to do is in one click, they're signing up for Nina's list or signing up for my list. So then you get to choose as the creator what this modal is even connected to. So, if you click on Edit there, Liz, you can actually see all of the different forms where the modal is being used where the creator network is actually being used. So, if you're like, oh, I'm not -- I'm not referring it to very many people, chances are --
+
+[00:14:26.830] - Liz
+[Crosstalk 00:14:27] You don't have it showing a lot.
+
+[00:14:28.460] - Allea
+-- you don't have it showing a lot where on the other side where you're like these people are recommending me, but I'm not getting any view -- but they're not getting views and I'm not getting any leads, chances are they don't have their form set up.
+
+[00:14:38.390] - Liz
+Okay.
+
+[00:14:39.510] - Allea
+And the other cool thing about ConvertKit is the paid recommendations as well. This is a newer feature as of 2023.
+
+[00:14:49.360] - Liz
+That -- this -- so this part down here where it says pay this is if you want to pay for recommendations.
+
+[00:14:54.010] - Allea
+No.
+
+[00:14:54.120] - Liz
+[Crosstalk 00:14:54] [Inaudible 00:14:56]. No?
+
+[00:14:55.090] - Allea
+No.
+
+[00:14:55.450] - Liz
+[Crosstalk 00:14:55] It's a good bit.
+
+[00:14:57.220] - Allea
+Yes, you can -- you can get paid to recommend others.
+
+[00:15:00.520] - Liz
+That I know.
+
+[00:15:02.440] - Allea
+Yeah.
+
+[00:15:02.750] - Liz
+What is this? What is this?
+
+[00:15:04.640] - Allea
+Oh, yeah, it's saying add it to more forms. But with SparkLoop, it's a free account you sign up for. We get access.
+
+[00:15:09.450] - Liz
+[Crosstalk 00:15:09] I do you have SparkLoop. Yeah.
+
+[00:15:11.890] - Allea
+Yeah, so it's, it's not -- you're not a creator partner. You're a creator. I forget what the other tab is at the top of their website. But basically then you can say -- you can have like paid recommendations as part of your recommendations. So, you have unpaid and people who are willing to pay you a $1.50 to $3 for qualified leads going to their list.
+
+[00:15:29.880] - Liz
+Yeah, I feel like this is the easier way to go about it right here, which by the way, I have no idea how ConvertKit comes up with these numbers. They're really random. 
+
+[00:15:37.360] - Allea
+Isn't that not true from your products?
+
+[00:15:39.120] - Liz
+Well, no. Well, so I think it pulls in like -- yeah, no, it like these are totally made up numbers. I don't know where it gets from.
+
+[00:15:47.610] - Allea
+[Crosstalk 00:15:47] Oh, that's so interesting. That's always been accurate for me, but...
+
+[00:15:50.270] - Liz
+I know. Well, because I do have Thrivecast and I have Shopify, but I like don't know where it gets these numbers from.
+
+[00:15:56.450] - Allea
+If you click on go to -- go to purchases -- is your screen blinking, by the way?
+
+[00:16:01.830] - Liz
+No.
+
+[00:16:02.140] - Allea
+Blinking on my end, but...
+
+[00:16:03.120] - Liz
+Yeah, see, I don't have any products on this ConvertKit account.
+
+[00:16:05.930] - Allea
+Oh, my gosh, that is absolutely bonkers. How funny.
+
+[00:16:09.310] - Allea
+No, I'm...
+
+[00:16:09.860] - Liz
+Why? See, yeah. I'm like I don't -- these are made up numbers.
+
+[00:16:14.780] - Allea
+[Crosstalk 00:16:15] That's frustrating. So...
+
+[00:16:17.270] - Liz
+[Crosstalk 00:16:17] That's okay. This is not where I go to figure out my revenue.
+
+[00:16:21.310] - Allea
+That's just the Convertkit. But yeah, when you set up paid recommendations, you can choose out of like the number of people that you are actually recommending on your modal. Like for me, I pick three. I feel like it's a nice number. It's not too many.
+
+[00:16:34.100] - Liz
+What [inaudible 00:16:35]?
+
+[00:16:34.100] - Allea
+And yeah, you might put the log in there. That's a lot of buttons there. You can choose like how many of my three recommendations is a paid recommendation, and it'll just kind of cycle through them for you. So I, I think I have yet to make any money off of SparkLoop recommendations. I think you want to be under partner programs --
+
+[00:17:02.500] - Liz
+Okay.
+
+[00:17:03.390] - Allea
+-- maybe or referral programs.
+
+[00:17:07.000] - Liz
+These are my referral programs.
+
+[00:17:08.860] - Allea
+Okay. So it's probably... [crosstalk 00:17:09] 
+
+[00:17:10.250] - Liz
+Paid, free -- see this is where I get confused.
+
+[00:17:15.470] - Allea
+This is a great question, Liz.
+
+[00:17:17.340] - Liz
+[Crosstalk 00:17:17] newsletter revenue. What's that? Let's look at that. Add a new post.
+
+[00:17:23.230] - Allea
+Oh, this is you get to add yourself as a publication which I think you actually need to do in order to actually be able to refer anyone else.
+
+[00:17:29.880] - Allea
+Let me open up
+
+[00:17:31.250] - Allea
+my SparkLoop here.
+
+[00:17:32.510] - Liz
+All right, let me stop sharing my screen.
+
+[00:17:34.260] - Allea
+Oh, you're fine.
+
+[00:17:35.900] - Liz
+No, I'm just going to
+
+[00:17:39.160] - Liz
+screen share.
+
+[00:17:40.840] - Liz
+Stop screen share. All right.
+
+[00:17:43.900] - Allea
+Oh, baby, baby.
+
+[00:17:45.050] - Liz
+[Crosstalk 00:17:46] We're smart people. We can figure this out.
+
+[00:17:48.390] - Allea
+We, oh, boy, are we. Okay. We're going to look at -- can you see my screen?
+
+[00:17:53.980] - Liz
+I sure can.
+
+[00:17:55.630] - Allea
+Okay. So I have it under -- oh, Creator Network is like right here. See? This looks different than what you have.
+
+[00:18:02.000] - Liz
+It is.
+
+[00:18:02.520] - Liz
+So like -- so the SparkLoop -- so before Creator Network, SparkLoop integrated with like ConvertKit as like a referral program to help grow your newsletter, right?
+
+[00:18:12.650] - Allea
+Uh-hmm.
+
+[00:18:12.940] - Liz
+[Crosstalk 00:18:12] Before Creator Network was [inaudible 00:18:13].
+
+[00:18:14.950] - Allea
+[Crosstalk 00:18:15] Uh-hmm.
+
+[00:18:15.470] - Liz
+And but it was only on my Creator Pro Plan or whatever. And so I got on that, and so that's when I started my SparkLoop account.
+
+[00:18:23.480] - Allea
+Right.
+
+[00:18:23.850] - Liz
+I don't know.
+
+[00:18:26.060] - Allea
+So I wonder when you create your -- when you go through that process...
+
+[00:18:28.500] - Liz
+[Crosstalk 00:18:28] But yours also says grow your newsletter not set up. So I wonder if I set up my thing, it will then -- if it will then show.
+
+[00:18:34.940] - Allea
+[Crosstalk 00:18:35] Oh, that switched.
+
+[00:18:35.820] - Liz
+Yeah.
+
+[00:18:36.740] - Allea
+It switched to partner?
+
+[00:18:38.020] - Liz
+How did you do that?
+
+[00:18:39.800] - Allea
+I just clicked --
+
+[00:18:40.670] - Liz
+[Crosstalk 00:18:40] Grow your newsletter switched to partner. Guys, you're getting like some real time.
+
+[00:18:46.410] - Allea
+So if I go under my profile, I do have my own profile. Okay.
+
+[00:18:51.150] - Liz
+[Crosstalk 00:18:51] Publication. Okay.
+
+[00:18:51.280] - Allea
+My own publication -- I'm just not actually paying anyone.
+
+[00:18:55.110] - Liz
+[Crosstalk 00:18:55] Yeah.
+
+[00:18:55.330] - Allea
+I think like there's like a certain minimum --
+
+[00:18:58.020] - Liz
+Yeah.
+
+[00:18:58.420] - Allea
+-- not in my budget.
+
+[00:19:00.050] - Allea
+But you can see --
+
+[00:19:02.110] - Liz
+Not in your strategy.
+
+[00:19:03.600] - Allea
+Not in my strategy. I have not made room for it.
+
+[00:19:06.310] - Liz
+If you wanted to budget for it, we both know you could.
+
+[00:19:08.880] - Allea
+Probably could. So these are people that I...
+
+[00:19:10.970] - Allea
+[Crosstalk 00:19:11] Oh, I love talking shrimp.
+
+[00:19:12.740] - Allea
+Yeah. These are people that I'm recommending. Some are just have pause. Some the budget is used up. And if I actually go under -- one second --hopefully it's my account. If it's, okay, it is. These purchases are accurate. So I don't know what happened with yours. If I go in the recommendations, you'll see I've received almost 600 subscribers.
+
+[00:19:39.020] - Liz
+Yeah.
+
+[00:19:39.340] - Allea
+Nutso. So you can, actually, you can promote this through forms like opt-ins on your website.
+
+[00:19:48.420] - Liz
+[Crosstalk 00:19:48] Yeah.
+
+[00:19:48.420] - Allea
+Or you can just promote them or be promoted by somebody just in their email. So thanks, Robbie. That's great.
+
+[00:19:54.790] - Liz
+Yeah. How do you do it in email?
+
+[00:19:58.620] - Allea
+Shall we find out?
+
+[00:19:59.800] - Liz
+Yes.
+
+[00:20:01.080] - Allea
+Let's do it. Okay. That's funny. Let's duett.
+
+[00:20:05.110] - Liz
+Ha.
+
+[00:20:05.990] - Allea
+Okay, so if I come in here, I'm pretty sure it's one of these.
+
+[00:20:10.820] - Liz
+[Crosstalk 00:20:10] Is a new thing here. Oh, recommendation. Duh.
+
+[00:20:13.840] - Allea
+[Crosstalk 00:20:13] I'm going to select a recommendation Food Blogger Pro. That's awesome. So how cool is that?
+
+[00:20:22.960] - Liz
+Oh, It's giving me ideas. You guys might be so this is obviously airing while the summit is live, but you might see some of this in action and some of the emails I'll be sending out.
+
+[00:20:31.400] - Allea
+There you go. So, you can do it within email. And then if I go on to recommendations, you'll see I have a bunch of --
+
+[00:20:40.820] - Liz
+[Crosstalk 00:20:41] Yeah.
+
+[00:20:41.560] - Allea
+-- [inaudible 00:20:41] events here.
+
+[00:20:41.880] - Liz
+I haven't spent a ton of time in it. I need to dig a little deeper, but it's -- I've, I've been impressed with it so far.
+
+[00:20:49.100] - Allea
+Yeah. So, the settings is where you can enable by default if you want. I have it a part of 14 forms, and then under customize is where you can change the language. You can choose the number of slots. I have it, so that I have a paid recommendation showing up first --
+
+[00:21:02.740] - Liz
+Uh-hmm.
+
+[00:21:03.080] - Allea
+-- you know, and you get a notification if certain budgets are used up. So sometimes I just want to go back to regular recommendations. Or you could have all three be paid recommendations and really try your hand at it. That's a whole strategy too.
+
+[00:21:15.170] - Liz
+[Crosstalk 00:21:15] Yes.
+
+[00:21:15.440] - Allea
+And it'll show you down here how much you've earned. You'll notice I have earned nothing. But they each -- they each have kind of their own -- in SparkLoop, you'll see what the expectations are for payout. It's not just a lead. Like maybe it's somebody who's been on their list and has clicked at least once in two weeks or something like that.
+
+[00:21:34.580] - Liz
+Yeah.
+
+[00:21:35.070] - Allea
+So that's all under here.
+
+[00:21:38.480] - Liz
+Okay.
+
+[00:21:38.640] - Allea
+[Crosstalk 00:21:38] I don't know how to click, but you can click and search. You'll see, yeah, they've definitely added a lot more since the first time they set it up.
+
+[00:21:47.650] - Liz
+Yeah.
+
+[00:21:48.340] - Allea
+Like I'm not a founder. This is not a good fit for my audience.
+
+[00:21:51.726] - Liz
+Uh-hmm.
+
+[00:21:52.230] - Allea
+People coming to me are bloggers. They're not looking to find -- like found the startup or whatever. So yeah, you can come in here and just search like blog.
+
+[00:22:02.410] - Liz
+And looks like they have filters, so.
+
+[00:22:04.580] - Allea
+Yep, a few anyway.
+
+[00:22:06.540] - Liz
+Yeah.
+
+[00:22:07.750] - Allea
+There you go, and it's constantly changing and improving as well.
+
+[00:22:11.630] - Liz
+Yeah, I mean, we're recording this at the end of 2023. This is airing January 2024. It may not look the same as it does now. So just kind of...
+
+[00:22:21.240] - Allea
+[Crosstalk 00:22:21] Surprise, it may change.
+
+[00:22:24.050] - Liz
+[Crosstalk 00:22:25] So.
+
+[00:22:25.870] - Allea
+So, yeah, Creator Network. And then, you know, the, the cool thing about what ConvertKit has been talking about, and Nathan Barry himself a lot over the last year or so, it's about this idea of a flywheel. So the more subscribers you get, the more you can actually charge for sponsored sections of your newsletter. They are rolling out, and they have a partnership with a website called Liveintent to actually run display ads in your emails.
+
+[00:22:53.900] - Liz
+like dynamic? -- nice[Crosstalk 00:22:54].
+
+[00:22:54.810] - Allea
+Like dynamic ads, and you can kind of say like, yeah -- I don't know how they gathered the data because who knows anymore and that's outside of my pay grade with like third party integration and all that third party data. So, but yeah, being able to know like what your audience would actually be interested in and those are the ads that are going to run. You can kind of say yes and no to certain types of ads. So, but you -- we the smaller creators could then take the money from sponsorships put it towards these paid -- be a newsletter that is paying other people to shop in front of their audience.
+
+[00:23:28.740] - Liz
+Yes.
+
+[00:23:29.120] - Allea
+You know then that will grow your list that can grow how much you actually charge for ad space and how much you actually make from dynamic ads because you have more people on your list. And then you can just continue to reinvest that money into what they call a flywheel.
+
+[00:23:41.740] - Liz
+Okay.
+
+[00:23:42.560] - Allea
+[Crosstalk 00:23:42] They did not invent a flywheel. Flywheels are like, instead of doing a water pump like where you have to pump manually all the time, the idea is on the flywheel is it takes a lot to get it started --
+
+[00:23:51.650] - Liz
+Uh-hmm.
+
+[00:23:51.910] - Allea
+-- but once it's up and running it should get easier and more effective with each turn.
+
+[00:23:56.730] - Liz
+Okay. So, I like it. No, I like it. She knows what she's talking about. She's She's totally the inside track on what ConvertKit's doing.
+
+[00:24:03.300] - Allea
+I'm, I'm nosy [inaudible 00:24:05].
+
+[00:24:05.860] - Liz
+Well, like you know all the ConvertKit people.
+
+[00:24:08.170] - Allea
+I, I do know them. Yes, and I see them a few times a year at conferences. I'm in their Slack channel. So if anybody has questions, I do have an inside scoop there.
+
+[00:24:16.650] - Liz
+Got you. I like it. Okay. So I want to -- the kind of last thing I want to talk about because we talked about tracking it --
+
+[00:24:25.990] - Allea
+[Inaudible 00:24:26]
+
+[00:24:25.990] - Liz
+-- but basically you almost want to create a database of your data which is real meta.
+
+[00:24:32.840] - Allea
+[Crosstalk 00:24:33] Yeah.
+
+[00:24:33.540] - Liz
+And, and that is I'd say the one -- like I love, love ConvertKit, but I wish it had a few more organizational tools.
+
+[00:24:40.880] - Allea
+I think it's coming. Not that I know anything, but I might know something.
+
+[00:24:46.670] - Liz
+You're like I may have heard something.
+
+[00:24:48.000] - Allea
+I may have heard something somewhere.
+
+[00:24:49.530] - Liz
+Somewhere? Okay.
+
+[00:24:50.180] - Allea
+[Crosstalk 00:24:50] A better dashboard is coming.
+
+[00:24:52.640] - Liz
+[Crosstalk 00:24:53] Okay. Interesting. Interesting.
+
+[00:24:53.640] - Allea
+Yes.
+
+[00:24:53.890] - Liz
+So I don't have -- so I don't made up numbers.
+
+[00:24:56.120] - Allea
+Oh, no. [Inaudible 00:24:56].
+
+[00:24:57.520] - Liz
+[Crosstalk 00:24:57] Well I think part of that -- no actually, you know another thing because it's like total and it's like nothing this month cause I think, sorry, used to have Podia connected.
+
+[00:25:04.640] - Allea
+[Crosstalk 00:25:05] Oh.
+
+[00:25:05.270] - Liz
+So that's like the revenue from years ago in Podia or something that it pulled through?
+
+[00:25:10.930] - Allea
+[Crosstalk 00:25:11] Maybe. I don't know.
+
+[00:25:12.763] - Liz
+[Crosstalk 00:25:12] I don't know.
+
+[00:25:13.320] - Allea
+Like I want to know where I can find that $16,000, please.
+
+[00:25:15.790] - Liz
+Right.
+
+[00:25:17.780] - Allea
+You're telling me [inaudible 00:25:18].
+
+[00:25:19.000] - Liz
+[Crosstalk 00:25:19] "Your week with Convertkit" emails and I was like, well, this is a completely made up number.
+
+[00:25:24.440] - Allea
+Yeah. So, yeah, you mentioned like having a database. But then also what's really good about this too is if you're thinking funnels --
+
+[00:25:33.300] - Liz
+Uh-hmm.
+
+[00:25:33.540] - Allea
+-- you want to be able to track your registration page opt-ins. So I have a client right now, they're running funnels with even deadline funnel with like scarcity involved and price discounts and what not. But they have multiple different forms that could lead to the registration -- like could actually lead to someone being registered. One is through affiliates. One is through their website. One is through another like conference or sponsor involvement.
+
+[00:25:59.300] - Liz
+Uh-hmm.
+
+[00:25:59.570] - Allea
+And so able to track like how are those forms performing and then even like the [inaudible 00:26:04]  sequences that are attached to that then how are those performing week to week, month to month. Because as much as we're like funnels should always be growing it's like some seasons they just don't.
+
+[00:26:16.200] - Liz
+Yeah.
+
+[00:26:16.470] - Allea
+Like some seasons are just lower, but you don't want to just assume that things are failing. A lot of it is seasonality too.
+
+[00:26:22.390] - Liz
+[Inaudible 00:26:22].
+
+[00:26:23.250] - Allea
+So, yeah, by knowing do these forms convert well, whose coming in, then you can actually like make sure you're spending enough time or money if you're running ads too. This client is also running ads -- making sure that those are actually effective. And if you track your subscribers in ConvertKit or whatever tool based on whatever opt-in they came in from, you have really good data. You can pull together a segment, if you will, who came in through the paid registration app or ad, and registration page, who's also purchased you can actually get a real number for that.
+
+[00:26:55.340] - Liz
+Okay.
+
+[00:26:55.760] - Allea
+Right. So if you give them or you could even set up a segment that's like if came in from this form and they also have the purchase tag, how many is that? And then you can do the same thing for the affiliates or whatever and make sure that each of those campaigns is actually being really effective.
+
+[00:27:11.570] - Liz
+I like that. I like that.
+
+[00:27:12.600] - Allea
+[Crosstalk 00:27:12] And then you basically take that number divide it by the number of registration, like the number of people who've registered to get an actual like conversion rate because if you're like it's 120, great. What does that mean? It's like, okay, 120 divided by the number of registrants --
+
+[00:27:25.560] - Liz
+Yes.
+
+[00:27:25.860] - Allea
+-- would be your conversion rate from paid ads all the way down to [inaudible 00:27:30].
+
+[00:27:31.020] - Liz
+Use a calculator. Okay. Definitely use a calculator because you can Google like conversion calculator. I mean, I love math, so I'll just pull out my little calculator. But, you know, I know that I'm unusual in that sense.
+
+[00:27:45.240] - Allea
+Well, this is the -- this is the --
+
+[00:27:46.670] - Liz
+[Crosstalk 00:27:46] It's not hard math.
+
+[00:27:48.130] - Allea
+No. And even like having a Google spreadsheet where you track this info over time because this is where like you can actually track the data too. And you're like, okay, if I have this many subscribers, and it earns me this much money then you kind of know how much you want to put more into ads.
+
+[00:28:04.290] - Liz
+Yeah.
+
+[00:28:04.760] - Allea
+And actually, like because, you know, if you -- same with the flywheel, you put that money into the ads --
+
+[00:28:09.490] - Liz
+Uh-hmm.
+
+[00:28:09.620] - Allea
+-- it should generate the same kind of conversions across the board through registration page, through emails, through purchasing, through whatever, and then you just keep making more money.
+
+[00:28:19.570] - Liz
+Yes. And I will say I've gotten good over the last -- this year of like tracking my broadcast and stuff. And I'll, I'll share my screen real quick because I think you'll be proud of me.
+
+[00:28:30.570] - Allea
+Yes.
+
+[00:28:33.860] - Liz
+So this is like my -- it's in ClickUp. And so I have it just an automatic filter to forward it to this list, and then I have to go in and add the like data, but it doesn't take long. But then that way I can just go through, like especially on weeks when you're short on time, I can be like, well, what's done well? Or if I want to run a sale on this -- what's led to more revenue? And, you know...
+
+[00:29:00.450] - Allea
+Yeah.
+
+[00:29:00.880] - Liz
+So.
+
+[00:29:01.270] - Allea
+Yeah. So, you just -- you go in and you just pick one that's made you money?
+
+[00:29:04.700] - Liz
+Yeah, like I can just reuse it then. I'm not trying to dig, you know. Cause sometimes you're just you're short on time. You know I run Freebie February every year. It's coming up next month, guys. And I can see all the examples of what's done well in the past and what's had good open rates or click rates or whatever, so.
+
+[00:29:24.930] - Allea
+I -- you see my face right now? I can barely comprehend how -- this is so cool. Yeah.
+
+[00:29:35.590] - Liz
+Yeah. And it's not all completely filled in, right? Because it took a long time to get this like set up.
+
+[00:29:40.270] - Allea
+Set up.
+
+[00:29:40.750] - Liz
+But I got to the point where now I just have to like go in. And so it's like a recurring task that I need to go in -- I need to and sometimes I get two things because the way [inaudible 00:29:47]. So, I delete the duplicate and then --
+
+[00:29:50.870] - Liz
+[Crosstalk 00:29:51] Yeah.
+
+[00:29:51.090] - Liz
+-- once a week I go in and I basically fill in, okay, well, how many people got this? What was the overall click rate? And what was the point of the email? Like what was...
+
+[00:29:59.020] - Allea
+Uh-hmm.
+
+[00:29:59.330] - Liz
+Right. I've seen a lot of Summit stuff.
+
+[00:30:02.540] - Allea
+Well, you and I run very different businesses too. Like I'm a service business. I have a couple of small products. I have a couple affiliates, but I don't even really promote them regularly.
+
+[00:30:11.930] - Liz
+Yeah.
+
+[00:30:12.120] - Allea
+I need to take a dose of my own medicine there --
+
+[00:30:14.790] - Liz
+Yeah.
+
+[00:30:15.020] - Allea
+-- so that I am like, you know, so what do -- how can this apply to the regular blogger who maybe has one product or an ebook and freebies? But, you know, maybe like they don't have an email that just generates income.
+
+[00:30:31.430] - Liz
+Yeah.
+
+[00:30:32.830] - Liz
+Right. And not all these are income based, right. But I can go through and I say, okay, best of --
+
+[00:30:36.940] - Allea
+[Crosstalk 00:30:37] Uh-hmm.
+
+[00:30:37.370] - Liz
+What's [inaudible 00:30:37]? I don't know what this is, but. 
+
+[00:30:40.340] - Allea
+The first thing that comes to mind for me because I work with a lot of food bloggers, actually, so for them, it's a matter of seasonality. So, you know, it's coming up on Easter. What email did you send out for Easter last year? Can you split it into two? Do you want to resend it a second time? Like be able to play with that data?
+
+[00:30:59.540] - Liz
+[Crosstalk 00:30:59] Like what the past Black Friday --
+
+[00:31:00.380] - Allea
+[Crosstalk 00:31:00] Like Black Friday. 
+
+[00:31:05.160] - Liz
+-- ones did?
+
+[00:31:05.380] - Allea
+Yeah.
+
+[00:31:05.500] - Liz
+This is stuff I just pulled in and definitely doesn't have like an accurate, uh, some information.
+
+[00:31:10.170] - Allea
+Yeah.
+
+[00:31:12.210] - Liz
+But, yeah.
+
+[00:31:12.470] - Allea
+Yeah, so looking back at what has already happened and then being able to  repurpose that I think there's a lot of hang up. And I've heard this from all of my clients and people on my list that they're like, oh, I didn't know you could reuse content. And it's like, yep, you absolutely can.  Like as long as you [inaudible 00:31:27]. 
+
+[00:31:27.330] - Liz
+[Crosstalk 00:31:27] And for years I was constantly building from scratch. I'm like but I've done this before. I should just be able to find it. And so setting up the system to be able to find it --
+
+[00:31:38.080] - Allea
+[Crosstalk 00:31:38] Yes.
+
+[00:31:38.490] - Liz
+-- was my tricky part. That was my hold up. But I finally, finally did it.
+
+[00:31:41.140] - Allea
+Yeah, and then like you just continue to tweak it over time. So the subject line did really well. You know, maybe you do an A/B test of a different subject line the next year and just see how it performs. See if it does any better, you know, continue to try and improve --
+
+[00:31:57.110] - Liz
+Yeah.
+
+[00:31:57.310] - Allea
+-- from there.  
+
+[00:31:58.650] - Liz
+Okay. And that actually leads us perfectly to a little something, something you have for people. Why don't you tell us about it?
+
+[00:32:04.950] - Allea
+Yes. So I have a goals and growth tracker spreadsheet already ready for you that you can copy and use and be able to track your different opt-ins. I have it set up to track it on a monthly basis, but then you can also track your sequences and just see from a high level over time. I would -- I mean, you don't have to take a ton of time and write out all the updates to every sequence all the time. But, yeah, you will be able to track your broadcast or or like a campaign in general. So, for instance, like your Blogger Breakthrough Summit promo is its own campaign.
+
+[00:32:36.770] - Liz
+Yeah.
+
+[00:32:37.310] - Allea
+Same could be like Thanksgiving campaign and you're tracking those four emails so you can just see how they did over time. Maybe even if it helps track the actual number of click throughs so you're like this is how much potential revenue came through on display ads or something like that. Yeah, I have that for you guys and that you can just copy and save to your own Google Sheets and populate that with your data.
+
+[00:32:59.660] - Liz
+Yes, and the link to that is below. Allea, thank you so much for coming back. I always love having you because Allea and I go way back. So I always like anytime to hang out I would text her. I was like, we're still on today, right?
+
+[00:33:13.120] - Allea
+We are. We are. Yeah, since 2016, Liz was one of my, seriously, one of the two first blogging friends I ever met, so.
+
+[00:33:21.070] - Liz
+And then you said the other one decided to actually go live by you. And I, I didn't make that choice, sadly.
+
+[00:33:25.820] - Allea
+Yeah, I got the other friend to come live in my same city.
+
+[00:33:29.400] - Liz
+But, yeah. So again, guys, if you need help figuring out kind of the strategy of email marketing like she's your girl. She, she just knows her stuff so well. I think you even host like a office hours type of thing that people [inaudible 00:33:42].
+
+[00:33:42.770] - Allea
+[Crosstalk 00:33:42] Yeah, I host a monthly roundtable. So it's free to attend. Every month is a different topic to just really help troubleshoot things with email. The idea being that if you have any questions that are keeping you from sending emails, I want to answer them so that you can go share your message with more people.
+
+[00:33:58.380] - Liz
+Yes. Yeah. So she, she's great for the strategy and helping you figure that out. And the reason my ConvertKit account is not nearly as much of a mess as it used to be is because of her. So, Allea, again, thank you so much, and hopefully everyone got a lot out of this. I know I did.
+
+[00:34:14.130] - Allea
+Yeah, absolutely. Thanks for having me.
+
+

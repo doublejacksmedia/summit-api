@@ -1,0 +1,131 @@
+Title: Tool SEO: How to Get More Traffic & Qualified Leads with Free Tools
+Speaker: Ryan Robinson
+Website: https://rightblogger.com
+Level: Intermediate Bloggers
+Category: SEO
+Length: 23:37
+Year: 2025
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/tool-seo-how-to-get-more-traffic-qualified-leads-with-free-tools-ryan-robinson/
+
+Transcript:
+[00:00:03.650] - Liz Stapleton, Host
+All right, guys. I'm really excited to welcome back this speaker. He's always a joy to have on. He's a prolific creator, blogger, startup founder, and recovering side project addict that teaches 500,000 monthly readers how to grow a meaningful online business at ryrob.Com. He's also the co-founder at RightBlogger, a suite of high-powered content tools for creators. A big warm welcome back to Ryan Robinson. Ryan, thank you so much for coming back.
+
+[00:00:34.780] - Ryan Robinson
+Hey, thank you for having me. Great to be back.
+
+[00:00:37.750] - Liz Stapleton, Host
+Yeah. So as we were chatting before I hit record, we're going to be talking about Tool SEO, which I'm fairly clueless on. So I am going to just turn it over to you and pop in with questions because I'm sure I'll have the same ones people are going to have.
+
+[00:00:53.700] - Ryan Robinson
+Love it. Yeah. So this is a pretty new thing. Let's start with that, like straight off the bat. I think free tools has not been a thing that many people have the ability to add to their sites because there's been technical challenges with it. I'm going to share my screen here. We're just going to jump in and I'm going to show you an example. I think just showing you some examples will walk us through what exactly we're talking about. The overview of Tool SEO starts with my blog, my place where I experiment with everything myself. Over on my blog, ryrob.Com/tools, you can hop over there and follow along with us. I think you'll gather a lot of inspiration, too, as you're watching. Here on this landing page, this is all the free tools that I've made for my my audiences, bloggers, content creators, marketers, writers, things that will do keyword research for you, stuff that will write a first draft blog post. Things along these lines are what my free tools are about. Because really this tool SEO concept was born out of seeing... I'm going to show you my Google Analytics here. Was born out of seeing that, Hey, I'm getting a crap ton of traffic to my free tools on my site, and I want to open this up for other people who are in different niches, digital marketing, personal finance, travel blogging.
+
+[00:02:24.390] - Ryan Robinson
+The sky's really the limit because anything that you're doing, any niche that you're in, your audience has problems. And part of the solutions, in addition to educational, say, how to style content, something else you could offer people is free tools or calculators that help them do something in their daily lives or in their work. So that's the loose idea here. But just a quick overview. I just wanted to show you guys real quick. Some of these tools on my blog, the paragraph rewriter tool, the paragraph expander tool, keyword research, blog title generator. These tools are generating hundreds of thousands of users a month to my site. For me, the way that this works with my business is that people come and use my free tools, and then they have the opportunity if they want to sign up for Right Blogger, which is my more professional suite of tools for content creators. And Right Blogger is where you will, by the time you're watching this video, you will be able to make your own tools like what you see here on my blog. You'll be able to make a tool exactly like this, but say for your niche, and embed it into a page on your site so that you can get in on this free tool SEO play.
+
+[00:03:45.960] - Liz Stapleton, Host
+Okay, so I understand that, and I feel like I've seen that pop up more and more. One person comes to mind. Nina Clapperton has, I think, done some similar things. And I see how that makes sense for the traffic, but I don't know how to actually do that. I've experimented a little with having ChatGPT code something for me, and I do have a little calculator coded that's in one of my memberships, and that's fine, but I didn't love it, and I didn't really know how to make it better. I'm definitely curious, your advice on how to do that.
+
+[00:04:17.480] - Ryan Robinson
+Yes. The making of the tool part has traditionally been, honestly, the most difficult aspect of it, right? Because you not only have to figure out what you want to help your audience with, I think that's low key. A big part of doing effective tool SEO is choosing something that's a real pain point for your audience and then filling that gap with a tool that can help them do it. That's the foundational first step is put yourself in that beginner's mindset if you're reaching beginners, for example, and really think about what those problems are. I like to do this from where I'm at, too. Liz, I know this will be relevant to your audience. I have tools for bloggers on my site. Things like needing help generating ideas for posts when you're feeling low on inspiration or title alternatives for something like coming up with an article about, let's say, hiking in California. I have a hiking blog as my fun project. Maybe I don't know how to exactly title an article in order to position it well to rank better in SEO on Google. I'll use one of my tools that gives me some SEO meta-title examples.
+
+[00:05:32.900] - Ryan Robinson
+And so once you identify that pain point, the actual building thing is exactly what we're solving for at Right Blogger? And my co founder, Andy, would kill me if I showed the the raw version that it looks like right now because it's almost done in development, but he wants it to be polished before we actually show it off. So basically what you'll be able to do is interact with our AI.
+
+[00:05:55.930] - Liz Stapleton, Host
+Probably by the time this airs.
+
+[00:05:58.280] - Ryan Robinson
+By the time this is live, this will be live in Right Blogger as well. So I encourage people to check it out. It's called Right Blogger Studio in our suite of tools. You can sign up for a free account and check out all this stuff. So there's no strings attached here. I want you to try it out and see if it's something that's interesting to you. But basically, what you'll be able to do is there's a WYSIWYG editor, so there's no coding involved. You'll essentially start by describing the tool that you want to build for your audience, or we'll have some inspiration starter points, too, that can get you started down the right path. But in theory, you're just going to describe the tool you want, and then you'll be able to play with some layout, design elements, and get it matched to your branding, font, color, things like that. And then you'll get an embed code, and you'll be able to embed that tool back onto your blog, whether you use WordPress, Ghost, Wix, it doesn't really matter so much. You'll be able to embed it there. And then from here, what's beautiful about Tool SEO is that beyond just traffic that it can obviously generate for you by solving a need for people, is that it's really good for lead generation.
+
+[00:07:12.170] - Ryan Robinson
+You can say have a This tool, let's say you can use it once for free without signing up and then enter your email address to make additional titles or to get additional ideas, something like that.
+
+[00:07:26.410] - Liz Stapleton, Host
+That was actually going to be my next question. Is the extent to which when you're doing these free tools, are people having to sign up? Are you having to then manage user accounts? What does that look like? Because yes, it can be great lead gen, but then is it an account that they have to... It can get complicated, I feel like, for people. Can you break that down?
+
+[00:07:45.240] - Ryan Robinson
+It can get complicated. What we are doing is basically the most simple version of it. So upon submitting your first tool use, let's call it, maybe you let the first tool use just go for free. There's going to be options you can toggle. If you want to be gated by email, sign up from the start, you could do that, too. But what we see as most effective with my tools is let people use it once or twice for free, and those who are engaged who are clearly getting value out of it, those are the people who are going to come back and want to use it more. We'll give them a pop-up, which you'll be able to do using RightBlogger Studio. You'll get a pop-up that says, Hey, enjoying this tool? Sign up with your email address in order to get three more free uses of this month or 10 more free uses. These are all options you can toggle yourself. But essentially, what we'll do is you'll have the option to just add people directly to your Kit email list. There's going to be other ESPs, email service providers that we integrate with down the line.
+
+[00:08:47.480] - Ryan Robinson
+But for now, it'll just be kit or through Zapier. So you could connect with some of the other tools as well. But simply put, add to your email address. We don't want to get into the whole user management side of things, because I think that's, you start to get pretty far out into the weeds there.
+
+[00:09:05.360] - Liz Stapleton, Host
+Sure, sure. So do they then have access to that many uses each month? Are they going to have to come back and enter the email again?
+
+[00:09:13.740] - Ryan Robinson
+What it'll do is it It'll cookie their browser. Within a 60-day, 30-day window, you'll get to set these settings to your own desire. But you'll be able to identify someone who comes back to your tool to use it more, and you get to set what those limits are. There's going to be an option in the future at some point, too, to gate these with paid use as well. Let's say you wanted to allow one use without signing up, 10 uses with email address, and then unlimited use, you want people to pay for who are really getting value out of it. That's the eventual step.
+
+[00:09:51.030] - Liz Stapleton, Host
+Yeah. Again, I was just going to ask about paid plan. But going back to that, because unlimited, you'd want them to pay for, what is the business side costs? Yes, I can see the return on investment, absolutely. But what is the investment going to be beyond building it in terms of usage and the amount of access and things in maintaining it?
+
+[00:10:14.370] - Ryan Robinson
+I will be super transparent about this. So honestly, one of the most beautiful things about what AI has allowed us to do is that the costs of this are so insignificant. It's insane. Let's say fractions of a penny for each tool use. And so what we do on our end with RightBlogger is customers on our pro account, which is $29.99 a month, we'll be able to do up to three tools. And then we haven't really defined what that exact number of tool uses will be, yet it'll likely be something between a thousand and 10,000 tool uses per month for your users. Most people are going to fall into that category unless you're driving some pretty serious traffic. And that, for For that use case, we're going to have an additional plan that's $199 a month for people who are really integrating tools into their business processes and are essentially using them as a way to attract qualified leads for products or services you already have set up. Now you're just standing up these additional sales funnels that automate lead generation for you.
+
+[00:11:24.260] - Liz Stapleton, Host
+Okay. No, I like that. From there, what have you been seeing in terms of people asking for this or when people use the tool? Because you have, what was that, like 30 plus tools? Are they having to sign up for each individual one? Is it just once you sign up for one, you get access to all of them. How are you using it on your site in terms of that you're finding that's working?
+
+[00:11:54.180] - Ryan Robinson
+That's the best question. What we do is we essentially cookie the person's IP address or their browser to figure out, All right, this is the same person. They're using my blog title generator tool today, but if they come back and they're using my paragraph rewriter tool tomorrow, they will not get that pop up again unless they hit some other predefined limit that we have. But the idea here is to make it really seamless, low friction for the people who are getting the most value from your free tools and not be throwing them a pop up for every new tool or calculator they come to use.
+
+[00:12:33.570] - Liz Stapleton, Host
+Okay. Yeah, because I think people hate it. Now, are you able to, because you're embedding it on your site, I would assume you'd still be able to do ad revenue on those pages, like display ads? Is that going to be an issue? Is that going to be a conflict? Does it work okay with the pop-ups? I'll adjust because if it's driving that much traffic, it's a great way to monetize.
+
+[00:12:56.360] - Ryan Robinson
+As far as I know, there may be some different ad network nuances here, right? Sure. But as far as I know, this should not at all impact your ability to monetize those pages. And in fact, maybe they're actually great pages to monetize. That could also be the case. I would say if you do more of the intrusive pop-up ad-style thing, maybe that would interfere with what our pop-up is. So if there's the ability to turn off pop-ups on tool pages or something, that might be one rabbit hole worth going down. But yeah, no issue from our end. We actually have We have a lot of test sites right now that my partner Andy and I run. One of those sites is called Color Kit, colorkit.Co. We have a bunch of color and design-related tools on there. That is a good example of a page that's using our tool framework but has ads embedded throughout the tool pages. So far, so good.
+
+[00:13:52.620] - Liz Stapleton, Host
+Okay. On that note, a lot of times when you're doing lead gen, you'll use one lead magnet or Lead Magnet, not content. Great. That's more specific to content, but Lead Magnet. It will show in multiple phases throughout the site. Is that something that the tool would work for as well?
+
+[00:14:12.530] - Ryan Robinson
+Yes. So this is coming in version 2. You are actually predicting all the right questions, which is amazing. In version 2, we want to be able to have a smaller, basically even tighter embeddable widget that you could say embed within a blog post. Hey, I have a blog on my site that's about how to come up with blog ideas that your audience is going to resonate with. Maybe that's a post that I want to embed a small version of my blog idea generator tool in so that right there within the post experience, people can actually use the tool instead of clicking through to a tool page. The short answer is that's on the roadmap. I don't know if that will be live by the time this interview is going, but- I should just keep asking questions to build out roadmap for you. That's it. You're giving us the secret roadmap.
+
+[00:15:03.540] - Liz Stapleton, Host
+Clearly, not really. Okay. Well, I think this is fantastic, and definitely something I want to look into for one of my blogs. I think it's just as important that people know what to avoid, what mistakes, what doesn't work? I think that's just as helpful as knowing what does. What would you say, maybe in what you've experimented with, what doesn't work? What mistakes are you trying to keep people from making when implementing this? What does the other side of it look like?
+
+[00:15:33.810] - Ryan Robinson
+Two things. Number one is don't solve problems people don't actually have. You could have what feels like a great idea for a tool in your mind, but you may be one of three or four or five people who actually have that problem. I think doing keyword research, just to verify, give you a barometer. Okay, an estimated 1,000 people a month are searching for topics related to what this tool could solve. Just verify that there is indeed a demand for the tool that you want to make. Then I'll share my screen again to show you something else to avoid. Over here on my list of tools, there are so many of them, I have some tool pages, like this image alt text generator, that have no copy on them. There is no descriptive copy other than just the title and a descriptive Here's the description here. I wanted to show this because this is a bad example of a tool page. This just has the tool embedded, and there's nothing that's helping it rank in Google search results, largely because I just haven't gotten to writing the copy for it yet. I'm going to, but I wanted to show you an example of what a good tool page looks like.
+
+[00:16:52.690] - Ryan Robinson
+Doing an effective tool page is not just about having a tool embedded, it's about really nailing the pain points your audience has with a solid landing page, too. So below the tool, it's usually the best place to maybe add a video of you showing how to use this tool, talking about it, and then having a bunch of content sections that nail those pain points your audience has, like answer the primary questions, use some good formatting throughout, and then talk about how to use it. Like, teach someone who's a beginner to using a tool tool like this, exactly how to do it. Use some screenshots if you can. I've got some here. And so really, the same best practices that apply to what makes for good, effective content should also apply It's a tool pages. It's not enough just to have a cool tool. You want to also encourage the search engine like Google to say, Hey, there's content on this page that's educational. It seems like it's credible. There's some authority talking about how do you actually get the most out of this tool.
+
+[00:18:05.460] - Liz Stapleton, Host
+Okay, I like that, and that was a great example. Going back a little bit to what you had said earlier about the Right Blogger studio and how this is going to work, you said something about a limit to three tools. Is there going to be the ability to test the waters? I think there's demand for this. Build the tool, find out, Hey, no, it's not. Delete it, and now it's not going to count towards your tools. You can I have lots, but there's only three published. I should play around with that.
+
+[00:18:37.090] - Ryan Robinson
+Now, that is actually a question we have not defined for ourselves yet, which is so interesting. This question will be answered by the time this video is being watched. But from where I stand, what my intention is, is that you'll have three actively published tools. And so what I believe will happen inside the product is that within studio, within your sandbox, playground, you'll be able to make other tools, and then there will just be the limit to how many can be live and accepting uses.
+
+[00:19:11.340] - Liz Stapleton, Host
+Okay. And then my other question is, you said that was for the basic plan, just like 30 bucks a month. Are people going to have the ability to play around with this tool before signing up? They won't be able to publish or anything if they're building a tool, but then if they want to publish, they're like, Yes, this is awesome. Then they could say, Is that free trial, free experimentation going to be possible?
+
+[00:19:37.350] - Ryan Robinson
+Yes. Using a free Right Blogger account, you will be able to build tools inside the studio area and play with them, get a look, feel for it. Then it's the piece where you activate it that you'll need to be on the pro plan because the tool users do hit us with some costs that add up over time.
+
+[00:19:57.560] - Liz Stapleton, Host
+Yeah, absolutely. From a from I want to build tool standpoint, that's awesome. From a business standpoint, I'm like, that's a really good way to build up your... Okay, is there anything else people should know about Tool SEO? Anything we haven't covered, stuff you think would be good to help get the wheels turning.
+
+[00:20:17.890] - Ryan Robinson
+Yeah, I think the alternative side to, say, just tools here is, think about problems that your audience has. This is just zooming out being an effective for what your audience is going through. Tools solve some of those problems. Calculators solve some of those problems. You'll be able to make calculators inside Studio as well. But I really like to think of this as like, this is just another extension of doing a good job of solving real people's problems. I think look at competitors for some inspiration here. If your site is not, let's say, the biggest in your niche, there's someone out there who's getting more traffic, driving a bigger audience, learn from them. See if they have any free tools that you can also gather inspiration from. I've taken a lot of inspiration from Shopify. Shopify is one of the biggest websites in the world, and they have a lot of great free tools. But instead of competing with them on these tools that they get crazy traffic on, I'll take the seed of an idea and then niche it down to idea generator for bloggers instead of just saying a business idea generator. That's competing with the sharks.
+
+[00:21:36.780] - Ryan Robinson
+I think taking other ideas that you see out there and then repurposing them for your niche is a really good way to go about this.
+
+[00:21:45.300] - Liz Stapleton, Host
+I like that. Yeah. Make it your own. You'll see a lot more of an impact that way as well than if you're just trying to do the same thing as everyone else.
+
+[00:21:53.590] - Ryan Robinson
+Totally. Yeah.
+
+[00:21:55.850] - Liz Stapleton, Host
+All righty. Well, thank you for sharing all that. I'm excited to check it out when it's live. I know you said you got something for those watching. Can you share that and where they can find you and all that good stuff?
+
+[00:22:10.060] - Ryan Robinson
+Yes, for sure. You'll be able to check out Right Blogger Studio just at rightblogger.Com, R-I-G-H-Tblogger.Com. And below the video, you'll also get a code. We're offering 50% off the lifetime of your account to people who join from the summit. And that code is BBS50. BBBS50, and that'll be linked below. And inside Right Blogger, when you join, even with a free account, we created a course that's about using AI as a content creator. And this course has four or five hours of video lectures. There's activities, there's instructions, there's actionable stuff on how you can, first of all, figure out if you want to use AI in your creation process. And then there's a lot of insights, stories from other people beyond just ourselves on effective ways people are using AI and instructions on how to do what you do with the help of this assistant, too.
+
+[00:23:09.340] - Liz Stapleton, Host
+Yeah. No, it's been a huge game changer in how I process the summit for sure. I'm a big fan of that. Definitely go check that out, you guys. Again, Ryan, thank you so much. This is so helpful. I'm excited to see where this goes for you.
+
+[00:23:23.540] - Ryan Robinson
+Thank you. Thank you for having me.
+
+

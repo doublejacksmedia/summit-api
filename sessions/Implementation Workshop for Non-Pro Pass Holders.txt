@@ -1,0 +1,437 @@
+Title: Implementation Workshop for Non-Pro Pass Holders
+Speaker: Liz Stapleton
+Website: bloggerbreakthrough.com
+Level: All Levels
+Category: Learning Implementation
+Length: 58:18
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/implementation-workshop-for-non-pro-pass-holders/
+
+Transcript:
+[00:00:07.750] - Liz Stapleton, Host
+Hey, guys. How's it going? We officially made it through the Summit. I hope you're having a super awesome day and you're excited to do a little bit of work because this is not an observational thing.
+
+[00:00:19.650] - Liz
+The Implementation Workshop is interactive. You should have hopefully gotten the Pro Pass Implementation Workshop notebook. It should have been inside Thrive Cart. If not, I can share a link to it in the feed. Yes, I believe this is it.
+
+[00:00:43.440] - Liz
+Or in the chat for where we're at right now. So I just did that. So you can grab that. If you could let me know when you have it so that we can dive in and get going. The goal for today is that you will have an action plan.
+
+[00:01:00.180] - Liz
+You walk away with a list and a priority list of things that you need to do first and in what order. So give you guys a minute to grab that.
+
+[00:01:19.910] - Liz
+I totally just swallowed wrong. Sorry.
+
+[00:01:25.410] - Liz
+Oh, my goodness. Hi.
+
+[00:01:31.270] - Liz
+Happy Friday, everybody.
+
+[00:01:32.950] - Liz
+So go grab the notebook. We'll start in just a second. I want to give you a chance to have it printed out or whatnot, and then we're going to dive in.
+
+[00:01:45.370] - Liz
+I'm hopefully not going to choke on my coffee anymore.
+
+[00:01:50.690] - Liz
+All right, is everybody ready to dive in?
+
+[00:02:03.030] - Liz
+All right, the first thing you should see is the super cool cover, obviously didn't print it in color, is the roadmap. And so I don't know if you guys picked up on it, but the Summit had a bit like each day kind of had various themes to it. Not wholly because I was trying to accommodate speakers and then being able to be live in the chat and stuff.
+
+[00:02:31.700] 
+But day one was Foundational. We talked about tech. We talked about legal stuff. We talked about business, finances and things like that. So...oh, I've got a message.
+
+[00:02:48.290] - Liz
+All right, Kevin, I'm not sure.
+
+[00:02:54.450] - Liz
+Okay. So day one was, like, really covering foundational stuff and then Planning, right. Planning out stuff, thinking of keyword research and content marketing and how you're going to accomplish your goals. And then day three is Create, creating content. Is it going to be video? Is it going to be blog post? What is it going to be? Monetization, so what are your monetization strategies? What are ones you want to build up? What are ones you want to improve?How are you going to improve them? And then Analyze, so analysis. Right? Like, what's working? What's not? Where do you need to double down and where do you need to back off. So that is kind of the approach to this implementation workshop.
+
+[00:03:43.540] - Liz
+So foundation. So on here you're going to find the sessions that apply as well as any relevant speaker bonuses. So if there's something you need to work on.
+
+[00:03:53.170] - Liz
+Right, maybe it's legal stuff. Well, the Privacy Policy Template is in there, and you can check off whether you signed up for it. If you've completed it if it's like a course or something. So I want you to go through your notes from the foundational stuff that you've done. Obviously, you guys have lifetime access, so you may have kind of pick and chose, what you went through.
+
+[00:04:14.700] - Liz
+And I want you to figure out your action items, and you can make notes here, write them here. You can also write them here in a priority of these particular ones. So not everything from the Summit, but like the foundational stuff, like the tech, the legal, the finance. What items do you have on your to do list? What do you need to get done in these areas?
+
+[00:04:35.110] - Liz
+And I would love it if you would each drop one in the chat to share because it may give someone else an idea of something they need to do because we are all human and it helps to see what other people are doing.
+
+[00:04:49.930] - Liz
+So I'm going to give you guys, like five minutes or so to probably not quite five minutes, but I'm going to give you guys a few minutes to work through that and come up with a list and share it in the chat. Pretty please.
+
+[00:06:09.610] - Liz
+You guys have some to do items in your foundation stuff, right? So I want you to look through sort of. And what do you need to get done in these areas? And I want you to write it down. I want you to share at least one in the chat. I'm gonna give you a couple more minutes.
+
+[00:07:39.630] - Liz
+All right, guys, I want to hear it. What are some to-dos you have with the tech side of things, the legal side, the finance side, what do you need to get done? And you guys are just jumping in. We're working off of the Pro Pass Implementation Workshop Notebook that you should have been able to grab. And we're kind of going through the roadmap.
+
+[00:08:05.410] - Liz
+So we're starting with foundational stuff that you need to square up, and then we're going to talk about Planning, Creating, Monetizing and Analysis. So you need to be making note of the things you got to do, and then we're going to work on prioritizing those things. And these are the relevant sessions and speaker bonuses as it relates to stuff. So you can mark off when you have stuff, when you've redeemed things. But yeah.
+
+[00:08:39.910] - Liz
+Does it make sense to sit through this again? Okay. Because you were just in the regular implementation one? Questions.
+
+[00:09:12.570] - Liz
+Okay.
+
+[00:09:15.370] - Liz
+Yes. And if you guys just sat through the Implementation Workshop on the Non-Pro Pass holder one, you can skip this. It's fine. But I would get this notebook because there's more to it than the free one. There's stuff relevant to your Pro Pass.
+
+[00:09:32.720] - Liz
+Greyson Bell's. Yes. His session was fantastic. I always liked chatting with him. I learned a lot.
+
+[00:09:41.390] - Liz
+Okay. See you later, Kelly. All right. Anything else you guys are working on? Okay, Katie.
+
+[00:09:51.050] - Liz
+Okay. So I want you to prioritize whatever to-dos you have from this? We're going to prioritize all your to-dos at the end. So I want you to come up with foundational ones for now.
+
+[00:10:01.490] - Liz
+Right. So then there's planning, right. So you've got running a business type of stuff like do you see yourself having a team later? Do you not want a big team? How do you envision your business?
+
+[00:10:13.460] - Liz
+What sort of SEO stuff do you need to work towards? Content marketing.
+
+[00:10:21.570] - Liz
+You need to plan out how you're going to succeed. Right. So if, for example, you want to create a product, well, when that product is ready to be bought, are the people on your list going to be ready to buy? Is there a certain level of knowledge they need beforehand to be primed to buy your product? Right.
+
+[00:10:43.690] - Liz
+What kind of content can you create to prepare them for that? So that's part of planning as well as. Okay, well, if I'm going to sell a product, I need to make sure my audience is in the right place and has the knowledge necessary to take advantage of this product. If you're doing affiliate marketing, same thing. Where are they in the buyer's journey in terms of this affiliate product?
+
+[00:11:04.010] - Liz
+Or if you're looking at increasing ad revenue, you're probably focusing more on SEO and trying to rank more posts so that you have more traffic because you don't necessarily need a ton of traffic to make a full-time living blogging. Like you don't. It's just if you want to make a full time living blogging through ad revenue, yes, you're going to need a lot of traffic, but it's really everyone has different goals, so you got to plan how you're going to achieve whatever your ideal blogging business looks like. Right. So I want you to come up with some action items and then I want you to share one pretty please if you can. I know some of you are not able to do that right now and then Prioritize.
+
+[00:11:49.140] - Liz
+Okay, we're going to work through that. But yes, I'm going to give you guys a few minutes to do that.
+
+[00:13:04.430] - Liz
+So what are some of the Planning action items you guys need to do?
+
+[00:13:17.370] - Liz
+Maybe you need to set up a project management tool. If you're not using something like Click Up or Asana or Trello or whatever speaks to you, that could be something in planning to make sure that you have a centralized place to do your stuff.
+
+[00:13:59.470] - Liz
+Setting up planning in Notion. Yes, there you go. I've heard good things about Notion, but I don't really want to try something new myself. But yeah, no, I hear Notion is really awesome. That's fantastic.
+
+[00:14:12.470] - Liz
+Anyone else?
+
+[00:14:25.490] - Liz
+So, once you have your action items though, you're going to want to prioritize. Like what is something? Because some of them may be bigger projects than others. Right.
+
+[00:14:33.280] - Liz
+So I want you to make sure you're sprinkling some of the easy ones in between the big ones because those quick wins can really help you keep going when you're like. I'm so sick of why am I not done with this yet? So sprinkle and sort of the ones that won't take as long but prioritize what needs to be done sooner rather than later.
+
+[00:14:54.410] - Liz
+Okay, Content Planning. What you need to do to successfully content plan is what we're doing right now.
+
+[00:17:11.630] - Liz
+Alright guys, are we ready to move on?
+
+[00:17:31.350] - Liz
+Do I have more messages?
+
+[00:17:48.050] - Liz
+Sorry, you guys are responding to apparently having issues getting in. Did you guys have issues accessing the workshop here?
+
+[00:18:13.650] - Liz
+Okay, someone's having trouble getting in. Let me see if I can get them in and then we will keep going.
+
+[00:18:57.530] - Liz
+All right, guys, sorry. Tech is apparently not my friend today.
+
+[00:19:27.810] - Liz
+Oh, it redirected a few times. So weird. So sorry.
+
+[00:19:32.970] - Liz
+Yeah, tech is like ready for the weekend apparently because I had issues with the free Pass Implementation Workshop tech too. So just good times.
+
+[00:19:47.710] - Liz
+Okay, well, hopefully and this guy I will be downloading and uploading this into the Pro Pass section so you can always rewatch this later if something disconnects or something. And I'm very sorry.
+
+[00:20:06.430] - Liz
+So next we're going to focus on Creating, right? So creating content, is it going to be a blog post? Is it going to be a video?
+
+[00:20:11.760] - Liz
+Is it going to be repurposed on Instagram? What sort of copywriting would you potentially need? Or graphic design or email marketing? What kind of content do you create for that? And what is your goal there?
+
+[00:20:24.380] - Liz
+Do you want to create a funnel, social media video? So lots of stuff in the create section. So your list is probably going to be long. This also again reminder that these show all the speaker bonuses that are relevant to the topic so that you can keep track of what you signed up for. You will need to sign up for the speaker bonuses within the next year.
+
+[00:20:45.750] - Liz
+So once you sign up to them, you should have access to them for however long that program is available. But you have to sign up for them within the next year. So it's good to keep track of those things, right? So. I mean, if you saw the Start Your Blog Challenge last week, I have a brand new site so I have quite a few things to create and things to put on this action item list.
+
+[00:21:17.810] - Liz
+It's a long one for me. It always is. But we're going to prioritize all of them. So we're going to prioritize first the Create step because that'll make, let me actually get the right page, that'll make prioritizing everything later easier if that makes sense.
+
+[00:21:37.770] - Liz
+Trying to grab the right thing, here we go. Because you want to be creating stuff that's going to work towards your goals. Because like I said, if you're not trying to increase your ad revenue, maybe you don't need to increase your traffic so much, but you need to create a higher conversion rate on your opt-in or on your sales page or whatever. Does that makes sense? Or maybe you need to insert the affiliate link a few more times in the post because only in there once or twice.
+
+[00:22:40.310] - Liz
+So what is something that is on your to do list for Create? What do you need to be creating? Let us know in the chat.
+
+[00:23:38.090] - Liz
+You guys are quiet. Were you guys this quiet last night at the Trivia when I wasn't at your table?
+
+[00:23:53.130] - Liz
+All right, I'm going to keep moving on because I'm not hearing anything saying you need me to slow down. All right.
+
+[00:24:00.990] - Liz
+Next up on the list is Monetization. Right. So are you going to be creating products? Are you going to be going after sponsored content? Are you going to try to up your affiliate marketing game? Are you going to try to increase your ad revenue?
+
+[00:24:13.530] - Liz
+Send my monthly newsletter. Nice, Allison. Awesome. I like it. Can you make that a weekly newsletter, depending on how often you're publishing content?
+
+[00:24:25.290] 
+So, real quick aside, because it's something I started doing on my other site because...Well, on one of my other sites I have multiple, as you guys know...Is you can set up. So if you're publishing a blog post weekly, then you can set up, at least in ConvertKit, I'm sure and I know with other tools as well. But obviously my experience is with ConvertKit, I can set up an RSS to automatically generate a broadcast draft. I mean, I can have it automatically send, but I prefer to review it and tweak it with the new post. So at the very least, even if I'm not sending them anything else, at least I'm staying kind of front of mind and showing up in their inbox weekly using the RSS.
+
+[00:25:09.130] - Liz
+Product and work towards affiliate marketing. Awesome.
+
+[00:25:11.500] - Liz
+Katie, I would recommend you focus on one at a time because if you try to do both at the same time, you're not going to do either one super well. So focus on one, get really good at it, and then once that's built up, focus on the other. Yes. Awesome. I like it.
+
+[00:25:29.290] - Liz
+Yeah. Pinterest marketing. Yes. Pinterest has been changing a lot the last couple of years, so I actually feel like I need to go back and do a little more Pinterest education, but it's also focused more on YouTube and SEO. But I do want to kind of translate some of that into Pinterest as well.
+
+[00:25:50.440] - Liz
+So? Yes. Pinterest Marketing Megan's session was great. Yeah, I like it. So action items.
+
+[00:25:59.550] - Liz
+And think of all the sub things too. Right? Like if you want to work towards affiliate marketing, what does that mean? Does that mean creating more posts around an affiliate product? Does it mean doing more affiliate marketing with your email list? Does that mean you need to install some tools to help you with affiliate marketing, whether that's Pretty Links or Thristy Affiliates or Lasso or whatever? What does that mean? Don't just put like affiliate marketing.
+
+[00:26:22.920] - Liz
+Put down things you can actually do that would go towards that.
+
+[00:26:29.330] - Liz
+Product. What does that mean? Does that mean surveying your audience? Are you going to pre-sell it before you create? To make sure it'll sell, are you going to what kind of product is it going to be?
+
+[00:26:38.970] - Liz
+How long is it going to take you to create it? Are you going to create it as you go? Like, people get the course. They get access to this lesson right away. And then I'm working on the next lesson.
+
+[00:26:48.050] - Liz
+There's a lot of different ways you can go about creating a product. Right. How are you going to sell it? How is it going to be delivered? Like, there's all sorts of sorts of things to consider that you want to kind of make note of if that makes sense.
+
+[00:27:03.590] - Liz
+Okay.
+
+[00:27:06.530] - Liz
+So, create your action items, prioritize. Okay. We're getting close to the end. Well, sort of.
+
+[00:27:39.750] - Liz
+So, I'm going to give you guys a couple of minutes.
+
+[00:29:05.250] - Liz
+Are we ready to move on? Is  everyone's list like staggeringly long?
+
+[00:29:15.190] - Liz
+Yes. All right, so now we're going to look at Analyze. Okay. Because it does you no good to have you doing a bunch of stuff if you don't know what's working. Right. So you need to know what metrics tie to your goals. Right. You need to know if the funnel you created is converting. If not, you need to figure out why or if you're just going to give up on that funnel and try something else. If you're not getting as many affiliate conversions, is it because the page that was giving them most conversions is traffic down?
+
+[00:29:46.680] - Liz
+What is going on? So you need to figure out what metrics you need to be tracking that apply to your goals and then track them regularly. So I actually have it set up as a recurring task in Click Up to go back at the beginning of the month to review the previous month and figure out what's working, what's not, what's up, what's down, what needs a nudge here and there. I have yet to do that for January because I've been a bit busy, but I will.
+
+[00:30:14.150] - Liz
+You know, and sort of, what systems are you going to put in place to make sure that this works, righ? If you're creating a blog post, what are all the steps for that? Can you create a system for it? And can you then evaluate that system and make tweaks if you need to?
+
+[00:30:33.390] - Liz
+So I want you to think of the things you need to do for Analyze. You need to create a recurring task. You need to install Google Analytics. You need to better understand Google Analytics. Your page views may not matter so much if you're not trying to increase your ad revenue.
+
+[00:30:49.170] - Liz
+It may be a conversion rate for a page that is a lot more than how many page views you're getting. I mean, obviously if it's good conversion rate, you want more page views if you want to increase that, but if you know the page is only converting at .1% getting more traffic isn't, like yeah, you'll technically get more people to convert, but not. It would be time better spent to work on increasing that conversion rate, if that makes sense. Okay.
+
+[00:31:31.670] - Liz
+So I want you to create your list of action items for Analysis and then we're going to work on prioritizing those and we're prioritize everything. Okay?
+
+[00:33:20.030] - Liz
+Alright, do you guys have your lists? Are we ready to work on Prioritizing?
+
+[00:33:35.370] - Liz
+Yes, all the things. I like it.
+
+[00:33:36.920] - Liz
+Okay, so next step. And obviously this isn't a long enough list for all of your tasks, but I want you to look through all of your Prioritization of the previous things we've talked about and come up with a plan to attack. Okay. And I want you to sprinkle it. So like, some stuff requires a lot more work than others. Right? But some stuff doesn't. And so I want you to sprinkle in the easy to do things in between the stuff that takes a lot of work because those quick ones will help keep you going. It'll be nice to check things off.
+
+[00:34:05.920] - Liz
+You don't want to do them all in the beginning because then you have nothing but hard things left and you're not going to want to do them. So, I want you to think about that and I want you to come up with the beginnings of your priority list. Obviously some stuff may need to change or tweak and you're not going to be able to fit everything on here. So you have to set a new one eventually. But I want you to work on prioritizing your tasks and what you want to get done first.
+
+[00:34:30.190] - Liz
+What is most important? Do you not have Google Analytics installed? So you need to get that done. Do you have an email list and you're not emailing them? Okay, maybe you can email them, yes, but maybe it's better that you create a system to make sure you're continually emailing them. Okay, does that make sense?
+
+[00:34:56.470] - Liz
+So, I'm going to give you guys. Let's see, what time is it? It says it's 4:35 right now. I'm going to be until like 4:40, about five minutes. Don't overthink this.
+
+[00:35:09.270] - Liz
+Okay, then we're going to talk about this priority list you got going.
+
+[00:38:21.710] - Liz
+One more minute, guys.
+
+[00:39:21.570] - Liz
+Alright, you guys ready?
+
+[00:39:30.130] - Liz
+Yes. Let's see. Hello. I had to restart my computer. What step are we on?
+
+[00:39:36.060] - Liz
+Oh, Mariah, we are on prioritizing all the things.
+
+[00:39:46.250] - Liz
+So. Mariah, we're going to let you catch up. Those of you that have been prioritizing, what is the first thing on your list? I want to know.
+
+[00:40:31.990] - Liz
+One more minute guys.
+
+[00:40:32.280] - Liz
+To the (inaudible). There we go.
+
+[00:41:12.570] - Liz
+Okay, yes, Mariah, if you were in the free one, then we're kind of talking a lot of the same stuff. It's just the workbook for the Pro Pass is a lot more detailed and gives you more information, including relevant speaker bonuses.
+
+[00:42:09.390] - Liz
+Alright, so once you have sort of your priority list together, I want you to refer to this as your plan. Okay? Because...With opt in plug ins system, I'd like to go with. It's the last thing on my setup list. Yes, Katie, I like it.
+
+[00:42:27.130] - Liz
+So, I want you to make this your plan. I want this to be what you referenced when you're like, what should I be doing? I don't want you to get Shiny Object Syndrome because blogging wins take time. It isn't overnight. Consistency wins the day.
+
+[00:42:41.240] - Liz
+Okay? So make a plan and stick to it for, you know, give it time to work is what I'm saying. I don't want you to be like, oh, there's a new course over there because I haven't even fully implemented everything I learned in this one. But I'm not getting overnight results. Like, I'm totally be guilty of that. No judgment.
+
+[00:42:59.110] - Liz
+Make this your plan. Put it out somewhere that you're never without an idea of what you should be doing, okay? And then you got the Pro Pass, right? So you already have things that can help you implement your plan without having to go out and shiny objects syndrom a bunch of other stuff.
+
+[00:43:16.550] - Liz
+Okay?
+
+[00:43:20.210] - Liz
+Raise your hand if you're guilty of that. So make this your plan. It's yours. So. You can tweak it. You can adjust things, but give stuff time to work. Okay? Stick with your plan for enough time for it to work. If after a few months, like, if you're working on SEO, it can take up to six months for SEO to really kick in. Okay?
+
+[00:43:41.140] - Liz
+But you have to be consistent with it and you got to keep working on it. Don't expect it to work overnight.
+
+[00:43:51.510] - Liz
+So, I just, I wanna...I will step off of my soapbox now, but have a plan. Okay? And then the end of this workbook is like a little kind of project planner page, if you will like, brain dupm all the things that have to do with the task. Because if you're setting up an opt-in plugin, right, you've got to have the email marketing system in place. You've got to, okay, what pages is it going to be on? What is it going to look like? What is it going to lead to? What happens after they submit, right? Like, there's a bunch of little details in there that you need to make sure you take care of and prioritize what's first.
+
+[00:44:34.470] - Liz
+Right? Obviously, deciding on what to go with is probably the first one, the timeline. How long do you think this project is going to take you? What roadblocks do you foresee? Potential tech issues or whatnot? And just any notes you want to make.
+
+[00:44:48.530] 
+So this is like a couple of pages. And this is like a blank one. So you can actually write out what the project is or the task. And you guys can obviously print out as many of these as you want or use them on your tablet or whatever.
+
+[00:45:04.410] - Liz
+So with that. I do want to say that I did. You guys know I create a membership and it's meant to sort of be like the backup and the support system as you tackle that plan. So it's not like a new squirrel. It's hey, you're trying to figure this out.
+
+[00:45:19.440] - Liz
+Here's a tutorial if you're struggling or a template to get you started or this or that. There are stock photos in there. There's lots of trainings and short tutorials to walk you through stuff and fix things. And doors are open. Now, if you were part of the Starburst, no Blogging Besties got the one month to the membership, Starburst got the All Access Pass for next year, then I will be sending you a code that you can redeem that one month, but doors are open.
+
+[00:45:47.940] - Liz
+You can learn more about it at bloggerbreakthrough.com/go/membership you can try it risk-free. Obviously, if you get the one month free, you're really risk free.
+
+[00:45:56.420] - Liz
+But everyone else you still get, you'll have seven days. If you don't like it within seven days, let me know. I'll give you your money back after the seven days. Just cancel and you won't be charged again. Each month we do like some form of live video, whether sometimes I'm teaching live, sometimes we're just hanging out, kind of like we did yesterday, but without trivia.
+
+[00:46:13.410] - Liz
+Although, who knows? I really enjoy doing trivia. So maybe we'll do trivia. So if you guys want to join the membership. I will be responding with the coupon code for those that get the free month. But if you guys have questions or anything about the Summit or this Workshop or the Membership.
+
+[00:46:34.550] - Liz
+Yay. I'm excited. Let me know. And I'm happy to answer any questions. It's $29 a month, so I've tried to price it fairly resonably.
+
+[00:46:46.970] - Liz
+It's kind of what I wish I had when I started blogging, and even since then, it's been nice to have. Yeah. Mariah, I'm so glad you've enjoyed the Summit. I would love to see you inside the membership and see and help you grow. My whole goal with the Summit, with everything I do, is for someone to answer me like, "Oh, my gosh, you just made my life so much easier." That is what I strive to do because it's my favorite thing.
+
+[00:47:14.070] - Liz
+Yeah. If you guys have any questions.
+
+[00:47:19.270] - Liz
+So we do monthly live. There's a form you can submit your questions, and I will record answers and I will post them in there. If there's a request, you want to see if something to be added to the membership, whether it's a training, a tutorial, or a template, you tell me and I do it right. Ten stock photos a month. It's meant to really kind of be your backup and help you get past those hurdles and give you a resource and a place to go if you're stuck.
+
+[00:47:46.270] - Liz
+I've dome more this week thank I have in three months. Yay. Katie. Yes. I love it. That is amazing. You should be so proud of yourself but yeah. Any questions, anything I can help you guys out with? We still have some time, but yeah, I'm like all about answering the questions, if you got them.
+
+[00:48:23.850] - Liz
+We can go pop into the lounge and hang out. If you guys want to talk and ask questions there. Would you guys prefer to be in the lounge?
+
+[00:48:51.910] - Liz
+My dog is demanding to go out so I'm gonna call it. Okay, Katie, you have a good night.
+
+[00:48:54.050] - Liz
+Just send me an email for the Membership. Okay. Yes. Blogging Besties. I will get that started.
+
+[00:48:58.790] - Liz
+And if you guys join the first 6 hours and Blogging Besties, I will honor this. If I don't get you the thing in time, if you join the first 6 hours, you will win a fast action bonus of getting a one-on-one coaching call with me. So that is an option. And yeah, I'm excited to see you guys. Hopefully.
+
+[00:49:23.210] - Liz
+Yeah. Will get you the code. I know Travan also has emailed about it, but I've been doing back-to-back implementation workshops. So I haven't had time to really answer yet.
+
+[00:49:40.290] - Liz
+Yay! Yeah. I'm so glad to hear you guys have gotten so much. It really helps to keep the Summit is amazing at building momentum. Right, because you're so gung-ho. But in like three weeks it's going to wear off. And so that's where the Membership comes in and it will help you keep going and support you and make sure you keep getting stuff done.
+
+[00:50:09.790] - Liz
+Happens to the best of us, Mariah. Don't sweat it.
+
+[00:50:17.810] - Liz
+Yes.
+
+[00:51:08.750] - Liz
+All right. Any, any questions, anything I can-Summit, Blogging, Workshop, membership, any and all of the above?
+
+[00:51:46.770] - Liz
+Yes, hold on. Okay. I can hang out for a minute.
+
+[00:51:57.310] - Liz
+I need a little chapstick though, my lips are drying up.
+
+[00:53:49.470] - Liz
+At last year's implementation you got me started on SiteGround. Yesterday, some of the leads shared other hosting sites since SiteGround has changed so much. I was charged for the year. Do you recommend I stick with them or can I end my SiteGround early and go with another hosting company?
+
+[00:54:01.490] - Liz
+I would see. So if you just renewed, you might be within depending on what their terms are of getting your money back. If you haven't had issues with them and you can't get your money back, then I would stay with them and just not have it renew and switch to something later.
+
+[00:54:20.770] - Liz
+You can always leave SiteGround and go somewhere else. It's just a matter of if you're going to get your money back or not.
+
+[00:54:29.510] - Liz
+So, I mean, SiteGround has had some. I know they've had some security issues. I don't know if they've gotten them all worked out. I would honestly reach out to Grayson. He would know or his WordPress Facebook group would know.
+
+[00:54:41.990] - Liz
+But yeah, I would say, see what the terms are. If you can get your money back and switch to something, then yeah, go ahead and switch. Just because SiteGround has kind of lost its standing a little bit this last year. But as long as you're not actually having problems and if you can't get your money back, then go ahead and stick with it. So, that would be kind of how I'd approached that question and that problem.
+
+[00:55:09.590] - Liz
+All right. Anybody else have questions but we can go hang out in the lounge up to you guys.
+
+[00:55:56.170] - Liz
+I didn't know Grayson had a WordPress Facebook. Yeah, it's a group. His blogging on WordPress is, I think the name of his Facebook group. It's fantastic.
+
+[00:56:04.450] 
+Yeah, RocketNet and Bigscoots. Yeah, I'm on Bigscoots per Greyson's recommendation. So he's always who I trust in terms of, like, what should I do for hosting? I also pay his company monthly to maintain my WordPress site. Or at least two of them.
+
+[00:56:21.410] - Liz
+I guess now I have a third. But anyway.
+
+[00:57:03.010] - Liz
+If you guys don't have any other questions I'm going to hop off, go get some dinner. But I'm happy. Like, if you guys come up with questions later, shoot me an email at hello@elizabethstapleton.com.
+
+[00:57:12.260] - Liz
+I'm happy to answer them. Again, whether it's about blogging, the Summit, the membership, the workshop, whatever. This recording will get added into the Pro Pass and it takes a while for it to process and download and upload. Then the transcript will take a little longer than that.
+
+[00:57:27.570] - Liz
+But we will get it in there. And like I said, this air meet stuff is open through the end of the month. So if enough of you are like, hey, can we touch base real quick before that, we can do, like, a coworking session. Just let me know. You guys want to do that and I will figure out time and send it out and meet you guys in here.
+
+[00:57:47.400] - Liz
+And we can hang out in the lounge and Cowork and work through stuff. But, yeah, I really.
+
+[00:57:53.430] - Liz
+Thank you guys so much for being here, for being part of the Summit, for help making a success, for being so enthusiastic!
+
+[00:57:59.050] - Liz
+It's awesome. It's wonderful. It makes my day! And if there's anything I can do for you guys, just let me know, okay?
+
+[00:58:10.610] - Liz
+Alright.
+
+

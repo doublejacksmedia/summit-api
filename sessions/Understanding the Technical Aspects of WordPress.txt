@@ -1,0 +1,513 @@
+Title: Understanding the Technical Aspects of WordPress
+Speaker: Grayson Bell
+Website: https://www.imarkinteractive.com/
+Level: Intermediate
+Category: Tech
+Length: 51:46
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/understanding-the-technical-aspects-of-wordpress-grayson-bell/
+
+Transcript:
+Liz Stapleton [00:00:00]:
+All right, guys, I am super excited about this next session with Grayson Bell from Imark Interactive. Welcome, Grayson.
+
+Grayson Bell [00:00:06]:
+Happy to be here.
+
+Liz Stapleton [00:00:08]:
+Yes, I really appreciate it. I know I, like, hounded you into doing it. I'm like, we could do it as a Q&A. Please just do it because everyone learns from you.
+
+Grayson Bell [00:00:15]:
+Well, I mean, you know me for a long time. I'm not a very good presentation guy, but I'll talk to you all day long about WordPress, yeah.
+
+Liz Stapleton [00:00:21]:
+And, I mean, your knowledge is just every little thing. I'm like Grayson and is this okay?
+
+Grayson Bell [00:00:27]:
+All the things.
+
+Liz Stapleton [00:00:28]:
+All the things. So can you tell us a little bit about your background? Because you are, in my mind, the WordPress guru go to. But how did you get there?
+
+Grayson Bell [00:00:40]:
+So I paid a lot of people. I'm just kidding. I didn't pay a lot of people. So I've actually been working in WordPress since early 2004. So basically a year after it was launched, I started so many blogs, I can't even imagine how bad they are they were, but I basically have taught myself how to do WordPress over the years. And then I got into a financial blogger community, Fincon, and people started asking me questions about WordPress because I built my own site and built all these others, and then it kind of just snowballed from not a I'm not a developer by trade. I basically self taught, but I have a lot of years of experience.
+
+Liz Stapleton [00:01:26]:
+Yeah, you've never not been able to give me an answer when I have a question, that's for sure. And just a fun little background story. Fincon one year was held on Halloween. So there was a big Halloween costume party and a huge group of people I don't even know. Was there, like, 50 I don't even know.
+
+Grayson Bell [00:01:47]:
+I think they were 30, 35 a lot.
+
+Liz Stapleton [00:01:50]:
+But they were wearing, like, I'm the Grayson Bell of and what they were an expert in, because being the grace and bell of is considered being the expert, the go to person.
+
+Grayson Bell [00:02:00]:
+That was one of the coolest things that I've ever been a part well, actually, I wasn't really a part of it. It was kind of like a surprise, but when your group of your peers think highly of you enough that they put you on shirts, and they kind of still kind of do that, I think somebody the other day in the Fincon group said, I want to be the Grayson Bell of YouTube videos.
+
+Liz Stapleton [00:02:20]:
+Nice.
+
+Grayson Bell [00:02:21]:
+I was like, hey, it still works.
+
+Liz Stapleton [00:02:24]:
+Yeah. So really excited to ask you questions because you do know through Imark Interactive, your company, you help a lot of blogger with WordPress tech support, and so you've seen a lot of mistakes people have made. You've seen a lot of what good and bad things to do. It took me three years to listen to you on some things, but I got there eventually the first thing I kind of want to touch on, because even five years in, I still talk to you about it. Hosting. Thoughts on hosting and picking the right host would be, let's just go there.
+
+Grayson Bell [00:03:01]:
+All right, so I'm going to go there. I'm going to go in It. People know me, I'm pretty honest and upfront. I'm not a big fan of several hosts, and there are many reasons for it, but anything GoDaddy related, anything EIG related, which is our big friends at Bluehost, HostGator, Small Orange, and 65 others or something like that. Not a big fan of these companies. The reason why they have very low prices and the reason why is because they stuff a lot of people on servers. They don't really follow the trends on new technology, and they really just offshore all their support and everything. Kind of not a good model. What they do is they buy up hosts and usually you'll see the host kind of fall apart after they buy them up. Like, Bluehost used to be a great host before EIG bought them. I think in 2012 it was I was actually on HostGator for eight years. I was on HostGator. They got bought out in 2013 and servers were down for over a week yeah. When they were trying to migrate them over. So I'm not a big fan. I will say a caveat is that there's no perfect host for everybody. I can give you recommendations all day long, and it might work for a ton of people, but one person might have a bad experience or it might not work for them, and that's okay. The beauty of hosting is that typically you can move a lot of hosts.
+
+Liz Stapleton [00:04:28]:
+Will move it for you.
+
+Grayson Bell [00:04:29]:
+Yeah, the good hosts will move your site for you, basically for free. They'll pull your site over and then basically get it running. And if there's any issues, typically the good ones will give you support for it. Others, like GoDaddy, will charge you for such experiences. So it's nice. So for hosts, you want, here are some things that I look for. You want a host that has solid state hard drives because that's just really what it's all about nowadays. Those are very fast HostGator, and all those others still use very old school hard drives. And there's a reason why, because it's cheap. You want a host that has data centers where your people are living or going to your site. So if you are in the UK and all of your visitors are in the US. Or most of your visitors in the US. You don't want a server in the UK. The distance between the server and the person does make a difference. So you want somebody that has servers in several locations. Most good hosts have at least three or four, so you can be across different parts. If you want to try to get one. In the central US. If most of your visitors are in the US. You're going to be able to span both sides. So it kind of works. Then you want one that's proactive in regards to security malware, some of them will do scans for you and stuff like that. And they see scans, they'll kind of say, hey, you got malware. Some of them will charge you to clean it, some of them will not, and they'll just do it for you. But really it comes down to price for a lot of people. Most starting out and getting started probably don't want to pay more than $10. And you can still find some pretty good hosts that are under $10. But the $2.95 shared hosting. Yeah. So shared hosting is basically option. Yeah, shared hosting is what most people are going to start out with, and that's perfectly okay. There's nothing wrong with starting out with shared hosting. And I know some people that stayed on shared hosting probably way longer than they should have, but they didn't really have any problems. But once I started getting more and more visitors, you typically have to move off and pay higher fees. Now if I think about it this way, if you're paying higher fees and you have a lot more traffic, that's a good thing. It's not bad that you have to go pay more for hosting. You shouldn't be upset about that. That's part of the business you're growing. Yeah. So you also want to look to see what kind of support they have. If it's live chat over the phone or email, some people want over the phone. I'm not a big over the phone type guy because I know when I do support for people, it could take me quite a while to figure out what's going on. And you just sitting on the phone. It's just awkward. It just gets a little awkward. Live chat and email typically are a little bit better. I know some companies like Big Scoots that's very responsive on email. Some others can take 24 hours to get back to you on email. It really just depends on your own personal preferences on that.
+
+Liz Stapleton [00:07:37]:
+Things to look out for, for sure.
+
+Grayson Bell [00:07:38]:
+Yeah, so, I mean, there's so much some companies that I recommend, SiteGround is still one of them. Name hero is one of them.
+
+Liz Stapleton [00:07:48]:
+Namecheap is great for getting your domains though.
+
+Grayson Bell [00:07:50]:
+Namecheap is awesome for getting your domains. Yes, you get free privacy. They are pretty cheap. I do not recommend them for hosting. They do have that, it's just not very good. Recommend Big Scoots when you get onto higher levels, 80,000, 100,000 plus I don't really recommend their shared hosting that much. It's not as good as Sitegrounds or the name Heroes. If you need to get into other services like virtual private servers, VPs, you'll hear that a lot. Things like Cloudways are really good. Flywheel is still really good. WP Engine is good but expensive. It's probably one of the most expensive hosts out there. Liquid Web is very good too. They have really great support and different plans, but they're really not made for beginner shared host. They don't do any shared hosting. So theirs is all cloud or VPs or dedicated. So those are some good companies. There are so many others out there. But you're going to pay a if you want some of the ones that a lot of people recommend, you're typically going to be paying more than $5 a month.
+
+Liz Stapleton [00:09:00]:
+Yeah, but the value of making sure your site doesn't go down, you have that support, there's good cause for it. And I think knowing that can be something intimidating. Look at until you realize that good hosts will move you so you don't.
+
+Grayson Bell [00:09:13]:
+Yeah, I'll also put a caveat out there that never ever rely on host backups for your site. Ever. It doesn't matter if they include it in there, like WP Engine includes theirs in there. Many others say, hey, we provide 30 days of backups in 15 years. I can't count the number of times where I've seen whole servers get corrupted and their backups get wiped out. Stuff happens. These things, it's hardware, it goes bad and you are sitting there holding with nothing. You have nothing left because you didn't have your own backups. So I just want to put that out there because I say that every time I talk to people, please, no.
+
+Liz Stapleton [00:09:53]:
+These are the things we want to know.
+
+Grayson Bell [00:09:54]:
+Please have your own backups.
+
+Liz Stapleton [00:09:56]:
+What would you recommend for doing backups? A certain plugin or anything in particular? I'm one of your monthly customers. I think I get backups, right?
+
+Grayson Bell [00:10:03]:
+Yeah. So you get daily backups through Blog Vault, which is a paid service. And typically we have another redundant one, which is WP Time Capsule is what we use. That is a paid service. But as an agency, we get a little bit better deal. Most people I recommend when you're first starting out is Updraft Plus, which is a great one. But what you want to do, and the very important thing is when you set it up, you want to make sure that it's putting the backups off site. Either.
+
+Liz Stapleton [00:10:32]:
+Google drive, it'll completely blow.
+
+Grayson Bell [00:10:35]:
+Yeah. So what happens when Updraft Plus and a lot of backup plugins run, they just store those files on your server. So you're basically copying your website over and over and over again. And so it fills up your disk space, which when you have a host that has solid state hard drives, that disk space costs a lot more money. So they don't give you as much. Like a Blue host for their lowest plan will give you like 100GB. Or some of them say unmetered. They don't say unlimited anymore. Now they say unmetered because the cost for disk space on really bad hard drives is super cheap. Problem is that you're going to start slowing your site down because you're storing these. So you need to make sure that you push them off to a Dropbox or a Google Drive. Never click the email button in Updraft Plus. Nothing can email you a site. It can't zip up a file and email you the site. A lot of people, we get a lot of tickets that come in, they're like, I ran out of disk space and I'm like it's because it's trying to email you a four gig zip file may have done that. I don't know why they even have that option to be honest. It's a terrible option, but don't click that. So I usually typically recommend if you're technical enough and you know how to set up Amazon S three, that's probably going to be the cheapest option. But it is not easy to set up. It takes some knowledge and nothing in Amazon on the technical side is easy to set up.
+
+Liz Stapleton [00:12:11]:
+Sounds about right.
+
+Grayson Bell [00:12:12]:
+Yeah, but I would recommend either. Typically Dropbox is usually the best. Google Drive works because it's free. But it does have a lot of communication problems with Updraft Plus. It doesn't communicate that it actually finished the download of the backup. So when it doesn't communicate back to Updraft Plus, updraft just keeps storing stuff on the server instead of taking them. Really, I think that's an issue with Google. But there's so many good to know, good to know.
+
+Liz Stapleton [00:12:41]:
+So besides not backing up and stuff, what are some of the issues you see come up the most or the biggest mistakes people make that you have to fix or help them with?
+
+Grayson Bell [00:12:52]:
+So I'll go with the elephant in the room that everybody's talking about right now. Sight speed. Everyone is wanting to kill some site speed. Everyone's like got to have a fast site, got to have a fast site. And yes, that's very important. There are several things in site speed that you should not be doing and a lot of these themes out there have them on there and it looks pretty and everyone's so excited about it. But don't put sliders on your site. Sliders are terrible for site speed. And to be honest, I think there was a study like several years ago that nobody interacts after the first slide. People just scroll, no one sits there and is watching a slider and going, oh this is nice. People don't really do that anymore. And the impact sliders have compared to what people see. Just take it off, just take the slider off, get rid of it, it'll be better, you don't need it. Another thing are my favorite Instagram widgets. Everybody loves to put a good Instagram widget on their site. Here's two reasons why I don't like that. One, all those images have to load when the page loads because you're loading them off of Instagram's CDN. You're not loading them from your own site so you can't control how Instagram runs their cache and all that other kind of stuff you have to pull all the images. And sometimes it doesn't show the thumbnails, it shows the full size image. So each image and usually people put like eight across or maybe like four or five, whatever, each image might be like 800 pixels wide. You're like trying to load all these images and you're like, why is my site so slow? Instagram widgets. Here's another thing. You don't want to take people off your site unless you specifically want to grow Instagram. Don't use it. You don't want people moving away from your site unless there's Instagram to get.
+
+Liz Stapleton [00:14:46]:
+People to your site.
+
+Grayson Bell [00:14:48]:
+Yeah, people typically go the other direction. The only reason why you want people to leave your site is through affiliate links, email, landing page newsletter or something like that. And typically you don't want to lose your site or maybe an external link that you put on for an advertiser or something like that. You don't want people to leave your site. You want them to get the information and maybe hit up a couple of affiliate links along the way. Or maybe they'll click on an ad. But really, people don't do that anymore either.
+
+Liz Stapleton [00:15:16]:
+An accident.
+
+Grayson Bell [00:15:17]:
+Yeah. The other things really bad. The Pinterest board widgets, we see those a lot. So you can go on Pinterest and you can say like, I think there's a section in there you can create a widget.
+
+Liz Stapleton [00:15:28]:
+Yeah. Yeah.
+
+Grayson Bell [00:15:30]:
+So the big problem with those is that a lot of times we see the same one with the Twitter ones. We see that when you have to scroll through them, it's got like a vertical scroll bar just on the widget. And there are like 90 images. Well, 90 of those images have to load during the page load. That's bad.
+
+Liz Stapleton [00:15:49]:
+I actually have never made that mistake. I've made most of them, but that one I haven't done.
+
+Grayson Bell [00:15:56]:
+That's a real bad one. So we typically tell people here's a little trick that I'll tell people. If you really want those widgets on your site, here's what you do, is you put them on your site and then you take a screenshot of the widget and make it an image so it doesn't really change. But people don't know, like, people that are just new to your site don't know that. So then you put it down as just an image and not an actual, like, the widget. And then you just link it to your profile. You link it to your Pinterest profile or your Facebook profile, or your really? Instead of loading all these scripts and all this JavaScript and all this stuff for these widgets and all the images, you're just loading one image from your own site.
+
+Liz Stapleton [00:16:39]:
+Okay. Yeah.
+
+Grayson Bell [00:16:40]:
+So if you really have to have these but most of the time, once I show people the site speed differences from just taking those few items off, they're like, oh wow, so that's a big one. I'll say the other. Well, it could be related to site speed. But images don't take images from your phone and put it on your website. When we take a snapshot with an iPhone or an Android, you're talking like four to twelve megabytes in file size. These are big images. These could be like 3500 pixels wide by whatever the orientation is. And they're generally a lot of people just like to load those right up into WordPress and just keep on going. That's not a good idea. The reason is that your site now has to load these bad boys. And if you've ever gone to a site and you're sitting there watching and you're seeing the image, slowly load it's because it's huge. It's just massive. So what you want to do is you want to put it in some program. Some people use photoshop. There's a free one that's like Photoshop is called GIMP. I use pickmonkey. Some people use Canva, doesn't matter. Resize these bad boys down and get them to a size that makes sense for you. Some people, if you want portrait, make a size that works for you. If you want landscape, make that size. And then I typically run mine through short pixel to compress. So a lot of times you can get an image that even if resize, might be 500 KB in size. And you want to try to aim for 150 or less. 150 KB or less? 100 and less if you can get it. Because here's the caveat. Every page that you have on your site, you want to have it to be less than two megabytes in full size. That's every element loading on the page. And if you want to know a tool to check that, you can go to tools. Pingdom Pingdom.com. Tools.Pingdom.com. It'll give you a load time. That load time is mostly BS, but it'll give you the full page size. So this is really good to check some of your popular posts. It's really good to check your home page and where people are kind of going. So run that through. You want to be two megabytes or less. The smaller it is, the better. Because here's the deal. Everyone's going on mobile these days. We're mobile friendly, we're mobile first. There are only a couple of sites that I've ever been across that really had more desktop users than they had mobile. So you're talking about someone on a mobile network trying to load a 1012. I've seen up to 60 megabyte pages. I was blown away when I saw the 60 megabyte page. I was like, well, no wonder why it's slow.
+
+Liz Stapleton [00:19:38]:
+I'm like, what are all mine?
+
+Grayson Bell [00:19:43]:
+You would know if it was 60 megabytes. You'd be sitting there like, anything on here? And so the smaller it is, the faster it's going to load. So you want to try to get everything below two megabytes. A lot of people aim for one and less. That can get really hard, especially for recipe blogger. I know there's a lot of them out there. It can be really hard when you have high quality Pinterest images.
+
+Liz Stapleton [00:20:07]:
+Yeah.
+
+Grayson Bell [00:20:08]:
+So that could be a little bit difficult, but just never upload them from your phone or upload them from a stock photography site. Like deposit photos. Don't just take it and just throw it up there. It's going to be the worst experience you can ever have because you'll have to go fix all of them later down the road. Another thing that I will say, and that's a lot of stuff that's kind of like shared, it does not matter the number of plugins that you have on your site. The number is irrelevant.
+
+Liz Stapleton [00:20:41]:
+Plugin itself?
+
+Grayson Bell [00:20:42]:
+Yes. There is no magical number. If you're doing 40, don't go running and going like and just adding plugins after plugin after plugin. Because a lot of times what people do is they start duplicating functionality and they'll all be active. That's a problem. But if you need those plugins to run your site, run them. Like one of my sites has over 65 active plugins on it because it has ecommerce on there. And when you start getting Ecommerce, you have to like text and all this other kind of stuff. The thing is that not every plugin runs on the front end. It just is an admin type thing. So it only affects the back end. So the number of plugins is really irrelevant. I see a lot of information out there that's like, you got to keep it below 20 or ten, which is.
+
+Liz Stapleton [00:21:31]:
+Probably a good rule of thumb, but it kind of depends on what plugins you're using because you could have 20. But if one of them is Jetpack, which takes a lot of space, so it kind of depends which that was actually one of the questions I also wanted to ask you is how do you kind of evaluate your plugins? Know what's good, decide what to use?
+
+Grayson Bell [00:21:54]:
+So looking at what's good, typically I say, you know, go in a Facebook group and ask some people, see what they use, and then go check the WordPress repository and see the number of downloads when it was last updated, and check the ratings. They all have ratings on there. So that's a good way to see it. And if you're really concerned about something, install it, check it out, see how your site runs and kind of go from there without just like experience. It's kind of just hard to go like, this is the best plugin.
+
+Liz Stapleton [00:22:33]:
+Yeah. And remember to clear your cache so.
+
+Grayson Bell [00:22:35]:
+That you can actually see yes, cache. A lot of people forget that. So one of the things that we use all the time is in Google Chrome. It's incognito, it's cashless browser, no cookies. Safari, it's private browsing. And I think Firefox is also private and I think Edge, but I don't really know anybody that uses Edge.
+
+Liz Stapleton [00:22:55]:
+I didn't know what that was.
+
+Grayson Bell [00:22:57]:
+That was the new version of Internet Explorer.
+
+Liz Stapleton [00:23:00]:
+Oh, that's right. I think I did read something about that. Okay. Windows, I think, but yeah, incognito window, for sure. Because I remember the first time I had a caching issue, it turned out like I had six weeks of content that wasn't pulling in, just wasn't showing up my blog feed. And I was like, had someone be like, what post are you talking about? I don't see it here. And I was like and then I went to an incognito and I was.
+
+Grayson Bell [00:23:24]:
+Like, oh, yeah, caching is probably the number one issue that we come across, okay. Because browsers cache some crazy stuff, and we're all doing I have right now 86 tabs open across two browsers. I have 86 tabs open.
+
+Liz Stapleton [00:23:46]:
+Wow, you're worse than me.
+
+Grayson Bell [00:23:48]:
+Well, that's only two browsers. I have a Firefox browser up, too, that has a couple on there. Yeah, I'm pretty bad. I'm pretty bad. But caching can be pretty bad. So one thing I do recommend is, which a lot of people do not do, is actually log out of your WordPress site and shut it down every once in a while. Like, shut down your browser, log out of your WordPress site. Because what happens is those cookies can sometimes just get corrupted. They start building on top of each other, and then that's when people see issues, especially if a lot of times you have no idea if a host is updating something in the background and that's going to change something. Or you've updated plugins and you kind of just kind of just keep going, and you're like, well, this isn't working, right? Check incognito, log in, see if things are working. If things are working, clear your browser cache.
+
+Liz Stapleton [00:24:44]:
+No, that's a great point. Yeah. When that initial thing happened with the six weeks of content, when I was actually posting like twice a week, too, I was like, Are you kidding me? Right? What plugin do you typically recommend in terms of? Because otherwise I wouldn't know how to clear my cache if there wasn't, like, a little button that says Clear Cache.
+
+Grayson Bell [00:25:09]:
+For, um, well, typically most hosts don't like, they might have server caching, but your website needs other caching on top of it for a paid one. It's WP rocket all the way. We love that plugin for a free one. WP Fastest Cache is really good, really easy to set up, works really well. I do not recommend W three total cash. It takes a lot of knowledge in order to set that up correctly, and we typically see a lot of issues with it. So scrap it all together and go with a WP Fastest Cache. Or if you want to go paid, WP Rocket is the one that we use for customers and stuff like that. But, yeah, those will typically have something above that says, like, Clear Cache or Delete Cache or whatever, and you'll want to do that. They're supposed to clear when you post, but that doesn't always happen. Like technology.
+
+Liz Stapleton [00:26:09]:
+I usually get a notification, too. Anytime I add or deactivate a plugin or something, they're like, hey, you changed plugin stuff. Clear the cache.
+
+Grayson Bell [00:26:16]:
+Yeah, WP rocket does that. It's like, hey, something's changed. Clear the cache. And basically that just dumps the cache. So you kind of see everything and do what you did, but do it regularly. Check incognito, check your site incognito, see what other incognito you're seeing, what your readers see.
+
+Liz Stapleton [00:26:35]:
+Yeah, I also like to look at it incognito on mobile.
+
+Grayson Bell [00:26:39]:
+Yes, that is also possible and also a good way to do it so you can do the same thing in each incognito. I would say one of the besides the speed and the images and the hosting, the main thing that we see are just people just not running a backup before they do their updates and it comes crashing down. It's really hard to fix something when you don't have a backup. It takes a lot of time to rebuild. Be very careful with the page builders. I love a good page builder, but a page builder is for a page. Try not to use page builders in posts if at all possible, because over time and I've seen this happen more and more, you typically write more posts than pages. So if your page builder breaks or isn't compatible with the next version of WordPress or Gutenberg, all of your posts are now screwed up and you're going to have to go manually. Go fix them. A I'll say it. It's time to embrace Gutenberg. If you haven't already. Like, if you're scared of Gutenberg, don't be. It's really not that frightening. I've been using it for well over a year.
+
+Liz Stapleton [00:28:01]:
+Yeah, I finally made the switch. I'm still getting used to it. So quick question, because I totally did it today.
+
+Grayson Bell [00:28:07]:
+Quick answer.
+
+Liz Stapleton [00:28:08]:
+I had a really long blog post. I was like, you know what would be great? It's in gutenberg blocks. I translated it all, whatever. Convert to blocks, what's called. And I was like, you know, table contents would be awesome. So I did go to with Elementor and I just added table contents at the top.
+
+Grayson Bell [00:28:25]:
+Oh, that's fine.
+
+Liz Stapleton [00:28:26]:
+Cool. Okay. That's a page builder. So yeah, I'm new to Elementor too.
+
+Grayson Bell [00:28:30]:
+So I'm figuring out how much am there's. I know Gutenberg is adding a table of contents eventually. It actually might be in the plugin now. And the plugin is like a couple versions behind of what WordPress shows you. There's a lot more features in the plugin than there are on your actual WordPress. But yeah, table of contents are awesome. If you want just a plugin to do Table of Contents, easy table of Contents. Basically, it's just a short code and it'll pick up all of your you get to pick if you want it to pick up, like the H2, h3, or H4. Typically. You should not be using H4 unless you got some weird lists, but you basically can just put that short code right at the top and it'll just pick up all those it's really nice. Yoast also has some really nice they don't have table contents, but they have FAQs.
+
+Liz Stapleton [00:29:25]:
+Okay.
+
+Grayson Bell [00:29:26]:
+And one other structured element which is really nice for Google.
+
+Liz Stapleton [00:29:30]:
+Yeah.
+
+Grayson Bell [00:29:31]:
+If you do any FAQs and stuff like that, it'll structure all the schema appropriately. So that's really nice. If you use a it's just an extra block down the be. Don't be scared of gutenberg. Give it a try. If you have Classic Editor, the plugin there's a setting in there. So if you go to settings writing and then you'll see in there where it says allow users to switch hit. Yes. When you do that, it'll default to Classic, but then there'll be a little sidebar piece that says Switch to Block Editor. And block editor is gutenberg. So you can try it on new posts or you can just try it on like a draft post. It doesn't really matter. Just play with it a little bit. Most people, most not everybody, but most people, once they try it and get a hang of it, they really like.
+
+Liz Stapleton [00:30:17]:
+Yeah, yeah, no, I agree with that. It just takes a little bit of work. And I didn't manually went through all of my posts and converted them to blocks because I was like, you know what? Eventually this isn't going to work. That it's like Classic and it's going to blow something.
+
+Grayson Bell [00:30:31]:
+Well, yeah, they say that the Classic Editor block is going to stay around for a long time. I don't foresee that actually going away anytime soon, but if you're doing some content edits and it's in Classic block.
+
+Liz Stapleton [00:30:46]:
+Yeah, which is kind of what I did.
+
+Grayson Bell [00:30:47]:
+Click it and switch it. I think it's like two button clicks to blow that whole thing up into block. It's really nice.
+
+Liz Stapleton [00:30:56]:
+Yeah, because I was moving away from a certain page builder at the same time. So I was like, steep learning curve.
+
+Grayson Bell [00:31:00]:
+Let's move away from something and then.
+
+Liz Stapleton [00:31:03]:
+Not go back to what I knew before and try something new.
+
+Grayson Bell [00:31:07]:
+You're basically changing everything at one time.
+
+Liz Stapleton [00:31:09]:
+Yes, I'm a go getter like that.
+
+Grayson Bell [00:31:13]:
+You're jumping all in 100%.
+
+Liz Stapleton [00:31:15]:
+I am. And then like, my home page was hideous. And so for another session, I was like, oh, I have to redo my home page. It's hideous. It'll be a great example. And then we went there and I was like, oh, it's even worse than I thought. Images aren't working. This is awful. Great.
+
+Grayson Bell [00:31:27]:
+Yeah, it's a fun yeah.
+
+Liz Stapleton [00:31:31]:
+Okay, so you and your Facebook group and your blog and your courses are obviously all great resources, but if you are DIYing, if you're not a customer of Imark Interactive or another company also should totally be a company of customer of Imark Interactive.
+
+Grayson Bell [00:31:47]:
+Yes, you should.
+
+Liz Stapleton [00:31:48]:
+I'm not an affiliate, guys. I'm just like it's. Awesome.
+
+Grayson Bell [00:31:52]:
+Thank you.
+
+Liz Stapleton [00:31:56]:
+What are some good resources when you're DIYing this? Because I DIYed for a long time and I definitely screwed up a lot.
+
+Grayson Bell [00:32:03]:
+Well, YouTube could be your best friend. YouTube has so much stuff out there. Wpbeginner.com, really great. That site's been around for so long. They have so many. To be honest, there's a lot of paid courses out there and there's some good courses, but if you're trying to bootstrap this and get it together, I think YouTube is probably going to be your best friend. I have a free course that teaches you kind of the technical aspects of it. It's completely free. You don't have to pay anything that's at courses imarkinteractive.com. And it kind of teaches you how.
+
+Liz Stapleton [00:32:50]:
+To use WordPress, orients you to WordPress. Because I had zero clue when I was starting. It took me a long time to figure it out. It was before your course existed. So basically it's all your fault. It took me that long, but it took me six months to figure out how to do a drop down menu.
+
+Grayson Bell [00:33:04]:
+Oh, yeah, kidding.
+
+Liz Stapleton [00:33:05]:
+It's not hard. You just move it over. But there's nothing to tell you that that's true.
+
+Grayson Bell [00:33:12]:
+So WordPress is the most used CMS out there. But it is not easy. I'm not going to sugarcoat it. It's not easy. Anybody that tells you you'll have a blog in five minutes, yes, you can have a website in five minutes. There's nothing on it and it's not set up. So you could typically, if you sat down on a Saturday morning and worked all the way through Sunday, night. You could have a WordPress website done and live. Don't expect this to be like, I'm going to click a button. It's going to be over. Everything's going to be in there for you. It doesn't really happen that way now with the page builders and the themes. And it's a lot easier. When I started, everything was the same color. You could pick four different colors. Everything was the same layout. And if you didn't know how to code, nothing happened. It was just like an online diary. It's gone a long way. But don't feel discouraged when you can't get something immediately. Google it. Hit up YouTube. Get on Facebook groups. So many Facebook groups for blogs or.
+
+Liz Stapleton [00:34:24]:
+Blogging in general for this summit.
+
+Grayson Bell [00:34:27]:
+Yeah, and just ask questions. There's typically people like, I'm on a ton of Facebook groups and if I get tagged or if I'm around and I see it, I'll typically answer it for just like a question of like, what do I do here? Or why am I getting this error? It's a steep learning curve, but once you figure it out, typically you kind of just keep on moving. And I will say this, too many people focus too much on the design part first. Here's the thing. If people are coming to your mobile site, no one cares about the design. You need a logo and a menu and content. Content don't care about. Like, all this stuff could be changed at any point in time. I've seen people just harp on the design and they never launched it. It took like seven months to launch their site. And I'm like, you could have been pushing content and marketing that content. Because my philosophy is it's 20% creating, 80% marketing.
+
+Liz Stapleton [00:35:33]:
+Absolutely.
+
+Grayson Bell [00:35:36]:
+Most people do it. The opposite is they spend so much time on creating the content and they spend no time on marketing it, putting out social media, trying to get backlinks to it, none of that kind of stuff. And that's the complete wrong way of doing it if you want to succeed in this.
+
+Liz Stapleton [00:35:54]:
+And I would also say design is important, but I wouldn't make it the first thing you do because you're going to see a lot of other stuff. You're going to spend forever on the design and then like, two months later, be like, nope, just do something real basic and simple. Move on. Get content out. Chances are no one's looking at your site that much right now anyway. When you've got a handle on that and you're getting traffic, you can work on the design some more. You could even hire it out. And like you said, what the design looks like on mobile, totally different.
+
+Grayson Bell [00:36:31]:
+I see too many people getting stuck in it. I also see a lot of people going full all in and hiring designers for $4,000 sites and they have no traffic. And I'm like, this is a bit much. You don't have to go New York Times type stuff. You don't have to go that deep when you're first starting out. If you build it, they will come type scenario when your site is remember, you are a part of billions of other sites. I can't even remember the last time I think the last time I saw something, it was like four or 5 million blogs are started per day or something. It might be more than that, but like some astronomical and you're just one of them of the millions that are out there. So you have to fight for everything that you are going to get. It's a good fight, but it's a long fight. And blogger is a long term game. Don't expect explosions of traffic immediately. You might be able to do that on Pinterest, but for a Google type scenario, that doesn't really happen. But yeah, don't put out like a 1997 type site where it's looking like pretty bad, but don't spend hours and hours and hours trying to make sure that this color is perfect.
+
+Liz Stapleton [00:37:44]:
+It's never going to be perfect.
+
+Grayson Bell [00:37:45]:
+Pixels. Yeah. And don't be afraid of doing redesigns because I can't even tell you how many times I've redesigned one of my blogs. I think it's 18 or 19 over the past eight years.
+
+Liz Stapleton [00:37:56]:
+Yeah, maybe more tons. If you want a good laugh, go to was it the web archive?
+
+Grayson Bell [00:38:03]:
+Wayback Machine?
+
+Liz Stapleton [00:38:04]:
+Wayback machine. Yeah.
+
+Grayson Bell [00:38:06]:
+I love that.
+
+Liz Stapleton [00:38:07]:
+Yeah, if you put it in my very first blog, it was under different names. Less Debt, More Wine, My personal finance site was the first one and it was originally called Friday Night Shenanigans.
+
+Grayson Bell [00:38:15]:
+Yeah, I remember.
+
+Liz Stapleton [00:38:16]:
+And if you do Wayback Machine and look for if you want a good laugh at how terrible a website looks and you could probably do that with most of your bloggers if you're like, oh, it looks so bad. You're like, no, you're going to be ashamed of your first design, too. Don't worry about it. Move on.
+
+Grayson Bell [00:38:31]:
+Yeah, you should feel pretty lucky now. There's so many nice themes out there that can get you started looking good. When you and I started, wasn't really like that. It was either magazine type layout or basically like blog roll layout. That's all it was. And threw a logo up there and called it a day. I do love looking back at the Wayback Machine sometimes. It's really nice.
+
+Liz Stapleton [00:38:54]:
+It's good for a laugh, for sure. It's like, I do it and I'm like, oh, that's so bad.
+
+Grayson Bell [00:39:02]:
+It's pretty funny. I like it. One thing that I do want to mention, every site, every site that you have, it should have some type of security set up on it. I recommend WordPress. It's free. But a lot of people you do not realize the amount of hacking that happens in WordPress because WordPress is the most popular CMS in the world. So it gets brute force attacked often.
+
+Liz Stapleton [00:39:26]:
+Okay? Yeah.
+
+Grayson Bell [00:39:27]:
+So even just the simplest security setup like WordPress will help tremendously. And never, ever use the username admin. Never use it. It is still the most used admin username out there. It's utterly terrible and you will almost be guaranteed to get hacked if you use admin. That's one of the things that I dislike about our friends at Bluehost. When you use their WordPress installer, it uses admin as the username gotcha. So if you do use the Bluehost WordPress installer, please just go in. Once you log in for the first time, create a new admin user with a completely different username and password, log out of the admin that you just did, and then log into the new one. And then you can delete the admin user. It's a little complicated, but you're not allowed to change usernames in WordPress without knowing some.
+
+Liz Stapleton [00:40:26]:
+And then the other thing, I feel like when you're starting, and I'm sure there's people here that aren't just starting, but may have done, this is the default permalink structure in WordPress, which I got a WordPress for dummies book from the library when I started and so I actually did this right. But nice. The default permalink structure includes the date, right?
+
+Grayson Bell [00:40:51]:
+Well, actually it depends on the installer.
+
+Liz Stapleton [00:40:54]:
+Okay.
+
+Grayson Bell [00:40:54]:
+It depends on the installer they use. So it's funny, some of them actually include index PHP, then the date some of them will be the default Permalink structure, which is the database ID. Just a question mark, but yeah, typically it'll be Month and Name. Month and name. Or sometimes I see Day and Name and you just don't want dates in your URLs. So you want post name? So immediately, right when you get started, go in there and click it.
+
+Liz Stapleton [00:41:31]:
+You're going to have to redirect everything.
+
+Grayson Bell [00:41:33]:
+Yes. Do not do this if you've already started. So there is a sequence of events that you have to follow. If you've already started, you have to do a database backup first. Most important, then you have to do a redirect on the server. Now if you don't know how to do this, we do this fairly cheaply. But there's a site. I think if you just google yoast, permalink helper.
+
+Liz Stapleton [00:42:01]:
+Okay.
+
+Grayson Bell [00:42:02]:
+Yoast permalink helper. You can put in your domain.
+
+Liz Stapleton [00:42:08]:
+What.
+
+Grayson Bell [00:42:08]:
+Your current Permalink structure is and then you basically hit Go and it'll give you the redirect code to push it to postname it's only to push it to Post Name, though. So if you want to change it from Day and Name to Month and Name, which I don't know why you want to do that, it won't do that for you. But you can do that. And then you have to put that in what they call the HT Access file on your host. Now if you're not comfortable doing this, please do not edit this file.
+
+Liz Stapleton [00:42:37]:
+Have access to your Cpanel.
+
+Grayson Bell [00:42:39]:
+Yeah. Your Cpanel over. Some hosts don't even have Cpanel anymore. They use just FTP, which makes it a little bit harder. But if you do not know what you're doing, do not touch this site.
+
+Liz Stapleton [00:42:51]:
+Names, which is I'm sure, a similar process. I was like, I don't even want to I was like, Grayson, please.
+
+Grayson Bell [00:42:57]:
+Yeah, that is part of just some people, they just like learning so they can go in and go for it. But if you're going to go into Cpanel and edit the HT Access file, please just download it first before you edit it so you can re upload it again. If something gets messed up, then the.
+
+Liz Stapleton [00:43:18]:
+Site will only be down for the broken their site.
+
+Grayson Bell [00:43:20]:
+Yeah, we see that all the time. I'm like, well, did you take a backup of the file? No, we'll see. That would have just solved this completely. You could just re upload it. So taking a couple of seconds, right click it and see panel, hit Download and call it a day. But yeah, you have to do that. And then basically you go back into WordPress and you click into the Permalink section, hit Post Name, and then hit Update. And it'll basically update. And that new redirect code will basically force everybody from the old one to the new one. And you only have to do that if you've already been posting.
+
+Liz Stapleton [00:44:00]:
+And if you see big bloggers that have that in their permalink, it's probably because they've been there for forever and they were huge. But that makes a difference for SEO and different things.
+
+Grayson Bell [00:44:10]:
+Yeah. So if you've been around for a long, long time, which a lot of people have, I know a couple of people that still have dates in their URLs. They just don't want to rock the boat. They get really good traffic, and they just don't want to rock the boat. And that's completely understandable because making the change can rock the boat temporarily. Majority of the times it's a good change because really, though, it doesn't directly affect SEO with that, it gives you the ability to republish. And that is really where the SEO value is. You can republish without it changing the permal, the URL, because if you have dates and you republish, it switches the URL.
+
+Liz Stapleton [00:44:52]:
+Yeah. And then your old one doesn't work.
+
+Grayson Bell [00:44:55]:
+A lot of people just don't like.
+
+Liz Stapleton [00:44:56]:
+If you don't have time to come up with new content, and you're like, let me just quickly update an old post and republish that baby.
+
+Grayson Bell [00:45:04]:
+So I'll be completely upfront. My personal finance blog, I haven't written on it in over two years, and I just republish old content after changing it quite a bit. And the site still does good traffic, hasn't been hit by any of the Google algorithm updates, and still makes money. And I haven't added new content in two years. So republishing does have a good effect.
+
+Liz Stapleton [00:45:31]:
+Yeah. So helps keep it fresh. Yeah. My personal finance, I haven't even touched in really a year. I mean, not even republishing. So I need to go in and work.
+
+Grayson Bell [00:45:40]:
+Yeah, I don't do it that often. I'll go in maybe twice a year and be like, oh, it's Christmas time. Let's throw some holiday content up there. That's about it. There's nothing fancy. I typically like to try to republish the articles that do well in Google to tell Google, hey, this is still fresh, and if something changes in there, you want to make sure it's updated, because if it's still bringing traffic, takes you like, 10-15 minutes of your time.
+
+Liz Stapleton [00:46:07]:
+Totally.
+
+Grayson Bell [00:46:08]:
+Yeah.
+
+Liz Stapleton [00:46:08]:
+All right. Any final words for everyone?
+
+Grayson Bell [00:46:14]:
+Have fun. I think blogging is fun. Too many people take us so seriously that it becomes a job for them, and then they hate it. Don't get overwhelmed with all the technical stuff that happens in WordPress. It can be overwhelming. Go at a pace that's comfortable for you. Don't pull your hair out. Some of my friends that I know, they like to call ugly crying. If you're ugly crying over a problem in WordPress, you need to go step back and maybe go outside or go do something really enjoyable. Take some time away.
+
+Liz Stapleton [00:46:55]:
+It'll be here when you come back.
+
+Grayson Bell [00:46:56]:
+Yeah. You should not be crying over something that your blog is doing or something like that. So just have fun. Take your time. Blogging is a long game. I think Liz and I both know that people that were doing this in 2008, 2009, a lot of those people aren't around anymore. If you can have longevity and keep through the process, you're typically going to be a lot better off than others. Because I think the last time I saw the statistic, it was 50% of bloggers all burn out after the first six months.
+
+Liz Stapleton [00:47:29]:
+Yeah. I feel like if you make a.
+
+Grayson Bell [00:47:31]:
+Pass might be more.
+
+Liz Stapleton [00:47:31]:
+You're making it long term.
+
+Grayson Bell [00:47:36]:
+Treat your blog like a business from the beginning. Immediately from the beginning, treat it like a business. Don't treat it like a hobby. Because if you treat it like a hobby and you want it to be a business, you won't make the payments to gain knowledge. Or we see this a lot and somebody spent like 6 hours trying to fix something and then they gave up and paid us and we had it fixed in like 20 minutes. The minimal amount of still value your time, put an hourly rate on your time and still value it. If it's taking you 6 hours to do something where you can pay somebody to do it in so much less time and you can move on, don't be afraid to do that. Yes, it's money, but your time is still valuable. You're away from your family. Or some people like to do this on the side of their job.
+
+Liz Stapleton [00:48:32]:
+Life is about more than just blogging about life. You're supposed to live life some too.
+
+Grayson Bell [00:48:37]:
+100%. As you know, you can go down the blogging rabbit hole real quick and you end up coming out with cheetos on your shirt. Haven't been out of your basement for three days. Yeah, I checked the mail. I'm not going to lie. I do it sometimes. I work in my basement, so I have no idea besides looking at the clock. I have no idea if it's sunny outside. I have no idea if it's raining.
+
+Liz Stapleton [00:49:03]:
+Yeah, I hardly check the weather. I'm like, I don't go outside that often.
+
+Grayson Bell [00:49:06]:
+Yeah, go check the mail once in a while or like that. Don't be afraid of the technical worries. Everyone can get through it.
+
+Liz Stapleton [00:49:18]:
+Yeah. And definitely go to Imark interactive, the links below if you want to kind of receive updates and stuff on WordPress. And he's always on top of it if there's some sort of plugin, uh, been infected or whatever.
+
+Grayson Bell [00:49:35]:
+We're most active in our Facebook group blogging on Wordpress. Can you pay for WordPress groups now? I think they charge for those. And some people I don't. Mine's free. I don't know. We don't do that here nor there. It's free, but we try to keep the people in there. I vet every person that comes in there, so I don't let spammers get in my group. Sometimes they'll get by me. I try to look at every profile, but it's hard. But my group is pretty clean in that regard. People will flag it, and I'll get them out really quick. So I'll post updates in there if I see plugin issues.
+
+Liz Stapleton [00:50:17]:
+I think the link to your Facebook group because I think it's in this page, but if you take the free.
+
+Grayson Bell [00:50:22]:
+Courses, too yes, it's all over there. I think in every module, it's like, hey, have you joined the Facebook group yet? Definitely recommend it. It's the easiest way for me to communicate with everybody as quickly as possible because we all love our Facebook.
+
+Liz Stapleton [00:50:41]:
+Yeah, honestly, I've been on it since 2005.
+
+Grayson Bell [00:50:45]:
+Yeah, I remember when I had to use my college email to get on there. That's when it was just, like, a nicer AOL instant.
+
+Liz Stapleton [00:50:58]:
+It was great because I went to school in Massachusetts, right? So all the Massachusetts schools were on real early, and it had, like, your classes on there, so then you could see who was in your classes. It was the Facebook. And you'd be like, hey, you want to get together and work on this problem set? It was so much less creepy then.
+
+Grayson Bell [00:51:15]:
+Yeah, it was so much less creepy. Weren't little kids on there? Weren't your parents on there?
+
+Liz Stapleton [00:51:20]:
+You were limited to, like, seven?
+
+Grayson Bell [00:51:25]:
+Yeah, it was so much better back then. There were no ads.
+
+Liz Stapleton [00:51:33]:
+All right, Grayson, thank you so much for taking the time. I hope everyone learned a ton some great information. And just thank you for your generosity and your time.
+
+Grayson Bell [00:51:42]:
+Oh, you're most welcome. I had a pleasure doing it.

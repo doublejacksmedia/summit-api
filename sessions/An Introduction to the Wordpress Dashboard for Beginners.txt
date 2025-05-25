@@ -1,0 +1,131 @@
+Title: An Introduction to the Wordpress Dashboard for Beginners
+Speaker: Lisa van der Velde
+Website: https://sassyboss.co/
+Level: Beginner
+Category: Tech
+Length: 25:07
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/an-introduction-to-the-wordpress-dashboard-for-beginners-lisa-van-der-velde/
+
+Transcript:
+[00:00:10.230] - Liz Stapleton, Summit Host
+Hey it’s Liz Stapleton here, your host of the Blogger Breakthrough Summit, I'm super excited for you to see this session, especially if you are a brand new blogger and maybe all you have managed to do is go through hosting and installing WordPress. And now you look at the WordPress dashboard. I don't know what to do or if you haven't started your blog yet and you're nervous about it, this is a great session to help you get an understanding and just familiarize yourself the platform, because I remember when I first started with WordPress, it was.
+
+[00:00:38.940] - Liz
+I had a really hard time like the learning curve, so steep, so I'm so glad that Lisa was willing to do the session to orient you to the Wordpress Dashboard, so you know where stuffs at and how to do things and some really important settings and stuff that you should set up from the start. So without further ado, I'll go ahead and let Lisa take it away
+
+[00:00:57.180] - Lisa van der Velde, sassyboss.co/
+Hi, I’m Lisa from SassyBoss . Welcome to the Blogger Breakthrough Summit. What I'm going to talk about today is the WordPress Dashboard.
+
+[00:01:06.030] - Lisa
+. I know a lot of people are struggling with WordPress. I definitely was when I first started out, and that's why I thought it would be a good idea to just walk you through the dashboard, have a look at a few things and make you feel more comfortable and confident in using WordPress. OK, so the things I'm going to talk about is one setting that you really need to set up for your blog. I'm going to show you how to create a menu, the difference between pages and posts.
+
+[00:01:33.990] - Lisa
+' And we might even have time to look at themes or plugins. So let's get started and have a look. OK, so here in the WordPress Dashboard, this is the backend of your site. So when you first log into WordPress, this is where you end up on the left. Here's your menu. So here you can do things like media folder. You can upload your images, you can create new blog posts, new pages, and check out your comments, on your appearance where you can upload your themes, customize things in theme, add widgets, create menus, edit your theme, can use that plugins over here.
+
+[00:02:19.040] - Lisa
+You can set up the users, here are some tools that don't think anyone really uses that much here. Here's settings and then here below might end up a few plugins that you have installed so you can click on them and go to the settings. OK, so the first thing I want to show you is a setting that is really important to set up because it's I'll just show you it's a permalink setting over here. You go to permalink and if you scroll down a bit, you can see the settings over here that you can choose from.
+
+[00:02:55.680] - Lisa
+" So your permalink is you url with what comes behind your domain name. So the first part of your permalink is your domain name. And then the second part is your page name or your blog post. So to get that you want to end up, you want to click this site post name so your post name will end up behind your domain name. If you don't do that, if you choose one of these other ones, you might end up with the date in the URL.
+
+[00:03:26.910] - Lisa
+And this is not so good. You don't want that because if you have all the blog post, your your post is going to look outdated when it's strong, like this might be from twenty seventeen or something, then it will look really old. Plus also if you have your blog post name in your URL, it is good for your SEO because you blog post title often has keywords in it which will help your search engine optimization. So this is one of the first things you got to do and it's important to do this before you launch a blog, because if you do this, if you change, if you want to change it after you launch a blog, you end up changing your URL, which will change the link to your posts, which will break links and you don't want broken links.
+
+[00:04:20.040] - Lisa
+ So it's very important to select post name like sometimes already selected, but sometimes one of these other ones is selected. So it's important to change, to post name at the bottom. Here you click save changes and then you have that one set up properly. OK, so another good thing to do before you launch your blog is install plugins when you go to the menu over here and click on plugins.
+
+[00:04:52.830] - Lisa
+So a plugin is basically some functionality you can add to your WordPress site, like things like functionality or security, things like that.
+
+[00:05:07.320] - Lisa
+OK, so sometimes when you go first to your plugins, you already have a few installed. WordPress sometimes comes with jetpack or Hello Dolly, things like that installed. Delete hello Dolly and Jetpack, because that is not really necessary and jetpack is really big and bloated and it will slow down your site. So I'd just recommend deleting that one. So I have a few other ones installed here. I got Smosh to reduce my image sizes. I got a backup plug in to back up my site, got a security plug in, wordfence is good.
+
+[00:05:46.170] - Lisa
+Or you can use Ithemes security is a really good one too and I have a plugin so I highly recommend using not too many plugins, but only using things that you really need. Definitely a backup one and a security one. So if you want to add a new plug in, you can just click here “add new” and if you know the name of the plugin, you can search for it. Nothing, no. All right, in the search bar here, you can type the name of the plugin that you're looking for.
+
+[00:06:20.140] - Lisa
+You can find a plugin and then you can click install now and then it will give you a button to activate now and that will activate the plugin. Then often you have to go to the settings of your plugin to set everything up, how you like it, and that's how you install the plug in. OK, another thing to look at is wordpress themes over here. I'll show you where you can install a theme. Appearance themes. OK, here is your themes folder, and it will include the latest.
+
+[00:07:01.030] - Lisa
+ Well, this is a 2019 theme that WordPress every year gives you any theme. And here is a theme that I'm going to activate enfold. It's a really good theme. You can get it at what's it called. I theme forest, to get that theme forest. And envatomarket, I think it's called. Yeah. So you can get the enfold theme. It's really highly rated theme, a very flexible. You can do a lot of different things with it.
+
+[00:07:37.600] - Lisa
+Like for instance, you can choose the menu at the top or the side or your header. This is pretty much anything is possible with this theme. So yeah, look it up. I highly recommend enfold. They also have really great support, so if you ever stuck with anything like even just questions for customizing your theme, yeah, they give you a lot of support to answer all your questions. And they have a huge database already with a lot of questions that are already answered.
+
+[00:08:09.110] - Lisa
+ So you always find what you're looking for. So that's really important to look for when you buy a premium theme. It's important that it comes from a legitimate source that it has like four or five star rating, high ratings ones, and that people are very positive about it and that it has great support because you want to be able to have a theme that gets updated regularly and that they keep looking after because that's important for your security of your blog.
+
+[00:08:39.950] - Lisa
+And just to help you out, OK? To show you the difference between WordPress without a theme or the free thing that comes with or a pro theme, I might show you the difference, actually, because that's always good to see. So if I go to the front end of the site. By clicking on the business name, that's not my business, but I'm just looking for someone else. It's not doing it... OK, so this is what the site looks like with the twenty nineteen WordPress theme, very basic, very plain.
+
+[00:09:21.880] - Lisa
+This is a blog post. It's not a static page. I can show you how to set that up as well to have a static page. And let's go activate enfold and see how different that is. Go back to the backend, go to appearance, themes. And enfold and click activate. OK, well, think I have to wait a minute and be more patient. OK, so it's right away it goes opens the enfold settings, so here are some settings I actually have this installed earlier, so I already uploaded the logo  and a favicon.
+
+[00:10:24.270] - Lisa
+Let's go to the front end and see the difference. OK, so the logo will show up your homepage, sample Page, these are sample pages, sidebar. And here is a footer and there is not one section footer. So this is this is a blog post, sample blog post. So as you can see, the page looks so much different already. I did set up these colors earlier already. So that's a little bit on... But as you can see, it looks a lot different.
+
+[00:11:03.960] - Lisa
+OK, so I'll go. What I want to do now is show you how to set up the page. Let's go back to the back then. OK, let's add a page, over here you click add new. It's a bit slow, OK, so this is what your WordPress dashboard would normally look like without a theme, you’d add your home page title or whatever contact page or whatever you want to make, you add the title here. But if you have a theme installed with enfold, you get the advanced layout editor and you can click on that and use the editor.
+
+[00:11:52.970] - Lisa
+It's I like it better because it's easier to use. OK, so here I'm going to name my. Some reason it's not working. OK, I'm just going to call this page home, it’s the homepage and I'm going to publish it. There's no need to add anything to the picture. It's just one example. OK, then I go back here. No. And over here, you can see my homepage. And if I go back to the front end.
+
+[00:12:36.440] - Lisa
+My homepage is in the menu. This was the original home page that did not show up in pages, but this is my new page. And as you can see, this page is empty, so now I want to get rid of this original page. I can do it in the settings. I'll show you how. You go to see it is in settings, settings, reading. And here is your home page display so you can choose to have your blog as your home page or a static page.
+
+[00:13:24.540] - Lisa
+I want to have a static page as my home page, because on the page you can have more information than just a blog. A blog post, only show your blog posts, on a static page, you can add maybe a little bit about you or you can add services that you offer or maybe a product that you offer or maybe an email sign up form. So I prefer to have a static page as the homepage and then you can select which page that would be.
+
+[00:13:52.860] - Lisa
+And there is my page that I just created and click home, go down to the bottom. Save changes. OK, now let's have a look at the front end. OK, so now you can see that the blog is no longer there, so this is my home page. The menu still shows a sample page and another home page so we can fix this up in menus.
+
+[00:14:27.490] - Lisa
+You can go here and go down to menus or you can go to appearance in the backend. And if you go to the backend, appearance menus from the front end, you can quickly do it like this. OK, so here's your menus. Main menu is your main menu on the site, but it hasn't been set up yet, so I'll go set that up. On the left, you can see the pages that are available to add to your menu.
+
+[00:14:58.840] - Lisa
+So here is just a sample page if I click view. There's the home page that I just created and there that sample page. You can also post to your menu portfolio items, custom links, categories, formats and portfolio categories. I won't need any of that. Now, normally a menu is just pages that you created. So you'll find them in here. And if you can't see them, then go view all. OK, so I'm going to add my home page to the menu.
+
+[00:15:31.670] - Lisa
+OK, so there it is and there is an about me, if I want to add a contact page first, I'd have to go to pages and to create a contact page and then it will show up here and I can add it to the menu and like this. And if you want to have a submenu, you simply pull it to the side. OK, so I'm just going to put that one like that, so these two pages should appear in my menu on the home page now.
+
+[00:16:07.990] - Lisa
+So you have to set it as your enfold main menu over here. So the menu. And when I go to the front page. There's my home page and my about my page. OK, so this is how you set up your menu and your pages basically create a new page, then add it to your menu. Oh, one more thing I'll show you is back in pages. How easy it is to lay out a page with enfold as well.
+
+[00:16:49.220] - Lisa
+So if you have this home page and want to edit it. So you have all these elements here, so normally you have start with a page it shows you you layout elements, which is like basically blocks that you put your content into so you can choose a full block, a half a block that takes up half a page or a third of the page or two thirds or a quarter down to a fifth of the page. So you can make columns with this, which is great, because just in the normal workplace, I'm sure you didn't used to be able to do it.
+
+[00:17:35.460] - Lisa
+I'm not sure if you can now because of how you use the moment for a while, but it's definitely really makes it really easy. Layouts on your pages. You might not use columns on your blog posts, but on the pages, it's definitely handy. So, like, for instance, you could just drag this into your page and have a column you can on this column and then you have three columns in the page. If you go to content elements, you can drop content elements into your columns.
+
+[00:18:06.940] - Lisa
+So like you want to heading for your heading there and then you want some checks on there that you grab some text and put your text under that. And like, say you want. Seperaters are good to use for white space you can add a bit of white space between text and letters or images and things like that. Buttons are always handy. let's see.. Portfolio, which you can add images so you can have a blog post? Yeah, just a little digital displays blog post, you know, in a little area testimonials.
+
+[00:18:52.580] - Lisa
+You can submenu somewhere, you can use here. MailChimp, sign up, I use my lot, so I actually installed a plugin on my blog to have my mailerlite sign up forms with that. Yeah. Oh, social sharing buttons, comments, sections. So these are all things you can just drag into your columns over here. So it makes it really easy to build your site. What, for instance, we can quickly look at the front end if I just drop something now let's just follow through here and let's drop for....
+
+[00:19:38.130] - Lisa
+But we have to remember here. But let's just accept that and have look. Might not show too much because most ....[inaudible] let's have a look. So the portfolio, the what was it? My images didn't show up because I didn't have images, but this is the remember. What was it? No area that you can. Have a team member who is a team member so you'd add a photo to that, and then you'd add a bit of text about one here or here.
+
+[00:20:31.090] - Lisa
+You have a headline and then your text. So you can see that it has divided it in three columns. And, yeah, it's just a really easy way to build your blog with columns and column sections as well. I could show you the column sections. In the layout elements is also cross sections, so I can call a section there and you it [inaudible 00:21:06] . So you can edit it there and you can choose from so that I change the background color.
+
+[00:21:15.120] - Lisa
+Let's just pick a color here. Well, that will be a bit whiter. And then.... [inaudible 00:21:28] Now it has a color section, and then you have these three things that. All right. There you go, you have a color section you can use to divide something, you can make the color section higher as well, so you can put something in that and then have a different color section below that or color sections or just be this background to divide the component, which is a great way to do that.
+
+[00:22:05.280] - Lisa
+I'll show you how I've done that in my other site, like in my authors.
+
+[00:22:11.640] - Liz
+What's there to enforce? Well, I have no comment scrion here. And [inaudible 00:22:22]  I have that, look, this is a color section. And then it's white. I have color sections on these pages. That is a color section, then I have a white section with just a column in the middle, and then I have a color section, you can see diagonal lines as well. So that's a big color section, and there the color section finishes and a whole white section, so that's how you can use the color section.
+
+[00:23:04.720] - Lisa
+So it's this is quite ugly, but you get the idea anyway. So it's it's a great way to be able build a site. It makes it really easy to design it as long as, you know, you have good branding set up for your blog and you have the colors ready to go down on this and your colors and and work quite quickly like that. So I highly recommend enfold or there's other good things available as well. But often a premium theme is just so much better, so much easier to work with.
+
+[00:23:36.880] - Lisa
+It makes your whole design process so much easier. So yeah, definitely something to think about. OK, well, this was my whole WordPress dashboard tutorial, I hope you enjoyed it if you want to do a full blown course, I have a seven day email course. You can sign up with the link. There is a link somewhere that is not that might be a link to my blog planner, which is which will have a link to my course from the blog planner and get started with that and then sign up to my email course if you want to get walked through how to set up your own blog and what to do. And yeah, I just want to wish you all the best with your blog. Lots of luck. And if you have any questions, you can email me at any time on hi@sassyboss.co. Once you join my blog planner or course you'll get my emails and you can reply to those emails any time as well if you have any questions. And yeah, I hope you can conquer WordPress.
+
+[00:24:45.830] - Lisa
+All the best.
+
+

@@ -1,0 +1,578 @@
+Title: 2024 Implementation Workshop
+Speaker: Liz Stapleton
+Website: bloggerbreakthrough.com
+Level: All Levels
+Category: Learning Implementation
+Length: 1:30:00
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/implementation-workshop-2024/
+
+Transcript:
+[00:00:06.570] - Liz Stapleton
+All right. I believe I am live. Let me just go double check real quick.
+
+[00:00:25.370] - Liz Stapleton
+It hopefully. Can you guys see me? I just want to make sure.
+
+[00:00:33.050] - Liz Stapleton
+Okay.
+
+[00:00:37.370] - Liz Stapleton
+All right. Looks like I am. People can see me. All right. Hi.
+
+[00:00:42.560] - Liz Stapleton
+Hello. Welcome. I'm going to give everyone a few minutes to hop in because I know the email with the access information just went out, but I wanted to wait to send it to 01:00 so that everyone had a chance to join right until it started in terms of upgrading and whatnot. Yes. Let me.
+
+[00:01:08.870] - Liz Stapleton
+Is it working? Okay here? I know how to check this implementation.
+
+[00:01:19.130] - Liz Stapleton
+Okay. Yeah, it is working.
+
+[00:01:25.130] - Liz Stapleton
+I feel like the layout of YouTube live changed since last time I went live.
+
+[00:01:34.430] - Liz Stapleton
+Okay. Sorry. So what we're going to be doing today is the implementation workshop. Hopefully you've had a chance to go ahead and grab your workbook. It is a fillable PDF.
+
+[00:01:48.530] - Liz Stapleton
+I should print it out because it's easier for me when I'm doing this. What we're going to do is, I know when you go through the summit, you get a lot of ideas. Right. It can be overwhelming. I've seen lots of comments like, oh, my gosh, I have so many ideas now.
+
+[00:02:06.490] - Liz Stapleton
+And that's par for the course for this. I do the same thing as I'm processing sessions leading up to the summit. So what we're going to do with this implementation workshop, which working through the workbook will usually take about an hour, maybe a little longer, and then we'll kind of dig into questions and maybe even actually get started on some of these things. So that is kind of the goal. I'm going to give it to at least 105 just because the email did just go out.
+
+[00:02:38.050] - Liz Stapleton
+Let me double check that it sent properly.
+
+[00:02:46.710] - Liz Stapleton
+Um, if you're just joining me, we are going to get started here in a minute. Okay. Yeah, it did go out.
+
+[00:03:01.210] - Liz Stapleton
+Yes.
+
+[00:03:05.930] - Liz Stapleton
+So, yeah, so we're gonna. The goal is that by the end of the implementation workshop, you'll have an action plan to move forward with so that you don't lose all the momentum and excitement and motivation that you've gotten from the summit. Hope my dog stays sleeping, by the way, both of them are in here.
+
+[00:03:30.450] - Liz Stapleton
+Yeah. I'm going to give everyone a few more minutes.
+
+[00:03:35.010] - Liz Stapleton
+Just make sure someone did message me that they're having trouble. So I just want to make sure that I've responded to all of the emails I've gotten. alright, there used to be like a chat one more minute and then we'll dive in.
+
+[00:04:44.570] - Liz Stapleton
+All right, if you are here, if you could just give a thumbs up or chat or whatever.
+
+[00:04:56.030] - Liz Stapleton
+Not sure there is a chat, to be perfectly honest. But give a thumbs up or something just to confirm you can see me. Although I'll tell you, without the chat, that's going to be an issue.
+
+[00:05:13.430] - Liz Stapleton
+Oh, yeah, someone gave me a thumbs up. Okay, fantastic. Thank you. So just. It's not showing me.
+
+[00:05:21.270] - Liz Stapleton
+That's okay. We will get me. I'm trying to think if I'm just not seeing a chat. Is there no chat in the live stream in YouTube anymore? It's not very nice of them to change that up on me.
+
+[00:05:38.830] - Liz Stapleton
+Okay, we will dive in anyway. There's got to be a chat somewhere. Where'd they move it to? Oh, well, okay, we're going to get going. The goal is at the end of this, you will walk away with an action plan.
+
+[00:05:52.830] - Liz Stapleton
+Hopefully you got your workbook, the link to which is in the description for the live. So you should click on it. It's a fillable PDF, so you don't necessarily have to print it out if you want to. I will give you a couple of minutes to go do that. But what we're going to do is we're going to work through.
+
+[00:06:08.980] - Liz Stapleton
+It usually takes about an hour to work through the workbook, sometimes longer. And then we are going to really start to plan out your approach to everything you've learned. Right. Because you want to take advantage of all the ideas and motivation and excitement you have from attending the sessions. And so this will help you do that.
+
+[00:06:31.950] - Liz Stapleton
+So let's go ahead and dive in. So page one is just a roadmap, right? And I don't know if you guys picked up on it, but each day of the session kind of aligned, right? Not like exclusively, but day one was foundational stuff. We were talking about legal, finances, accessibility, some tech, right?
+
+[00:06:55.750] - Liz Stapleton
+So that was, day one was foundational. Okay. Day two was more like planning, and we talked about content creation and AI and things like that. And then day three was create, which could really align. Day three is like marketing and planning and different project management tools you could use.
+
+[00:07:18.170] - Liz Stapleton
+And then we got to monetization and analyzation towards the end of the summit. So there's a method to my madness with a five day summit. I know it's a lot, but there's a reason for it. And so what we're going to do is we're going to kind of go through this roadmap, through this path, and it's rinse and repeat, right? Like once you guys get through all your ideas for something, rinse and repeat.
+
+[00:07:39.770] - Liz Stapleton
+So we're going to start with foundation, step one. Right. So I want you to kind of, and I've got some of these here. I don't think I put a finance one, but you can just write it in. Right.
+
+[00:07:52.150] - Liz Stapleton
+I want you to make note of kind of what stuck out to you from these sessions. And brain dump. We're brain dumping all the ideas you have on the foundational type of things. Right. So if you have some tech set up stuff you want to adjust or make sure that you're automatically including affiliate disclosures.
+
+[00:08:12.450] - Liz Stapleton
+If you realize you don't have a privacy policy, you need to get that done. If you realize your email marketing is disorganized and you need to get that fixed. Right. So we're going to brain dump. So these are your action items.
+
+[00:08:25.580] - Liz Stapleton
+These are kind of the things that stuck out in your head that you want to implement in some way or that just is something you want to remember. So we're going to take a few minutes and I will set a timer. And I just want you guys to literally just brained up. I'm going to do it with you because no matter how long you've been blogging, there's always stuff. And the thing is, because I didn't know better when I started blogging, I still to this day, find foundational things that I want to improve or make better or stronger.
+
+[00:08:57.230] - Liz Stapleton
+So if you're just getting started, good on you. You're going to start out strong, if not, and you're like me and you have to go back and fix things. That's okay, too. So we're going to take, I think, let's say five ish minutes. We'll go till like 1:15.
+
+[00:09:15.140] - Liz Stapleton
+So it's 109 for me. And I just want you guys to brain dump. Is there really not a chat?
+
+[00:09:25.350] - Liz Stapleton
+Because. So weird.
+
+[00:09:30.310] - Liz Stapleton
+Let me open this in a separate window where I'm not signed in.
+
+[00:09:37.190] - Liz Stapleton
+Why is there a chat?
+
+[00:09:40.810] - Liz Stapleton
+Oh, I apparently didn't have it turned on. Guys, there's a chat now. There we go. That's going to make this a lot better. Okay.
+
+[00:09:50.990] - Liz Stapleton
+Apologies. If someone wants to just say hi in the chat to confirm that I got that fixed. Right?
+
+[00:10:00.930] - Liz Stapleton
+Yes. Okay. Yay. There's a chat. That helps so much.
+
+[00:10:07.650] - Liz Stapleton
+There goes my dog. Okay, so we are going to take a few minutes and I want you to brain dump. And I'm going to mute myself during this time. Feel free to drop in the chat. At the end of the five minutes, I want you guys to share something that's on your list because you never know what is going to inspire someone else or someone may have something on their list that you're like, oh, actually, I totally forgot.
+
+[00:10:34.100] - Liz Stapleton
+I did want to do that, or I missed that session. But that's a really good point of something I should do. So I do want you to share in the chat some of your action items. Okay, so we're going to go through, come up with the ideas and then come up with what the action items you need to take based on what you learned. All right, so I'm going to mute myself.
+
+[00:10:51.460] - Liz Stapleton
+We're going to give it five ish minutes. Okay.
+
+[00:12:40.240] - Liz Stapleton
+If you're just joining us, please make sure you have the workbook, the link to which is in the description. We're taking a few minutes to brain dump things you learned in terms of, like, foundational stuff for your blog. Tech, legal, finance, administrative, and we'll be sharing those in the chat shortly. So
+
+[00:17:18.000] - Liz Stapleton
+that's special. This is why I don't usually mute myself, because I always forget to unmute myself.
+
+[00:17:24.210] - Liz Stapleton
+So thank you, mudge. I don't know if I'm saying that right. I apologize if I'm not. Oh my gosh. Let me think back to what I was just saying.
+
+[00:17:34.440] - Liz Stapleton
+I was just saying, if any of you have a to do item that you came up with, if you would please share it in the chat, because you can absolutely get a lot from seeing what other people are working on. Some things that I have to do or that I've seen need to be done in the past when I've run this workshop. So for me personally, I need to clean up my convert kit. My tag situation is ridiculous and I don't necessarily need to know. I'm not segmenting out to people who attended the 2021 summit, so I probably don't need that tag anymore.
+
+[00:18:14.900] - Liz Stapleton
+So I have some convertkit cleanup to do. Other things you might need. Are your automations working properly? If someone subscribes to your list, are they getting the welcome sequence? Do you have a privacy policy?
+
+[00:18:32.030] - Liz Stapleton
+Does your privacy policy include references to your email marketing service? If you use WordPress, they have a great basic privacy policy, but you probably need to add more to it, and you may find you need disclosures and disclaimers. Have you kept track of your blogging expenses and income so that come tax time, you can report that accordingly? So those are things like foundationally you want to make sure you're doing, and that's actually something that you will revisit personally. It's January, so I am in the process when I'm not doing the summit of setting up what my bookkeeping system for the year is going to be.
+
+[00:19:10.580] - Liz Stapleton
+Years ago, I did quickbooks. I didn't really like it. I found it very difficult to use. Last year I did this spreadsheet, which I did like. I purchased this spreadsheet of how to do my bookkeeping I did like, but there were lots of parts of it that I didn't use, and then I ended up building out pieces that I did.
+
+[00:19:27.580] - Liz Stapleton
+So this year I'm just like building my own spreadsheet based on kind of the one I used last year. So that when I enter my transactions in my revenue tab, like, I'm not doing it by month necessarily. I mean, I am, but I want to be able to see this is all the revenue month over month. This is all the expenses. Does it align with my budget?
+
+[00:19:49.420] - Liz Stapleton
+Does it align with what I've allocated? Things like that. So that's really the foundational stuff. Now, what I want you to do with the list of items you came up with is I want you to prioritize them. All right.
+
+[00:20:02.660] - Liz Stapleton
+So which of the things on your list is the most important to get done?
+
+[00:20:10.760] - Liz Stapleton
+I know this wasn't stated in the accessibility sessions, but I need to research fonts that are good for dyslexia. The accessibility sessions made me think about it. That's awesome. I love it. Yeah.
+
+[00:20:19.880] - Liz Stapleton
+I still have a lot of accessibility stuff to do just because I didn't know better when I started. I feel like with the summit, I've done a pretty good job. So need to learn how to do alt text. Yeah. So there are actually lots of tools out there, free tools even, that are super cheap, if not completely free, that will AI generate, which I wouldn't say just use that, but I feel like it's a good place to start because I feel like it's always harder to start from nothing, from scratch.
+
+[00:20:47.160] - Liz Stapleton
+So I use alt text AI, but there's several out there if you need something to just help you not have a blank space. So I want you to take your list of things and we're going to prioritize, like, what is the most important. Now, a couple of things about this in sort of the order that you're going to attack them is don't put all the easy ones first and don't put all of the easy ones last. I want you to kind of. Some stuff is more in depth and difficult to do than others.
+
+[00:21:18.380] - Liz Stapleton
+Cleaning out my convertkit is going to be more in depth than building out my spreadsheet. Building out spreadsheet isn't easy, but cleaning out my convertkit involves me verifying that I'm not breaking other things. So it's a little bit different. So sprinkle in the easy ones in between the hard ones, because those are what's going to keep you motivated to keep going. So I just want to point that out.
+
+[00:21:40.520] - Liz Stapleton
+I'm going to give you, let's say 90, like a minute and a half. Is that enough to prioritize or do you guys want longer? Two minutes. Oh, my gosh. That's why I have to mute myself and I forget to unmute myself.
+
+[00:21:54.430] - Liz Stapleton
+It's great. Okay, let's do two minutes. So we will come back at 1:24. And I want you guys to have a prioritized list. I want you to tell me the first thing that is on your list.
+
+[00:23:29.180] - Liz Stapleton
+All right. Your number one priority is getting your legal pages set up. Yes. Fantastic. Do you have a plan for how you're going to do that?
+
+[00:23:36.880] - Liz Stapleton
+Well, actually, we'll get to planning in a bit, so hold that thought. Mine is my bookkeeping set up because that way I know how much I can pay myself and I'd like to pay myself. Okay, moving on. We're going to like page two, kind of day two of the summit. Day two, day three, kind of mingle.
+
+[00:23:57.880] - Liz Stapleton
+We're going to talk about planning. Now, before you just start planning, I want you to take a step back and think about what. Okay.
+
+[00:24:21.770] - Liz Stapleton
+All right. Dogs have been kicked out to, like, go bark it. I'm sure a delivery truck. Apologies. Okay, so day two, planning.
+
+[00:24:30.260] - Liz Stapleton
+So I want you to take a step back and recognize what your goals are. Because if your goal is you want to leave your current job as fast as possible, then chances are you're going to focus on some sort of service based business, because that's going to replace the income the fastest, in which case you probably aren't going to be focused on getting 50,000 page views a month. You don't need that many to run a successful service based business that replaces your income. So kind of what your goal is, is going to determine what you want to focus on and what planning you need to do, if that makes sense. So if your goal is that you want to build a blog, that's going to be eventually earning somewhat passive income.
+
+[00:25:14.720] - Liz Stapleton
+And I always say somewhat because you always have to put in work somewhere. It's just you may not need to put in as much work later as you would at the start, which is kind of how affiliate marketing and display ad revenue can work. So if those are your goals, then you really want to dive into SEO and content creation, but maybe less so on social media, right? So it just kind of depends on what your goals are, what your back end needs to look like, right? What sort of systems and project management do you need?
+
+[00:25:49.710] - Liz Stapleton
+If you're doing a service based business, you're probably going to need to set up like client management systems. If you're doing focusing on creating digital products, well, how are you going to create them? How are they going to be delivered if you're just focused on content creation? Okay, well, what does that look like? How often do you want to post a month?
+
+[00:26:13.070] - Liz Stapleton
+How does your brain work best so that you can decide on how to keep it all organized? Because I'm telling you, having it organized sooner rather than later is going to help you. Having a database of the stuff you've done is going to help you. Whether that's blog posts you've published, emails you've sent, social media posts you've put up. It helps because being able to go back and reference those things can make your life a lot easier down the road just for awareness.
+
+[00:26:42.490] - Liz Stapleton
+So again, we're going to take some time and I want you to just fill in brain dumping, like ideas, thoughts, stuff you had from whatever notes you took on day two or day three because again, it all kind of intermingles. So I want you guys, we're going to take like three or four minutes to do that. Just really brain dumping here. And then we'll take a couple of minutes to pull out the action items. Okay, so let's do 1:30.
+
+[00:27:10.500] - Liz Stapleton
+We will meet back here and we'll start pulling out action items. And I want to hear about what action items you get from this kind of area inside. Running a blog as a business,
+
+[00:29:21.590] - Liz Stapleton
+please.
+
+[00:29:30.230] - Liz Stapleton
+And I'm not muted. Okay, it's 130. So what are some of the things you guys brain dumped in? Sort of just planning and systems and making sure that you're going to set up a blog for success. Really?
+
+[00:29:44.250] - Liz Stapleton
+What are your goals for your blog? I guess let's start there and then we can maybe discuss some of the to dos and action items no one wants to share.
+
+[00:30:11.170] - Liz Stapleton
+All right, that's okay. I do want you to take that brain dump list and I want you to pull out all the action items from it and start prioritizing. Okay.
+
+[00:30:23.350] - Liz Stapleton
+So you should have action items and then on the next page where you can prioritize them. Qualifying for Mediavine. So you really want to go the ad revenue route. That's awesome. So yeah, SEO and content.
+
+[00:30:42.350] - Liz Stapleton
+I would skip social media, and I say that because Pinterest isn't social media. So I would focus on creating content for search engine based platforms. So that's Google, right? Which is, I think, what we normally think of for search engine optimization. Google, bing, whatever.
+
+[00:30:59.860] - Liz Stapleton
+But mostly Google. So you want to make sure you're doing some keyword research, make sure that your posts are well written and optimized. And then in terms of marketing it, I would say work on creating some Pinterest pins. Pinterest is a visual search engine. Okay?
+
+[00:31:18.950] - Liz Stapleton
+Think about repurposing a blog post into a video. Just honestly, this is what I did with a lot of my YouTube videos. I haven't posted on my YouTube channel in a while, but what I did was I would take a blog post that I'd written and I just basically record me explaining the blog post, like talking out what I talked about there. So you can repurpose it into video, or you can start with video and make it a blog post, depending on what your preference is, right. But by focusing on sort of the search engines of the Internet, you're going to be more likely to get to build up your organic traffic and then make sure you're obviously capturing people on your email list.
+
+[00:31:56.140] - Liz Stapleton
+So if your goal is media buying, then you're definitely going to want to really dive deep with SEO. All right? And then Jeff says, make money. Okay? These are your priorities.
+
+[00:32:10.410] - Liz Stapleton
+Make money. Create content, legal, email list, build out sales funnel. Okay? You need to prioritize what's what. Obviously, I understand make money is going to be the goal, but you need to decide how do you want to make money?
+
+[00:32:22.240] - Liz Stapleton
+Are you going to be offering services like as a VA? Are you hoping to sell digital products? Are you going to do affiliate marketing? Do you want to earn display ad revenue? Are you hoping to work with brands and do sponsored content or other sorts of paid collaborations?
+
+[00:32:38.450] - Liz Stapleton
+So there's lots of different ways to do it. And how you're hoping to make money is going to influence what your focus should be. All right, so take a minute or two and prioritize the list of things we just came up with for under planning, content planning, whatnot. And then we're going to get to marketing, creating and stuff as our next focus, which is like day three of the summit. Like I said, the summit actually has.
+
+[00:33:09.940] - Liz Stapleton
+There's a method to my madness. It somewhat follows the roadmap. Day one was foundational all the way to day four and five with data and monetization stuff. I'm going to be quiet for a minute and I'm going to let you guys do that.
+
+[00:35:10.860] - Liz Stapleton
+Always. See, my dang dogs are why I have to mute myself. But then I forget. I was just laughing at your comment about based on the videos, it looks like I need to get a cat and asking if you watched the q a I did with Liz Wilcox because my cat was definitely like attacking me during was I was having to force him off. I was like, get off me.
+
+[00:35:32.820] - Liz Stapleton
+Quit attacking me. Yeah, no, my cat was not being cute. He was being a jerk. And I do have two dogs. They just have been kicked out because they were being loud, which is why I had to mute myself.
+
+[00:35:43.770] - Liz Stapleton
+And then I forget, I mute myself. Okay. All right. So hopefully you've prioritized sort of the d two, the content planning type of things. Now we're going to switch on over to the third stop, which is create.
+
+[00:36:00.330] - Liz Stapleton
+All right. And you're going to see top. And these are topics that there were sessions on or there are sessions in the membership on and it's not the end all be all. Okay? So if there's other kind of topics you feel fit in here, that's fine, but what are you going to have to create, right?
+
+[00:36:15.540] - Liz Stapleton
+So if you're doing a blog post, I think you may have picked up on this during the summit, but a blog post is more than just words, right? So you're going to need the content of the blog post, which is you're probably going to need links. It might be affiliate links, it might be just regular links. But you need to make sure you're using proper anchor text. You want to make sure you're using proper headings for accessibility reasons.
+
+[00:36:37.630] - Liz Stapleton
+You want to make sure you have an eye catching headline, an eye catching headline so that people will want to read it. You probably need to create maybe a featured image for that blog post. You might need to create a pin. You probably draft an email to tell your subscribers about it, right? Like the list can go on and on.
+
+[00:37:00.300] - Liz Stapleton
+And so you need to decide which of those things you're going to do and which ones you're going to be like, this is not something I'm going to take on right now. Maybe you're not ready to tackle Pinterest and that is okay. You can always go back and add stuff later. That's one thing. When it comes to blogging, very little is permanent.
+
+[00:37:15.870] - Liz Stapleton
+You can go back and fix and change things a lot. So I just like to point that out. And if you're like, oh man, I don't know how to do this, if you would like to see my starting point, I will drop a link in the chat. Hold on. Of what my site, my very first blog, looked like when I first started.
+
+[00:37:39.340] - Liz Stapleton
+It was horrendous. I cannot even tell you. It was my personal finance blog, which is now called less debt, more wine, which makes a lot more sense. But it was initially called Friday night shenanigans. I kid you not.
+
+[00:37:56.560] - Liz Stapleton
+It really was that awful?
+
+[00:38:01.380] - Liz Stapleton
+Yeah, it's terrible. So I'm going to share a link to the way back machine, and you can see what it used to look like. So if I can do it, look at that and be like, wow, that's impressive that I managed to go from that to where I'm at now, you could do it, trust me. All right, I'm going to drop in the chat. There we go.
+
+[00:38:23.000] - Liz Stapleton
+The way back machine is also, if you want to ever just feel better in general, look at a blogger you really admire and be like, did they start out with it looking that good? I mean, I had, like, an orange background with teal text. Like, you could barely read it. It was awful.
+
+[00:38:42.000] - Liz Stapleton
+Give yourself a break. If it's not perfect, it's aOk, because mine was not. And I still have things I need to fix on that site. But it was ugly, it was poorly named, and somehow I still managed to like. And I kept that name for, like, two years.
+
+[00:38:58.660] - Liz Stapleton
+I didn't rebrand until 2016. So just a nice little. I think it's helpful for you to see where people who've been at it a long time started as well, because don't compare your beginning to someone else's middle.
+
+[00:39:16.940] - Liz Stapleton
+So go ahead. We're going to take a couple more minutes, maybe give it to like, 1:45. And I want you to. Again, we're going to brain dump. We're going to get our action items going, and then we're going to go ahead and prioritize them, too.
+
+[00:39:36.320] - Liz Stapleton
+And tell me if five minutes is enough time, but we'll take like, five minutes. I want you to just brain dump all your ideas having to do with kind of creation and the things you know you're going to need in order to publish a blog post or publish a video or publish a podcast episode or whatever type of content you're choosing to create and just dump it all out. And then we're going to dig into how that's going to tie into monetization.
+
+[00:41:15.920] - Liz Stapleton
+If you're just joining us, we're working on step three in the workbook. So brain dump your ideas and your to dos and your I need to learn more about you. It's,
+
+[00:43:34.560] - Liz Stapleton
+it's, it's
+
+[00:44:47.920] - Liz Stapleton
+all right, guys. You about done?
+
+[00:44:57.720] - Liz Stapleton
+All right, please, if you have come up with a list, share one in the chat so everyone else can benefit. I'm just getting started. Published 15 posts. So I think begin with I just need to crank out a ton of content while building an email list. Yeah, I'd say that's a solid strategy, but quality over quantity, it's better to have one super in depth post that really answers the searcher intent than to have six really short ones that only kind of do so.
+
+[00:45:34.080] - Liz Stapleton
+Yes, pump out content, but make sure it's quality content. All right, anybody else?
+
+[00:45:54.940] - Liz Stapleton
+No one else wants to share?
+
+[00:46:00.620] - Liz Stapleton
+All right, let's keep this going. Creating a good lead magnet and a welcome sequence. Yes, that's fantastic. And there is so a good lead magnet and a welcome sequence.
+
+[00:46:19.280] - Liz Stapleton
+February, which is next month. If you're new to my world in February, I always do what's called freebie February, where I will email you every day of free tool, free resource or freebie I've created, and I usually do share a couple of different things that will help with speeding up lead magnet creation. One is attract.IO. If you struggle with that, you average 2500 words a post.
+
+[00:46:45.010] - Liz Stapleton
+Okay, that's good. As long as it's not fluff, right? So a post can be 1000 word. If it only takes 1000 words to thoroughly answer a searcher intent, whatever the question that you're answering is, then that's fine. Don't make something 2500 words just for it to be 2500 words.
+
+[00:47:07.840] - Liz Stapleton
+If it takes 2500 words to answer it, great. It means you've done a really thorough job, but you don't want to keyword stuff. You don't want to add in a bunch of fluff. That doesn't matter. So I would just kind of like 2500 words on average.
+
+[00:47:20.830] - Liz Stapleton
+Good. But I would just caution that with make sure, again, quality, not fluff, and answering searcher intent, it really all always comes back to user experience. Searcher intent. Did you answer the question, was your site easy to navigate? Right.
+
+[00:47:36.430] - Liz Stapleton
+So if you're like, I'm not sure what to do about x, think, okay, if I were someone visiting my site, is this easy? And that's one thing especially for us as website owners, we almost are always using our site from the back end. And the way we navigate that is very different than someone from the front end. So I would encourage you to regularly, at least quarterly, open up your website in an incognito window and poke around. Does it look how I anticipated it would, how I thought it was looking.
+
+[00:48:11.140] - Liz Stapleton
+Can I easily get to the blog posts? Can I easily search for something? Try to find something from the front end that you would know how to do it on the back end, but try to find something on the front end and see if it's easy or not, because that can open your eyes a lot. Or you may find, oh, my gosh, my site didn't cache properly and it hasn't shown the last six weeks of blog posts. I may or may not have had that happen to me back in 2017 or something.
+
+[00:48:41.280] - Liz Stapleton
+So, yeah, definitely encourage you to kind of poke around your own site from the front end in an incognito window. You'll be surprised what you learn. All right. Now, hopefully we've set up a foundation. We have an idea what our goals are.
+
+[00:48:57.720] - Liz Stapleton
+So we know kind of what type of content we need to be creating. We know what we need to create for that content. And now it's time to actually look at monetization, right? Whether it's affiliate marketing, whether it's display ads, whether it's creating digital products, right? So if it's display ads, if you're getting traffic to your site, get ads on there, right?
+
+[00:49:20.250] - Liz Stapleton
+Even if it's just like Google AdSense right now, which is arguably the easiest one to qualify for, and they'll let you in pretty early, you may not earn much, could be pennies, right? But there's two reasons why you want to do it. First, you'll know that your site is, like, working well with ads. And second, you don't want to have a completely ad free site until you hit 50,000 sessions. And then all this 50,000 people are going to come to your site and be bombarded with ads, and it just creates a bad user experience.
+
+[00:49:54.870] - Liz Stapleton
+Right. Whereas if there were ads before, they're like, okay, well, there's ads, that's okay, as long as it's still easy to navigate. But the switch can be really disheartening and just not fun to experience as a user. Right. I think you've all been there.
+
+[00:50:12.060] - Liz Stapleton
+So, yeah, just kind of keep that in mind. If you're planning to do ads, try to get ads on your site as soon as you can qualify for them, because that way, even if you change ad networks later to a better earning one, you're not really changing the user experience, much like they saw the ads before, and they assume there'll be ads later. So that being said, you don't necessarily need to have ads on your site if that's not a goal. Blogger Breakthrough.com doesn't have any ads on it because I blogger breakthrough.com with affiliate marketing and with digital products and nothing says you can't do those and ads. It just kind of um, I don't want ads to compete with my digital products over on blogger breakthrough
+
+[00:50:56.150] - Liz Stapleton
+I also don't have ads over Elizabethstapleton.com because again, that's monetized with digital products and I'd rather that site focus on those and drive people towards those products.
+
+[00:51:10.460] - Liz Stapleton
+So with that being said, may have given you some thought. I would also encourage you to focus on building up one income stream first, like get it going really well before you try to add another. If you manage to watch the panel yesterday on blogging income diversification, if you try to do it all at once, you're not going to get very far in anything. So focus on one thing at a time. If it's ads, really focus on building up your traffic and getting those ads in and then you can focus on affiliate marketing.
+
+[00:51:38.910] - Liz Stapleton
+Right? And it's not that you can't focus create content that's affiliate based. If you want to focus on affiliate marketing first and then you notice you have a lot of traffic, so you add ads, that's fine. But don't try to do them all at once because you're going to stretch yourself too thin, you're going to work all the time and you're going to resent it and it's not going to be fun. And running your own business, yeah, there's ups and downs, but at the end of the day it should be fun.
+
+[00:52:08.660] - Liz Stapleton
+It should be something you enjoy, should be something you're grateful you get to do. I'm grateful I get to do. The summit week is always a little stressful, but it's also always a lot of fun and I really enjoy it. So I want you to brain dump all your monetization stuff. Okay?
+
+[00:52:26.920] - Liz Stapleton
+I'm going to be quiet here for five minutes so you guys can do that's.
+
+[00:57:33.550] - Liz Stapleton
+All right, guys, wrap up whatever it is you're writing down right now, please. If you have some action items you would like to share in the chat, it's always appreciated.
+
+[00:57:46.530] - Liz Stapleton
+How are you going to monetize and what's going to be your first focus in terms of monetization? I would love to know. I'm sorry for talking. I threw a cough drop in because I have a tickle in my throat.
+
+[00:58:22.510] - Liz Stapleton
+Going to focus on affiliates first. All right, I like that. So content around specific affiliate products, I will say and I think it was mentioned in the affiliate marketing sessions. But don't try to be an affiliate for everything. Get really good at promoting.
+
+[00:58:46.590] - Liz Stapleton
+I'd say no more than ten different products and really building up content for each one. And you'll see a lot more success than if you just try to promote everything. So throwing that out, there's anyone else want to share before we move on?
+
+[00:59:14.990] - Liz Stapleton
+All right, step five is analyze. So what metrics are you going to be tracking to ensure that your efforts are paying off? Right. How often do you need to analyze the data to see what's working and what isn't? And I would argue, especially if you're newer, no more than once a month, right?
+
+[00:59:40.310] - Liz Stapleton
+I think someone else said that in one of the panels, if tracking every day, don't do it, don't do it to yourself. So set up a place where you're going to store the data or collect and store the data, depending on how techy you are and some time to collect data. If you're not going to automate that part, which is fine, especially if you're starting out, I know it can be a lot of tech overwhelm and make yourself a data date once a month or whatever to look at this and see, okay, you know what? That's going really well. Maybe I need to develop something more around that.
+
+[01:00:15.360] - Liz Stapleton
+Maybe I'm seeing a lot of conversions for that affiliate. Maybe I can set up like a quick free email course that would help me grow even more conversions just based on the blog posts that I have, right? Because just because a person saw one of your posts doesn't mean they saw the other four. So you can repurpose blog posts into email funnels into little ebooks, whatever the case may be. Because it's convenient for someone to just be like, oh yeah, just send it to my inbox on how to get going with this because I'm struggling or I don't quite see the application, email me a new different use case for it every day for a week or whatever.
+
+[01:00:56.750] - Liz Stapleton
+Or you can do it, like I said, ebook of like maybe you're in the crafting space and you've written a lot of different articles on Cricut, tutorials or whatever, turn it into an ebook. It could be free, it could be paid depending on kind of what your goals are and what you're working towards, or it could be a bonus if someone uses your affiliate link, they can get it for free, like normally it's paid. But if you purchase the cricut through my affiliate link or whatever, I'll give to you for free. Right. So those are different strategies you can use, and you're not going to know what's working and where to kind of double down on without analyzing.
+
+[01:01:37.630] - Liz Stapleton
+So whether it's funnels, whether it's just in your efficiency, if it's taking you a really long time to do something that isn't providing you any results, is it really something you need to do?
+
+[01:01:52.430] - Liz Stapleton
+Hopefully that makes sense. So now I want you to kind of bring them. Okay. What are the things I really need to be tracking?
+
+[01:02:00.690] - Liz Stapleton
+What do I think might be a bottleneck that I should keep an eye on? What do I think is something that I might not need to be doing, but I need to do it for a while and see if it gets results.
+
+[01:02:16.230] - Liz Stapleton
+Those are the kind of things you should be brain dumping and writing down here and pulling out to dos, right? To dos could be like, figure out where I would find the answer to that question inside the data. Right. Figure out where I can keep track of that. Create a spreadsheet or something.
+
+[01:02:39.040] - Liz Stapleton
+Or, I mean, there's tools that will help you. Some of them are pricey, some you can build your own for free. Just a simple, like airtable or Google sheets or something can be useful. And there are free templates out there. There are paid templates out there.
+
+[01:02:54.960] - Liz Stapleton
+I will say a template is just like, it's just a template, and your business may not match up exactly to it, so you need to tweak it for what's going to work for you. I think I started out the implementation workshop saying that last year I did a bookkeeping based on a template I got from someone. And there were parts of it I really liked and there were parts of it I didn't even use. So this year I'm building my own based on kind of what I learned from using that template and customizing it to what I would actually use. All right, I'm going to be quiet again so you guys can brain dump and pull out action steps, and then we'll be back with the last bit.
+
+[01:06:54.920] - Liz Stapleton
+it about one more minute.
+
+[01:07:01.470] - Liz Stapleton
+Okay, guys,
+
+[01:07:44.920] - Liz Stapleton
+ All right, anyone want to share what's on their to do list in terms of monetization or not monetization? Analyzing. It's been a long week. I'm so sorry.
+
+[01:08:03.340] - Liz Stapleton
+In terms of analyzing and key data that you want to track, metrics that you're going to keep an eye on that are related to your goals.
+
+[01:08:35.320] - Liz Stapleton
+Okay, was I muted? All right, someone have any questions in terms of how to track things with analyzing getting Google yes page views, engagement rates and bounce rates yes, bounce rates less. So bounce rate and engagement rate are pretty like two sides of a coin. So kind of one or the others probably. And engagement rate is probably better because if they're not engaging, they're bouncing, right?
+
+[01:09:10.680] - Liz Stapleton
+Yeah, Google Analytics, definitely. That's in the foundational things for sure. Definitely want to get that set up if you haven't already. I think I even have a post on three ways to install Google Analytics on your site over on blogger breakthrough. I can dig up that link if it would be helpful to you, but yeah, make sure you're getting Google Analytics installed.
+
+[01:09:37.680] - Liz Stapleton
+Anyone else want to share or have questions before we move on to the last bit of the workbook?
+
+[01:09:58.280] - Liz Stapleton
+Okay, let me go grab that for you real fast.
+
+[01:10:16.320] - Liz Stapleton
+
+
+[01:10:24.400] - Liz Stapleton
+Here you go. Okay, next up in the workbook is priorities. So you've prioritized, like your foundational, your planning, your creation, your monetization, your analyzing. Now you need to look at all those and come up with a final priority. Like what from that needs to happen, right?
+
+[01:10:45.630] - Liz Stapleton
+So analyzing maybe where you wrote Google Analytics, but that probably needs to come in with the foundational things, right? So maybe it's install Google Analytics, get legal pages set up, and then you're like, well, actually, then I want to start focusing on content and I'll kind of work through other things and sprinkle in the easier things, too, guys. Because like I said earlier, it's what's going to keep you going. If you're only doing hard things, it's going to always feel hard and it's not going to be very fun. And there's a difference between something that's hard and something that's a challenge.
+
+[01:11:17.930] - Liz Stapleton
+Right. Because challenges can be hard but enjoyable. Like building the custom site for the summit this year was a challenge. It was not easy, but I really enjoyed it. It's been a while since I've built a website and I was like, oh, yeah, I do like this.
+
+[01:11:34.390] - Liz Stapleton
+It's kind of fun. It's kind of annoying at sometimes, but it's fun. So given that you're going to prioritize all the things now and come up with a list in the order of stuff that you're going to tackle them, I would love to know what is the very first thing based on all your things that you're going to start working on. I'll give you guys maybe a couple of minutes to start. You may not finish prioritizing, but I'm going to give you like two minutes and then we're going to keep going.
+
+[01:13:46.620] - Liz Stapleton
+All right, guys, finish what you're writing. Pencils down.
+
+[01:13:54.640] - Liz Stapleton
+Little flashback to school, right?
+
+[01:14:00.240] - Liz Stapleton
+Making sure I'm good on the legalities is the first thing I'll do. That's a solid. Okay, so the next step in our little workbook, I actually provide you with a couple of planning pages of tackling that task. Right. So what do you need to do to figure out the legalities?
+
+[01:14:14.480] - Liz Stapleton
+Do you need to figure out what policies you need? Do you already know what policies you need? Have you gotten policy templates from an attorney or are you going to hire someone? Once you have the templates, how are you going to go about install? Are you just going to add a page on your site?
+
+[01:14:31.100] - Liz Stapleton
+You're going to do them. Each have their own page.
+
+[01:14:35.500] - Liz Stapleton
+What are you going to do to make sure you've got the legalities correct in your email marketing? Like if you're going to do disclosures or whatnot, those are some of the things you're going to have to figure out, right? It's all the little pieces and that's what kind of these pages are for. It's for brain dumping, prioritizing timeline. How long is it going to take you?
+
+[01:14:55.800] - Liz Stapleton
+Potential roadblocks. Maybe you don't have the budget to purchase templates. Okay, what are you going to do in the meantime? And any additional notes. Right, same with me getting my legal pages up.
+
+[01:15:09.100] - Liz Stapleton
+I just need to use the templates that already bought. You're welcome. Yeah, I do have templates. I think they're still 40% off, actually.
+
+[01:15:24.300] - Liz Stapleton
+If you guys want those links, I'm pretty sure they're 40% off through the 31st, I believe. So you can get the website legal templates bundle, which is the more comprehensive, or you could get the blogger essentials, which is like the bare minimum of what you really need when you're getting started. So if you want the link to that, although it should be in your day one, email. Oh, yes, please. Okay, so essentials bundle and then website...
+
+[01:16:07.800] - Liz Stapleton
+And I will if you. So if you bought. No, I don't know. I think those are the best deal. I was trying to think if I had a better deal elsewhere and there is payment plans I'm very mindful of.
+
+[01:16:26.480] - Liz Stapleton
+I remember when I started my blog, it just seems like everything cost money and it adds up. And so I try to be really mindful, especially if you're just starting out of how I can help you bootstrap until you start bringing in a little money. But yeah, you shouldn't skip on the legalities but I do aim to make them super affordable just by. I don't like the price affordable. And then I do offer payment plans.
+
+[01:16:57.410] - Liz Stapleton
+All right.
+
+[01:17:00.760] - Liz Stapleton
+We worked through our work a little over an hour, probably, and did. And so I'm happy to, like, stick around and, like, help you if you're figuring some stuff out in trying to start tackling it or if you have questions or. Yeah, it's just anything you want to ask or get help with with the time we have left. I'm happy to hang out if you just are, like, no, I'm good. I want to peace out.
+
+[01:17:24.680] - Liz Stapleton
+I want to go work on this by myself. That's fine, too. But I'm happy to hang out here for ten minutes, 20, whatever you guys need. I think I did block off till 03:00 p.m. In my calendar so I don't have to get kids off the bus till four.
+
+[01:17:47.960] - Liz Stapleton
+Thanks, Jeff. I so appreciate you guys. You guys have been nothing but super kind and supportive, even when there have been some tech glitches. And I really appreciate that. But I always try to, like, if something goes wrong or something goes, I always try to make it right, but I appreciate no one was super mean or upset about it.
+
+[01:18:08.190] - Liz Stapleton
+Everyone was like, hey, can you get this fixed? Like, I really need this. So thank you so much for your guys'kindness, and I'm glad you found the summit helpful. That is always my aim. My favorite thing to hear is, oh, my gosh, you just made my life so much easier.
+
+[01:18:23.020] - Liz Stapleton
+That is always the goal with these summits each year, and it's why I don't like a bunch of fluff. I think hopefully you agree that the sessions were not just a bunch of fluff, they were all very action packed. Because I think you sometimes attend summits out there where it just feels like a long winded sales pitch. And not that there's anything wrong with that, but you can only listen to that for so long, in my opinion, before it gets boring. So hopefully you found each session jampacked super helpful.
+
+[01:18:53.680] - Liz Stapleton
+If you're watching the implementation workshop, then you most likely upgraded, but not necessarily. There's still time to upgrade, if you haven't already. And the monthly plan of the membership is open year round, so there's some bonuses that are disappearing at the end of the that, and then the swag bag is still there. I think that's going to come down at the end of the month also. I'll email about that.
+
+[01:19:19.110] - Liz Stapleton
+Where do you recommend learning SEO? I know the bundle has an SEO course from post by Ghost. Is there anything else I should use? So yeah, Nkki's super knowledgeable. I always learn a lot from her.
+
+[01:19:28.540] - Liz Stapleton
+And then Nina Clapperton, she's really good about SEO with AI. So you're help. AI is helping you as like an assistant. So yeah, Niki and Nina are definitely good sources. If you're looking just for a general, a really solid blog on the topic.
+
+[01:19:51.440] - Liz Stapleton
+Actually, I know it got bought. Let me see if it's still there.
+
+[01:19:57.440] - Liz Stapleton
+No. There we go. Yeah. Backlinko is with Brian Dean. He writes really in depth SEO based stuff and that's kind of where I got started when I was learning and he keeps up to date.
+
+[01:20:15.030] - Liz Stapleton
+So Backlinko is really good. Nina's awesome. Niki's awesome. I think search engine journal is the name of another one. Yeah.
+
+[01:20:26.620] - Liz Stapleton
+So those would be kind of some resources, particularly if you want some free resources. Backlinko and search engine journal, their blogs I think are helpful.
+
+[01:20:38.960] - Liz Stapleton
+Anything else?
+
+[01:20:43.280] - Liz Stapleton
+Any other questions anywhere else I can help point you? I mean, I've been at this for, it'll be ten years this year, which is just insane, by the way. So I've seen a lot come and go and I've kind of know what works well and different reputations out there.
+
+[01:21:12.300] - Liz Stapleton
+Gotta run. You're welcome. Jeff, thank you for coming. Have a good weekend. I will be sending out a survey to get your feedback, by the way.
+
+[01:21:19.820] - Liz Stapleton
+Always appreciate that.
+
+[01:21:23.340] - Liz Stapleton
+All right. Any other questions? I mean, I'm happy to just hang out. If you're still working through the workbook and you have questions, let me know. Yeah, I'm chilling.
+
+[01:21:33.540] - Liz Stapleton
+We're good. There's no more summit sessions bearing, this is it. You'll have access to the ones that aired this morning at six through 06:00 a.m.. Tomorrow. So there's.
+
+[01:21:44.270] - Liz Stapleton
+That's
+
+[01:22:31.780] - Liz Stapleton
+no more questions.
+
+[01:22:49.420] - Liz Stapleton
+Is anyone's still working through the workbook, maybe you joined a little bit late, which is okay.
+
+[01:23:08.530] - Liz Stapleton
+This is extremely helpful. I feel like I have a lot better idea of what I'm doing. Good. That is always the goal of the implementation workshop because this is not a small summit, guys. And as much as I encourage you to stick to beginner, intermediate, advance, I know that doesn't happen.
+
+[01:23:25.210] - Liz Stapleton
+And even if you did, it would still be a lot. And it can be really overwhelming and you don't want to be burned out because you're overwhelmed. Like that really defeats the purpose. So hopefully this helped pull all the puzzle pieces together so that you can move forward with a plan.
+
+[01:23:50.550] - Liz Stapleton
+I'm going to give it like another five minutes. If I don't have any more questions, I'll sign off, but I'm here if you need me.
+
+[01:24:02.150] - Liz Stapleton
+Oh, good.
+
+[01:24:06.650] - Liz Stapleton
+Oh, good luck with Nika. Nika. I'm saying your name wrong, and I'm so sorry. I hear you. I had to kick my dogs out at the beginning, so I'm glad you found this helpful.
+
+[01:24:20.370] - Liz Stapleton
+And, yeah, let me know if you have questions, guys. Even afterwards, shoot me an email or submit a ticket if you're like, hey, I had a question about this, and it was afterwards, I'm happy to help. I'm here to help you guys. I'm here to support you guys.
+
+[01:24:37.890] - Liz Stapleton
+Like I said, my favorite thing is to hear, like, oh, my gosh, she made my life so much easier. That's always the goal.
+
+[01:28:56.060] - Liz Stapleton
+All right, I'm not seeing any more questions, so I'm going to go ahead and end it. But feel free to reach out if you guys do have questions. Have a good one.
+
+[01:29:07.260] - Liz Stapleton
+Bye.
+
+

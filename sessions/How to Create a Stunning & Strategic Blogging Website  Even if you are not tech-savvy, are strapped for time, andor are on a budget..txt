@@ -1,0 +1,245 @@
+Title: How to Create a Stunning & Strategic Blogging Website:  Even if you are not tech-savvy, are strapped for time, and/or are on a budget.
+Speaker: Maureen Gaspari
+Website: https://thecreativeimpact.lpages.co/showit-flow-chart-website-checklist/
+Level: Beginner
+Category: Graphic Design
+Length: 32:56
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-create-a-stunning-strategic-blogging-website-even-if-you-are-not-tech-savvy-are-strapped-for-time-andor-are-on-a-budget-maureen-gaspari/
+
+Transcript:
+[00:00:12.490] - Maureen
+Hi, everyone. I'm Maureen from thecreativeimpact.com. And I'm so excited that I have the opportunity to talk with you guys today about how to create a stunning and strategic blog website in days, not months, even if you are not tech savvy, even if you are strapped for time, and even if you are on a budget. In today's workshop, we are going to be covering how you can blog on the most powerful blogging platform without the tech and design headaches associated with it. We're going to be talking about the five things your blogging website must include in order to convert visitors into customers. You're going to learn the big mistakes to avoid, and I'm also going to do a shared screen tutorial showing you how to create a customized strategic website homepage for your blog in ten minutes.
+
+[00:01:07.270] - Maureen
+We have a lot to get to, so let me quickly tell you a little bit more about me and my blogging experience.
+
+[00:01:15.510] - Maureen
+I'm going to get rid of my face here, so it's not so distracting with the slides. So, hi, everyone. Again, I'm Maureen from thecreativeimpact.com, and I'm so grateful for this opportunity to share some of my knowledge with you today and hopefully help you along in your own blogging journey. So, I like to say that my online journey started with a boy, a big challenge, and a blog. So, back in 2014, I left my full-time job to help my then three year old son right here overcome the childhood anxiety disorder, selective mutism that he was recently diagnosed with, while I was also caring for my new little baby here. And I decided to start a personal blog on Blogger. I don't even know if that's still a thing anymore, but I started it to document our family's crazy experience with this often misdiagnosed anxiety disorder.
+
+[00:02:12.160] - Maureen
+And over time, I ended up sharing a few posts and answering questions in the Facebook groups for parents raising kids with anxiety. And my little personal blog, Blogger, began gaining some big momentum and I quickly discovered I was not alone. Parents began reaching out to me daily from all over the world to learn more about parenting children with selective mutism, anxiety and sensory challenges like my son had. So, again, I quickly realized that I had the ability to turn our mess into a message for the world and make a massive impact through my blog. And from that point on, I was hooked.
+
+[00:02:51.110] - Maureen
+By 2016, after a ton of work, my son had overcome selective mutism and I had learned so much, and I wanted to share more of this information with other parents going through similar situations. So, I decided to turn that little blog on Blogger, my personal blog, into a business that educated other parents about raising children with anxiety. And by 2017, I had grown my blog into a business with online courses, digital products, and a bestselling journal on Amazon for kids with anxiety. And over time, exposure from my blog and my website provided me with speaking opportunities, partnerships with expert researchers in the field of selective mutism, television opportunities, and income for my family as well as the opportunity to fulfill one of my lifelong dreams becoming a traditionally published children's book author with a publishing company.
+
+[00:03:46.250] - Maureen
+Now, by the time 2019 rolled around, I had had a lot of success and experience, and people were asking me how I did it. I knew I could help so many other women build profitable online businesses with the blogging knowledge that I had gained, and so the creative impact was born. Now, for years, I was a huge fan of WordPress, and we're talking about Wordpress.org. It's the best for blogging, SEO. I have used it for years. I designed tons of my clients' websites with it, taught hundreds of students how to use it in my courses to build their blogging businesses.
+
+[00:04:19.910] - Maureen
+But even with a ton of guidance and coaching, I was finding that my students had no problem writing blog posts on WordPress. But they were really struggling with the website design aspect of this platform. They were so frustrated with trying to make their blogging website do the things they wanted it to do and look the way they wanted it to look. So, I set out to figure out how to harness the power of blogging a WordPress with a nontechy, non designer way to create a blogging website quickly. And I found the answer in Show It.
+
+[00:04:53.740] - Maureen
+So, if you haven't heard of Show It, you are not alone. It is one of, I think, the best kept secrets in the blogging world. And I'm here to change that because it is amazing and it has broken down the design and tech barrier for so many of my students. You can see just a few testimonials here. It is a game changer for bloggers who are design or tech challenged.
+
+[00:05:16.390] - Maureen
+So, to give you a better idea of what it is, I'm quickly going to share my screen with you and show you before we jump into the five things your blogging website needs to convert visitors into customers. So, here we are inside Show It. And Show It is a drag-and-drop website platform that provides total creative freedom over the layout and design of your website, all without a single line of code, without any row or column restrictions. When you're in Show It, you can start with any template, so you don't have to start from scratch, just like this one I designed.
+
+[00:05:47.990] - Maureen
+And the big appeal Show It is how simple it is designed. You can literally take things and drag them and drop them wherever you want. You can stretch pictures out to go across an entire canvas by just dragging it. You can move blocks and buttons however you want. Text can be moved and changed, sizes, colors, everything is customizable.
+
+[00:06:13.270] - Maureen
+Show It was originally created for photographers, but it has quickly grown in popularity for creative entrepreneurs of all types. For talking bloggers, coaches, small business owners, you can literally drag and drop things exactly where you want them, change colors, sizes, which makes it a lot less restrictive and easier to use for non-techy people, the sky is really the limit. If you are familiar with Canva, it's kind of like the freedom you get with that. And one of the huge things that separates Show It from platforms like Squarespace, Wix, Weebly, et cetera.
+
+[00:06:47.240] - Maureen
+Besides the design freedom, it uses WordPress for the blogging part. So, you write your blog post in WordPress and you get the amazing SEO power of WordPress, but you design your site in a much more user-friendly visual editor. There's no need for any hosting through something like Bluehost or SiteGround. Show It covers all of that for you. And unlike WordPress, they have amazing customer service for any design questions you have.
+
+[00:07:18.460] - Maureen
+So, when you sign up for a Show It subscription with a blog, Show It gives you a WordPress blog sign in like this, and then it takes you to the back end. So, if you already blog on WordPress, your blog post will still be available even if you switch to designing on Show It, which is exactly what I did, and the transfer was seamless. So, again, by using Show It, you get that amazing SEO power of WordPress with the creative freedom of a drag-and-drop editor. Now, if you're saying that's great and all, but I'm not a designer. Like, again, you do not have to start from scratch.
+
+[00:07:50.320] - Maureen
+You can start from a template. I understand if you're not a designer, building a website from scratch will be very intimidating, not to mention, really difficult. So, Show It allows you to upload a Show It template from a web designer like myself right into your site. So, all you have to do is swap out the stock photos and text for your own. And I'm going to share my screen with you in a little bit to show you how we are going to customize an entire website homepage in ten minutes.
+
+[00:08:16.420] - Maureen
+But first, I want to talk strategy with you. Because no matter how good your design is, you still need to incorporate strategy. And there are five things that your blogging website must have in order to convert visitors into customers. So, if you are building a blogging business, then sales are key. So, you need to make sure that your website is working for you, not against you.
+
+[00:08:39.060] - Maureen
+So, let's get into these five things. All right, so 75% of website users make judgment about a company's credibility based on web design. So, you have less than 8 seconds on any platform to make a first impression. And so, it's very important to let people know immediately that they're in the right place. So, the number one thing that needs to be on your site above the fold, which means before you are scrolling down before anyone needs to scroll is a short, straightforward statement, like a clear statement that communicates exactly who you help and how you help them.
+
+[00:09:19.030] - Maureen
+So that's really important. If you confuse someone, you are going to lose them. So, on this site, I just brought up one here. The statement is the workout your body needs to live the life you want. Very simple, very straightforward.
+
+[00:09:36.470] - Maureen
+When someone lands on the site, if you don't have that statement, like how you can help them, it's very unlikely that they're going to stick around. Now, does anyone have a statement yet for their business? Or if you have you heard of this? If you do, let me know in the chat. If not, what I like to coach my students on is you can start with just something like this.
+
+[00:10:00.060] - Maureen
+Like I help who? Who's your ideal client? Do what? Like what specifically are you helping them with. So that they can, what's the transformation like, what are they getting? So, to give you a few examples with my parenting site, my statement is I help parents of highly sensitive children help their kids thrive in a world that overwhelms them. So, I'm helping who, parents. Do what, help their kids. Do what, thrive in a world that overwhelms them.
+
+[00:10:31.770] - Maureen
+Another one of my clients is helping her statement is helping busy Christian women build a biblical foundation, so they have a guide for their everyday life. Another one of my clients they just helped, we just wrapped up was home organization for busy families. Less mess, more memories.
+
+[00:10:48.510] - Maureen
+And then another one is quick and healthy meal planning for busy families. So, those are just a few different examples of statements. And this might take a little time to work through, but this is something I want you to do as an action step today. If you don't already have a statement, I want you to come up with one that can be at the top of your site. All right?
+
+[00:11:13.830] - Maureen
+And then basically with your statement, I've read a book I don't know if you ever heard of the story, Building Story Brand by Donald Miller, but this book talks about how to really get clear with your audience. And one of the things it says with your website is it should your offer pass the grunt test? Which basically means, could a caveman read it and be like, yes, I get this. Like quick meals, healthy meals, busy families, like just simple broken down that a caveman could understand it. All right.
+
+[00:11:45.250] - Maureen
+The second thing that your website must have to turn visitors into customers is clean design. So, what that means is it encompasses a few things, it's few words. You do not want paragraphs of text on your site. That is huge thing that a lot of beginners do that you don't want. People do not read websites word for word.
+
+[00:12:10.640] - Maureen
+They scan them. Think about how you search a website. Are you reading every single word or are you scanning it? You really want, the fewer words, the bigger impact you'll make. You also want a lot of white space and it doesn't necessarily need to be white, but you can see here, like lots of space, spacing between words.
+
+[00:12:30.500] - Maureen
+So, it just looks very clean. And on your site, you want no more than three to four brand colors. Like we don't want hundreds of colors. And you want to make sure that your fonts are paired well. Just know that a clean design is super important.
+
+[00:12:47.940] - Maureen
+You can see they only have a couple of colors, like this brownish burnt sienna color, this tan color, and this orange color. These are these little hours of things I pointed out. But clean design is really important. And then you can see like I pulled up a pretty extreme example, but you can see how just a site with just tons of text and like this, does this look overwhelming compared to this? Obviously, the answer is yes.
+
+[00:13:14.130] - Maureen
+If you were trying to read this, it would be ridiculous. So, clean design, the third thing that your website needs is clear calls to action. So, when someone lands on your site, they not only need to know if this is the right site for them, but they need to know what steps to take. We can't assume that they know what to do. So, you want to have clear calls to action on your site above the fold, which means before you scroll.
+
+[00:13:41.510] - Maureen
+So, here you can see that they have a call to action up here in the navigation bar and they also have one right here. And both of their calls to action are book your intros. So, you would click on that and that will give them step by step, like what they're supposed to do. Now, for a lot of you starting out, you might not be, like, selling something right away, but some calls to action that are really good when you're first starting out is either book a call if you're a coach. Like book a free 15 minutes consult call or some type of freebie, like a free checklist or a free cheat sheet or something where they give you their email address in exchange for some type of freebie that's going to help them.
+
+[00:14:27.910] - Maureen
+This gets them on your email list and helps you stay in touch with them because a lot of times, I think it's like up to 75% of website visitors will never return to your site once they're there once. So, if you don't capture their email address or something before they leave, then it's going to be impossible to keep in touch with them, probably. Another call to action if you have a shop, could be shop now or get started and lead to your shop. The fourth thing that your website needs to convert visitors into customers is simple navigation. So, a lot of times I see websites that have tons of like options up here or their navigation is hard to find.
+
+[00:15:15.830] - Maureen
+It's not right on the top. It's maybe on the bottom or on the side. You just want to stick to like simple convention. Keep your navigation bar right at the top. Keep it simple, keep it clean. You want people to be able to find stuff easily.
+
+[00:15:30.960] - Maureen
+You don't want them to have to try and search for it. Some of the things you definitely want to avoid is the non conventional location. Don't put it on the side, like I mentioned, definitely don't put the navigation at the bottom of your site. So, they have to scroll through your whole site before they can find what you want or they want. Again, don't put too many options on the navigation bar.
+
+[00:15:51.600] - Maureen
+I think four to five I would recommend at most because you don't want to overwhelm them. And then make sure that your navigation menu is clear, like use things like home, about, blog, contact, work with me, don't use vague things that they might not understand. And lastly, this is a huge one that I see with a lot of newbies is. They don't have a responsive when someone's looking at their site on mobile or a tablet, they can't find a navigation bar like they haven't designed for that. So that's a huge one and that kind of leads into number five.
+
+[00:16:30.510] - Maureen
+One of the biggest mistakes I see most new entrepreneurs making, and I definitely fell into this category when I started out, was that I didn't design my site to be mobile responsive, which means that it may look good on desktop. But when someone's looking at it on a phone or a tablet, it's just a big old mess because it hasn't been designed. Like pictures are overlapping, text is overlapping, and it doesn't look good on a mobile or tablet. And in today's world, where everyone's on their phone and most people are looking at your site on their phone or a mobile device, you need to make sure that your design is mobile responsive.
+
+[00:17:09.990] - Maureen
+And on a lot of platforms, this can be really hard to do. I'm going to show you how I've taken care of this for you, so you don't even have to worry about this, really. I'm going to show you how you can just plug in your stuff super simple and it's already laid out mobile responsive for you, which is huge because most platforms do not allow you to do that. And this is just, I don't know where my other picture went, but this is a very simple example. But with this one, you can see how like everything's off center and it cuts off the text when it's on mobile.
+
+[00:17:45.260] - Maureen
+You need to make sure you're designing for mobile and sometimes it takes a completely different type of design, so keep that in mind when you're building a site. All right, quick recap. The five things your website must include in order to convert visitors into customers is that short, straightforward statement above the fold, a clean design, clear calls to action, simple navigation, and mobile responsive design? All right, so, so far, we have discussed how you can blog in the most powerful blogging platform, which is WordPress, without the tech and design headaches associated with it.
+
+[00:18:18.590] - Maureen
+We introduced Show It. We also discussed the five things your blogging website must include in order to convert visitors into paying customers. We discuss the big mistakes to avoid. And now I want to wrap up our session by sharing my screen with you and showing you how to create a customized strategic website homepage for your blog in ten minutes using Show It.
+
+[00:18:39.160] - Maureen
+So, let me share my screen with you and we'll get started. All right, so here we are inside of Show It, again. And I've uploaded one of my templates. This is my Lilianne template, and right now it's designed for a copywriter. But what we're going to do is we're going to change out our images, the colors, the text, everything, so that it's a new and unique website that looks completely different than this one.
+
+[00:19:01.790] - Maureen
+Now, when you're working, in short, there are three different views you can use. There is the mobile and the desktop view right next to each other. There is just the mobile view only, and then there is the desktop view. I like to work with the mobile and desktop side by side, so I can make sure that changes are being made on both. But for the purposes of this tutorial, I want to show you my full screen.
+
+[00:19:23.560] - Maureen
+So, I'm just going to work with desktop right now. So, for the purposes of this tutorial, I'm going to pretend that I'm a woman named Jane who has a blog and a business about helping make meals fun for kids, so that they learn healthy eating habits. So, we're going to transform this website homepage into one that reflects that business. So, I'm going to set a timer for ten minutes and we're going to get started. So, here we go.
+
+[00:19:45.840] - Maureen
+All right, so first, we're going to start with our navigation bar up here we talked about. You want that at the top and you want only a few venue items up here, so it's a nice clear navigation. First thing we're going to do is we're going to change out our logo. So, I'm going to come over here, swap image, and we're going to upload the files that we want to use. Click upload files.
+
+[00:20:04.520] - Maureen
+Once they've loaded, I can see here that I can pull up my cooking logo there. And here it is. Now we just need to space it out a little bit, so that it fits. You can drag and drop everything in here. Now let's go back to our home page.
+
+[00:20:18.370] - Maureen
+All right, so the next thing we're going to do is come here, this picture, and we're going to swap that out. Assign a good one. I kind of like that one. Take that. Yeah, that looks good.
+
+[00:20:26.150] - Maureen
+And with this, you can keep the picture here. You can drag it over here, move the box and text over to this side. It's all customizable. You can even take a picture like this and just drag the whole thing over to make it wide and then, you know, space it out just a little bit more. And you can move this again where you want it.
+
+[00:20:45.410] - Maureen
+So, again, very customizable, but we're going to keep it simple today. So, we're going to undo everything with this arrow and just go back to what we have. Now from here, we're going to change out our text, we are not a copywriter, making meals fun with kids, so that they learn healthy eating habits.
+
+[00:21:10.810] - Maureen
+Now, that's not all going to fit in here. What we're going to do is we're going to take this text and we're going to highlight it, shrink it down a little bit, space it out. I got to make that like that. We can even drag this down. If we want, we can take this, highlight it, and bold it, so it pops a little bit more.
+
+[00:21:29.390] - Maureen
+Then we talked about having calls to action. So, here we can pretend that maybe she offers a freebie, like a free recipe book with kid-friendly recipes. So, we could put something like, get our top five kid approved recipes below. And we can drag this wherever we want. You can put it on one line if you want.
+
+[00:21:57.320] - Maureen
+You can put it on a couple of lines, so it just spaces out nicely. And then you could put, get access. All right, now if you're looking at this and you're like, okay, this looks good, but I don't really like these colors that came with the template. Everything can be changed. There's something over here called Design Settings where you can change, here's your color palette here.
+
+[00:22:19.070] - Maureen
+You can change all different colors globally by changing them out here. You can also change your fonts within here. There's step-by-step instruction if you ever do upload a template. But you can also change them individually over here. So, for the purposes of this tutorial, I'm just going to change them on the side here.
+
+[00:22:36.850] - Maureen
+But I do highly recommend just changing them globally inside here so, that they're all changed across the board when you start. Okay. So, if I wanted to change this color here, when I click on it over here, you can see here's where the color is. You just click on it and you can either drag and drop it and move the colors around, or you can put in a hex code here. So, I might put in something like, which is a blue and we click, okay.
+
+[00:23:06.090] - Maureen
+And then I could change this one to the yellow. We put in a hex code for yellow, which is, you can put in your brand color. Hex code is right here. Alright, something like that. So, you can already see how this template is transforming, right? All right, moving down.
+
+[00:23:24.950] - Maureen
+Let's change this button to, let's change that to that same yellow color. And we could change our text here to maybe that darker color. There we go. Then we could put in the pain point down here. Struggling to maybe get your kids to eat healthy food.
+
+[00:23:41.430] - Maureen
+Let's make it, your kids to eat. We could stretch that out, so it's on the line. You can center it. So, let's go to size and position. We can center.
+
+[00:23:58.250] - Maureen
+I've got you. And then we could say something like, I don't know, with my help, your kids will be eating healthy foods from the five food groups in two weeks. I don't know, I'm just making this up. But something like that. Okay.
+
+[00:24:22.070] - Maureen
+Then we come down here and there's a little bounty section. A little blur before, when you click on this button, it would actually take you to the bounty page. But we could say something like, hi, I'm Jane. Get rid of this little feather. And say something like, I help families develop healthy eating habits together through cooking together.
+
+[00:24:53.230] - Maureen
+Something like that. Let's change that, habits. And then you can put a little bit more description of yourself here. And then again, you can change the buttons to any colors you want. If we change the text here to that color right there and then swap out the picture.
+
+[00:25:09.400] - Maureen
+It's so simple. Just swap this out. Let's use this one. Yes, that looks awesome. We can again change this background color to that blue.
+
+[00:25:18.710] - Maureen
+And again, you can just put this in the global settings over in design settings. So, you don't have to do this every time. I'm just showing you a different way to do it. Change that to that blue color. Okay.
+
+[00:25:29.530] - Maureen
+And you can see how this is really shaping up to be like a completely different website than the template. Okay, down here, now these are testimonials. They'll say, like you're just starting out. You don't have testimonials yet. You can absolutely hide the stuff.
+
+[00:25:42.670] - Maureen
+If you go over here to the page tab, it breaks down each of these different canvases over here on the side. So, you can see when I click into this one, it takes me to testimonials. You can click on these three dots, and you can just make it check off visible on desktop. And now you can't see it anymore. And if you ever want it back, you just come here and click back, okay?
+
+[00:26:02.080] - Maureen
+But let's say you did have a testimonial. You can add your words here. So, we could say, my kids are eating broccoli now without me having to fry them. And if you wanted, you could add little bit more down here. Or you could just get rid of this all.
+
+[00:26:28.090] - Maureen
+Put this here, and then put the name of the person maybe like right here, and say, Lisa R. And you could just swap out the picture here just like we do everything else. You would upload the picture of the person. Let's see, we could just use this person's face for now. As we go down, how can I best help you?
+
+[00:26:48.840] - Maureen
+Again, this is where you would feature your products or services. Now this background here is a photo. You can swap out the image to anything you want. And then here you could put your different services. So, we could say that for this cooking class, Jane has maybe a kids cooking membership and maybe a, let's see, kids cooking course and family coaching, like that, okay?
+
+[00:27:23.290] - Maureen
+Okay. And if you didn't want one of these, you can simply just delete this one and get rid of this whole thing. And then slide these over, so you can do whatever you want. You're not stuck with exactly what's in the template. All right.
+
+[00:27:36.800] - Maureen
+And then you could put a little bit more description here and these buttons could link to your services. Okay. All right. Then going down, this is where your recent blog post would appear. So, for the purposes of this, we could just swap out these pictures and pretend we have something.
+
+[00:27:51.980] - Maureen
+Like we'll take this one as an image, we'll do this one as an image and let's see if we can grab one more. We'll just take that one as an image. And then you would just put your blog post title, blog post title one, blog post title two, and blog post title three. This is where they would go. Up next is the contact form.
+
+[00:28:15.250] - Maureen
+And let's make that blue. So, we'll go back and do that again. And the cool thing about these templates is that the contact form in my templates are already set up to go to whatever email address that you have on file when you upload the template. So, you just have to customize the colors and everything else is taken care of for you. Let's change the text real quick.
+
+[00:28:40.760] - Maureen
+And last up is our footer. We're going to click edit footer. Let's make our background here, that yellow once more. We'll just switch out a few things here, and then we're going to be all done. Make this square, that blue.
+
+[00:28:58.920] - Maureen
+Let's paste in our text here that we had for our freebie. And we'll switch out our picture.
+
+[00:29:12.970] - Maureen
+We'll change this text to the darker color, and then we'll just change our button to that yellow once more.
+
+[00:29:22.670] - Maureen
+You can add or delete any of these that you want depending on your social media. And then you can click click actions to add the URL right in here, your business name. We would change that to cooking with Kids.
+
+[00:29:40.930] - Maureen
+And then if you have any photo [inaudible 00:29:42], you could add that here. Or you could just delete that section and move these over. All right. I believe that was just about ten minutes and may have gone over just a little bit because I did pause to explain a couple of things here and there, but that is how you customize the template.
+
+[00:29:56.050] - Maureen
+Now let's go and preview it. Okay, so here we go. We got our logo, we got our navigation bar, oh, we got to change this button real quick. Let's do that before we move on. So, let's go back in here, let's hit edit this to say something like free recipes.
+
+[00:30:14.120] - Maureen
+Let's keep it capitalized and we'll shift that over, and let's change the button color. Let's make it that blue. So, we'll do the 08236. Okay, now let's go back and preview. This looks good.
+
+[00:30:37.690] - Maureen
+We got all our colors. We got a call to action. We got our navigation bar looking good. We have our statement here. The pictures look great, lots of white space, not too many words.
+
+[00:30:50.330] - Maureen
+Here's our information about Jane with a picture. We have a section for our testimonials, how they can help. Here's the different things we offer. We have our recent blog post section and then it ends with the contact form and our footer. And that is how you can quickly and easily take a template within Show It and customize it to your brand, your blog, your business.
+
+[00:31:15.680] - Maureen
+We just did the home page in just around ten minutes and that's completely done. And then we only have four more pages to do and each one of them has the template laid out. So, the about page is already laid out here. Again, you just have to change the text and the images. Same thing with the work with me page, the contact page and you even have some other pages like a 404 page that you can customize as well as your legal pages here.
+
+[00:31:41.020] - Maureen
+And don't worry, I'm going a little fast but if you ever do get a template of mine, you do get step by step video instruction for everything. So, you don't have to worry about like, oh, my gosh, I'm not going to remember any of this. I'm just kind of doing a quick tutorial. If you are ready to create your stunning and strategic blogging website but you want to make sure that Show it is the right choice for you before taking action, I completely understand that. It's why I created my freebie below where you get access to my Show It flow chart to help you determine if Show It is the right fit for you and your business.
+
+[00:32:13.160] - Maureen
+You're also going to get my free website checklist to make sure you have included everything for a strategic blogging website. And you can learn more about this by clicking the button right below. So, I hope you guys had some great takeaways today. I know I really enjoyed getting to teach this and I really hope that you'll connect with me for on my site thecreativeimpact.com or on YouTube at The Creative Impact. Have a great rest of your day guys, and hopefully, we'll talk soon.
+
+

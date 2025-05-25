@@ -1,0 +1,138 @@
+Title: "Beyond the Trifecta, integrating Web Accessibility for Multiple Wins"
+Speaker: Cousett
+Website: https://techiemamma.com
+Level: Beginner Bloggers
+Category: Accessiblity
+Length: 27:13
+Year: 2025
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/beyond-the-trifecta-integrating-web-accessibility-for-multiple-wins-cousett/
+
+Transcript:
+Cousett Hoover [00:00:12]:
+Welcome. Welcome to the Blogger Breakthrough Summit. I'm so excited to be here. Our session today is beyond the trifecta, integrating web accessibility for multiple wins. Really quickly, a disclaimer. I'm not a lawyer so we will not be tackling the consequences of not having an accessible website in this session. Instead, we're gonna dive into what you can do to make your site as accessible as possible. Before we get started, a little bit about me.
+
+Cousett Hoover [00:00:40]:
+Welcome to the techy mama world. Back in the eighties, I was born in Silicon Valley that pretty much made me a tech girl from day 1. I made it official around 2005 with a degree and have been designing, developing, and teaching technology ever since. My other passion is teaching. And before kids, I was a dissertation away from a PhD in educational technology. Now I'm on a mission to empower mompreneurs to automate, build, and scale their business. I started Techie Mamma as a small blog with a newborn in tow. Since then, it has grown and flourished into so much more.
+
+Cousett Hoover [00:01:17]:
+I have 2 incredible screen addicted Minecraft expert boys who are 8 and 6. My husband is also a leader in the open source community of WordPress, Drupal, and much more. Together, we compete over our Wi Fi connection in suburbia of Central Texas, Silicon Hills area. You can dive more into the Techie Mamma world on social or by joining our BFF community. Scan the QR code to get all the deets. Enough about me. Let's dive in because I can't wait to learn more about your journey. Today, we're going to talk about web accessibility.
+
+Cousett Hoover [00:01:52]:
+Web accessibility is a huge topic with a full conferences devoted to it. We're going to touch just the tip of the iceberg. But by the end of this session, you'll be able to identify problems people may have when using the web, identify the benefits of universal design, understand the four principles that define the web content accessibility guidelines or WCAG 2.2, identify other compliance documents, learn how to apply some things to improve your accessibility of your website, and understand how assistive technologies are used with the web and understand basic testing and some tools. So web accessibility and universal design. Web accessibility involves a wide range of disabilities, including visual, auditory, physical, speech, cognitive, learning, and neurological disabilities. Universal design is also important to make web content more usable by older individuals with changing abilities due to aging and often improve usability for users in general. Let's consider some statistics and talk about the relevance of web accessibility today. 15%, at least 1,000,000,000 people of the global population have a recognized disability.
+
+Cousett Hoover [00:03:15]:
+28.7%. More than 1 in 4 adults in the United States have some type of disability and a reduced ability to carry out normal activities. 46%. Worldwide, more than 46% of people ages 60 and older live with a disability. The Microsoft app a Microsoft app developer guide says designing inclusive software results in improved usability and customer satisfaction. Let's talk about how this is good for everyone no matter if your audience has any disabilities or not. So that is inclusive design. With inclusive design, there is an expanded audience reach.
+
+Cousett Hoover [00:04:03]:
+It unlocks an audience of 16% or more of the global population with disabilities. Keeping web accessibility in mind, if we look at some percentages, it includes 5.5% of US adults who have a vision disability with blindness or serious difficulty seeing seeing even when wearing glasses. We want to make sure that screen readers are able to speak content, there's sufficient contrast, information, and information that's not dependent on color alone. We have 12.2 percent of US adults who have a mobility disability. That's serious difficulty walking or climbing stairs. It can be due to a tremor or disease. In web design, we want to make sure that content is keyboard accessible and can be accessed also by voice or an alternative device. 6.2% of US adults are deaf or have serious difficulty hearing.
+
+Cousett Hoover [00:05:06]:
+The implication for web design is that transcripts need to be provided for all content and captions for video content. Then cognition disabilities. We have 13.9% of US adults that have serious difficulty concentrating, remembering, or making decisions. In web design, consistent navigation, high contrast, and well organized content can really help. The most probable problematic issues on the web include complex page layouts, content that is unreadable when enlarged, poor contrast, CAPTCHA forms, pop up windows or dialog boxes, complex or difficult forms, too many links or navigation items, missing or improper headings and poor keyboard accessibility. Alright, so let's talk about the guidelines. That's what makes it the law. So there are various guidelines and laws in various countries.
+
+Cousett Hoover [00:06:10]:
+We're going to dive into the global guidelines which are the web content accessibility guidelines. They're at the version of 2.2. They define how to make web content more accessible to people with disabilities. Other countries have their own compliance laws in relation to web accessibility as well. The web content accessibility guidelines have 4 main principles. So our first principle is perceivable. We want information and user and the user interface components must be presentable to users in ways they can perceive. We want to make sure that text alternatives are available for non text content, provide captions and other alternatives for multimedia, create content that can be presented in different ways including by assistive technology without losing meaning and make it easier for users to see and hear content.
+
+Cousett Hoover [00:07:08]:
+Our second principle is operable. User interface components and navigation must be operable. You want to make sure all functionality is available from the keyboard. Give users enough time to read and use the content, not use content that causes seizures or physical reactions. Help users navigate and find content. Make it easier to use inputs other than the keyboard. Our third principle is understandable. Information and the operation of the user interface must be understandable.
+
+Cousett Hoover [00:07:43]:
+You wanna make sure that the text is readable and understandable. Make content appear and operate in predictable ways and help users avoid and correct mistakes. And lastly, we have robust. Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies. We wanna maximize compatibility with current and future user tools. So there are even more documents of compliance. In the US, we have the American Disabilities Act and section 508, which defines the scope of responsibilities for accessibility in the US Federal Government. In Canada, there's various other ones including the Accessible Canada Act, and the Ontarians with Disabilities Act.
+
+Cousett Hoover [00:08:36]:
+In Europe, there's the European Accessibility Act, which goes into effect, June 28th this year. It's going to be a national law in all 27 EU member states. There's also the EN 301-549. It's a European standard for digital accessibility, which measures the accessibility of websites, electronic documents, and non web software, such as native mobile apps. So now that we have a little bit of a background about accessibility and our WCAG guidelines, let's dive into some specific action steps to improve web accessibility on our sites. First, alt text. We want to add alternative text to all images, provide text alternatives for all non text content, such as images, audio, or videos so that it can be changed into other forms people need such as speech, braille, or text. We wanna make sure that there's an alt attribute for every image.
+
+Cousett Hoover [00:09:38]:
+We want to use text to describe the image, to write out any text present on the image, or leave it blank if it's purely eye candy. Provide a text transcript to any audio content that you may have on your site, and provide captions for all video content. 2nd, our headings. We wanna make sure that we're using headings correctly throughout our site. Headings are used to navigate through the site, identify key elements of a site, and skip over repetitive navigation. We want to make sure that we're not using headings just for the design or the font. And actually, use headings in a structural order using one heading 1 and then starting with a heading 2 and embedding heading threes through 6 as needed. So it separates long form content.
+
+Cousett Hoover [00:10:31]:
+You can separate long form content with headings as well. Our third tip is color contrast. We need to ensure that there's a sufficient contrast in our, site. That means that text on a page is sufficient for color blind or low vision users. The visual presentation of text and images of text should have a contrast ratio of at least 4.5 to 1. In large print and in images of large print, you could have a contrast ratio of 3 to 1. Decorative images and logo types are exempt from this requirement. So testing your color contrast and seeing if your brand has good contrast within a couple of your different colors on your site is really, really important.
+
+Cousett Hoover [00:11:21]:
+Doing using color beyond, or beyond color alone. So don't depend on color to convey meaning. I see this a lot in things are required. We have it marked in red. Instead, add like an asterisk and the red color and mark it as, required. I also see this in links where links do not have an underline and then it's maybe a different color. And if you're visual, you can see that different color. But if you're not, then without that underline, no one will know that it's, a link.
+
+Cousett Hoover [00:11:58]:
+So next up, we have meaningful links. So links should make sense outside of context. You want to avoid using click here or more info and links should refer to their destination. So in a content area where you might have links to multiple, articles or so forth, you want to make sure that it has kind of the title of the article, linked or something besides just a click here or more or things like that. Next up, let's talk about web assistive technologies and evaluating, accessibility. Web assistive technologies are products, equipment, and systems that enhance learning, working, and daily living for persons with disabilities. I will also let's take a look at how these, technologies work, and we'll also have a demo of how it works, in a few minutes. Web assistive technology.
+
+Cousett Hoover [00:12:59]:
+These can include alternative keyboards, alternative mice, headwands, mouth sticks, refreshable braille displays, screen magnifiers, screen readers, and voice recognition software. Some popular screen readers include jaws by Freedom Scientific and Apple voice over. It can be really helpful to understand the unique way that screen readers work. So screen readers announce and read everything, including page titles, acronyms, alt text, links, headings, and more. They have special modes to navigate more complex elements like tables and forms, and they depend on the keyboard to navigate around a website. Let's visit a demo site created by the Web Accessibility Initiative Education outreach working group. The demo will illustrate some of the aspects of web accessibility. It does not cover every type of accessibility barrier or accessibility requirement.
+
+Computer [00:14:32]:
+City lights. Your access to the city. Image. Sunny spells. Image. Explore side by topic. Quick menu. Explore side by topic.
+
+Computer [00:14:35]:
+Menu pop up collapsed button. Quick menu. Menu item. Go. Button. Traffic. Construction work on main road. Today.
+
+Computer [00:14:38]:
+Monday, 11th November, 2024. Sunny spells. 23 degrees Celsius. Heading level 2. Navigation menu. List 4 items. Home. Visited link.
+
+Computer [00:14:49]:
+News. Visited link. Tickets. Visited link. Survey. Heading level 1. Welcome to City Lights. City Lights is the new portal for visitors and residents.
+
+Computer [00:14:55]:
+Find out what's on book tickets and get the latest news. Heading level 2. Level 1. Link. Heat wave link to temperatures. After 3 years of effort, city scientists now agree that the primary cause of the 2003 heat wave was hot air from. Link. Heat wave.
+
+Computer [00:15:03]:
+Full story.
+
+Cousett Hoover [00:15:05]:
+Okay. Let's take a look at our demo site. So we have, an inaccessible before and then an accessible after. The w three c or the web accessibility initiative, did do a report. So we'll look at the report, and then I have, the web aim wave tool, report and what's this one? The silktide, one that I also liked. So here's our inaccessible. When we listen to it with voice over, we hear like the long description of this. That doesn't make any sense because that's not what we need as a user of this website.
+
+Cousett Hoover [00:15:51]:
+There's re there's mores here and there's a lot that we hear when we listen to the voice over. So this is the, silktide. I really like this one. I thought this was good. It analyzes the page, and it gives you different things are wrong. So image, and link alt text. So we have alt text that's missing. We have table headers are missing.
+
+Cousett Hoover [00:16:17]:
+We have links that are not descriptive. If we go into color contrast, this is the foreground and this is the background. So that doesn't pass. It shows for normal text, it does not pass. For large text, it might pass. But that's just normal text, so that doesn't pass. Then we have, we can go in and see the alt text that's missing. So I really like this Chrome extension.
+
+Cousett Hoover [00:16:44]:
+It seems really nice. This is
+
+Computer [00:16:46]:
+pretty nice.
+
+Cousett Hoover [00:16:46]:
+Oh, it has even like a little demo of a screen reader. That's kind of cool. You can go into impaired vision and see what things look like with different, issues. Some different, and color blindness. What things look like with color blindness and how that, responds. So a really, really nice extension I found. WebAIM has the wave toolbar. It's a super popular toolbar.
+
+Cousett Hoover [00:17:16]:
+A lot of people use it. I personally get overwhelmed by it, but, a lot of people like it. So you see the errors here are happening. So there's missing alt text. There's it's a table layout. Oops. What happened? I must have closed it. Oh, I guess I loaded it.
+
+Cousett Hoover [00:17:40]:
+Okay. Let's try one more time. Alright. So let's see. We have, so I think that's the alt text for that. So that's really kind of this long red dot with a white letter c. We heard that in the, in voice over. And now we have a lot of things that don't have alt text.
+
+Cousett Hoover [00:18:02]:
+So we can break down into the errors, missing alt text, link image, missing alternative text. There's a lot of things that we can do here as well. You can see kind of what the link, the keyboard tab will be when you go. So you're starting up here, 2, 3. That makes sense. And then 13, 14, 15, 16, 17, 18. So that looks good. So there's a lot that we can do here.
+
+Cousett Hoover [00:18:30]:
+There's no structure whatsoever. So there's no headings and stuff like that. Whereas in our accessible page, we, have headings. So let's take a look. This is the last tool that I have. It's called accessibilitychecker.org. It you put in the URL of the page and it gives you a report. So a little different.
+
+Cousett Hoover [00:18:52]:
+But it does go in and show you kind of different things that are critical issues, that are past audits, that are required manual audits. So a lot of things can't be done by automated tester. You need your eyes and ears to do it, and then maybe things that aren't applicable. So you can go in and then you can fix the 47 issues and so forth. And you can also, I think, change what law you're using, but that might be in the paid version. So there's a lot that you can do here. Last but not least, if you go to this page, which I really recommend you go and navigate around and, just explore this demo a little bit more. I wasn't able to in the presentation for very long, but we have, their report that they have.
+
+Cousett Hoover [00:19:43]:
+So the inaccessible report, and they break it down by all the WCAG guidelines. So here are the failures. We have, failures here on adaptable info and relationships. We have text presentation, without so, it's depending on color alone. We have, keyboard accessible. It's not keyboard accessible throughout. We can't get to specific things and functions, and then understandable and then robust. So it breaks down based on WCAG, all the different issues, and, and you can see that as well.
+
+Cousett Hoover [00:20:25]:
+So with our, good page or after page after we've made all of the changes and so forth, let's do this one and we can just go in and get the general analysis. And see one issue with semantic links, but that's it. That's all it came up with. So there's a lot, to be said about the changes that were made. We can also go into the report for the accessible and you can see kind of what they changed and what they fixed. And let's do one last. We can go to web aim and see kind of the visual that they did. So zero errors.
+
+Cousett Hoover [00:21:06]:
+There are some alerts. There's some features, but you can see sunny spells, is kind of what that is. City lights, your access to the city. It's doing the text instead of this long description of it. Because remember, all text, you want to just convey the information that's there. So if it's text, you want to make sure it's text. Then we have different things here. These are probably marked with, as just eye candy because there's not really anything extra that's happening from this, as well as these images most likely because there's just not anything that we can gain from that.
+
+Cousett Hoover [00:21:45]:
+It's just visual to help a visual person kind of see the different, stories and so forth. So with that, that's a little quick, quick, quick way to go kind of go through and look at our, sites and test it. There's a lot more that you can do. This could be a whole workshop in itself, but I hope this gets us started a little bit and you have a little bit more understanding on this. Alright. Let's talk about some action steps. So when looking at your website, let's run an alt text report and see if your images are missing any alt text. When writing content, use headings to organize your articles, pages, and more.
+
+Cousett Hoover [00:22:33]:
+Do not use them just for font size or for design. Test your site for color contrast, in your brand colors. Don't just use color for web elements like red for important or required. Avoid using links that do not make sense outside of context of the webs of the website. Let's talk some action steps. So run an alt text report and see if any of your images are missing alt text. When writing content, use headings to organize your articles, pages, and more. Do not just use them for your font size.
+
+Cousett Hoover [00:23:11]:
+Test your site for color contrast. Test your brand colors. You also want to not use color, for web elements, just color for web elements. So make sure that your, required and so forth are not just red, but there's additional text that helps the user. And you wanna avoid using links that do not make sense outside of the context of the page. Let's review a bit. So web accessibility is universal design and good business practice. The WCAG guidelines are international, but many countries have their own guidelines to follow.
+
+Cousett Hoover [00:23:50]:
+There are many things you can do to make your site more accessible today. Assistive technologies work in a unique way to help their users. Screen readers have special features to make navigating websites a little easier. And it's best not to depend on automated tools, but there are lots of tools that are manual checks or other tools that you can use to test your site. Some resources and some, things that I use when doing web accessibility include the equalize digital. They have a great WordPress plugin that helps out. Web aim has some great tutorials and information out there. The web accessibility initiative is a part of the w three c, which is, organizing unit for web technologies, and they have a lot of resources to help out.
+
+Cousett Hoover [00:24:49]:
+And WAVE is one of my favorite, web accessibility, tools. There's a Chrome plugin that you can use, that adds a toolbar to your site and you can test really, really easily. In addition to, you know, tools are specific to accessibility, you wanna use also just general tools that help with accessibility. So I really like the Kadence WP theme. If you're using WordPress, it's a very clean theme. Its start is very accessible. And so then as you build on top of it, as long as you keep things accessible, it will be good. Elementor Pro actually has a lot of features that help with accessibility.
+
+Cousett Hoover [00:25:29]:
+They have a huge kind of push to make things accessible, and so they have a lot of things that can help as well. And then since accessibility and SEO are kind of hand in hand and they help each other, having a really great host like WP Engine really helps things. Making sure that your site is fast, that it runs, that's secure and it runs really well will help things in the end. Thank you for attending my session. I would love to get to know you better. Please drop in the summit chat box and let's continue more, connect more, and continue the conversation. I'll also have a couple of questions that you might be able to answer or that we can discuss in the chat box. Last but not least, I have a couple of gifts for you.
+
+Cousett Hoover [00:26:15]:
+I have the web accessibility checklist. It's gonna be a checklist that kind of gives you step by step a couple things to test, some of the things that we've talked about, and a few more, things that you can take a look at. I also have a program called Tech Angel. So I've been called more than once the Tech Angel. And in my program, I help you at different levels, with questions and your tech and I can completely do things for you or I can answer questions. And there's a lot of different ways that we can connect and that we can work together. And thank you. I hope we can get in touch, and let's continue the conversation in the summit group.

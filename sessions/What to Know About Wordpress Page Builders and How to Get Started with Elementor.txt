@@ -1,0 +1,452 @@
+Title: What to Know About Wordpress Page Builders and How to Get Started with Elementor
+Speaker: Pete McPherson
+Website: doyouevenblog.com
+Level: Beginner
+Category: Tech
+Length: 46:18
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/what-to-know-about-wordpress-page-builders-and-how-to-get-started-with-elementor-pete-mcpherson/
+
+Transcript:
+[00:00:00.100] - Liz Stapleton, Host
+All right, guys. I'm super excited you guys are joining us with Pete from Do You Even Blog. He is, as he just said, a Elementor Master. We're going to talk about all things Elementor and Page Builders are within Pete. Welcome.
+
+[00:00:15.030] - Pete McPherson
+Thank you for having me. First of all, I'm excited to talk about my favorite tool ever, and just in general, excited to be here. So thanks, Liz. Yeah.
+
+[00:00:23.680] - Liz Stapleton, Host
+Because when you start blogging, there's obviously a lot of tech overwhelm, even the... Just even just getting a theme set up. But after you've been at it for a while, you reach the point where you need something to make pretty pages, not necessarily for blog post, although sometimes depending, but landing pages and sales pages and all that. And so then you start digging into page builders, and it's a whole other level of overwhelm. Yeah, totally. And which ones are good. Now I love Thrive themes products, but they were slowing down my sight, so I've been moving away from them. It's hard to force myself to learn a new tool. So that's one solution out there. But some of the others, I don't know how familiar are with them, just touch on them. I think there's Divi, Beaver Builder, and then Elementor. I think those are the main ones. Any thoughts on those before we- Yes.
+
+[00:01:24.710] - Pete McPherson
+Absolutely. So before we talk about anything specific, I want to tell people what Elementor is and what it is not. Think of a knife. You have a nice kitchen knife, and it's a chef's knife. It's a really great knife. It's for a very specific thing. But I would not use it to be able to screw in something into a socket or screws or it's not a hammer, it is a knife. Elementor is more like one of those sweet Swiss Army knives where you open it up and all the little prongs come out. You can use it for your theme. You can use it for a landing page or a sales page. You can use it for just a new header across your site. You can use it for just one widget in a blog post or on the sidebar or here, or there or anywhere. It doesn't matter. It is like a Swiss Army knife. But the good news is you only have to learn how to use the software Elementor once. And it is a little tricky. It's not super beginner friendly.
+
+[00:02:21.570] - Liz Stapleton, Host
+But once you learn that- I'm not a beginner. I tried using it last week. I was like, I can't get it to look at my watch.
+
+[00:02:26.640] - Pete McPherson
+There is that learning curve, totally. But once you have that, oh, man, you realize it is so versatile and powerful. You can use it for a bunch of different stuff. So Beaver Builder, I haven't used it in over two years now. It worked really well when I used it, but it was still a little limited, and it's not an Elementor. I was like, whatever. I wasn't very impressed with it. Divi, I tell everybody in my membership community, every blogger that I can get my hands on, don't use Divi ever, period. If you do, you're doing yourself a major disservice. It slows down your site, and it has since the day they created it. The code behind the scenes is very heavy. It's terrible. The worst part is that Divi does not want you to leave Divi. If you were to change your theme, if you were to uninstall it, it is a huge pain. In fact, there are WordPress plugins out there specifically built for all the people who have been like, This is a nightmare. How do I leave Divi? Now that's good news. There are people making plugins for it. But that should also be a very clear sign of don't use Divi.
+
+[00:03:29.820] - Pete McPherson
+It is slow. It has the same learning curve Elementor as. It just takes over your entire WordPress site. And if you ever want to leave, it's a disaster. Those are my thoughts on all the other page builders. Those are the biggest ones. There are maybe a few more.
+
+[00:03:42.860] - Liz Stapleton, Host
+There's tons of other stuff in there. And I mean, I love Thrive. I really love Thrive. It breaks my heart that it slowed down my sight that I'm making the choice that speed is better over the things it can do. And so then I asked Grayson, who's another speaker at the summit. I was like, What do you recommend? Because he is a WordPress guru, right? And he helps people fix sites and stuff. He's like, Elementor or Beaver Builder in terms of weighing down your site. I was.
+
+[00:04:08.860] - Pete McPherson
+Like, okay, Elementor- I agree with them 100 %.
+
+[00:04:10.920] - Liz Stapleton, Host
+-looking at it. And the great thing about Elementor is it's free. I mean, there is a paid version, a pro version that comes with more stuff, but there's free. So if you want to dive into, I don't know if you use the free or paid version. Paid. Okay. But can you get by with just the free version?
+
+[00:04:32.530] - Pete McPherson
+I would argue no. Yes, you can still use it. But so many of the different elements, think about widgets, the different elements are pro only. And it's not like it's $50 a month or $30 a month, it's $50 a year, which is just ludacriously affordable. You go look at other plugins, like a membership site plugin or something like that. They're all like $250 a year, $350 a year. You get up there. $50 a year is a steal for what the plugin is. Again, it's just because of the elements. If you don't want to use the theme builder, which is also pro-only, you can't use a form, like a form, like an email often or a contact form or anything, a pop-ups, again, pro-only. You can use it, but it's limited. It is. But the pro version is $50 a year.
+
+[00:05:22.250] - Liz Stapleton, Host
+It's not a huge cost. It's not a huge cost. Okay.
+
+[00:05:27.200] - Pete McPherson
+Avoid eating out for a week or avoid eating out lunches for a week and it's paid for for an entire year.
+
+[00:05:33.570] - Liz Stapleton, Host
+Make one affiliate sale.
+
+[00:05:35.010] - Pete McPherson
+That's right. Totally.
+
+[00:05:37.360] - Liz Stapleton, Host
+Your ad revenue for a month or something. It can pay for itself. It pays for itself. Yeah. Okay. So let's go ahead and dive into it then, because this is an action-oriented summit. We're not just selling things to people or anything. We want them to learn and take action. And also because I clearly don't know how to use Elementor something, I'm totally taking advantage of the session. If you want to go ahead and share your screen so we can dig in, look at the basics and what you need to know to get started with it.
+
+[00:06:08.160] - Pete McPherson
+Okay. So as I teach Elementor I thought it might be cool. This just occurred to me five seconds ago. Is there any specific landing page, maybe a short opt in page or something that we could build here in order to illustrate things? But after we're done here, Liz, I can actually just export it as a template, and anybody watching this can just import it and just go.
+
+[00:06:28.330] - Liz Stapleton, Host
+You want to do that? Yeah, let's do that. That's what I want to do.
+
+[00:06:32.740] - Pete McPherson
+Okay. So first of all, I think it's like $150 a year, and it's unlimited sites or 1,000 sites or something like that, by the way.
+
+[00:06:42.780] - Liz Stapleton, Host
+Like an agency version.
+
+[00:06:44.210] - Pete McPherson
+Of Elementar? Yeah, versus what I have and all my students, I just give them a license for free, and I have 250 websites, like using my license. Anyways. So a few things right off the bat. Like I said, this is like the utility night. This is like the Jack of all trades. You can use this for a ton of stuff. I want to show people the super fancy stuff first, and then we're going to just.
+
+[00:07:08.270] - Liz Stapleton, Host
+Dive in. Maybe the problem was I was using the free version, not the paid. This could be it.
+
+[00:07:12.280] - Pete McPherson
+It could be. So I want to talk about templates first, and then I'll show you how to use the plugin. Just give me two minutes here for a few things. So they have something called theme builder. What this is, it's not a WordPress theme. I just want everybody to know that. Elementor is not a WordPress theme. It is a page builder. Or more specifically, I would argue an element builder. Headers, footers, sidebars, widgets, titles, blog post, images, video, anything. All the different elements of a WordPress site, you can customize all that through Elementor. They have something called theme builder, which will allow you to create something, an element, whatever that is, and apply it across your entire site. So let's say you had Studio Press theme. You have a Studio Press theme or you have some other WordPress thing that you don't really like. You don't want to replace that.
+
+[00:08:01.990] - Liz Stapleton, Host
+But.
+
+[00:08:02.660] - Pete McPherson
+That footer, I just wish I could do this with the footer. You can come into theme builder and create headers, footers, single, which is like a single blog post template, for example. I do use Elementor across my team just because I'm a super nerd. You don't have to do that. All of my archive pages, which is what this is, slash blog slash podcast, this is built with Elementor. And you have and categories. Those are also archive pages. They all look exactly like this. All of my blog post are done in Elementor, designed in Elementor. When I edit this post, I edit it just like anybody does. On the back end of the WordPress.
+
+[00:08:45.270] - Liz Stapleton, Host
+It looks like this. Like Google. Yeah, totally.
+
+[00:08:48.430] - Pete McPherson
+But I have Elementor styling that page through a... It's called Single. What they immediately did is a single blog post, single page, whatever that is. Header, same thing. This is in Elementor. It's across my entire site. Footer, same thing. This is just Elementor, it's across my entire site. So that's what theme builder is. You can pick and choose which elements you want to use, et cetera, et cetera. That's the advanced stuff. I want to come back now and talk about that.
+
+[00:09:13.880] - Liz Stapleton, Host
+No, it's laying the land. I feel like the better I understand the bigger picture, the more I can find the zero in and figure things out. So I appreciate that. Cool.
+
+[00:09:21.690] - Pete McPherson
+I'm also going to talk really fast because I want to cover a lot of ground, and I assume people can stop this video and go back. So that's why I'm going to be blazing through this. So the best way to illustrate this, for the most part... Oh, I'm sorry, one more thing on templates. You also can do just normal little templates, like stuff you want to reuse over and over again. For example, I created a table of contents element, like a widget. Yesterday I was actually making a YouTube video, so I created this. It's super boring. This is literally what the element looks like out of the box. I have one that's customized. Why don't I just show you that one? Sorry. Anyways, so you can come in here and create little elements. It looks really funky right now, but this looks good when you actually insert it in a blog post.
+
+[00:10:07.590] - Liz Stapleton, Host
+And.
+
+[00:10:08.050] - Pete McPherson
+Just save them for later. I designed it, I made it purple. I added little pizza icons or what, which is really goofy looking. But now whenever I want to add that to a blog post, I could just find the template and insert it. I'll show you how to do that in a second, but just so.
+
+[00:10:23.500] - Liz Stapleton, Host
+You know. It's very much like the way Thrive is built, too. It is. Okay, yeah.
+
+[00:10:27.960] - Pete McPherson
+Very similar.
+
+[00:10:29.740] - Liz Stapleton, Host
+I say to someone who just moved over to Gutenberg four months ago. I'm like, from Classic Editor Thrive to Gutenberg and Block. It's just a little learning curve.
+
+[00:10:41.960] - Pete McPherson
+That's a lot. It's a lot of learning curves. That's multiple learning curves.
+
+[00:10:45.460] - Liz Stapleton, Host
+That looks good on the side, the table of contents.
+
+[00:10:48.430] - Pete McPherson
+Yeah. So I literally built this as a little template first, and then I just inserted it. I just dragged and dropped, which I'll show you in a second.
+
+[00:10:55.450] - Liz Stapleton, Host
+Yeah.
+
+[00:10:56.140] - Pete McPherson
+All right. So let's go super basic here, Liz. There are a few different ways to do this. I'm going to add a new page. My cat is over here, clawing at the door. It's locked in the room with me. Poor cat. I'm going to say this test landing page. You'll see this edit with Elementor button up here. If you don't have Gutenberg, it'll be right here in the center or somewhere.
+
+[00:11:19.350] - Liz Stapleton, Host
+At Gutenberg, though, guys, just do it. Just rip the bandaid off and go. It's actually not that bad. You just go convert to blocks.
+
+[00:11:27.290] - Pete McPherson
+It's not that bad.
+
+[00:11:28.750] - Liz Stapleton, Host
+It's the page building stuff that I'm struggling with.
+
+[00:11:32.100] - Pete McPherson
+The page building stuff. So we're going to do two things then.
+
+[00:11:36.310] - Liz Stapleton, Host
+So much so that the Summit affiliate page and everything, I built that entire site Thrive because I was like, I don't know how to use it. I've got templates. I'm going to pay for this later where I have to build it again, but for right now. All right.
+
+[00:11:50.760] - Pete McPherson
+So two things, and then we'll actually use Elementor. Ignored this. I was doing this yesterday. This is a test blog post, obviously. And let's say if somebody already has one written that they published a year ago and they want to add an opt-in form or they want to add some social share icons to the bottom, you could still do that with Elementor. It may not be ideal, but you could still do that. That edit with Elementor button is always going to be there. Let's just open that up and see what it looks like. This is going to be a blank page starting from fresh over here, but we'll come back to that. All right, so here's our thing. This is the way it's currently being displayed in the theme. You can see that this appears down here. This is the basic blank spot. Add something here that you'll always see whenever you are in an Elementor builder. That's what this is. This is the Elementor builder. If you wanted to add something to the end of a blog post, I just want to show that to you. You can still hit the Edit with Elementor, and you can put it down here, etc, etc.
+
+[00:12:51.960] - Liz Stapleton, Host
+That's still possible. That's like a WordPress blog that's in there.
+
+[00:12:55.020] - Pete McPherson
+Okay. So lesson one, this throws so many people off. It's absolutely astounding, excuse me. Learning just how to get around and what the heck is going on. So I want to talk about this menu first. Obviously, the big publish button. You can also save draft.
+
+[00:13:11.930] - Liz Stapleton, Host
+You.
+
+[00:13:12.480] - Pete McPherson
+Can save this entire page as a template. These are mostly pretty self-explanatory.
+
+[00:13:17.090] - Liz Stapleton, Host
+Let me just ask a question. Once you save it as a template, are you then able to update that template? Yeah, of course.
+
+[00:13:23.600] - Pete McPherson
+Totally. You'll notice in the WordPress dashboard, right where we were, it said templates over here, you can just find one and click Edit with Elementor. Okay.
+
+[00:13:33.950] - Liz Stapleton, Host
+Got you.
+
+[00:13:37.260] - Pete McPherson
+Navigator is this little guy right here. There's nothing on our page yet, but this is actually pretty handy for moving stuff around like dragging and dropping. We'll show you maybe that in a second. Responsive mode, so you can see what it looks like on mobile or tablet and desktop. This also allows you to edit specifically for mobile, tablet, or desktop. I'll show you what that means in just a second. That's where you find that. This is a revision history. It's going to show you all the changes we haven't made any yet. Settings, this one's important. Everybody's going to be clicking this button because of this. Page layout. This is really important. Everybody gets tripped up by this. Default is exactly the way your theme shows a post or a page, whichever one you're doing. We just created a page right here. Default is how your theme shows it. That's important. Elementor canvas is like blank canvas. You can remember it like that. It's literally going to take away all of our theme elements. No header, no footer, nothing. This is what we're going to be using to build a little short landing page. Okay.
+
+[00:14:39.740] - Pete McPherson
+And Elementor full width is exactly what it sounds like. It's full width, but it still has your header and your footer. Okay. So many people don't change it from default, and they're like, How do I get things over here? Over here and over here. That's why. That's why. If you're using whatever your theme is prescribing as a post for a page. So that's important. Hide title, whatever, featured image. You can also just do this from the back end of WordPress. Change the featured image like normal, status, draft, that stuff.
+
+[00:15:13.170] - Liz Stapleton, Host
+Yeah, that's the typical editing the document type stuff.
+
+[00:15:17.440] - Pete McPherson
+Totally. So this settings button, very important just for the page layout. Okay, let's talk about these two really quick. This is the elements. You click that button, you'll always see the big list of stuff that you can drag and drop. There's a little login element. You can always delete that. Now you see what I did right there, right-click. This is important. If you hover... Actually, I'm skipping that. I'm sorry. I get excited when you stop. You can always find the elements here. You can always search. Excuse me. You can find global elements, which are elements that you can place anywhere on your site and update them once they're all tied together.
+
+[00:15:58.980] - Liz Stapleton, Host
+Yeah.
+
+[00:16:00.690] - Pete McPherson
+It's pretty self-explanatory, but it takes a little bit of trickery to get used to. Yeah.
+
+[00:16:04.340] - Liz Stapleton, Host
+In my head, I'm like, oh, that's the Thrive symbol. So I'm just translating everything so I can learn the new one.
+
+[00:16:09.610] - Pete McPherson
+For example, you'll see how I have a global opt-in form that I've designed once. I've set it up once with my... I've integrated it with Active Campaign for my email service provider, and now I can put this in my Twitter, on blog post, on the sidebar, and it'll just be one. And I don't have to update all of those. I can just update the one global widget, and it applies those updates across wherever I have it. Okay, so click this button, you can access all the elements. Clicking this button gets you a few global settings, default colors, default fonts. It's pretty self-explanatory. This automatically has all Google fonts in there, I believe. You can also upload custom fonts. I'm not going to get into that today. Default colors.
+
+[00:16:58.070] - Liz Stapleton, Host
+I wouldn't recommend it because that's just one more thing on your site.
+
+[00:17:02.950] - Pete McPherson
+I think a lot of.
+
+[00:17:03.610] - Liz Stapleton, Host
+Those are fonts. I feel like.
+
+[00:17:04.630] - Pete McPherson
+Google fonts are so many. Oh, Google fonts. Yeah, Google fonts.
+
+[00:17:07.580] - Liz Stapleton, Host
+Are- Yeah, I would totally would use Google fonts. I want to upload additional because I'm like, you don't need to add more things like that to your site.
+
+[00:17:14.420] - Pete McPherson
+Well, that's what I've been doing just because it's faster, but I'm actually getting away from that, believe it or not. Anyways, another video, another video, another time. Okay, the three types of building blocks. If Elementor is a page builder, using blocks or different sections, whatever you want to call it, there are three hierarchies. The top one would be a section. This right here, hang on, let's go to page layout canvas, is a section. And then you have columns and then you have the individual elements. And you can edit settings for each of those. Let me show you what I mean. It came with a default section. This is like a big section. You can click this to drag it. You can actually click this to add another section, by the way. Let's go with a two-column section. You can do it again. These are sections. These are the big overarching things which you can put stuff into these are sections. You can also click that plus sign to add another one as well. Click the X to close that. You can obviously click the X to delete it. Again, this is like a drag and drop.
+
+[00:18:20.190] - Pete McPherson
+You can move it around. But the most important thing is the right-click. All the settings are accessed via right-click now.
+
+[00:18:27.920] - Liz Stapleton, Host
+Oh.
+
+[00:18:29.040] - Pete McPherson
+Yeah, or not all of them, but that's how you access the settings. One more thing. You'll notice when I click on this... Well, actually, you can't tell right now. Let's put a little element in here so you can tell. This area right here where I access how to edit the actual content and the design and stuff like that, it changes. I click on this section, it says, Edit section. If I click on this column right here where I'm clicking, Edit column. If I click on this little text, edit element, whatever this is, edit text editor. Okay. As you click around on these, this is what columns look like, the black things right here. You can edit those columns. This is important, trying to figure out how do I change the background color of just this column right here? How do I add another column? I could right-click and edit the column settings. There's one called Add New Column. How do I edit the settings on this text editor? You click in there and here are the others right here. You're going to right-click on there, Edit Text Editor, duplicate, copy, save as a global, etc, etc.
+
+[00:19:39.260] - Pete McPherson
+So sections, the biggest, broad things, columns are what's next? Every section has a column. If I added a new one right here, it has one column, as you can see, section column, and then the individual elements, whatever you throw in there. Let's throw a button in this one. Okay. There we go. Let's go over the three remaining things, and then we're done. This is all the behind the scenes, how to edit stuff, and then we'll actually start making some changes here. Content, obviously, that's where you change the content. That should be pretty self-explanatory, but there you go. You can change the way buttons look, the size of the buttons, the alignment where it links to the text join our thingy, the type, the learning button, the little success button, different icons, icon spacing, button idea, a crazy amount of stuff you can do, but primarily it's having to do with the content, what the thing is. Style is the way it looks. Changing the content, changing the way the content looks. Again, pretty self-explanatory, but there you go. And the more people play around with Elementor... I'm going to add another thing. I click that right there.
+
+[00:20:53.400] - Pete McPherson
+Let's add in a... I don't even know what the heck this is, how it forms. Just drag it in here. There we are. The more people start playing around with these and editing different elements, they'll realize that most of the settings are actually the same. Once you get used to this, you'll be able to go for styling all sorts of things that much quicker. Most of the settings are the same. Some elements have different aspects, but most of it's the same. -yeah. -advanced are... Is that what it sounds like? Margin and padding. I don't know how deep you want me to go into CSS.
+
+[00:21:26.390] - Liz Stapleton, Host
+-margin is outside, padding is inside.
+
+[00:21:28.630] - Pete McPherson
+That's absolutely right. So if I go to this column right here, let's make things different colors. I'm going to go change the background. Background type, classic color, red. Let's make this other one green just so you can see what the heck is going on here. This is beautiful. I love the way this is turned out. Not really. Let's say you want a more padding. Margin and padding, by the way, some of this maybe you'll use eventually if you're super advanced, but margin and padding, people actually use a great deal, and so they need to know it.
+
+[00:22:04.470] - Liz Stapleton, Host
+Yeah. You want to create white space, I mean, it's orange space in this case, but you typically don't want the copy or the content to be super white on the page. So you think those can.
+
+[00:22:14.730] - Pete McPherson
+Really help adjust things. I'm going to change the background color of this column, not the section, but the column to white. There we go. Obviously, margin would be making the entire thing push in. If I can just highlight this and delete it, all these links, by the way, you can click that and do individual stuff like that. If you just hit delete, it'll actually reset it. I wish there was a button for that. They would put a reset button, but they don't. So they go. Padding is going to keep the white border where it is and just push the rest of this stuff in. There we go. Yeah, margin outside, padding inside. Good job, Liz. Perfect.
+
+[00:22:59.360] - Liz Stapleton, Host
+Five years blogging, man.
+
+[00:23:01.190] - Pete McPherson
+I know. So what else? Other than this, it might just be helpful. Again, the big things are knowing your page layout and what the heck you're doing there. This is a blank canvas. This is with a.
+
+[00:23:16.280] - Liz Stapleton, Host
+Header- I think you even have an Elementor course, if I remember correctly.
+
+[00:23:20.380] - Pete McPherson
+I do.
+
+[00:23:21.110] - Liz Stapleton, Host
+Yeah. I think I even have it. I need to just take it because it's part of a bundle. Anyway.
+
+[00:23:25.360] - Pete McPherson
+So, yeah, this obviously one of the most important things, sections, that's the big chunks you can always access it.
+
+[00:23:34.140] - Liz Stapleton, Host
+The hierarchy is important.
+
+[00:23:36.150] - Pete McPherson
+Yeah. You can right-click and access some stuff right here. Plus sign as new. X deletes, obviously. Columns are another thing. You can also add a new column right here. There is a dragging thing for columns if you want to make something wider.
+
+[00:23:53.010] - Liz Stapleton, Host
+Pretty handy. I think my problem is I was on the free version. I can even share my screen just so people can see the difference a little bit if they want to. I might add that in after or something.
+
+[00:24:04.550] - Pete McPherson
+Okay. And then the individual elements accessed by clicking in there or clicking the little box in the right corner. Columns, left hand box, elements, right-hand blue box. I don't know why, but there it is. Okay. So you tell me, Liz, how we're doing on time, and if there's anything specific, would you like me to just quickly build out a page that looks decent so people can see what I'm doing and how I'm.
+
+[00:24:33.840] - Liz Stapleton, Host
+Doing it? Yeah. Let's just quickly build a squeeze page. We already got half the elements we need on here.
+
+[00:24:38.190] - Pete McPherson
+Okay. Well, I'm going from scratch. This is hitting something on me. Okay. Sure.
+
+[00:24:43.290] - Liz Stapleton, Host
+Let's build out a squeeze page, which if anyone doesn't know, it's perfect for the canvas layout because the idea is they either do what you want on the page or they leave.
+
+[00:24:54.020] - Pete McPherson
+I'm literally just going to copy one. How about this one? Sure. That looks good. Sort of, right?
+
+[00:25:03.530] - Liz Stapleton, Host
+Yeah.
+
+[00:25:04.370] - Pete McPherson
+Can we just... Oh, wait. Okay. Cool. Okay, well, this is- Does it make tables like that? This is a pop-up. Let's just pretend this was a page for now. I'm going to add one huge section. I'm going to change the height to be fit to screen. That's going to make it like... You can see it changed to the height of my screen. And if I were on mobile, it would change it to the height of my screen. That's how you make a big Jumbo. They call it Jumbo drawn. I'm just going to do it this way. Let's go and change the background color. Let's put a site title. They have these, by the way, which aren't edited right here, but they just pull from your WordPress site, site logo and site title. When I put this in here, it should just say, Do You Even Blog okay, it did. I thought that really worked. Let's go with... That's the wrong thing I'm editing. Let's edit this section. Background type. Let's get a nice color for now. We can always add an image as well by dragging something right here. What if we just do like...
+
+[00:26:15.560] - Pete McPherson
+That works. I don't know how this is going to look, by the way, but I don't know. People could change this, though, in the template. When I export this, obviously, please don't use me looking like an idiot on.
+
+[00:26:27.550] - Liz Stapleton, Host
+Your thing. Yeah, it'll look funny. It'll look like you didn't do it. Yeah.
+
+[00:26:32.940] - Pete McPherson
+I always use no repeat just because I don't want the image to repeat. Sometimes it does some different size screens. You don't have to do that. Size, I wanted to cover the entire page like that. It was zoomed in by default. I'm going to go change it to be like this. Okay. All right. If I didn't want to do fit the screen, I could also do minimum height, which you can set exactly what it sounds like. A minimum height. A child was banging in my door. Let's go with the screen. I also want to do full width. At the moment, you can't really see it, but it's not actually stretching to the very edge of the page. We can see it on the video. No, it still looks like it is right now. But either way, you can do stretch section, and that actually pulls it out to the very edge of the page.
+
+[00:27:25.010] - Liz Stapleton, Host
+Okay.
+
+[00:27:26.030] - Pete McPherson
+And also, you'll notice that this - I.
+
+[00:27:27.360] - Liz Stapleton, Host
+Think the thing when it's known, I was trying to do my page, I guess.
+
+[00:27:30.480] - Pete McPherson
+Yeah, and it's helpful to learn each of these and how they can be manipulated. You also see how wide this column is right here. That's because the content width is boxed. If I choose full width, it's going to stretch this out to the edge of the page as well. Okay. I am just going to keep it boxed for now. You can also change... This is really narrow. Let me change it to pretty far out there. Okay, that looks pretty good. So let's add... Let's go back on. I like this section over here. This column over here is nice. I don't think I'm going to do it at the very top of the page. Logo, I'm just going to keep my name. Let's add in this stuff over here in this column. So it looks like a headline, a heading. We'll add that below it and then a paragraph. We're about to go back and make all this look a little bit better. Then there was a button, View Details, that is button right here. Drag it in. We'll say I'm having trouble dragging, which does happen, by the way, that's where the Navigator comes into play.
+
+[00:28:43.790] - Pete McPherson
+You can also just hit Command I or Control I, but you can also find it to the button right here. So this Navigator is not working.
+
+[00:28:52.380] - Liz Stapleton, Host
+But it'll just list all the elements you could drag them in the Navigator if you want. Yeah.
+
+[00:28:56.300] - Pete McPherson
+This has been the case as of this week, by the way. I've never noticed it's.
+
+[00:29:00.420] - Liz Stapleton, Host
+Happening until- It might be an update needed of.
+
+[00:29:02.710] - Pete McPherson
+Some sort. It could be. Apologies, folks.
+
+[00:29:05.510] - Liz Stapleton, Host
+Anyways- By the time they see this, hopefully, it'll be fixed.
+
+[00:29:08.710] - Pete McPherson
+Yeah. Let's make some of this look a little bit better. So site title, I clicked on this, by the way, I came in a file, text color, all right, typography. I'm going to bump the font size down a little bit just like that. Now, this is an important part. What about on mobile? This is a heading. I'm going to make this look like a really big heading. I'm going to change the color to white as well. Make it look like a big heading. I'm not talking about major, babe. I love big fonts. Do something like that. That looks good. This obviously is going to be white, too. Yeah, we could actually do a white background if we want a darker text. I'm not going to do that right now, but people could do that. Let's drag this up a little bit under here. There we go. All right, All this stuff is viewable. Let's change the color of the button, by the way. What was view details? Let's do that. View details. I'm going to leave the link blank. Let's do a pretty edit style. Coming over here to background color.
+
+[00:30:20.040] - Liz Stapleton, Host
+-farm is good, I think. -yeah.
+
+[00:30:22.020] - Pete McPherson
+Let's do a little bit. I don't know. Text color, I'm going to make that dark details. It'd be cool if you can pull that purple. Anyways, it doesn't matter. All right, we're on our way. What about mobile? This is important because I don't want people to miss this. A few different things you could do here. There was this responsive mobile button down here. Right now, this is probably not optimal, obviously. Tablet, same thing. It's cutting off half my thing or whatever. I want people to know this. When you edit things on mobile or tablet or whatever, you're just editing on mobile or tablet or whatever. You will see, if I'm going to change this headline size, you'll see this little icon right here. Okay. By the way, you can also click this and go back to tablet, desktop.
+
+[00:31:18.880] - Liz Stapleton, Host
+Okay.
+
+[00:31:19.490] - Pete McPherson
+As I'm editing this font size and I'm like, Okay, I want it like this big. You could just click over here to mobile and then, Oh, I want it that big on mobile. It's pretty handy, and it hasn't changed a thing on desktop.
+
+[00:31:37.110] - Liz Stapleton, Host
+That's.
+
+[00:31:37.520] - Pete McPherson
+Just worth noting. Again, you could just come down to mobile and then just edit everything as usual. Like that size, I want it to be a little bit smaller, 14. By the way, you can also change things like alignment. Anywhere you see this little icon and you can change the way it looks, you can change that setting just for that device size. Okay, got you. So I want this to be aligned center on mobile, just mobile. It's not going to change the alignment on desktop. It's still way over there. Center. And what about this too? Center. And what about this too? Again, you don't have to do this, but you could. Again, you see that little icon, you know it's able to do that. So you could just make everything centered on mobile if you wanted to. There, it's not going to change. Let me go back here. Boom, there we go. Okay. All right, so let's just complete our little exercise here. I'm actually going to go back to my section settings, change my content width a little bit less, bring that in right there. And I'm going to add another column here. I'm going to add another column.
+
+[00:32:48.810] - Pete McPherson
+Let's make it a little bit like that maybe. That looks pretty good right there. So I'm going to introduce you to one. Oh, here's another trick. Save it. Save stuff. Saving is good. It doesn't save automatically, which is frustrating.
+
+[00:33:02.980] - Liz Stapleton, Host
+Oh, that's a great. Yeah. Always work on saving.
+
+[00:33:06.000] - Pete McPherson
+That's.
+
+[00:33:08.430] - Liz Stapleton, Host
+Built into us as kids because we're used to...
+
+[00:33:11.730] - Pete McPherson
+Google Docs.
+
+[00:33:13.310] - Liz Stapleton, Host
+I just don't know how easy they have it with automatic save.
+
+[00:33:18.470] - Pete McPherson
+It's true. All right. So we talked about sections, columns, and elements being the only three hierarchies. I'm about to throw a wrench at you. There is an element called intersection. Okay. Basically, they made this because people were complaining like, I want another section within a section. I want columns within columns. On this column right here, I want more columns. I want columns within column. So they made this called intersection. I'm going to drag this over here just like an element, and it added another section. So now I can make more columns. Basically just to get you columns within columns, that stuff. It's pretty handy, actually. So I am going to just throw that in. I'm going to put everything in this intersection for now. What was the... Join us now. They got a little headline area right there. Let's just throw that up.
+
+[00:34:14.250] - Pete McPherson
+Cool. And let's make that centered. Join us today. Let's make the... There we go. Now we get a little bit advanced here at Liz. So they have theirs underneath their background. There are a million gillion different ways you could do this in Elementor that's part of the problem. People could do this different ways.
+
+[00:34:36.570] - Liz Stapleton, Host
+Yeah, people think differently. You do it different ways.
+
+[00:34:39.200] - Pete McPherson
+Yeah. So you could actually update the background under Advanced, background just for this element. I'm going to just try that for a second. Let's see what this is like. You could do that. And you could make it maybe a little bit more padding in there. You could do it that way, and then you could add something underneath. I'm actually going to undo this and try to background.
+
+[00:35:04.170] - Liz Stapleton, Host
+Let's just.
+
+[00:35:05.260] - Pete McPherson
+Click that. There we go. It's at an intersection. I'm just going to leave it in that intersection and change that settings. Let's go style, background. Actually, what is this color? Let's just grab this color. Let me go in here, copy and paste this code down here. I don't know if there's a dropper function. I don't think there is. Anyways, I don't know. There we go. And say I wanted to make this heading text color dark. I want to.
+
+[00:35:37.680] - Liz Stapleton, Host
+Challenge you to see just how fast you can do this.
+
+[00:35:41.180] - Pete McPherson
+Do what?
+
+[00:35:42.170] - Liz Stapleton, Host
+I want to see how fast you can do this. It's like, right.
+
+[00:35:45.740] - Pete McPherson
+Okay, so I got that. Why don't we... I'm trying to think here. Let's just duplicate this. What are we trying to do? A form. Okay, so let's remove this guy and drag in a little form. All right. This intersection, I'm going to change the background to off white like they had it. I think it was almost white. It's like right there, something like that. All right, we're getting there. This isn't bad. If you click away, by the way, you can actually preview what it looks like. Yeah. There we go. That's not bad. So what have I got? I got a bunch of different things right here. You can see there's more spacing up here. You can also see this cool little arrow thing. We could totally do that. I'm going to go back to this intersection. It's called a shape divider. There we go, shape divider. Bottom, let's do a arrow. I think I got it the wrong way. Arrow. Okay, there you go. I guess some of this is like playing around with. That's totally not it. Oh, man.
+
+[00:36:59.580] - Liz Stapleton, Host
+No, you're You just need to do the width, not the height.
+
+[00:37:03.210] - Pete McPherson
+It's true. But as you can see, it was actually changing the... Here, I'll show you.
+
+[00:37:07.250] - Liz Stapleton, Host
+No, it's okay. It's good. We've got a wrap up.
+
+[00:37:12.060] - Pete McPherson
+It's pushing the white thing.
+
+[00:37:15.380] - Liz Stapleton, Host
+Got you.
+
+[00:37:16.820] - Pete McPherson
+Yeah, I'm sure I could fix that.
+
+[00:37:18.520] - Liz Stapleton, Host
+This is where different brands do different things. I would do that and then add padding, but everyone does things a little differently.
+
+[00:37:24.050] - Pete McPherson
+Everybody does two things differently. That is a very important part. What I would probably do is come down to this section, the one below it, and add another shape divided to the top. Top. Arrow. Is it actually coming through? I can't see. It is. It's just looking very odd. So shape divider, color, maybe a little bit taller. Not that tall. A little wider. I guess it's hard to see. Okay, well-.
+
+[00:38:01.840] - Liz Stapleton, Host
+We get the idea. You can always tweak and play around with things, and you usually will. Remember, when you tweak and play around to tweak the mobile to check it there. Totally. That's always very important. But I think you pretty much... Because then you just do a shape and a wire at the bottom to do a zig-ag. Yeah.
+
+[00:38:17.620] - Pete McPherson
+Another thing I'm going to.
+
+[00:38:18.460] - Liz Stapleton, Host
+Do- you can move the page in 15 minutes or so.
+
+[00:38:21.950] - Pete McPherson
+Totally. Another thing I'm going to do is just add a little bit more padding to this intersection just to really open up space like this. Yeah. Same thing with this down here. You could also do it to the column, which is generally where I start instead of intersections. But since we have them, let's just try it this way. Padding, let's just bump it up. I would probably make those the same padding, by the way. I'm going to actually get rid of the labels on this form. I just clicked on the form, get rid of this label. Now we're looking good. Let's edit a few things here. Column rows gap, spread it out just a little bit. Yeah.
+
+[00:39:00.510] - Liz Stapleton, Host
+And so I think you said you're going to export this, and we will include it in the Summit for people to get. And definitely, I mean, Do You Even Blog is just an excellent resource. Any final piece of advice, words, I could get if you were offering a preview besides this. I think it's plenty, but anything else you would add?
+
+[00:39:22.120] - Pete McPherson
+I don't think so. Again, everybody goes through the learning curve of learning everything that I just did. But they're not paying me... Let me to say this. It's such a versatile and powerful tool. It just goes with every WordPress theme, every WordPress website. You can use it as much or as little as you want to. It's so versatile. Just don't use Divi. That's my party.
+
+[00:39:44.740] - Liz Stapleton, Host
+Don't use Divi. Please, don't use. I'm like, okay, maybe I could actually use Elementor now, and I might need to go upgrade. And I'll post it. I'll just add it in five minutes be like, this is what the free version looks like, guys. And this is probably why I was struggling just so I can compare the two. I feel like seeing a list of features is hard to really visualize what that difference is. So thank you again. I really appreciate it. This is amazing. It looks really good. And everyone follow all his links and stuff below. And thank you again. I appreciate it.
+
+[00:40:18.850] - Pete McPherson
+You're welcome, Liz. I hope everybody gets a lot out of this. Any questions are also welcome to email me, technical questions on Elementor, pete@doyouevenblog.Com. Happy to hear from you.
+
+[00:40:28.390] - Liz Stapleton, Host
+Awesome. Yeah, definitely talk to him, guys. It's great. All right, guys. So when I did the session recording with Pete, I mentioned that I would just quickly show you what the free version looks like, because I definitely struggle with it. I don't know if some of the tips Pete taught me will help. But this is just a page, just like a test page, we're going to call it. I'm going to hit edit with Elementor. Let's see how it goes now that I've learned a little bit. But that way you can see what elements are available and what aren't. So let's see. Okay. It's already going a lot better. Let's make it a color. All right. Then the section. I'm just going to try to quickly build the same layout that you did. And I think there's a button. I don't know what that looks like. Color. Pink. Something. All right, and then, going to add a column. This is already going so much better for me, guys. I don't know if you've tried to use an Elementor before, but kudos, Pete. You're awesome. So this is just the free version. Obviously, it doesn't have as many elements.
+
+[00:42:59.760] - Liz Stapleton, Host
+Elements. I don't think there's a form element here. Let me check. Well, I knew ConvertKit form, so it works. There's global, I have obviously done that, but let's do...
+
+[00:43:44.900] - Liz Stapleton, Host
+It's possible I'm missing it or I just didn't do an intersection. I don't know if I did something right. I don't see how to do the arrow, but maybe that's where I need it. Let's try to put this here. Let's delete that column. Because I may be in the section there or so. I need to get the motion there. Maybe that's a paid thing, I'm thinking of this. Okay. I mean, never done this, I don't know what I'm doing. So it's going to be fun. Okay, so it's not going to actually show up. So this is different from the, I want to be able to see just how pretty or not pretty it looks. Just in terms of the portion. And then I have a little bit of a flower. I'm just going to try to get the flower. I'm just going to try to get the flower. I'm just going to try to get the flower. Yeah. So it's hard to see. So that's the free version. It doesn't give you as many of the elements, so it can't make it quite as nice as Pete's version. But I did just want to show you what the free version looks like.
+
+[00:45:45.910] - Liz Stapleton, Host
+There is a lot here. But if you want to really do exactly what you want on your site, then you probably do want to go with the Pro version. I'm also not delayed or anything because I'm just learning about this myself. I'm just curious. Sure. I'm going to go to. Yeah. Yeah. So hopefully that helps.
+
+

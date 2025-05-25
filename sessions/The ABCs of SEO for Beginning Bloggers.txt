@@ -1,0 +1,308 @@
+Title: The ABCs of SEO for Beginning Bloggers
+Speaker: Bobby Warren
+Website: https://woostermediagroup.com/
+Level: Beginner
+Category: SEO
+Length: 32:01
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/the-abcs-of-seo-for-beginning-bloggers-bobby-warren/
+
+Transcript:
+[00:00:09.720] - Liz Stapleton, Summit Host
+Today we're here, Bobby Warren, who's going to be dropping SEO knowledge, really kind of the basic stuff, especially you're just getting started. I know SEO can be super overwhelming. And the more you dig into it, the more you learn and the more you're like, "I can't do all of it." So, Bobby is here to help us out. Bobby, thank you so much for joining us. I really appreciate it.
+
+[00:00:28.260] - Bobby Warren, woostermediagroup.com
+Well, I am so grateful for the opportunity to join your Blogger Breakthrough Summit, because it wasn't very long ago that I was attending a blogging conference and got introduced to CEO and it led me out of a career as a journalist. And it was a blogging conference just like this, although it wasn't personal, not virtual. So it was a blogging conference similar to this that launched me on a career where I'm in my- I'm in my third year of business, but I've been doing SEO probably about five years. And in three years I am poised to triple my journalism income. So I hope the bloggers attending your Blogger Breakthrough don't underestimate what can happen with a conference like this.
+
+[00:01:23.230] - Liz
+Yes, I'm excited. I hope they get a lot out of it. I know they're going to learn a lot from you. I'm going to let you kind of take over, because I know you've got a presentation ready and I'll jump in with questions if I have them.
+
+[00:01:34.420] - Bobby
+Great. So, SEO stands for Search Engine Optimization. So since I started Wister Media Group, LLC CEO has been a core service of my business. As you know, SEO is very detailed and covers a broad spectrum of things. When I analyze a site. And for those bloggers out there, they do to make sure that they're using their header tags properly, the ones through H6. I generally never get lower than age three. Sometimes I go down to H4 pet or tags signal to Google that, hey, this piece is structured that each one is more important to signal intent of a page.
+
+[00:02:21.400] - Liz
+And the H1 is just the title. So, they shouldn't be marking any of their content that they're writing as H1; its just the title, correct?
+
+[00:02:28.570] - Bobby
+Yeah. H1 is kind of what's considered the main headline of your page, but it could be different than your meta title. So you have a page title and a meta title.
+
+[00:02:43.630] - Liz
+Okay.
+
+[00:02:43.830] - Bobby
+So, for example, we go to you go to my website. There might be a page one that says once you land on that page, the page title says, you know seven ways to use SEO strategies to boost your website or Google rankings. So that page title is like this big but. For SEO, you only want it that big, so your meter title, which a lot of people can change with your Yoast plug in, so you meta title might be shorter and your page title might be longer. The length of the- length of the page title doesn't matter, but the meta title does so little...
+
+[00:03:29.030] - Liz
+And I believe Yoast automatically will pull in whatever your header title is, but you can go on and edit that. So, when you go to the Yost settings on post, it should have a meta title section and that's where you can change that just for anyone who really doesn't know.
+
+[00:03:29.030] - Bobby
+Yeah, yeah. And and interestingly enough, I don't use Yoast, but it's like the number one plugin, but I don't I don't use it. So with SEO, you learning about your header tags, your meta title tags, meta descriptions of text, canonical links. So, there's just so much there's so much involved with site maps, Google Analytics, Google search console. And I know there are other search engines out there like Bing and Yahoo! But for the most part in the United States, you're looking at Google. They have like over 90% of the search market. So, SEO incorporates so many different things. You can't be an expert at everything. And I try not to. And what- where I've really been kind of focusing in on is really content and content optimization.
+
+[00:04:44.130] - Liz
+Okay.
+
+[00:04:44.660] - Bobby
+But I do a lot of other things. So what I want to do is kind of go through the what I call the ABC of SEO for beginning bloggers.
+
+[00:04:54.820] - Liz
+All right.
+
+[00:04:55.550] - Bobby
+So for my A, it's allocate resources for SEO immediately. Now, I was at a conference and it covered a lot of different topics. And one of the presenters who was very successful in her field, she had a popular blog, you know, in our industry, and she sat there and told people in the conference that we're at her presentation. If you don't have a lot of content on your site, don't invest in SEO. And it kind of made me cringe a little bit. Because SEO is all about getting your site to rank higher, it's removing any barriers, it's following best practices. And afterward I had a- I spoke with her in the hall and I was going to raise my hand in the middle of her presentation. And I said, "Look, I understand what you're saying. And, you know, if you have a small site, you know, you might not want to pay someone like me to do SEO work. But resources doesn't have to be your money. It could be your time and your talent. So go do a Google search, like what's the fundamentals of SEO? What is what do I need to know? So those resources can be your top. Like I said, your time and your talent.
+
+[00:06:24.660] - Liz
+Or your spouse's time in your wife's case.
+
+[00:06:27.120] - Bobby
+Amen. Yes, my wife, in fact. While we're speaking, she's doing research for a blog post for me.
+
+[00:06:40.860] - Liz
+I heard about it.
+
+[00:06:41.520] - Bobby
+So SEO is about helping people find you online, because if you have something they need, how are they going to find you? So, I don't care how big or how small your website is, SEO strategies can help. And so then when you do your Google search, Google is the number one search engine. And right behind that at number two is YouTube. Right? So, YouTube's almost becoming like a university because you can find out how to do anything. But when you find those pages, when you find those videos, it's because somebody is doing SEO, you really need to do it as well. And like I said, it doesn't have to be money. It could be you learning about it. And one of the things I want to do is, you know, offer your attendees something that will help them if they need you. So, we will have something free for them so that-
+
+[00:07:41.410] - Liz
+We'll have a link to follow this presentation that will steer them in the right direction.
+
+[00:07:46.570] - Bobby
+Right? So- so this person said, SEO, don't invest in. Well, one of my clients now, he wasn't a blogger, but he had revenue and millions of dollars a year. Right. And I looked at his website, I did an audit of this website, and it took 50 seconds for his page to load his home page- 50 seconds.
+
+[00:08:14.200] - Liz
+And Ideally you want 1 to 2, correct?
+
+[00:08:15.970] - Bobby
+Yes.
+
+[00:08:16.210] - Liz
+We [inaudible] talking tech and I think some SEO issues, but it makes it SEO too.
+
+[00:08:21.850] - Bobby
+Right. So, you really want it under three, two seconds is really good. But, you know. His page load speed, a web design issue, is that a development issue? Well, nobody took care of that at that level. So is the SEO guy who had to figure it out. Right? So- so if you you know, if you have a blog and it takes 10, 15 seconds for it to load, nobody's waiting around for that. They're going to hit the back button. And what's the- what's the next thing that I can go? Yeah. So, SEO is- is important as well.
+
+[00:08:56.530] - Liz
+I think they can go to it like Kingdome.com or whatever to check the load speed of their site.
+
+[00:08:56.530] - Bobby
+I use Web page, web page test and I believe it's dot com.
+
+[00:09:09.500] - Liz
+Okay.
+
+[00:09:09.890] - Bobby
+Thanks to Autofill I just put Web P...
+
+[00:09:12.530] - Liz
+And you can do a Google search for like website speed tests or something and it'll- it'll steer in the right direction. So you have some idea of how long it takes for your site.
+
+[00:09:25.070] - Bobby
+Yeah. And talking about like, well, I don't have a lot of content on my site. I just did a web video on it for. A business owner who is launching a site geared towards freelancers and while the site was in maintenance mode, I could not crawl it to do an audit. So, the second it went live, I did the audit and they were problems with the meta descriptions. There were duplicate H1 tags and you don't want to duplicate page titles. It just makes it confusing as search engines try to index your page and figure out what is this page about. So, the site went live and the second it went live, there are issues that just weren't caught in the Web development stage. Web developers are not SEO consultants. They might know SEO, but they are not consultants. It's not know if you find a web developer who's great at SEO. Or her.
+
+[00:10:34.290] - Bobby
+Hold on to them I should say.
+
+[00:10:34.450] - Liz
+Yeah.
+
+[00:10:36.270] - Bobby
+There you go, right. So I know SEO, but I don't know web development. I can build a website and I do, but I'm not a Web designer and I'm not a web developer. I just know how to use the tools.
+
+[00:10:49.450] - Liz
+Yeah.
+
+[00:10:49.910] - Bobby
+So and so would you allocate resources, whether it's a consultant or whether it's yourself? These kinds of things show up and you can address them so that you give your website every opportunity to succeed in the search rankings, which we call SERP's Search Engine Result Pages. But at the end of the day, SEO is about, you know creating content that best matches the searchers content or users. So Google wants to best match the searchers content with a page intent. And the better you identify that content to Google, the better your page will rank. So that's A.
+
+[00:11:35.630] - Bobby
+B is be careful with back links. Back links is an area that I have not done well with. When I say that, I just don't focus on it. And I'll tell you why. When we get to C, which is control what you can control.
+
+[00:11:54.470] - Liz
+Okay.
+
+[00:11:54.830] - Bobby
+But. Be careful with back links. Back links are important because- and what they are is when somebody with a website is linking to content on your site. They're telling their readers their site visitors, hey, this is really good information that will help you. So, when you get a back link, that's a signal to Google that, "Hey, this person knows what they're writing about. This is good information, good content." And so you're going to get kind of bonus points, so to speak, if you're going to rank a little bit higher.
+
+[00:12:36.330] - Liz
+[Inaudible]
+
+[00:12:36.630] - Bobby
+Yes. Your authority. Because back links show that you have some expertise, you have some authority, and that you have trustworthy content, what what we call EAT expertise, trustworthiness or authority. Although I got the letters messed up. I got them all, which is the wrong order. So. So you want back links?
+
+[00:13:04.710] - Liz
+But getting back high quality backlands is not very easy. But here's where I say be careful with back links, do not pay for a back link or back links. A friend of mine was starting a website and he says, "Hey, Bobby, I found on Twitter that I can get..." not on Twitter. "I found on Fiverr that I can get, like, three hundred back links."
+
+[00:13:34.630] - Bobby
+,Right and anyone that's pitching you that is spammy and it's not going to help you. Google doesn't like paid back links. They get mad at you.
+
+[00:13:41.650] - Liz
+Yeah. They get mad at you that you'll get penalized and you're going to drop in the rankings. Yeah. So do not pay for back links. However, there's kind of a side door to get into paying for back legs, which is not terrible, and a lot of companies do it, and that is with sponsored content.
+
+[00:14:06.920] - Liz
+Yeah.
+
+[00:14:07.650] - Bobby
+So- so one of my clients is a personal finance blogger and a company with a browser extension that helps you when you shop paid him for sponsored content.
+
+[00:14:24.490] - Liz
+Yes.
+
+[00:14:25.020] - Bobby
+So I ended up writing that content. And here's the interesting thing- I had no clue it was a sponsored content. I thought he just wanted me to write about this. I happened to use that browser extension. I love it. So when I wrote about it, I honestly wrote a glowing review because I love it and I use it almost every day. But that content was paid for and there were links going back to the browser extension. So consequently, that is a paid back link. But it's not what you mentioned earlier. I'm going to pay a fee and I'm going to get hundreds of back links.
+
+[00:15:06.660] - Liz
+It needs to be disclosed too and our legal sessions will touch on that. Right. But if you are doing sponsored content, make sure you're disclosing that that's a regulation. But also it helps Google inform kind of what's happening to.
+
+[00:15:20.940] - Bobby
+Right. Thank you very much. And I appreciate the legal products that you offer because I use them on my website. So, thank you very much. You know, as we're sitting here talking, I forget about your legal background because I'm just talking to SEOs. So we're you know-
+
+[00:15:36.930] - Liz
+I just I [inaudible] sponsored content because people sometimes forget or don't realize that a free product counts to other its actual payment or product. Yeah.
+
+[00:15:45.810] - Bobby
+Yeah. And so you can you can also write a guest post on somebodies blog, but it's probably not as popular as it once was. And it's different than what is a private blog network where you have these network of bloggers and they all share each other's links. That's not helpful either. So, you want to avoid paid links, you want to avoid those private blog networks. But guess posting is okay. Sponsored content. There's a service called Help a Reporter Out, which we call Hero. I call Night Cloud. And every day journalists are looking for sources. So, you can go to the website. You can see who needs an expert source or whatever your specialty is. If you're a personal finance blogger. If you're into parenting, health, wellness, whatever, you know, you can go to Help a Reporter Out and be a source and kind of get back links. That way you can look for podcasters who are in your industry and try to get on there and you'll get a back link and or.
+
+[00:17:02.780] - Bobby
+You know where I've been successful for client and says being part of Facebook groups of content creators and they say, hey, I need I need a certified financial planner who can talk to me about, you know, a Roth to Roth IRA conversion.
+
+[00:17:21.440] - Liz
+Yeah. Or they're just like "I'm doing a round up post. Who has a story on this, you know."
+
+[00:17:26.230] - Bobby
+Yeah.
+
+[00:17:26.750] - Liz
+Yeah.
+
+[00:17:27.680] - Bobby
+Yeah. So those so be careful with back links. They're difficult but not impossible.
+
+[00:17:33.450] - Liz
+Yes.
+
+[00:17:33.980] - Bobby
+And so my I C I kind of said was control what you can control. And so as an SEO consultant, I don't worry about back links maybe as much as I should, because I can't control whether somebody will give me a back links, but what I can't control is the content that I create. And so all your bloggers can control the content they create. So, I don't get caught up in this SEO rollercoaster- every time, you know- Google makes three to four changes a day, if not more, to their algorithm. Every once in a while you'll see something. They'll be like, "Oh, Google just released a major update of its algorithm."
+
+[00:18:24.570] - Liz
+Yeah.
+
+[00:18:25.920] - Bobby
+I do not get caught up in that because I focus on the content on the page, making sure it's the best that it can be. So, there's a guy I follow on Twitter, Bill Shalosky owns this company is SEO by the Sea and. Every once in a while film, he'll put out this blog post from Google back in 2011.
+
+[00:18:57.430] - Liz
+Okay.
+
+[00:18:57.990] - Bobby
+And what Google was after and said, you know, a lot of peoples- ask us, "What can we do to improve our rankings?" Basically, the advice is create quality content that will help.
+
+[00:19:18.640] - Liz
+Yeah.
+
+[00:19:19.110] - Bobby
+So, it has a series of questions. Would you trust this advice? Would you recommend this to a friend? Does it answer your questions as a quality content? So write good, relevant, informative blog posts that kind of answers a person's question.
+
+[00:19:39.360] - Liz
+Solve the problem?
+
+[00:19:40.930] - Bobby
+Exactly, yeah. If you cannot solve a problem, you don't have a business.
+
+[00:19:46.470] - Liz
+Yeah, yeah, exactly. IT all goes back top user intent. And that's whether you're doing optimization for Google or YouTube or Pinterest you know, if you want to kind of be clicked on- we have sessions on this too you- want it to be something that answers a problem and provides a solution.
+
+[00:20:01.590] - Bobby
+Right.
+
+[00:20:01.940] - Liz
+It's really it's a... It's user intent. And it's focusing on that and making sure you're providing results for them.
+
+[00:20:08.880] - Bobby
+Right. So in the link where we offer something to your attendees, we're going to have information on how to write and how to structure a blog post to help your rank higher because you need to like we talked about earlier, you need proper header tags, meta titles. You need good, catchy headlines that will bring people in. You need relative informative content, you know, are you targeting the right keywords? And so are you revisiting your content and updating it because there's something Google calls YM-YL Your Money - Your Life. And think about the position Google is in, you know, let's say God forbid somebody in your family has cancer and all our lives have been touched by someone with cancer. You know, I don't care if essential oils work or not, but does Google want to send somebody who's dealing with cancer to a site that says take essential oils. And I'm not being disparaging against holistic health and things like that, but you might need a little bit more medical intervention than essential oils.
+
+[00:21:31.940] - Liz
+Yeah.
+
+[00:21:32.710] - Bobby
+So- so make sure you're providing good, relevant content and control what you can control, and I've been able to help small websites rank, and when you rank and Google, you're in the top one hundred pages. So, a small website. Without a lot of domain authority, page authority was ranking because we controlled the content, a lot of things we can't control, but we control the content. So, we really spend time writing great content.
+
+[00:21:31.940] - Liz
+Yeah.
+
+[00:22:11.690] - Bobby
+It's as easy as that. And it was difficult as that.
+
+[00:22:15.920] - Liz
+So, easier said than done.
+
+[00:22:18.680] - Bobby
+Right. And D is distribute your content consistently. You cannot create a blog post, put it on Twitter or Facebook, Pinterest, LinkedIn or whatever else and say, "Okay, I wrote the post, I sent the link out. Yeah, that's it." It's like. After you create good content, I mean, your work has just begun.
+
+[00:22:48.230] - Liz
+Yes.
+
+[00:22:48.760] - Bobby
+So, what you can do with that blog post is you can create graphics and just highlight a quote and post that out with a link back to your site, you can create a thread on Twitter. And kind of take that blog post and make it almost like a micro blog post on your Twitter feed, you know, just by doing a thread, so you post the next thing in the content, you can take that content to a Facebook live. One of the guys I'm following on Twitter, he's starting to do a LinkedIn live. That's something that I've not explored. But I get alerts that says, Eric is LinkedIn live like, okay, I've never jumped in, but I get alerts for it. So. There's just a way you have to continue to recycle, repurpose that content and, you know, there are services out there that will now will take your blog post, missing letter, and it will create like a drip campaign, a social media drip campaign. It'll take that blog post and allow you to drip it out over the next year, like I think nine times over a year.
+
+[00:24:13.040] - Liz
+Yeah. And you can and I have a missing letter and yeah, you can you can kind of create your own custom campaign if you want to be heavier in the first few months or...
+
+[00:24:22.220] - Bobby
+Right. Yeah. And that missing letter help generate a lot of traffic to my wife's blog. So, stuff like that helps. But you have to continue to distribute that content, you know. You know, if- if anyone in here was in sales, you know, ABC is always be closing.
+
+[00:24:45.360] - Liz
+Yeah.
+
+[00:24:45.780] - Bobby
+Well, ABC always be content distributed.
+
+[00:24:13.040] - Liz
+There we go.
+
+[00:24:53.070] - Bobby
+So, finally, we're going to wrap up with E is evaluate your results and kind of the way you can do that is make sure you have Google Analytics installed properly on your website. Make sure you signed up for Google search console. And they have- they have your website indexed. So, if you're not indexed, people are not going to find you. So- so with Google Analytics, you can go in. And track how many people are coming to your website? How long are they staying there? Are they are they visiting more than one page? You know, that's called a bounce rate. Are they coming in and bouncing back out after one page or are they going somewhere else? So, Google Analytics will let you know what pages they're landing on. Now, for people who are in e-commerce, what have you, a landing page to someone in e-commerce is different than a landing page in Google Analytics. So, in e-commerce, a landing page is where you try to convert someone into a customer or to sign up for your email newsletter, sign up for a free product and get on the, you know, the mailing list. And what have you. But in Google Analytics, a landing page is just where did you enter the site and what page did you land?. And so then it will tell you your exit pages. Where are they leaving?
+
+[00:26:33.290] - Liz
+Yes.
+
+[00:26:33.450] - Bobby
+So, if you have. Like, I know for- I deal with some local companies and we have a contact us page, so if you finish that contact us page, we send you to a thank you page and say, "Hey, we're going to be in touch with you. Thanks for reaching out." So, if you get one hundred people landing on the contact us page at only five, getting to the thank you page, then they're not kind of reaching out and they're not getting an answer they might need. And Google search console that will tell you what pages how- how do people find you, which they call query search queries. So, how are people finding, you know, where you know, what pages are you ranking for?
+
+[00:27:24.930] - Bobby
+So, the joke is, if you want to bury a body, it on Google second page because nobody will find it. So, you want to make sure you're on the first page. You want to make sure you're in the top three. The click through rate after three after the third position on the first page just falls dramatically. So- so you really want to be in the top three. So, when you look at the Google search console, if you find that you're ranking like in the teens in the 20s, that's opportunity where you can optimize your content, you know control what you can control.
+
+[00:28:07.740] - Liz
+Yeah.
+
+[00:28:08.520] - Bobby
+And evaluate it. Do a- if you're trying to rank for Roth IRA conversion. Can you tell I worked with wealth management firm?
+
+[00:28:19.310] - Liz
+With personal finance space.
+
+[00:28:20.420] - Bobby
+So, if you try to rank for Roth IRA conversions, do a Google search, see who- see who is on the first page, look at what kind of head- headers. When I talk about headers, what kind of sections are on there? What is a Roth IRA? What are the tax advantages of a Roth IRA? What are you what are the pros and the cons? And see see what content you might be lacking and how can you improve it. So, evaluate your results. See if people are finding you, see if people- what kind of behavior they have on your site through Google Analytics and also social engagement isn't everything. But if you're going to be on social media, be social.
+
+[00:29:15.260] - Liz
+Definitely something I struggle with myself.
+
+[00:29:17.300] - Bobby
+Yeah. Yeah. So, because I do social media management for some companies, I have Twitter and Facebook open all the time, LinkedIn to a lesser degree. And so I find myself on it a lot. But, you know, there are people who are out there trying to sell, you know, they have trying to sell their course. They're trying to sell their eBook or whatever. And so what they do is they ask questions on Twitter or Facebook or whatever to- to engage with others. And then you respond and then they don't respond back. And it's like, okay, this is social media. But you can look at social media, see what kind of engagement you're getting and they'll let you know what you're doing. So, is there anything else? Like I said, we're going to have some we're going to have some type of content available for your bloggers so that, you know, if they did take notes, that's okay. Well, we'll break it down into something easy, easy to digest so that they can start growing their business from where it was and. Again, I appreciate the opportunity. I hope I did okay job.
+
+[00:30:44.690] - Liz
+Yeah, no, I think this information was great. Hopefully people aren't feeling overwhelmed. I feel like you broke it down and it is sort of easy to approach way. Definitely go check out that freebie Bobby's offering in his website information that is below or down to left or it's on the page, I promise.
+
+[00:31:05.900] - Bobby
+Somewhere.
+
+[00:31:06.230] - Liz
+But Bobby, again, thank you so much. And he answered questions in the chat. If you have more questions, feel free to ask. And I know he'll kindly answer for you.
+
+[00:31:17.870] - Bobby
+Yeah. And if you have further questions that doesn't get answered within the Summit, you can always reach out on Twitter. I am social on social media.
+
+[00:31:17.870] - Liz
+All right. Yes. Yes. And I think his Twitter link is with the rest of them on the page as well on the page. So, Bobby, thank you so much. And I hope we have a good rest of your day.
+
+[00:31:39.410] - Bobby
+You too. Thanks again. It's been awesome.
+
+

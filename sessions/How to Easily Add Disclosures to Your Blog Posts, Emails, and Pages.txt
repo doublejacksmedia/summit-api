@@ -1,0 +1,81 @@
+Title: How to Easily Add Disclosures to Your Blog Posts, Emails, and Pages
+Speaker: Liz Stapleton
+
+Website: elizabethstapleton.com
+Level: Intermediate
+Category: Legal
+Length: 8:31
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-easily-add-disclosures-to-your-blog-posts-emails-and-pages-liz-stapleton/
+
+Transcript:
+[00:00:13.250] - Liz
+In this video, I'm going to share with you why disclosure statements are important for your blog and or website, as well as what they should include and where they should be displayed. Alright, so let's dig into it. Why do you need disclosures on your blog? If you're like most bloggers, then you're probably monetizing your site in some way. You're likely using one, if not more of the following you're using ads, affiliate links, email list, sign up forms to market to them.
+
+[00:00:38.570] - Liz
+Or you're selling products. And certain laws and regulations apply, so Federal Trade Commission here in the US, if you're a US based blogger, has rules, particularly surrounding sponsored content and affiliate links. I just want to do a quick Disclaimer while I am an attorney, I am not your attorney. This video is just for informational purposes only. I want to help you understand why you need disclosures on your site and help you to get there. But if you do have questions, you know you need to talk to a lawyer in your specific state.
+
+[00:01:09.170] - Liz
+I mean, it's a general question. I hopefully will be able to answer you, but heads up. This is not like me, your lawyer. Okay, so let's get back into it.
+
+[00:01:17.710] - Liz
+What is required for disclosure? So, for affiliate links, you need to disclose before they could possibly click on the link, and it needs to be clear and concise. So, just saying affiliate link isn't enough. SGC has said a lot of people don't understand what that means, so it's not a good enough disclosure. Kind of think of it this way.
+
+[00:01:36.920] - Liz
+If your grandmother wouldn't understand what it was, then it's probably not clear enough. So, saying something like affiliate link is not good enough. But saying something like this post may contain affiliate links, which means I'll be compensated if you purchase something through the link, would be okay. Alright. And it needs to be above the link.
+
+[00:01:55.810] - Liz
+So, some people will put their disclosure in, their affiliate disclosure in a Sidebar. And that's not good enough because a lot of people are using mobile when they're looking at websites, and typically the sidebar content gets pushed underneath the post content like the blog post, and then the sidebar content, which would mean that the disclosure is after the links. So, chances are you don't want to put your general disclosure in the Sidebar. You want to put it before the link somewhere in your post. Alright.
+
+[00:02:25.100] - Liz
+I'm just going to show you sort of one simple and easy way to insert disclosures and disclaimers easily into posts or pages without like having to always copy and paste and remember. And I got this tip from Grayson Bell, I Mark Interactive. So, I'm going to go to plugins and I'm going to go to add new.
+
+[00:02:52.190] - Liz
+I'm going to search for ad inserter, alright, install. Okay, and activate. Okay. So, now when I go to a good tool, no, settings. If I go to add inserter, in this block, I can type in my disclaimer, right. Okay. Scroll down.
+
+[00:03:27.430] - Liz
+So, I can say that I want to impose and I can say individually disabled or enabled. So, if I do individually disabled it'll, display it on all posts. Okay. If I do individually enabled, it will only display it where I choose to. And I can also say where I want it to be.
+
+[00:03:47.410] - Liz
+So, I can do before post content, after you know certain paragraphs of own, do it like after three paragraphs. It's not the first thing people see. But remember, if you're doing it after three paragraphs, you can't have any affiliate links in those first three paragraphs. So, just something to think about.
+
+[00:04:01.860] - Liz
+Okay. And then, like alignment center left, whatever, and then hit save.
+
+[00:04:10.430] - Liz
+Alright. I'm going to go to this. This is basically a blank website. So, you're not seeing a whole lot. So, if I go to edit this post, which is just like the standard welcome exist, there's now an add inserter widget on the back end, and I can say go ahead and enable this.
+
+[00:04:29.920] - Liz
+Okay.
+
+[00:04:33.210] - Liz
+Alright. So, now I've actually added some paragraphs in there. I've got these paragraphs and then I've got my disclosure in here. So, it's really simple to do. And you could do that for multiple disclosures, right.
+
+[00:04:45.870] - Liz
+So, I'm an attorney, so I might have that attorney disclaimer that I can individually enable on certain posts because it doesn't necessarily apply to all my posts. So Adsense is a great easy way to do it. If you have, like, Genesis plugin or whatever you can do like a hook. I've never used that tool, so I don't know how to do that necessarily, but there's also ways to do it. This is just one simple, easy way if you're not sure how to do it.
+
+[00:05:13.100] - Liz
+So, you can easily add it to all posts automatically or just do it to enable, then add insert or plug in is a great way. I'm going to show you how you can quickly add any, in most cases, like the affiliate disclosures or just other disclosures or disclaimers you need to include in your email marketing. So, we're inside the market, it's what I use. There's a couple of different ways you can do this. The first way is with email templates, and you can see I've got a few different ones here.
+
+[00:05:43.170] - Liz
+And this is one that already has the affiliate disclosures what I use most of the time. So, it's just got it at the top. You can see the default content. Let's go ahead and create a new one, so you can see how you do this. So, when you hit create a new one, it'll give you some sort of template.
+
+[00:06:02.400] - Liz
+I like to keep it simple. I think it works best. The deliverability, I can talk of it seems to be better. So, if I just go here and let me just make sure I've got the right disclosure copy.
+
+[00:06:20.370] - Liz
+All right. Let's see if I can. There we go. And I like to italicize it all right. So, if I hit save or name it, I can then use it and I'll show you in a minute how to do that.
+
+[00:06:40.610] - Liz
+The other way you can do this is with a content snippet, so your disclosure doesn't actually have to be at the top of your email. It just needs to be before any affiliate links. So, if you don't want it at the top of the email, another way to make sure you're including it and not having to like type it is just to use a content snippet. So, I've got one here. I can just create a new snippet and then hit save.
+
+[00:07:17.330] - Liz
+So, when I go to broadcast and I go to create a new one, let me use this one. There's a couple of ways I can do it, so I can either add in the snippet disclosure short code, or if you're using the newer editor in ConvertKit, there will be like a plus sign and you can go to snippets and then select it. Alternatively, I could select my affiliate email. So, if I preview this, so because I use the affiliate email template, it's showing it at the top, and then I also have it here where I'm going to put, for example, affiliate links.
+
+[00:07:58.430] - Liz
+I just want to do regular, though the snippet would still work.
+
+[00:08:02.420] - Liz
+So, those are two ways with in ConvertKit that you can easily insert any disclosures or disclaimers you need. And I would assume other platforms have some similar functionality. I'm pretty sure most have some sort of email template that you can use even if they don't have the content snippet. So, hopefully, that helps. And if you guys have questions, let me know.
+
+

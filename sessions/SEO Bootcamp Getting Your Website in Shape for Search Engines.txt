@@ -1,0 +1,374 @@
+Title: SEO Bootcamp: Getting Your Website in Shape for Search Engines
+Speaker: Mariah Magazine
+Website: https://www.mariahmagazine.com/
+Level: Intermediate
+Category: SEO
+Length: 37:58
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/seo-bootcamp-getting-your-website-in-shape-for-search-engines-mariah-magazine/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton, Host
+All right, guys. I'm super excited for this next session with Mariah from Mariah Magazine. First of all, Mariah, thank you so much for doing this. I really appreciate your time.
+
+[00:00:07.880] - Mariah Magazine
+Yeah, for sure. Thank you so much for asking. I really love talking about all of the stuff that we're going to get into. So I'm pretty soaked.
+
+[00:00:16.270] - Liz Stapleton, Host
+Yeah. We're going to be talking about SEO to search engine optimization, but particularly with how to really make your site SEO-friendly, on-site SEO, which I'm excited about because a lot of people don't realize there's difference. There's like an on-site, off-site. We'll get into that. But I'm excited to talk about that. Can you give us just a little bit about your background and what we're going to cover today?
+
+[00:00:38.790] - Mariah Magazine
+Yeah, for sure. Okay. So just like Liz said, I'm Mariah, an online growth strategist. I'm a founder over at mariahmagazine.Com, and I help entrepreneurs and creative business owners strategically grow their audiences through SEO and custom website growth strategies. So my whole thing is like, I believe that your website is just so much more than a few pages about your business. It's really where people can learn about you, engage with you, connect with you. It's your little corner of the web where you can share your passions and you can help your people and you can essentially make money while doing it. So my job is to connect you with your audience and to help your website be that driving foundation that really helps your business? Because if you think about it, that's like where all of your other online efforts point back to is your website. The reason why you're on social media is to get people over to the website. The reason why you have a YouTube channel is to get people over to your website. So SEO and these custom growth strategies that I use, the foundations of them don't just help you in search engines.
+
+[00:01:56.480] - Mariah Magazine
+It helps your website create this solid foundation for you to build upon. So that's why I'm super passionate about it. I actually got into it. I got into the industry doing website design, and then I saw that there was this huge gap in the market. It was like we would launch a client's website and we would all be super stoked about it. And then my client's like, All right, now what? And it's like I didn't have something for them. I didn't have like, Hey, go to this person. I didn't have a me to be able to appoint people to. You know what I mean? So it's like now I've transitioned and I'm focusing on SEO and growing and using your website strategically. So I actually partner with website designers. Those are my clients now and everything like that. So just how full circle everything comes is always really exciting.
+
+[00:02:49.960] - Liz Stapleton, Host
+Yeah. So let's go ahead and dive in because we're going to be discussing things you can do and some quick fixes you can even do for on-site SEO. But what is... Let's start off because I think some people may be confused. What is on-site SEO versus off-site SEO?
+
+[00:03:08.540] - Mariah Magazine
+I guess. Okay. Yeah. So on-site and off-site, it can also be referred to as on-page and off-page. So on-page SEO is more so the things that you have control over. It's the things on your website specifically. It's those SEO titles, the meta descriptions, your content itself, like your blog posts. It's all of those things. And then off-site actually has more to do with the promotion of your website and how authoritative Google sees you.
+
+[00:03:45.420] - Liz Stapleton, Host
+So it's like - Getting back links and things like that.
+
+[00:03:48.410] - Mariah Magazine
+That. Yeah. How your... What's the word that I'm... The authority, your reputation, your online reputation, how Google sees that. So people don't realize that that is a whole other piece to the puzzle. So so many people focus on, like when you mention SEO, everybody's like, keywords. Keywords content, keywords content, keywords content. Great. Wonderful. Writing blog post is probably one of the best ways to grow your SEO and your search rankings, and you do have control over that. The other huge powerhouse in terms of growing your SEO and getting better rankings is that offsite SEO. And noticed being in the online space that a lot of people aren't actually talking about that. They're not talking about the promotion of your blog post because that has something to do with it, too. So it's like you spend all of this time creating these blog posts and getting them perfect, making sure that your keyword is in your title and you're mentioning it here and all of these really great things, but nobody's seeing it. So it's like, how much is it really helping your SEO? And that's because you're missing that off page SEO portion, that promotion part.
+
+[00:05:05.880] - Mariah Magazine
+So I always tell my clients that you should be spending twice as much time promoting your content as you do creating it. And a lot of people are like, Wait, what? You know what I mean? There was always always.
+
+[00:05:19.850] - Liz Stapleton, Host
+That- like the 80-20 rule.
+
+[00:05:21.820] - Mariah Magazine
+Yeah, exactly. So it's like you really want to spend a lot more time promoting it. It's not good enough to go ahead and click publish on a a blog or create three blog posts a week and then promote none of them and then expect your SEO rankings to skyrocket. It's like, nobody's seeing this. There's so much content out there that you have to take it from a more strategic point of view. It's like, like, do I get people to see this content?
+
+[00:05:47.620] - Liz Stapleton, Host
+So.
+
+[00:05:48.730] - Mariah Magazine
+That's the biggest difference between on site and off site.
+
+[00:05:53.580] - Liz Stapleton, Host
+And Yeah. And we do have sessions on promoting with social media and and things. Definitely definitely check those for sure. That's super helpful. Yeah. So one thing, when I first started blogging, I was told, told, use Yoast. I was like, like, And I would try to make the lights green. And I mean, that's a whole other story. But then it wasn't until way way later I was like, oh, there's settings and all of my freebies are totally searchable in Google, which is not what I want. Can you share... I mean, Yoast and what similar plug-ins like that can do in terms of things you can adjust to make sure sure Google finding what you want it to find and how you can tell if it's it's.
+
+[00:06:42.910] - Mariah Magazine
+Yeah, for sure. Okay, so the biggest thing that I want to mention about Yoast is that at the end of the day, Yoast is a tool. So I know that so many people like the green light and everything like that, and they beat themselves up for not getting that green light. And And then like, Which keyword should I put in the focus keyword box? And it's like, that keyword that you put in is only how Yoast is reading your content and giving you an analysis.
+
+[00:07:12.600] - Liz Stapleton, Host
+It's not actually telling Google, Hey, this is a keyword for this post.
+
+[00:07:15.660] - Mariah Magazine
+Yeah. And that's a huge misconception. It's like, Well, what keyword do I put in here? And I was like, Well, Google is also going to see what the main idea of your content is. So I would rather you spend more time really focusing on on that content that Google thinks is helpful for your target audience. You know what I mean? Instead of sitting here... What was that?
+
+[00:07:39.230] - Liz Stapleton, Host
+Instead of trying to get green light for one keyword, but in reality, if it's a quality post, Google may rank it for multiple keywords.
+
+[00:07:46.260] - Mariah Magazine
+Yes, exactly. So that's a huge huge is that SEO really is a tool. And then especially if people are using Squarespace, they don't get to use Yoast. So people are like, like, a Squarespace? Is good. And it's like, Yoast Yoast is a Yoast is a really awesome tool that WordPress uses, but at the end of the day, it really is about your content and your website itself. But there are some settings in Yoast that you definitely want to pay attention to. Okay, is it cool if I screen share?
+
+[00:08:18.420] - Liz Stapleton, Host
+Yes, please.
+
+[00:08:19.420] - Mariah Magazine
+Okay, let me just just Can you see the back end of my WordPress?
+
+[00:08:23.340] - Liz Stapleton, Host
+I can.
+
+[00:08:24.220] - Mariah Magazine
+Okay, cool. Cool. So judge me on how many updates I haven't done. It's like the the Shoe maker's kid's have no shoes. I just reach updating your website all the time. And then I'm over here like, I'll get you my life.
+
+[00:08:40.520] - Liz Stapleton, Host
+I was like a Pinterest fan. I'm like, don't actually look at my Pinterest Pinterest accounts, look my clients. Clients.
+
+[00:08:44.840] - Mariah Magazine
+Yeah, Okay, so once you log in to WordPress and you download the Yoast plugin, you'll see that it shows up in your toolbar right here. So you can go ahead and click on that. That. I would download Yoast for a bunch of clients, and I realized that sometimes their features aren't even turned on. So it is important to come over here to Features and to make sure that you have your SEO analysis turned on, your readability analysis turned on, your site maps turned on. And then this is the admin bar menu is just like a preference type thing. So if you go ahead and turn that on and then then Save changes. You'll see that you'll be able to actually get Yoast straight up here in this toolbar, which is pretty cool. I think that it is a little distracting, so I turn it off. Okay, so then after you make sure that the right things are turned on, go go to Search Appearance, okay? And you're going to want to go ahead and fill out this information here. So either you're an organization or a business or a blog, or are you showing up as a person?
+
+[00:10:14.420] - Mariah Magazine
+So that's going to basically dictate the way that Google showcases your information in search results. And then you want to fill out this organization name and logo, and then settings for single posts. So do you want your post to show up in search results? You want to make sure that that's turned on.
+
+[00:10:38.980] - Liz Stapleton, Host
+Yeah.
+
+[00:10:40.140] - Mariah Magazine
+Another big thing is like the Yoast SEO Metabox. Want to make sure that that's showing up too, because that's what's actually going to give you more control over those customized SEO titles and those meta descriptions that are super important. And then if you scroll down, you have the same options for all the different kinds of content on your website. So let's say that you have products on your site, but let's say that maybe your products, you only want them to be available to people that are in your membership. Okay, so if that's the case, we don't want products to show up in search results. So then we would go ahead and toggle this off. So what that does is tell Google, Hey, these aren't for people in Google. Google. People search for things, I do not want my product showing up.
+
+[00:11:32.650] - Liz Stapleton, Host
+Yeah. And I remember I used to have Thrive leads or something, which I love. I've moved away for a variety of reasons.
+
+[00:11:43.460] - Mariah Magazine
+But.
+
+[00:11:44.110] - Liz Stapleton, Host
+When you search my site, a popup box would show up in the search, and it was because I hadn't toggled it off in Yoast. So even things like that where you're like, Go in and check, especially if you're in the midst of changing, plugins
+
+[00:11:57.760] - Liz Stapleton, Host
+ or tools that you you use, might show up and you may not want them actually showing up in Google.
+
+[00:12:04.390] - Mariah Magazine
+Yeah. And this page right here will change depending on the plugins that you have on your site. Yeah. So this right here is actually a Beaver Builder.
+
+[00:12:15.440] - Liz Stapleton, Host
+Okay.
+
+[00:12:16.250] - Mariah Magazine
+And so no, I don't want my Beaver Builder templates to show up in search results. So whichever plug-ins, which additional functionality you have on your site, that will dictate the options that show up in Yoast here. Then there's media and attachment attachment URLs, Taxonomies Do you want your blog post categories to show up?
+
+[00:12:42.870] - Liz Stapleton, Host
+Yeah. I do want to go go back... I want to just step to media, because if you are hosting your freebie PDF in your media library, you probably don't want that to be searchable on Google where people can find it and get it without signing up for your list. List. So might want to adjust adjust settings or just on the particular media PDF, say, no, make this a no index. And I'm sure we can talk about that.
+
+[00:13:06.570] - Mariah Magazine
+Because.
+
+[00:13:07.300] - Liz Stapleton, Host
+I've made that mistake too.
+
+[00:13:09.420] - Mariah Magazine
+Yeah, for sure. And honestly, best practice. I always suggest that you host your freebies on something else.
+
+[00:13:16.950] - Liz Stapleton, Host
+Oh, yeah, I do now.
+
+[00:13:18.260] - Mariah Magazine
+Yeah, for sure. Just because if somebody wanted to, they might be able to get access to it since it is in this WordPress database. If you look at the URLs, let's say, of media files, they're easier to guess.
+
+[00:13:36.030] - Liz Stapleton, Host
+What.
+
+[00:13:36.430] - Mariah Magazine
+They are. But if you go ahead and attach a Google Drive share URL, there's so many different numbers and letters. There's no way that anybody's going to be able to go out and guess those. So for security purposes, I definitely recommend starting a Dropbox or a Google Drive for free programs. Totally easy to use and use that way to share your content and the freebies themselves. But this is also an important thing for your freebie pages. Maybe you only have something that you don't want searchable.
+
+[00:14:10.800] - Liz Stapleton, Host
+Yeah, or the thank you page isn't searchable or something.
+
+[00:14:14.450] - Mariah Magazine
+Yeah. I will go ahead in just one second and show you how to change those settings and the pages themselves. So this is more so the overall rules for your site. So you can override these overall rules on each page and post and all that fun stuff. Actually, we can go ahead and do... Okay, so we also have the archives. So if you're a single blog post writer, you're going to want to disable the author archives. So if there's only one author on your site, disable that, because what that's going to do, it's actually going to show up as duplicate content, because because your post archive is going to be the exact same as your author archive. But if you have multiple authors, you're going to want to enable these.
+
+[00:15:13.460] - Mariah Magazine
+Breadcrumbs, this is just like a personal preference, depending on how your content is laid out. And then RSS feed. Do people still utilize this as much?
+
+[00:15:27.110] - Liz Stapleton, Host
+I have no idea. I'd say that I do, do, but- do?
+
+[00:15:30.600] - Liz Stapleton, Host
+Do? I I can't say say I do.
+
+[00:15:32.880] - Mariah Magazine
+Oh, okay. Yeah, yeah.
+
+[00:15:34.810] - Liz Stapleton, Host
+I probably said something up forever ago that I totally.
+
+[00:15:38.740] - Mariah Magazine
+Forgot about. Yeah, yeah, for sure. I remember when I got into the industry, RSS feeds were still like a really big thing. But if you are into the RSS feed, do you know that there are settings for Yoast in the settings page as well. Okay, so let's see. I think that they might have... Yeah, they disabled the Search Console accessibility in Yoast. So Social, go ahead and put in your social profiles. What this does is this tells Google, Hey, this website is associated with this social media profile. So it is best practice to go ahead and give Google a heads up on that. And then there's certain settings for each one that you can also also on your pages. So see. I'll just go into one of my posts and show where the settings that I was talking about is. Okay, so so depending on your theme, your Yoast box might be above your content or below your content. And it might be shown like this. It might not be open. So go ahead and make sure that you can click on that to open it. And then this is where that focus key phrase that we were talking about is.
+
+[00:17:10.990] - Mariah Magazine
+This box right here is just so the Yoast tool can go ahead and give you an SEO analysis. This isn't whatever you put in here, is then tapping Google on the shoulder and being like, Hey, this is my keyword. That's not quite how it works.
+
+[00:17:29.200] - Mariah Magazine
+But best practice is always create a customized SEO title for every single blog post and every single page on your website that you you showing up in search results. And then best practice always try to have your focus key phrase, the main idea of that page or post content in the SEO title and also put it in the meta description. So I know that the SEO analysis always recommends that. So I wouldn't worry too much about getting that green face right right because at the end of the day, you do want your content to be created for your users and not for search bots. That's a huge mistake that I see some people making. They'll reword this SEO title so that it's like super SEO-friendly and they get the green light. But then as a human reading it, I'm like, Wait, what? You know what I mean? It just doesn't really make all too much sense. Sense. Yeah, this is where you go ahead and edit those. But those settings that we were talking about... Let me see. See.. Oh, they're- Advanced.
+
+[00:18:44.540] - Liz Stapleton, Host
+They moved them on us.
+
+[00:18:45.900] - Mariah Magazine
+Oh, did? Yeah. Advanced. Okay. They did.
+
+[00:18:48.280] - Liz Stapleton, Host
+They moved them on us.
+
+[00:18:49.740] - Mariah Magazine
+Okay. So, yeah, in this main box, you scroll down a little bit, and you're going to see these advanced settings. So it'll ask you, you, search engines to show this this post search results?
+
+[00:19:01.320] - Liz Stapleton, Host
+Yes.
+
+[00:19:03.110] - Mariah Magazine
+Should search engines follow links on this post? Yes. And then if you wanted to apply advanced meta robots for this page, you can define certain ones. You don't have to really worry about this. This is pretty advanced.
+
+[00:19:17.810] - Liz Stapleton, Host
+But.
+
+[00:19:18.930] - Mariah Magazine
+It's mainly this one. So allow search engines to show this post. If this was a freebie page that you didn't want to show up in search search results- Or.
+
+[00:19:26.480] - Liz Stapleton, Host
+A link page. You want the the opt page to show up in search, but not like that. Here's where you download page.
+
+[00:19:31.480] - Mariah Magazine
+Yes, exactly. Then you're going to want to go ahead and click no for that and then follow links. No, you're not going to want that either. So then you would go ahead and update that. And that is how you keep a whole bunch of your posts actually out of Google.
+
+[00:19:47.190] - Liz Stapleton, Host
+Yes. Yeah. And if it was in there and you take it out, you might see some blips here and there, but it'll eventually register. Oh, that's just not part of it anymore.
+
+[00:20:00.500] - Mariah Magazine
+Yeah. So I actually recommend after you go ahead and change something like that, I would suggest resubmitting that blog post URL to Google.
+
+[00:20:11.990] - Liz Stapleton, Host
+Yeah, through the Google Search Console. We actually just covered that in another session.
+
+[00:20:17.040] - Mariah Magazine
+Oh.
+
+[00:20:17.440] - Liz Stapleton, Host
+Perfect.
+
+[00:20:17.990] - Mariah Magazine
+Yeah, we know how to do that. Yeah, that's awesome. So yeah, I would definitely recommend grabbing this post URL or that page URL that you change the settings and go ahead and update it so Google can can and get those settings right away. Because otherwise Google, it'll figure it out. You know what I mean? They'll come across it eventually, but the web is very vast. So if you just tap Google on the shoulder, Hey, just change this. Go scope it out, then that would probably be best. Okay. I'm going to stop sharing my screen. Okay. Right. Okay. So yeah, those are the main things that I would keep in mind when you're especially downloading Yoast.
+
+[00:21:09.960] - Liz Stapleton, Host
+Okay. Yeah, or any similar. I think rank math is another one that's been gaining attention. I'm sure settings are similar, but just to be aware that you do have that control and you you to make those adjustments.
+
+[00:21:22.850] - Mariah Magazine
+Yeah. And then if you guys have any questions on that stuff, don't be afraid to go to that tool's tool's website look it up. They have FAQs, they have getting started guides. So if you're going to download the tool, definitely take a few minutes just to learn exactly how that tool works and.
+
+[00:21:42.200] - Mariah Magazine
+In order to get the most out of it.
+
+[00:21:45.790] - Liz Stapleton, Host
+Yeah. And I think in our plugin session with Julie, she talks about what to look at before you install plugin like you.
+
+[00:21:53.600] - Mariah Magazine
+Just- That's so important.
+
+[00:21:55.740] - Liz Stapleton, Host
+Yeah. So definitely check those out. You mentioned one of the things not to do is to write for the tool as opposed to the person. What are some other big on-page SEO mistakes people make?
+
+[00:22:08.320] - Mariah Magazine
+Okay. So one of the biggest things is keyword stuffing. That we see is that people manipulate their content in order to repeat the same keyword and key phrase over and over again. But the thing is that Google and Google bots are actually getting smarter. So they do understand synonyms. They are being able to read a blog post and understand the main idea of the blog post based on the other content in the blog post.
+
+[00:22:40.620] - Mariah Magazine
+So.
+
+[00:22:41.640] - Mariah Magazine
+That's really awesome so that you don't have to keep repeating the same thing over and over and.
+
+[00:22:46.640] - Liz Stapleton, Host
+Over again. It's annoying to read.
+
+[00:22:49.070] - Mariah Magazine
+Yeah. And honestly, at the end of the day, it's your users and your website visitors that determine if your website is useful. It's not Google. Google is just the tool that combines them. Yeah.
+
+[00:23:01.720] - Liz Stapleton, Host
+And the thing is, if someone gets on your post and it's just keyword stuff, they're like, This is so so annoying to They're going to bounce. Right? And bounce rate and time on page. And those are all things that contribute to your ranking. So it's better to write for someone. And Google is going to... Because Google, they may put something on the first page, but then if everyone's bouncing from them, they're going to knock it down. They're going to push up the stuff that people are spending time on.
+
+[00:23:26.090] - Mariah Magazine
+Yeah, exactly. So it all correlates together. So I.
+
+[00:23:30.970] - Mariah Magazine
+Would say that another big mistake that I see with overall SEO and my website growth in general is that people don't take the time to actually get to know their audience. So that's what your entire website and your blog is built upon, is knowing exactly who you serve and then giving them the solution to the problems that you know that they have. So the target audience avatars that a lot of people download, I feel like like they're not as much as they could be. You don't really need to know what Sally Sue is doing in her spare time with her husband on the weekends. You want to know what problems she's having. What problems are she having right now that you can help with? And you want to know how she's explaining those problems and what she thinks the problem and solution are. So that's how you actually get your keywords. You go ahead and you switch the mindset of it like, Hey, if I was my target audience and this is my problem, how would I explain my problem into Google? And what solution would I expect to find? Yeah. So when you really get to know your people, how they word things, what their pain points are, you can translate that information and actually get a lot more from your SEO.
+
+[00:24:49.710] - Liz Stapleton, Host
+Besides just doing a mindset switch of how you look at that and try to keyword research, you have some other suggestions on how people can better know their audience to solve their problems?
+
+[00:25:02.790] - Mariah Magazine
+Yeah. So I would say, ask them. Talk to your people. You know what I mean? Email marketing is huge. Go ahead and send a survey. Are you on Instagram? Post questions there. Have conversations. Actually, something that I just did is I opened up a few coffee chats to connect with my people so that I can hear exactly how they are explaining their problems. And having that personal connection and just taking a little bit of time out of your way, that's a really awesome way to get to know how people see you, how people view you, and if you're making that solid connection or not, which ends up translating into your SEO. And then it's also like competitor research. See somebody that is doing a similar thing, has a similar audience to you. See what's working for them. See what's not.
+
+[00:25:58.770] - Liz Stapleton, Host
+Yeah.
+
+[00:25:59.020] - Mariah Magazine
+So yeah, those are definitely some things that like... It's like the research thing.
+
+[00:26:05.620] - Liz Stapleton, Host
+And then it's- a lot more work, but put on a summit.
+
+[00:26:09.160] - Mariah Magazine
+Yeah.
+
+[00:26:10.430] - Liz Stapleton, Host
+Seriously. And then ask questions and people register for it.
+
+[00:26:13.130] - Mariah Magazine
+Yeah, for sure. Sure. Like, it's just really taking that time to get to know your people, because in the long run, that's how people are going to start viewing you as an authority. That's how people are going to start recognizing you as the expert, is because they're like, Whoa, she knows exactly what I'm thinking. And then you're like, Yeah, I do. You know what I mean? You're super stoked on it. Yeah.
+
+[00:26:35.300] - Liz Stapleton, Host
+No, I like it. Yeah. So knowing your audience is another big mistake people tend to make. So once you start working on improving your SEO, whether that's revisiting your content, making it better, taking down things that aren't supposed to be there or things that just aren't performing well, how do you work on evaluating your SEO progress? Progress?
+
+[00:27:01.070] - Mariah Magazine
+So that all depends on your goal for SEO. So I always start the conversation with my clients. I'm like, What is the goal for your SEO? Why do you want to focus on this? Do you want to get more email subscribers? Do you want to get more sales? Do you just want to get more views? So how you evaluate depends on what that goal is. But I would say regardless, Google Analytics is a hands-down must-have. It's that free tool that allows you to dive in and to see exactly where people are coming from, what your bounce rate is, what pages or posts people aren't spending a lot of time on, what pages and posts they are spending a lot of time on. It's those data points that really help you get to know the actions that people are taking on your website, because at the end of the day, that's how how is doing it, too, is from those data, that data, those analytics. And then another thing is going to be your domain authority. Okay. So that's when I mentioned the off page SEO, that's where your domain authority hangs out. So Google, for example, like Oprah Winfrey's website, she probably has a very high domain authority because Google is like, she knows what she's talking about.
+
+[00:28:32.410] - Mariah Magazine
+People spend a lot of time on her site. Bigger websites are also linking back to her. So maybe Tony Robbins is also linking back to Oprah Winfrey site, or you know what I mean? The reputation is really, really good with people. But a smaller site that maybe just got launched, Google doesn't know anything about that site. There aren't sites linking back to it. The dwell time, the time that people are spending on the site maybe isn't as long as somebody spending time on an Oprah Winfrey's site. Yeah. So knowing your domain authority is a really, really big thing. That's going to help with benchmarking to see where your SEO score is and how you can manipulate it in a way that's going to help you.
+
+[00:29:23.490] - Liz Stapleton, Host
+Okay. And is there a way you can check your domain authority? Yes.
+
+[00:29:27.740] - Mariah Magazine
+So if you go to moz.Com, I'm actually actually going here. Me go to that website right now just so I can see exactly what they call it. So you can create a free account, and they'll let you you I think it's 10 searches a month. You don't have to pay for any of their tools, and their tools are quite expensive when it comes to SEO stuff. But if you click on free tools in the top right-hand corner, you can go ahead and enter your URL, analyze your domain. So it's also called the the link explorer, So if you scroll down on their free tools, you can click research with link explorer. So that's going to scan your website and see the domain authority number that google sees and that it associates with your website. And it also gives you a backlink profile. So it'll tell you what other sites are linking back to yours.
+
+[00:30:27.130] - Liz Stapleton, Host
+So.
+
+[00:30:27.990] - Mariah Magazine
+That is really helpful. And yeah, it's out of a hundred. But I don't want people to freak out if they go ahead and they put their website in and they see that their site's only eight out of a hundred. The only sites that have a crazy number, like in the the 80s, are are insane. So like New York Times, Amazon. You know what I mean? A normal healthy domain authority range for a smaller business or a smaller blog is like 30 . 40 in the 50s. That is a pretty decent domain authority. And then this is also a really awesome way to do competitor research. So you do get those 10 searches a month. Pop your competitors' URL in there. See what their domain authority is. See what other websites are linking back to them. So that might be a good way for you to pitch guest blog posts or press things or get listed in directories. It's this little tool that you can use to see the back end of your your statistics and numbers and all of that off page SEO. Good stuff. Yeah.
+
+[00:31:52.100] - Liz Stapleton, Host
+I'm looking at right now. I'm like, I haven't looked at this before. I told you I should have.
+
+[00:31:57.290] - Mariah Magazine
+It's super interesting, right? It's a whole new rabbit hole.
+
+[00:32:01.490] - Liz Stapleton, Host
+Yeah. No, because I just did my personal finance at the first of all I ever started. And I also really haven't touched in a year. It's a domain of 31, but it's ranking for some stuff. I'm like, like, I need to go take advantage of that fact.
+
+[00:32:17.390] - Mariah Magazine
+Yeah. So Moz also has the the I think they call it the Keyword Explorer. So you can see which keywords you're showing up up for, there's not a lot of free  tools available to be able to see that information, which is also why setting up Google Analytics and Google Search Console and connecting them together is very, very important.
+
+[00:32:44.000] - Liz Stapleton, Host
+Yeah. Yeah. I've got some work to do. It's great. I'm doing all the sessions sessions with all the I'm like, My to-do list is just growing. And we did a system session so that I can dig into that. But no, I think that's that's I was aware of Moz of but I never really dug into it. And now I've got some digging to do.
+
+[00:33:07.690] - Mariah Magazine
+Yeah, their free tools are extremely helpful. And then I guess before we end the session or anything, I do want to mention that the most important part of SEO is getting that foundation set set up, going to see what what starting domain authority is. Check your site for broken links. Run your website and see how fast your pages are loading. These are things that will affect your SEO score. So take the time to understand, do you have Google Analytics set up? Do you have Google Search Console set up? Are they linked together? These foundational things are going to play a very big role in your SEO ranking. So many many people, when start focusing on SEO, they're focusing on keywords, but their foundation isn't set. So all of these little things that they're doing is slipping through the cracks. Yeah. Definitely keep in mind that foundation and giving yourself an audit.
+
+[00:34:18.850] - Liz Stapleton, Host
+Yeah, definitely. And we'll get to besides your site and for your your free everyone, I I did want ask, was there a certain tool or resource you recommend in terms of checking for broken links? Because that can be difficult to figure out.
+
+[00:34:32.700] - Mariah Magazine
+Oh, yes. Hold on. Let me. I have a favorite, and I've used quite a few. Okay. But I do have a favorite that I use. It is... One second. Second. Broken Link check. Okay.
+
+[00:34:53.350] - Liz Stapleton, Host
+That.
+
+[00:34:55.510] - Mariah Magazine
+One keeps it like I've used other ones, but the other ones are a little bit more overwhelming. They pull up things that aren't accurate. I think that brokenlinkcheck.Com, definitely it scans your site, and it's the most accurate that I found and the easiest to utilize.
+
+[00:35:14.720] - Liz Stapleton, Host
+Okay. Yep. No, good to know. I just wanted to ask that. Are there any other tools or resources besides your site that you would recommend in terms of helping you fix that foundation or set it up?
+
+[00:35:25.860] - Mariah Magazine
+Google Search Console is something that you really should take the time to set up. It doesn't take very long, but those Google Analytics and Google Search Console and linking them together is the very first thing that I do for my clients. That is a foundation that I wish that I could dig into and put together for every website on the internet because I think that they are so important.
+
+[00:35:50.450] - Liz Stapleton, Host
+Yes. Absolutely. So then I know you do have a great free resource for all our attendees. Can you tell us a little bit about it?
+
+[00:35:57.380] - Mariah Magazine
+Yeah. So I do have a free roadmap to successful SEO for you guys to download and you can snag it. And it walks through the overview of all the things that I do with my clients when we're setting up their SEO foundation, when we're working on growing their SEO and all of that fun stuff and everything in between. And it lays it out in a way that you're like, like, I focus on this and it will help you prioritize.
+
+[00:36:23.870] - Liz Stapleton, Host
+ok.
+
+[00:36:24.950] - Mariah Magazine
+Steps to take. And then I also go over that thing in my DIY SEO course. So it is the foundation of the framework that I basically use with my clients all the time. So I think that it's super, super helpful.
+
+[00:36:39.280] - Liz Stapleton, Host
+And the link is below.
+
+[00:36:41.220] - Mariah Magazine
+Yeah, especially since there's just so many many components. SEO and there's so much information online that the roadmap really does break it down in a way that makes sense and doesn't make you want to rip your hair out.
+
+[00:36:57.450] - Liz Stapleton, Host
+Yes, then you're head gets smaller and think, Yeah, definitely. I mean, it's free, guys. So go grab it. The link for that is down below. Mariah, thank you so much for your time and your generosity with your knowledge. I really appreciate it.
+
+[00:37:09.440] - Mariah Magazine
+Yeah. Thank you so much for having me on here. This is really awesome. And I hope that you guys watching, I hope that you guys got some helpful tips and things that you can do. And I hope that it energizes you on SEO instead of overwhelms you. But yeah, if anybody has any questions on anything, I'm always hanging out on Instagram. I do have a YouTube channel, channel, video, where I do run over a whole bunch of free tutorials, how-tos, all of the fun stuff, especially in terms of SEO. Yeah. So reach out to me, connect with me. I'm all ears. I love helping.
+
+[00:37:48.730] - Liz Stapleton, Host
+Yes, definitely, definitely, guys advantage of her SEO genius and to help you get going. So thank you.
+
+[00:37:56.530] - Mariah Magazine
+Thank you. Talk to you later.
+
+

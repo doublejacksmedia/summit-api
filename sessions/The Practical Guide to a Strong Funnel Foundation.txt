@@ -1,0 +1,164 @@
+Title: The Practical Guide to a Strong Funnel Foundation
+Speaker: Nataliya Burdeynyuk
+Website: https://housegravity.com/
+Level: Beginner
+Category: Funnels
+Length: 24:28
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/the-practical-guide-to-a-strong-funnel-foundation-nataliya-burdeynyuk/
+
+Transcript:
+[00:00:13.550] - Nataliya
+Thank you very much for the introduction. Everybody welcome. For the next 30 minutes, we'll be focusing on Funnels. But before we dive in, let's take care of a couple of things. One, questions, please write them in the chat. Make sure you see that on the right hand side and feel free.
+
+[00:00:29.940] - Nataliya
+While we are on the slide session, I'll be able to answer them. If you're watching this and replay, you can jump on my website Housegravity.com and use the bubble chat to ask your questions. And if you pick up the material that comes with this session, you also will be able to see my email and feel free to email me with that. The second item that we do before we want to start is make sure you let me know where you are on the journey, right is zero.
+
+[00:01:03.420] - Nataliya
+Just enter zero into the chat. If you are starting from scratch, you know that you want to do set up funnels, but you are just starting the journey. And for one, if you have already gotten a feel for it before, so zero or one, let's see where everybody is. Let me start with this question in the context of blogging. So, what are funnels all about?
+
+[00:01:30.330] - Nataliya
+And just like the definition of funnels, I like to explain to my clients that funnels are indeed a representation, a visual of that journey that a customer takes on the way to a sale. The customer is the hero of the story. We focus on them and their experience as we design them, every step and every touch point on that journey. What visuals are common for us to imagine from the work funnel, there comes that visual of the funnel. Indeed, it starts with the top of the funnel where we are reaching the masses.
+
+[00:02:10.180] - Nataliya
+People are starting to find out information that we deliver on our wonderful blog. They become solid partners. They come and visit. They read all of our blogs, they sign up for emails and read all of the emails we wish. And then the bottom of the funnel is those trusted customers that will buy everything that we have created with the mind on them.
+
+[00:02:35.400] - Nataliya
+Usually, the sales funnel ends with that sales decision, and rarely you will find additional steps and descriptions for that. But that's quite common. You might also have seen the McKinsey customer journey. This is more fluid. You see that there is more action kind of and repeat action that takes into account, the experience that person gets after they go through the purchase.
+
+[00:03:02.440] - Nataliya
+How was their experience with your product? And when they're triggered by another pain point, will they come back to make another purchase from you? And also like in this example, that shortcut of a loyalty loop. They don't have to go around the long path of collecting more information, finding competitors, comparing functionality, figuring out more about the brand. They have this direct line back to you because they trust you.
+
+[00:03:34.240] - Nataliya
+And also this becomes key when somebody's pain can be answered by me as a friend who's recommending and then trusting me as a source to shortcut and write on this loyalty loop. Because I have already made this journey. What I see a lot around funnels two issues that I would like to, two observations that I would like to share with you is that one in effective setup. I see that a lot when people start off on their blogging journey and I agree there is a lot to get done.
+
+[00:04:11.650] - Nataliya
+Just optimizing the website for the experience on both mobile and desktop can take a lot of effort. The copywriting, getting your message right, it is a lot of work. I feel it, I know it and I completely understand. And as you are building your base for a very solid foundation for people to understand your customers, to understand where they're coming from.
+
+[00:04:37.590] - Nataliya
+I encourage you to add Google Analytics as a focal point in the beginning of the journey. Study utms, that whole concept of what they are. And as a quick explanation, it is additional code that gets added to your naked link by naked link. I mean yourblog.com or the relevant keywords that you use for your blog post. Right? If you just post that link everywhere you are represented on social media and in emails, people will click.
+
+[00:05:15.830] - Nataliya
+You will see that if you're using anything at all, even your hosts will be able to tell you that people are coming to your website, but without those utms, additional info. Basically, it says this link was shared on Facebook and it's related to this campaign that I'm running. This link, the same link, now this link I shared on Instagram and it was related to this thought that I had for the campaign. Unless you use those additional words to attach to your link, you will not be able to optimize Google Analytics to give you the sources of how people arrive to your website.
+
+[00:05:57.080] - Nataliya
+What did they click to get there?
+
+[00:05:59.380] - Nataliya
+So, make sure you dive into it. If you need help, reach out to me. I'll share the resources that I use. I have a spreadsheet I can recommend and I will actually list all of that. So, you don't have to do it.
+
+[00:06:14.780] - Nataliya
+More energy and social platform pixels. They're still around. They're still relevant. They're more connected to your ad activity when you're ready to advertise or create ad campaigns, but it's very helpful if you start pixelating your site right away. People who come and visit, those cookies will be connected to the Pixel and they'll be able to link back.
+
+[00:06:38.580] - Nataliya
+Next time you run an ad campaign, you will be able to lean on those pixels to say that these guys liked it. Let's use more of the same type of customer to reach your ads. And the second observation that I have is that people are burning out too quickly on funnels. They may exert and they do exert so much input into creating a test. Even if it's something that you're putting up for sale at a fraction of the cost to see.
+
+[00:07:14.980] - Nataliya
+To test your audience. To test those visitors that are more loyal to your writing, it still might feel very disheartening when there are no sales or very few sales. If you're investing too much money on the ad spend that can also tip your boat where you are feeding Facebook instead of your family doing these. And throwing in the towel too early, just trying creating one test run of the funnel and saying, whoa, this is not for me. I'm just going to blog and that's it.
+
+[00:07:53.230] - Nataliya
+We're missing the point if we do it. The point is that funnels and creating funnels is a marathon. Things change, people's attention, kind of so, by following that collecting input, you will be able to reiterate, pivot, combine, recreate, come up with fresh ideas if you stay at it. Build the foundation if you're just starting out for everybody who enters zeros, if you're just starting out, building that good foundation, laying at it solid, creating what your KPIs are and then moving on with that. Let's continue.
+
+[00:08:35.660] - Nataliya
+This is a diagram that I create for my clients when we talk about creating a funnel for them, right? I like to invert it and present it as a pyramid because that represents all the effort it will take to roll up, the efforts of getting strangers to come and visit your website. Their attention splits after 3 seconds and all of their run. So, we have to bring additional ones, fresh eyes, fresh set of eyes. Get them to be visitors, get their emails, make sure that they're not burner emails or if there are burner emails, that's fine too.
+
+[00:09:16.430] - Nataliya
+People are testing people have those tools as well. So, on the visitor side, there's a little bit of scrubbing of your email list, maybe verifying emails and then making sure that you deliver to those visitors, the people that trust you. Let's build the trust. Let's deepen the trust in order for them to be customers quicker when you are ready.
+
+[00:09:39.290] - Nataliya
+It might be that strangers and visitors might be your focus and there is plenty to do there before you arrive to customers. But as soon as you have a customer, start thinking of the repeat customer, or even at the process of creating customers with your first thinking, what could you lead them to become repeat customers again? And the point is that we're driving to that super set of fans, people who keep purchasing from you, who follow you as you navigate the topic that you are writing about and that keeps getting valuable information from you.
+
+[00:10:20.980] - Nataliya
+Valuable resources, products that by the end of that experience they're saying like, whoa, he or she is awesome. I'm going to recommend them on every stop.
+
+[00:10:34.700] - Nataliya
+So that is our goal. From here, let's look closer at each stage and this is where my challenge to you comes in. I would like to invite you to kindly recreate these stages for yourself. You can go analog and use sticky notes. You will need 100 of them.
+
+[00:10:56.910] - Nataliya
+You can use your systems that you use for your project management, whether it's Trello it's, Click Up anything. But in each stage, I want you to identify 20 tactics for your blog that will help you deliver the content that strangers are looking for, that visitors are looking for. Additional 24 visitors, additional 24 customers. What tactics would help you keep them on repeat? What tactics, are there 20 things that you can do for those super fans of yours to help them promote your products best for you.
+
+[00:11:39.680] - Nataliya
+Don't stop until you get 20. They might not be relevant in their entirety. They might not fit on the same timeline. You would not be able to do all of them in the same quarter, same year. But it could be your treasure chest for the times when you are stuck.
+
+[00:11:57.630] - Nataliya
+When you feel like I'm about to give up on my dream, you can look back and say, oh, you know what, this tactic. I saw it somewhere. I saw how it was implemented. I would like to try it as well.
+
+[00:12:08.580] - Nataliya
+Let me lay it out into action points for the next three weeks and see how to test that out. Just like you would do with any of your sticky notes. You can look at your whole wall filled with your sticky notes of all of the tactics that you could try and start aggregating them, kind of filtering them out. Which ones would make sense this year? Which ones could just because of the effort, maybe push them out into next year?
+
+[00:12:43.530] - Nataliya
+Some, maybe they're not applicable now, but it might be worth keeping them in your Rolodex because they might trigger additional ideas for tactics that are kind of related to them. So, go through. Once you're done with that, you should be able to have a wall of tactics that you have identified. This will be my friends for these twelve months or eleven months because we are already into the new year, correct. And now your goal is to commit.
+
+[00:13:17.380] - Nataliya
+You're going to show your visitors and people who are just taking a peek at you that there is a track record of you delivering those blogs weekly. You're delivering on your Facebook lives or be it in Instagram lives. You have a series of interviews. You have email campaigns that are regular. People see your ads, maybe if you decide to start retargeting them, if they visit your website, they see an ad next day that creates a little bit of, oh, she means business.
+
+[00:13:48.620] - Nataliya
+She is serious about this. And once you have that, you have a plan. So, there's your how to. But I ask you not to skip that ideation stage. Each stage, give yourself 20 ideas each.
+
+[00:14:06.420] - Nataliya
+And don't stop there. Now let's go into where do we start? And I want to start talking about the customers. A lot of times we will start imagining that user persona. We will have an image, their age range, their interest, their height, all things that a lot of times don't impact the sale process.
+
+[00:14:31.820] - Nataliya
+So, instead, I would like to ask you if you're familiar with the concept of jobs to be done. This comes from a product design world. Jobs to be done where we are tracking the jobs that our customers are trying to get done and we are providing a solution. We're taking them on the process. We are taking out all the effort from figuring out how to do something.
+
+[00:15:00.930] - Nataliya
+We are taking them from zero to one.
+
+[00:15:05.710] - Nataliya
+So, let me give you an example. I subscribe to Netflix, but I don't watch it as much. I use it to let my child focus when I need to create a video or when I have a client call. And what I noticed is Netflix is doing is every couple of weeks, or maybe once a month, they will send me an email, and I need to correlate if it's tied to the day when the subscription renews or not. That will be an interesting view, but that email contains the three main topics of themes based on my child's choice of cartoons that she watches, so it can be adventure, adventurers, brave, and something else.
+
+[00:15:57.310] - Nataliya
+Additional videos that you could watch that you might like in the same vein. But the third item is a statement that my child really enjoys Miraculous Ladybug. So, here is the print out for her to color. Now think about that. Their job is to share videos with us.
+
+[00:16:17.800] - Nataliya
+But Netflix is doing a job for me. What is my job here? My job is not to give her videos to watch, and I want her to understand videos on how it works. I'm trying to entertain her and entertain her with some well curated material. So I'm choosing Netflix that I pay for over a YouTube channel whose quality I might not trust as much.
+
+[00:16:45.590] - Nataliya
+But I'm making a conscious choice and I'm willing to pay for it. But catch that idea that Netflix is doing. They understand my job and they're helping me deliver on my job better. They want me to give my child something else to do that might be connected with that video, but it's not a video. It's a coloring page.
+
+[00:17:07.570] - Nataliya
+They are focusing on who I am in this space. Let's talk about you would have been a couple of purchases that you made lately that you were trying to get the job done. What I'm thinking, how this can be easily transact to purchasing a Roomba, for example, instead of all the time it would take you to remind yourself to clean the floors, do that, and then how much time it will save you that room by taking away your job and giving you time to focus on something else.
+
+[00:17:46.030] - Nataliya
+My example is that a year ago I wanted to provide my family with healthy dinners every day, but I did not want to cook every day. So, I realized that I could add frozen meals to the mix.
+
+[00:18:02.230] - Nataliya
+I needed a resource that one could give me good quality recipes, but the ones that my family would like and that would also cook with healthy ingredients. And I didn't want them to be super processed, so that became quite a journey. So, my search intent was very specific, and I was able to come up with a couple blogs that wrote on this topic. One did not fit my criteria because the recipes that were offered were a little bit too heavy for the palette of a toddler, would have been perfect for adults, but I found one that was more family oriented, and the recipes that were available for free were something for me to try.
+
+[00:18:47.730] - Nataliya
+So, I subscribed.
+
+[00:18:48.970] - Nataliya
+I tested, and then I quickly came back to make a purchase on a bundle. And I am willing to be a repeat customer because it was so successful and so well received by my family that it met my social requirement of being a good mother. I was able to please my immediate family members. And so, each job that you are considering, what are the jobs around which I am writing about on my blog but would also help my customer grow from this point to this point? Where are they trying to cross and do? And then look into three areas the economic where they are considering your proposal over something else that somebody else might be doing that is similar.
+
+[00:19:41.590] - Nataliya
+Consider the emotional aspect of how do they want to feel and how do they feel if they don't make that progress? And then, of course, the social or are they trying to be?
+
+[00:19:53.310] - Nataliya
+What is behind that job? Just like for me, frozen meals was not as much about cooking and the skills around cooking ability, but to be a good mom for my kids. Alright. So, I have another sets of, I have covered all of these questions, how the emotions are getting affected.
+
+[00:20:25.820] - Nataliya
+What are some social pressures that the customer feels that makes them want to do something or not or consider your product or not? And of course, what value that will help you create, copy and deliver and connect? And also what are the customers desired outcomes? So, let's look at the jobs. Here is my second challenge to you.
+
+[00:20:51.690] - Nataliya
+After you have written 20 tactics in each of the stages, I would like for you to start noticing jobs. Start with yourself. So, go through those last three purchases you made and try to map them. What job, can you identify the job that you are trying to fill? Is there something that you fired to get the job done? For me.
+
+[00:21:13.150] - Nataliya
+It was software that I stopped using because I have moved everything into Notion. So, I was able to get rid of some of the project management tools that I was paying for, and notion took its place. Start with jobs and outcomes. What outcomes were you looking for when you were making that purchasing decision on those last three purchases? And then because you know yourself so well, you can hopefully identify the pain point that is connected to that purchase and consider where there are functional nuances.
+
+[00:21:49.790] - Nataliya
+Are there social attributes that help you make the decision where they are emotional and again, financial as well? And 100 jobs, you can do it. Start and don't leave the table for at least 25 minutes, said the Pomodoro. Ask everybody to give you those 25 minutes and just focus on your niche where you write, what are some outcomes that people would be looking for and the jobs that you can start testing? This will become.
+
+[00:22:24.910] - Nataliya
+Now you have a set of tactics that you can kind of lean into, and now you have a set of 100 ideas that you can pick through and see which ones, and you can map them. How much, based on effort, which one would require more effort to deliver to a customer, which one have less? And then as you're getting feedback on your materials as you're sharing them, as you're connecting your product features with some things that you are given away for free through guides to people who subscribe, can you create that sense of you're giving away a lot more. And then not the most applicable
+
+[00:23:11.650] - Nataliya
+But when everything is combined into a process that will even simplify will take away that DIY away from your customer? Can they just make that purchase and trust that you will take them through the process to learn something new to acquire new skills and fill in those pain points?
+
+[00:23:33.590] - Nataliya
+Two challenges for you today. Make sure you create 100 ideas for your tactics. Start looking out for them. Look for other industries for inspiration. See just knowing that you have 100 things to fill out will give you a little bit of a push to do it.
+
+[00:23:53.350] - Nataliya
+And jobs, look out for jobs. What jobs can you take away from other things with your products that you can deliver on? Please be sure to grab the resources for today's session and share if you start a brand new funnel or if you get inspiration from today's session with us. I thank you so much for trusting me with your time and I will see you very soon. Bye. Bye.
+
+

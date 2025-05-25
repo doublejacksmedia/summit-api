@@ -1,0 +1,194 @@
+Title: How to Grow Your Email List in Compliance with the GDPR
+Speaker: Lucrezia Iapichino
+Website: https://bloggingfornewbloggers.com/
+Level: Intermediate
+Category: Legal
+Length: 34:41
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-grow-your-email-list-in-compliance-with-the-gdpr-lucrezia-iapichino/
+
+Transcript:
+[00:00:09.330] - Lucrezia Iapichino, bloggingfornewbloggers.com
+Hello everyone and welcome. I'm thrilled to be at the Blogger Breakthrough Summit, this is o ne of the best blocking events every year. So when Liz invited me, I was so excited. And so welcome to my session. I'm Lacrezia And today I'm going to be sharing some information and actionable tips on how to be GDPR compliant. But before we dive in, let me show a little bit about my background. So you might be more about my expertise and knowledge about this topic. Let me briefly introduce myself.
+
+[00:00:36.770] - Lucrezia
+As I said, my name is Lucrezia. I'm an international lawyer, university lecturer and GDPR expert. In addition to my qualification as a lawyer and mission to the bar, I also hold the master's for international lawyers and PhD in law with a major in European Union law.
+
+[00:00:52.820] - Lucrezia
+Mossel, the co-founder, together with my sister Marina, Blogging for New Blogger AnthonyLovebug.com. The The Blogging for New Bloggers community of over 30,000 members. I use the combination of my research, teaching and blogging experience plus over 15 years legal expertise to empower other bloggers and online entrepreneurs to run a successful blog on compliance with legal requirements.
+
+[00:01:18.140] - Lucrezia
+As a blogger myself, I make over twenty thousand dollars every single month with my blog. If you've been blogging for a while, you may know what is one of the most powerful marketing tools any blogger may ever have. And even if you are very new to blogging, if you just starting out, you might have heard of this common expression. "The money is in the list". And it's actually true. The real magic happens with my email list, a very big chunk of my monthly income from my block house to my email list. And if you want to make money blogging, you must focus on your email list. But and there is a but you might have heard another expression. The law is the law. So, you building your email list should be your number one priority. At the same time, you need to make sure you meet all legal requirements. And regulation you want to focus your attention on the most is the GDPR.
+
+[00:02:19.280] - Lucrezia
+The GDPR may apply to many bloggers no matter where they are based.
+
+[00:02:24.620] - Lucrezia
+Now, another top reason is because the GDPR sets a very high standard of compliance and privacy protection, which means that if you are GDPR compliant, you basically comply with other regulations and legal requirements as well.
+
+[00:02:41.630] - Lucrezia
+Plus the GDPR as initiated a chain reaction. So comply with the GDPR now will kick start your compliance with other upcoming privacy regulation or other regulations such as the CCPA that have a high traffic threshold.
+
+[00:02:57.650] - Lucrezia
+So, how can I help you today? Today I will walk you through a few steps you can take to grow your list in a way that is GDPR compliant. But I will go through a lot of information, so get ready to take some notes, feel free to ask me questions, or come back to this session later on to go at your own pace. But make sure you stay till the end, because I have some gifts for you, including my copyright notice to protect your content, your blog posts, e-books, of course, is freebies or any other type of content and resources that you create.
+
+[00:03:31.700] - Lucrezia
+Let's have a look at what we will cover today. Okay, first of all, we'll see what the GDPR is and whether it may actually apply to you. Once we got this down, then we're going to see why you need to comply with it. And we will also cover what happens if you don't comply with the GDPR. And finally, the third thing we're going to work on is your GDPR compliance. I want you to leave this session having learned something new that you can implement right away.
+
+[00:03:50.120] - Lucrezia
+I will share a few actionable tips for you to grow your email list in compliance with the GDPR. Let's go ahead and get started. But before we dive in, please take a moment to read my legal disclaimer, because although I'm a lawyer by profession, I'm not your lawyer. And so this session does not constitute legal advice, but the information I will share is for educational purposes only.
+
+[00:04:27.830] - Lucrezia
+All right. Like I said, the first thing we will see today is what the GDPR is and why you may be required to comply with the GDPR.
+
+[00:04:35.570] - Lucrezia
+GDPR stands for General Data Protection Regulation, and it's a regulation of the European Union, which was especially designed to reinforce the rights to privacy and protect personal data of use based in the European Union. In simple words, the purpose of this regulation is to set the rules for individuals, agencies and companies, including blogs on how to collect, store and process personal data of individuals who are based in the European Union.
+
+[00:05:04.820] - Lucrezia
+So, basically the GDPR covers anything to do with the processing of personal data. I know, you may be thinking that this has nothing to do with you because I see this often with bloggers, and especially with new bloggers. They think that they don't need to comply with the GDPR, they all say the same. They think they don't process any personal information. But that's not true. This is because personal data is a broad definition. It can be anything that can be used to identify an individual.
+
+[00:05:34.570] - Lucrezia
+So, what's the first thing that comes to mind? Name an email address right for your email list. But it's not only that, it's also the login address- sorry the login details I meant, their location data, the IP address, the cookies and so on.
+
+[00:05:51.820] - Lucrezia
+And so even if you think you're not processing any data, if you have a blog, then you're most likely to process personal data on a regular basis. There are so many activities or tasks performed on your blog every day that involve data processing. Just to give you a few examples, contact forms and your contact page you may use form requesting a name and an email address, comment systems. In order for your users to comment on your blog, your comment system or plug in probably required them to leave the email address and other information such as name and the link to their website.
+
+[00:06:31.750] - Lucrezia
+Google Analytics, they track information relating to your users, including their location, type of operating system, browser type direction, duration of stay, time of discertation etcetera.
+
+[00:06:43.360] - Lucrezia
+Then we have, cookies, cookies stored on your website, all the data that you collect about your visitors using cookies installed on their devices or they login into membership areas or affiliate dashboards and so much more.
+
+[00:06:58.780] - Lucrezia
+The other misconception is that being the GDPR regulation of the European Union, many bloggers think it only applies to blog space in the European Union.
+
+[00:07:09.040] - Lucrezia
+Let's clarify this. Let's take a closer look at the territorial application of the GDPR of the GDPR applies to blocs based in European Union.
+
+[00:07:19.780] - Lucrezia
+But what if you're based in the US or Australia or Canada, South Africa or India or anywhere else? The GDPR clearly states that "If you are offering goods or services to individuals in the European Union, even if payment is not required". And I will repeat this because many bloggers think that if you're not making money with your blog, you're not required to comply with the GDPR. I want to make sure that we're clear on this. Even if you don't receive any payment, the GDPR may still apply to you. I was saying that the GDPR clearly states that if you are offering goods or services to individuals in the European Union, even if payment is not required or if you monitor their behavior, then the GDPR applies to you. And it doesn't matter whether you're based in the European Union or somewhere else. That means that first of all, even if you're not based in the European Union, the GDPR may still apply to you. It means that the GDPR may apply to you even if you're not generating any income from your blog yet. But it also means that if you're not based in the European Union, the GDPR only applies to you if you either target users based in the European Union or you monitor their behavior.
+
+[00:08:42.520] - Lucrezia
+Targeting users based in the European Union means that you actively and expressly want to offer goods or services to them. So, for example, if you offer the possibility to buy your products in Europe or you have your checkout page in German, or you actually mentioned customers or users were in the European Union, then the GDPR applies to you because you made the parent that you want to offer goods or services to users based in the European Union.
+
+[00:09:11.740] - Lucrezia
+As to the monitoring of the behavior of users based in the European Union, you actually need to track their behavior through profiling techniques with the aim to make a decision on the basis of their preference or behaviors. Let's say, for example, if you just use Google Analytics, that will make you in itself automatically bound to comply with the GDPR. But if you're running ads with behavioral targeting techniques then the GDPR may apply to you, even if you're not based in the European Union, at the same time, you need to be aware that if you have visitors from the European Union and you use behavioral ads or plugins pixels or widgets, such as, for example, the Facebook pixel, which is quite common to have, then you may be bound by the GDPR. If you have an email list and use progressive profile. Or you tag or segment your place in order to believe that your subscribers emails that are more relevant to them you have subscribers based in the European Union, then you may be bound by the GDPR.
+
+[00:10:21.550] - Lucrezia
+Let's see why you should comply and what you may risk if you don't. GDPR compliance comes with several benefits. There are many reasons why you might want to comply with the GDPR. And that's not only because the GDPR is the law. And so basically you're legally required to do so. They need to comply usually comes down to three most common scenarios. Number one, you are based in the European Union and so you are required by law to comply with the GDPR. Number two you're based outside of the European Union. But you target individuals based in the European Union or you monitor their behavior. And so you are still required by law to comply with the GDPR.
+
+[00:11:09.940] - Lucrezia
+Number three, you want to comply with the GDPR, even though you are not required by law. And I know the third scenario sounds crazy, right? But it's actually more common than you may think. There are several reasons why you may want to work on your GDPR compliance, because it comes with several benefits for you. All right. Let's go through the top reason to comply with the GDPR one by one. First of all, as we pointed out several times, the GDPR is a legally binding regulation.
+
+[00:11:45.370] - Lucrezia
+What happens if you don't comply with the GDPR? Well, first of all, you can get fined and the fines are quite steep. They can be up to 20 million euros. And if you're thinking that they will never go after small blogs and that's not true, you might not get a fine in the millions, but even a few thousand dollars may set you back. Plus, the GDPR provides users with the ability to lodge a formal complaint against you. They have the right to do so with the relevant supervisory authority. And let's not forget that you can get sued by your users no matter if you are on the right side lawsuits are always time consuming, stressful, costly, and they also distract you from your primary goals.
+
+[00:12:34.810] - Lucrezia
+Well, the last thing you want is for a lawsuit to be brought against you for something that you can correct in a matter of minutes. This can harm your reputation and compromise the relationship you've built with your audience. Also, companies may not want to work with you. Your earning potential would be affected. Or if you were already working with brands or other networks or you were accepted into affiliate programs they might terminate your contract. This may lead to loss of earnings and your overall blog revenue may be affected. Let me give you an example. He was a Bluehost affiliate agreement requiring you to comply with the GDPR.
+
+[00:13:13.780] - Lucrezia
+Now another important reason you why may want to be GDPR compliant is because it builds trust with your audience that complying with the GDPR shows your readers that you care about them and that you're transparent. You want them to feel respected and appreciated. And now, because of the GDPR in itself, users are more educated about their rights and the protection of their privacy. If you don't comply with the GDPR, they will notice and you will lose their trust. If your readers don't trust you, they won't convert into paying customers. To be able to make sales your blog needs to look legitimate and lawful.
+
+[00:13:55.490] - Lucrezia
+And this brings us to our last top reasons. Complying with the GDPR will make your block look more professional. So making your blood GDPR compliant will kickstart your compliance with either existing or upcoming privacy regulations as well. So, for example, it will kickstart your compliance with the CCPA, which has a higher traffic threshold. So once your blog grows and you will be required to work on your CCPA compliance, most of it will be already done. There are so many benefits in complying with the GDPR.
+
+[00:14:29.830] - Lucrezia
+So, let's see what you can do today to make sure that you are GDPR compliant and you got your email list in compliance with the GDPR. I want you to be able to take a few steps towards your GDPR compliance as soon as you finish this session.
+
+[00:14:46.540] - Lucrezia
+So, I will share a few actionable tips and a couple of things you can implement straight away. So first of all, what do you think makes an email list GDPR compliant? How would you feel if you were added by someone to the email list without your consent? Because you have to remember that the GDPR is. To protect you and for you to protect the privacy rights abuses, so the first thing is you need to obtain your user's consent before adding them to your email list. I will give you a few options to do that in a way that is absolutely under percent GDPR compliance. But please bear with me for a second while I go through a couple of concepts about consent requirements from your users under the GDPR or in through this consent requirements and understanding how things work under the GDPR will make it so much easier to implement my actionable tips.
+
+[00:15:52.830] - Lucrezia
+So, let's see what the GDPR says about consent. But please keep in mind that consent is not the only lawful ground to process. Best forgotten that the GDPR is the most common. And as a blogger, you most likely to use consent as the lawful basis as your data processing. And so that's why we will focus on that. All right. So the key elements of consent under the GDPR that they must be given freely. You can't force people to give consent. It must be unambiguous that these language that you use is easy to understand. And it's clear. It must be informed, which means your users should be given the reason for processing information and how you're going to do that and what you will do with the information and so on. It must be specific. You should get consent using an affirmative action. That's clear. It must be granular; this means that you can not bundle separate matters. So, if you process the data for different purposes, you need to obtain separate consent for each matter. It can be withdrawn at any time and it should be easy to do so. It should be as easy to withdraw as to give consent. Plus, parental consent is needed if your users are age 16 or younger. In some countries, the minimum age of consent can be lowered, but never below 30.
+
+[00:17:26.500] - Lucrezia
+Okay, now let's see what this means for bloggers. How all these legalese translates into what you need to do to grow your email list in a way that is GDPR offline. First of all, I have a question for you. What's the main way you collect personal information to add people to your email list? It is sign up forms? You can have them on your landing pages for your late magnet's. You can have them embedded in your blog post for content upgrades. Or you can have general subscribed forums for your readers to join your newsletters in different places on your blog. Right. These are just a few examples, but sign-off forms are the most common way to add people to your list. And so we need to make sure that they are GDPR compliant. For your forms to be GDPR compliant. You need to make sure that they come with a link to your privacy policy. And this is because the GDPR mandates that you provide users with detailed information at the time of obtaining consent or processing data.
+
+[00:18:34.890] - Lucrezia
+The information you need to give includes; how you plan to store, process or share their personal data. The application you must uphold their rights under the GDPR and much more. Obviously, if you have to do that every time you want to collect some personal information, it will be a bit too much. The good thing is you can direct you users to your privacy policy. So, you detail all this info in your policy. You do it once and then you link to your privacy policy wherever and whenever you process personal information. And I will also recommend to our new privacy policy in your [inaudible] so that it's easily accessible from everywhere on your blog.
+
+[00:19:16.200] - Lucrezia
+So, now the bigger question becomes, is your privacy policy up to scratch when it comes to the GDPR? Does it follow GDPR provisions? Does it make all the GDPR requirements? If not, then you will have to update it to make it GDPR compliant. Or if you don't have a privacy policy at all, then you need to create one as soon as possible. So, the first step you will have to take is to either create or update your privacy policy to make a GDPR compliant. If you don't know how to do that, I offer a plug and play GDPR compliant privacy policy template and I'm pretty sure Liz has one too.
+
+[00:19:54.510] - Lucrezia
+Then the next thing you need to ensure is that you don't request more information than what is needed. For example, for your email name and email address will be sufficient. You shouldn't be asking for the postal address, for example, unless you need to send them a physical item today, home address. Okay. You also need to obtain, as we say, separate consent for each matter. And you can achieve that by either using checkboxes within the form or GDPR option for users from the European Union.
+
+[00:20:35.340] - Lucrezia
+And because we saw consent must be expressed through affirmative action check boxes or GDPR options cannot be pre checked.
+
+[00:20:45.900] - Lucrezia
+Is this all starting to click for you or shall we take a look at a few examples?
+
+[00:20:53.670] - Lucrezia
+All right, let's have a look at this form. This is a form to join a newsletter, and this form is GDPR compliant. It has a link to your privacy policy and it's a clickable link, so people can find out how you collect process and store personal information before they give you their personal details. The exact time box for your privacy policy sound check, which is good. It also informs users that they can unsubscribe at any time and only asks for name and email address, no phone number or other info that are not necessary.
+
+[00:21:32.070] - Lucrezia
+So, this form is great. This is is in compliance with the GDPR. But this example was pretty straightforward. Things can get a bit more complicated when you offer a freebie to entice you users to join your email list. And this is because when you have a form requesting an email address in exchange for your freebie, you are only obtaining consent from your users to process the personal data to send them the freebie. By entering the email address, your users are not automatically giving you consent to being added to your email list, and therefore you cannot add them. If you also want to add them to your email list, you need to request separate consent for this purpose because, as we said earlier, consent until the GDPR needs to be granular. You need to obtain consent for each individual matter. You can request separate consent for different purposes in the same form as long as each consent request is distinguishable from one another. But you can't not bundle them. And I know this sounds terrible because that's- that's why you offered the freebie in the first place. You offered a freebie to entice people to join your email list. Right. That's why freebies are also called lead Magnet's Right.
+
+[00:22:57.720] - Lucrezia
+So, I know it's discouraging, but don't worry. You need to keep in mind that one, this only applies to people based in the European Union. You don't have to extend the same rights to those from other countries unless, of course, you want to, which is- which is a good idea if you want to.
+
+[00:23:15.810] - Lucrezia
+And then number two, this all applies if you use your consent as your legal basis and not, for example, legitimate interest or other legal basis under the GDPR. But I don't want to confuse you and overwhelm with my information.
+
+[00:23:30.480] - Lucrezia
+So, let's see what the practical implication of all of this and how you can obtain consent for different matters separately. You can achieve that in two different ways. Option number one, you can use separate check checkboxes. You can create a form like this one for your freebie and you then add a separate check box to obtain consent from you. Use this to add them to your email list and send them marketing emails.
+
+[00:24:02.070] - Lucrezia
+Now, you see, in this form, my freebie is my free five day email, blogging classes, blogging for you about this fast track. But you can do that the same thing with a free checklist, report, a guide printable, eBook or whatever you wish to offer as a freebie. So you make a form for your freebie and then within the form you are the checkbox for your marketing email. As we know, you can have the check box project or a system where if users don't check the box for your marketing email, they can continue. This means that if they don't check the check box for your marketing emails, you will need to send them your freebie, but you won't be able to add them to your email list. So, this first option is pretty easy to implement, but it comes with the huge downside that you would reduce your chances of growing your email list by offering the same choices to all users, including those who are based outside of the European Union. And therefore, not covered by the GDPR. You will basically reduce your chances to grow your email list when there's no actual need to do so, since the law doesn't require you to apply the GDPR provisions to users who are not based in the European Union.
+
+[00:25:23.570] - Lucrezia
+So the pros are that this option can be implemented easily. And you will also have a very engaged email list of people who really want to be there and receive your marketing email, so they will likely buy from you. The cons is that it will take you much longer to grow your email list.
+
+[00:25:43.550] - Lucrezia
+Option number two, you can show a separate page to users from the European Union. This is currently my favorite way to request separate consent. I do so by using a GDPR fee income bracket so it will determine whether your users are based in the European Union or not, but the IP address, and then it will treat them differently. If your users are based in the European Union, [inaudible 00:26:10]  will show them this page after they have subscribed to your form to redeem your freebie. So, with this option, you won't have to change anything directly within your forms.
+
+[00:25:23.570] - Lucrezia
+Everything happens after your users sign up. Of course, if they don't check the check box consenting to receiving your marketing emails, you won't be able to add them to your email list. But in this scenario, this will only apply to your users based in the European Union. Your other users won't even ever see this form of planning concern for your marketing emails. And you can add them to your email list because the GDPR doesn't apply to them.
+
+[00:26:52.010] - Lucrezia
+So, this option will allow you to grow. Your email is much faster. The downside is that people may think you are not GDPR compliant, since the GDPR form will only show two users based space the European Union. And that's why, whenever possible, I mentioned on my blog that things may feel differently depending on where my users are based. I also add the link to this page in the first email that I sent them saying, "If you're from the European Union, please complete GDPR options so that one, if [inaudible 00:27:25], couldn't get the IP address or something. I can still make sure I meet GDPR requirements and two everyone will see I'm GDPR compliant and they can exercise their rights.
+
+[00:27:39.170] - Lucrezia
+I have [inaudible 00:27:39]  for this feature. But I hope you can replicate this with other email providers of plugins.
+
+[00:27:45.110] - Lucrezia
+Before we finish just a few words on double opt-in because there's this myth that it's a requirement that the GDPR as soon as people hear the word GDPR, they say, "Oh yes, you need the double opt-in. No, that's actually not true. The GDPR does not require double opt-in per say for your data processing to be lawful. But double opt-in is a great way to keep proof of consent.
+
+[00:28:11.360] - Lucrezia
+The GDPR that's required that you document are you obtained consent. So, switching double opt-in on is great because it will allow you to store proof that you use it has actually giving you consent. It's also great because this way all of your subscribers will be confirmed, which makes for a super engaged list and email list that is more likely to open your emails and buy from you. If you have a large list, you know how expensive it can be to pay for your email service providers. So, [inaudible 00:28:48] is quite expensive. One of the most expensive, probably. So there's no point in paying so much for subscribers who won't open your emails? Plus, as there is this very common misconception that double opt-in is a GDPR requirement, enabling it will automatically make you look more legitimate.
+
+[00:29:08.690] - Lucrezia
+All right. These are actionable steps that can implement right away that actionable steps that you can take right now to start working towards your GDPR compliance.
+
+[00:29:20.210] - Lucrezia
+So, let's recap what you can do today.
+
+[00:29:24.290] - Lucrezia
+Step number one, create a GDPR privacy policy that is compliant with all GDPR requirements or update your privacy policy to make it GDPR compliant.
+
+[00:29:34.430] - Lucrezia
+Step number two add the link to your privacy policy in your footer so that it is easily accessible everywhere on your blog and then add the link to your privacy policy from all your sign up forms and everywhere else where you collect personal data.
+
+[00:29:50.300] - Lucrezia
+Step number three, if you offer a freebie add checkboxes for your marketing emails or a newsletter or a show a separate content page to your users based in the European Union to join your email list or newsletter.
+
+[00:30:05.930] - Lucrezia
+Unfortunately, we were limited in time for this session. We couldn't really tackle everything. I know we went through a lot of information, but the GDPR has introduced so many new obligations. So you need to make sure that everything your forms, your plans, your policies are GDPR compliant. For example, you know the unsubscribe link that you must have in all of the emails you send that's not enough on the GDPR. I know, shocking, right. In fact users based in the European Union also have the right to be forgotten. And you need to make sure you have policies and systems in place to allow for them to exercise this right. Now this is just an example, but there is so much more. If you want to learn more, if you want to have the peace of mind. Your blog is fully of GDPR complain that you protecting yourself and your blog illegally, that you won't risk fines, lawsuits or formal complaints at all. Or if you're not sure how to write a GDPR compliant privacy policy and you don't have the time to figure it out on your own time that you'd rather spend doing what you do best, just go on your blog and working on your design of genius.
+
+[00:31:26.380] - Lucrezia
+So if you want to get rid of all the guesswork and headache and you're after something that is done for you and ready to go, something that makes sure you meet all GDPR requirements, kickstart your compliance with similar existing or upcoming private regulations, and keep you up to date with future changes in legislation, then I have something perfect for you. Here you have it. My GDPR Compliant Blog classes which covered everything you need to know and to make your blog GDPR compliant. And come with a Step-By-Step action plan with detailed instructions on how to do things.
+
+[00:32:09.730] - Lucrezia
+But each lesson has been kept short and to the point. In fact, each lesson is designed to be super easy to implement, and each action step can be tackled in 15, 30 minutes or less. And will also be updated regularly if there are changes in legislation. And you will have lifetime access to the lessons and all its future updates at no extra costs to you. And the best part is it also comes with several amazing bonuses, including a ready to use, done for you GDPR compliant privacy policy template and GDPR compliant cookie policy template, documentation template and much more.
+
+[00:32:54.520] - Lucrezia
+Being a trained lawyer and a doctor in European Union law, this will take all the guesswork out. It's usually priced at $97, but today you can get it as part of the pro pass. So make sure you don't miss out on this special deal. On top of that, as promised, I also have some gifts for you. You can learn more about making your blog legal in my free legal class and get some legal templates that are made available for free to you if you follow this link in the slide.
+
+[00:33:28.960] - Lucrezia
+So, go to BloggingforNewBloggers.Com/bloggers Summit and grab both my legal classes and the bonus legal templates for free. You will get the copyright notice template I mentioned earlier plus other super useful legal templates for your blog free of charge exclusively for you. I usually charge for these templates, but you can have it for free as an attendee of this Summit. You can either go to the link in this line or I think this should be a button you can follow on this page that should take you right there. So, click the button on this page to grab your gifts.
+
+[00:34:05.170] - Lucrezia
+All right. We reached the end. I hope you learned a ton. I really enjoyed our session. Thank you for your time with me today. And I hope you'll connect with me on my Facebook group Blogging for New Bloggers. Hope to see you there. Thank you. Bye for now.
+
+

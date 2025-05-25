@@ -1,0 +1,212 @@
+Title: How to Rank on Google with AI Content
+Speaker: Nina Clapperton
+Website: https://ninaclapperton.thrivecart.com/jasper-ebook/
+Level: Intermediate
+Category: SEO
+Length: 29:55
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-rank-on-google-with-ai-content-nina-clapperton/
+
+Transcript:
+[00:00:12.690] - Speaker 1
+Hi, I'm Nina Clapperton, and welcome to my session of the Blogger Breakthrough Summit. I'm super excited to have you here today. We're going to talk about kind of a contentious topic, how to rank on Google with AI content. Now, I've gotten in a fair number of Twitter fights over whether or not this is possible. So let's debunk some myths, let's figure out if this is possible, and if it is, how to do it the right way.
+
+[00:00:40.910] - Speaker 1
+So, to get started, I wanted to introduce myself. I am Nina Clapperton. I am an SEO specialist and a six-figure travel blogger. I am the founder of sheknowsseo.co, and I'm Canadian. So you might hear some pretty deep stories in the boots happening throughout this lecture.
+
+[00:00:59.740] - Speaker 1
+I'm also a travel addict. I have lived in over twelve countries in the last ten years. I am a dog mom to a golden retriever named Theo, and it's become far too much of my personality since lockdown. And I am overall obsessed with helping bloggers achieve financial freedom through SEO. I really do believe it is the key to unlocking blogging success.
+
+[00:01:24.790] - Speaker 1
+Now, I really like playing camp games. I don't think I was allowed to go to camp often enough with a kid, so I try and do them now as an adult. So let's play a little game of two truths, one lie. So in the comments, just pop one, two, or three for whichever one you think is the lie.
+
+[00:01:42.000] - Speaker 1
+So, number one, I failed on law school because I found a $200 flight to New Zealand and then moved there. Number two, I started my blog for a school project. Number three, I made a $100 my first year blogging. So hope that was enough time, literally, one, two, or three.
+
+[00:02:02.290] - Speaker 1
+And now I'm going to reveal which one's the lie. It's actually number three, which I think most people expect someone doing a presentation on blogging to tell them about all their success. I want to tell you about my failures first. So, it took me four years combined to make my 1st $63 blogging. Most people, it doesn't take that long, but I made every mistake there is.
+
+[00:02:28.630] - Speaker 1
+And the biggest mistake I made was not learning about SEO, and when I did, waiting six months to implement it. So really, my success came from SEO. In fact, once I learned SEO, I went from about 10,000 page views a month. Within six months, I got into Mediavine, all while working for other jobs, one of which was full time. So, as you can see here, in May of 2022, I achieved my dream of getting into Mediavine.
+
+[00:03:01.160] - Speaker 1
+I grew in one month by 14.5 thousand sessions. And this wasn't like I'm not a superhero. Like I said, I was working four jobs. So how did I do this? Two things.
+
+[00:03:15.120] - Speaker 1
+One is SEO, I already told you that. Number two is an AI writer called Jasper, and we're going to talk more about how I did this because I really think this is something anyone can do. I'm really not special with this, I just dug down and then I figured out how to do it the right way.
+
+[00:03:35.210] - Speaker 1
+And through these successes with getting into Mediavine, by using a Jasper AI writer, I was able to see my 1st $10,000 month of passive income in July 2022, which is a far cry from literally seven months before when I had just peaked over that $63 barrier. Now, before we get started, we're going to cover a lot of stuff, and I want you focused. I'm a very distracted person. I'm always on my phone doing 10,000 things. But to get the most out of this session, you really need to focus on this.
+
+[00:04:13.240] - Speaker 1
+So get out of notebook and a pen and turn off everything else. Give your dog a marrow bone, put your kids in front of the iPad and let's dive in. Let's talk about the things that we're going to learn today. Number one is how to use AI for blogging. We're also going to talk about what AI even is, because it's a newer thing.
+
+[00:04:34.480] - Speaker 1
+You might not have heard of it, and that's totally okay. By the end of this, you need to know what it is. That way we can figure out if you should be using it and how to use it. But by the end of this, you'll be very certain of what AI is and exactly how it applies for blogging. Then we're going to talk about does google Rank AI content.
+
+[00:04:54.040] - Speaker 1
+This is going to be some debunking of myths. Some quotes are going to happen here. But this is really important to note, should you bother with this? Because why would we invest in an AI writer or create content if it's not going to bring us traffic?
+
+[00:05:10.160] - Speaker 1
+And then step three, we're going to combine my two great loves in this world, AI and SEO. And we're going to talk about best practices for SEO that you need to use in tandem with AI in order to rank. So let's dive right in. So the first question is, what is AI content and that's, people don't know.
+
+[00:05:31.740] - Speaker 1
+It's a very valid question. AI stands for artificial intelligence. And so when I'm talking about AI content, I'm talking about using an AI writer for some sort of AI program to help me create content. AI really means anything that is artificial intelligence. It's not just like some robot sitting on your desk talking at you, which I think is what, like a lot of us assume AI is going to be because of movies.
+
+[00:06:00.190] - Speaker 1
+Actually, you're probably using AI already. So, let's talk about different types of AI content. If you've used something like Yoast or Rank Math, they actually use AI to tell you about SEO. They use their AI systems to tell you how much you've used your keyword in your post. They even have a Rank Math Pro has like that AI content outline generator where it will read through to see if you need to adjust your content.
+
+[00:06:28.310] - Speaker 1
+There's other types as well. Technically, any keyword research tool is the form of AI, that way it's running in the background. It does have to think to determine what the keyword difficulty levels are and process information. And then some other ones include Surfer SEO and Rank IQ, which are more advanced keyword research tools that also help you create an SEO-optimized outline. But to do that, they are actually reading the top ten results on Google and then coming up with those mustwords, the keywords, the outline themselves.
+
+[00:07:03.940] - Speaker 1
+That's all examples of artificial intelligence thinking for us to better our blog. And I think you'll be surprised that you're probably already using it. So now my favorite AI writer is Jasper. I use a number of different forms of AI in my content creation. I've just listed a number of them there, but Jasper is the number one, like golden child in my little brood of AI tools, basically.
+
+[00:07:31.090] - Speaker 1
+Jasper AI, formerly Jarvis AI, formerly Conversion AI, they've had a few name changes over the years, but it is one of the fastest growing AI content writers on the market. In fact, they are eons away from what any of their competitors are doing.
+
+[00:07:51.360] - Speaker 1
+I have tried a number of other ones, such as Any Word, Write, Copy AI, all sorts of different ones, but Jasper really is kind of the upper echelon of AI content creators. And that's because Jasper can write long-form content, I've even used Jasper to write ebooks in like an afternoon. And really with this, it's like a little kind of robot writer working with you. And again, all inside your computer.
+
+[00:08:18.930] - Speaker 1
+There's no robot sitting on your desk, don't worry. So I want to ask you, with that in mind, have you ever used an AI on your blog before? And this could be in the form of Yoast, it could be in the form of Rank Math, or it could be something more advanced like Jasper. Just pop a yes or no in the comments and if you feel comfortable, share what you've used.
+
+[00:08:44.050] - Speaker 1
+So we're onto kind of the main meat of this, I guess, does Google Rank AI content. And if you're on Twitter and you follow any SEO specialist, you will see a number of them saying no, just outright, google hates AI content. Google hates AI. We can never use AI. But what they don't tell you is they're often using AI.
+
+[00:09:08.270] - Speaker 1
+And not even just those AI's I mentioned. They're using AI to generate content. So I pulled a quote here from Search Engine Journal in April 2022 from John Mueller, who is one of the executives over at Google, and he says content generated automatically using AI writing tools is against Google's webmaster guidelines. In 2022, we had the helpful content update, a number of spam updates, and what I find entertaining is my sites, which are over 90% AI content now.
+
+[00:09:44.130] - Speaker 1
+None of them got hit in any update from Google. It's the people who actually didn't use AI who got hit far more often than I did. And that's because they're typically using AI the wrong way. And I think it's very important to note that Google does rank AI content. Basically, what happens is people think that when they use an AI writer, they can let it write their full post.
+
+[00:10:10.200] - Speaker 1
+So if you go into Jasper, we'll do a demonstration in a moment. Essentially, you do command j is one of the commands, and it just lets him run, like, just keep writing for you, but you've given him no guidance. So I think of it like, if you ask, like, a school full of 8th graders, okay, write me an essay on a war. They're going to pick all sorts of different wars.
+
+[00:10:33.050] - Speaker 1
+They're going to have different ideas of, like, what to do and everything. And if you give them a textbook from ten years ago, and that's what they were learning off of, they'll be even more out of sorts. Whereas if you get some high schoolers or grade A's, whatever together, and you tell them, write me an essay on, I don't know, Viking outfits in some Viking war, I was really bad at history, and how they played a role in pillaging. And if you give them a textbook that's up to date with real information, or you give them sources that they can cite immediately, you're going to get better content and you're going to get relevant content.
+
+[00:11:12.700] - Speaker 1
+The problem is, with AI of any sort, they have too much to pull from. If you're not specific, they can't help you. But AI is not the be all and end all. We cannot rely on AI to do all the work for us. Yes, it'd be lovely to, I don't know, spend $1,000 a year and suddenly get this amazing built-for-you blog that ranks perfectly.
+
+[00:11:36.330] - Speaker 1
+But if it was that easy, we'd all do it, and then no one could rank anymore because we'd be all oversaturated. So SEO and AI can't work together. Google will rank AI content. In fact, ironically, Google uses AI to determine what is AI content. Google uses AI for most of what they do because there's billions of searches every day.
+
+[00:12:02.440] - Speaker 1
+They do not have the manpower to go in and manually check everything. And so why should you be expected to have the manpower to single handedly start your blogging empire? So I wanted to prove that AI content ranks and that SEO works with AI. So on my main travel site over here, we have my fifth most popular post this last month, brought in 2400 page views in that month. This was completely generated with AI content. I did not write this post singlehandedly at all. I wrote this with Jasper. Then down here, we have a niche site that I started as an experiment.
+
+[00:12:47.910] - Speaker 1
+It has about 21 posts on it at the moment, and it gets 3333 page views a month. It's only a few months old, and the fact that it's already ranking this well, I've built maybe three backlinks to it from 20 posts is very exciting. And typically, people don't see results like this, especially if they're not using an AI writer.
+
+[00:13:11.650] - Speaker 1
+So, fun fact, on average, it takes 100 to 140 posts to get into Mediavine, and for travel, it's about 160. So this is taken, like, where these numbers come from. I did an informal survey once I got into Mediavine. I asked everyone I knew, how many posts did it take you? And inside the Mediabine Group, I also asked them questions about this.
+
+[00:13:34.680] - Speaker 1
+And so as we think about a typical blogger who writes one post per week, maybe at best, for a while there, I was only able to write one post every other week, but let's say, one post per week. To get into Mediavine, it would likely take you three years. And I don't know about you, but I don't have three years to wait. So I want to know in the comments, do you feel okay waiting three years? Do you have three years to wait to live your blogging dreams?
+
+[00:14:06.550] - Speaker 1
+Okay. This is Jasper. AI. We are in the writing interface right now in boss mode. So I want to talk a bit about SEO best practices with Jasper.
+
+[00:14:16.830] - Speaker 1
+So we could go on for hours about this, but these are some quick and easy things that you can do to ensure that anything you write with Jasper is high quality and rankable. So in this area, I have like a very basic version of an outline. I did not do a full outline. But let's say our blog post, the keyword is things to do in Rome, you're going to come in here and you are going to bring in a full SEO-optimized outline. You are going to look at competitors to see how many things do they have in their list.
+
+[00:14:49.990] - Speaker 1
+You're going to create that list of things for things to do post. This works the same for how-to-do things and even recipe posts. Jasper can be used for literally everything under the sun, which is amazing. But in here, you can actually write a post with Jasper very easily with these little techniques. So I also recommend adding a tone of voice to make sure it sounds like you, but not super necessary.
+
+[00:15:19.230] - Speaker 1
+Now, for SEO best practices, you want to have an introduction for every blog post. Within the first hundred words, you want to use your keyword. Jasper isn't trained in SEO, it's pretty good at it, to be honest. But you have to put in some work yourself. So the ways that we can trigger Jasper to use our keywords are number one, by having it in our title.
+
+[00:15:40.820] - Speaker 1
+So I have made this in H1, that way Jasper can say hey that's the H one, that's the title, we're set. I also put it in the title description over here on the side. Jasper pulls from all of the information over on this side while he's writing. Then we have the content description and brief. You don't really need that for the intro, we'll talk about it in a moment.
+
+[00:16:04.600] - Speaker 1
+But here if you wanted to, let say if you're writing this post for things to do in Rome but your blog is all about child friendly things, you might want to, number one, probably target that as the keyword instead. But you can tell Jasper in the content description to write an article about things to in Rome that it's child friendly, or focus on the solo travelers, or the family, focus on whatever travelers you're focusing on there, and choose your audience and tell him who they are. Then you can also add in keywords. I actually caution against doing this which I think is a bit again, controversial. I prefer to trigger my keywords inside of Jasper and our writing through the content brief, through headers from my H One to my H two, you can go down to H four.
+
+[00:16:53.250] - Speaker 1
+So even your FAQ section, you can fully set up this way. But I find when you put keywords into the keyword area, sometimes he will keyword stuff a bit. And we don't want anything that has too many keywords. That is definitely a pitfall people get into with AI writers is they trust the AI writer knows better than they do and that is never the case. You are the brains behind the operation. Jasper is just your conduit to getting it written a bit better.
+
+[00:17:24.550] - Speaker 1
+So from here to start, we can say write a blog post introduction on things to do in Rome. You don't need to capitalize anything, he'll figure it out. You can even add in more like if I do, this is a blog post for family travelers, I can't type and talk at the same time but then I would have him run this. So, to run, you hit command enter or command J.
+
+[00:17:59.020] - Speaker 1
+These are two different commands, but basically, I'm just going to run a simple one for now. We're just going to run and write a blog post introduction on things to do in Rome, command enter and we'll let him run. So here we go, we've got a quick and easy little intro. I teach more about how to get like intros that are more your style in my other courses which we'll talk about it later, but this is basically a nice little intro to get you going. So here we can see that he does use our keywords kind of bits and pieces of it and not altogether.
+
+[00:18:35.500] - Speaker 1
+So what I do in this case is I write with Jasper and I think that's kind of the thing people don't think to do, they want Jasper to do all the work. So I would say here are the 31 things to do in Rome, because I know that I need to have that full keyword together to rank on Google. And then you would just keep going. You can just have him start writing about the Travis Fountain if you want because it's quite a popular place. However, it's better to give him information.
+
+[00:19:08.050] - Speaker 1
+So this is where I would feed him keywords in my content description. I would give him information, I would say, one, visit the Travis Fountain. Fountain, how do I spell fountain?
+
+[00:19:21.420] - Speaker 1
+There we go. I would just list things about it like free to visit, kids will love this, whatever. You can add in any of those triggers here to get him thinking about what you want this focus to be, what you want the keywords built-in to be. And when you do this, Jasper actually reads and pulls that information in. So that makes it a lot simpler for him to basically put all this together and create an easy-to-read post that includes all the keywords that you need.
+
+[00:19:59.070] - Speaker 1
+So the reason we don't let Jasper just create an outline, if I say sorry, there we go, write a blog post outline. Jasper has read a number of things on the internet and so, he will pull information for you. However, he has read, like he's kind of up to date, he's not fully up to date, but for things like Rome, there's a lot of touristy things out there. And so, he's going to pull what the top ten probably had when he read the internet. But those might be things that are very kind of overdone.
+
+[00:20:33.390] - Speaker 1
+So for example, he has to Coliseum, Vatican City, that's great. But if you're like actually, I hate those things. I'm a local, I know that those are bad. Then you have to input your own information. Another pitfall with SEO and AI writers and honestly, any kind of AI content generator is it's pulling from what already exists on the top ten of Google.
+
+[00:20:56.830] - Speaker 1
+And so if those are bad, if they have poor information, misinformation, then where do you go from there? You're kind of stuck. So what you need to do is to create this SEO-optimized outline, so you can guide him so that you have better information. And then all he has to do is fill in the blanks, kind of write in the bits and pieces in between. This is the same for if you're trying to write anything that's very factual.
+
+[00:21:24.090] - Speaker 1
+A lot of people try to get Jasper to come up with facts. That's not his job. He is not your researcher. He is your writer. And this is something I've seen as well with Rank IQ and surfer SEO is that even the words they recommend, the word count that they tell you, it's very much based on what already exists and it doesn't evaluate what exists.
+
+[00:21:45.810] - Speaker 1
+Tell you if they're worth imitating. I don't want to write a blog post. It's the same as the top ten. If the top ten is always really thin content, or perhaps is very outdated, or if forums are ranking, because first of all, a forum will drastically stew how long the post should be, for example. As well, if like TripAdvisor is ranking, their word count is much, much lower than ours will be.
+
+[00:22:12.060] - Speaker 1
+And so we have to add in more words. But those AI generators don't take that into account. That's why I say we are the brains behind the operation. We have to put this together ourselves. And then these are just ways to kind of create little shortcuts that speed up our writing.
+
+[00:22:30.930] - Speaker 1
+With Jasper, I am able to do a hundred thousand words a week, and I was doing that while I was at my full-time job at a law firm as well as being an SEO specialist and a content freelance writer for other people and dealing with some dog training stuff all at the same time. So I had no time to work, and I was able to write literally hundreds of posts with Jasper, and you can too. And when I say that he writes anything, he will write any type of content. Then once you are done working with Jasper, I do recommend as you go, edit as you go.
+
+[00:23:09.420] - Speaker 1
+Because if you let him do nonsense for number one, he's going to kind of, he sees the patterns above and he's going to kind of copy those as he goes. So it's best to edit as you go, include those keywords as you go, and then you can literally copy and paste all of this straight into your WordPress dashboard and it will keep all the formatting. But then you want to use SEO best practices on your own site to ensure that this ranks. So how do we do that? We're going to add a meta description.
+
+[00:23:40.080] - Speaker 1
+We're going to make sure our title is SEO-Optimized. So that means it's about 55 characters long, usually about eleven words, and that it has something that encourages people to click. We also want to make sure we have image alt tech, alt text, pardon me, for every single image. We do want to add images, maybe even some multimedia, like videos. And then overall, you want to make sure that this content is superior content that you have offered better than what anyone else has.
+
+[00:24:10.890] - Speaker 1
+So that's sometimes called skyscraper content, sometimes it's called eat any, whatever you want to call it. You want to be the be all and end all for this keyword. You want someone to be like, oh my God, that meatball recipe answered all my questions, is the best meatball recipe. You don't want to be just another meatball recipe next to Epicurious because you're not going to rank and you're not going to inspire people to become raving fans of your site.
+
+[00:24:40.600] - Speaker 1
+So offering that high-quality content that answers every single question, and to be honest, I used Jasper for this. My FAQs are very, very long and they are entirely written by Jasper. So really finding ways to make sure that you know your principles for SEO and then you're just using Jasper to fill in the in between. He can even write those alt text and that meta description, but you have to double check him, just like I did in the intro here.
+
+[00:25:09.100] - Speaker 1
+Let's review what we just went over. When you're writing with an AI content writer, you need to do your own SEO research. So you have to find your keywords and you have to make an SEO outline. There's so many different tools out there to help teach you how to do this, but I recommend using key search. It's very affordable.
+
+[00:25:27.170] - Speaker 1
+If you aren't making money on your blog yet, you don't need to invest hundreds of dollars into Ahrefs, although I will say it's my favorite SEO tool. Then when you're writing with this AI, you want to edit as you go to make sure that he doesn't start kind of building on bad patterns. It's kind of like with my dog Theo, if I didn't train him to stop peeing in the house, then he would have thought, okay, peeing in the house is okay. So, peeing like, at PetSmart is okay too, peeing at my mom's house is okay.
+
+[00:25:58.020] - Speaker 1
+You need to have a good foundation or else he's going to start making those errors throughout the post. And then you want to use proper SEO on your site. So I went through some of those different things that you need to do but essentially it is basic SEO that you can learn even like just by reading the little Yoast and Rank Math toggles essentially, although they are not the be all and end all, promise that. But they'll help give you some guidance on these to make sure that you can be rankable. And then ultimately it is just creating the best content out there.
+
+[00:26:32.500] - Speaker 1
+You want to be an SEO superstar, no matter what type of content you're writing, and Jasper will help you do that. Jasper really does speed up that writing process. So we're not waiting three years to be a success because I waited five, and I can tell you it sucks. You don't want to do that. You want to see success as soon as possible, and this is the way to do it.
+
+[00:26:55.800] - Speaker 1
+And I'm all for content writers, but they're very expensive. Jasper's plan start at $50 for 50,000 words a month. I pay my content writers $50 for a thousand words, and even then, I often find that Jasper does a better job. So keep that in mind. And really remember, to scale a business like a blog, you do need to invest and find ways to, yeah, kind of even the playing field.
+
+[00:27:25.750] - Speaker 1
+If anyone has any questions, please pop them in the chat, and I will be in there to answer all of them. Questions about Jasper, questions about SEO, I love both of these things dearly. If you go to sheknowsseo.co, you will see just how much I love both of them because they are all over the place.
+
+[00:27:47.150] - Speaker 1
+Now to go further with Jasper, you do have to learn how to use it the right way. I know a lot of people who bail on it pretty early, and they say, oh, the content is bad, or I'm not getting the outputs I want. And I want to help you love this tool as much as I do. So I've created a free ebook for y'all that's called The Best Jasper AI commands for Bloggers.
+
+[00:28:08.800] - Speaker 1
+Not the most creative title, I don't care, it tells you what it is. So in this little ebook, it's about twelve pages. That'll help you learn how to make the most of Jasper AI.
+
+[00:28:19.110] - Speaker 1
+It's the leading AI. Writer on the market. And in here, you'll learn how to use commands for email marketing, writing blog posts, rewriting blog posts, for content audits, or if you're like me, and you had blog posts that literally said, hey, mom, I'm safe in Singapore. We want to get rid of those. We'll also go through how to create quizzes and digital products with Jasper, so that you can make the money that you spend on your subscription to it back super fast.
+
+[00:28:49.330] - Speaker 1
+So thank you so much for joining me. This has been so fun. And I appreciate getting to talk about Jasper, because, honestly, my therapist told me I had to stop telling her about Jasper and Google Analytics. So I appreciate any opportunity to talk to anybody about this. And I really, really hope that you take this opportunity to use a tool that does even the playing field versus the big names that can afford to have full content writing team. Turn yourself and Jasper into a content writing team.
+
+[00:29:21.280] - Speaker 1
+It's really, really fun. Yeah. And I'm just really grateful that you took the time to be here and to invest in yourself and your blog and your education. I truly think that learning and investing in knowledge is the best way to grow. So have an epic time at the summit.
+
+[00:29:39.420] - Speaker 1
+And it was so lovely to chat with you. Bye.
+
+

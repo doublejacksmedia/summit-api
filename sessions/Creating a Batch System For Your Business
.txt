@@ -1,0 +1,294 @@
+Title: Creating a Batch System For Your Business
+
+Speaker: Cara Harvey
+Website: https://apurposedrivenmom.com/
+Level: Advanced
+Category: Productivity
+Length: 39:11
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/creating-a-batch-system-for-your-business-cara-harvey/
+
+Transcript:
+[00:00:09.920] - Cara Harvey, apurposedrivenmom.com
+Hey there! I hope you are so excited to dive into my session today on how to create a batch system for your business. I've got a lot of really great stuff planned for us, and I'm going to try to get you the links of what I'm working on so it can be like you and me are just sitting across the Target Cafe table, six feet apart, working on our batch planning together. We are going to cover a lot in this action-packed session, including how and why you should be creating a batch system and how it can really help you through extra productivity, how you can systematize your tasks to know what to work on when we're going to talk about how to map your content plan out and how to use time blocking to efficiently use your day. We're also going to talk about one of the hardest things, which is asking for help and delegation, and how when you start to do that, you will be able to be more efficient in your business. Before we jump in, I'd love to stop, pause, and introduce myself. My name is Cara Harvey. I'm the founder of A Purpose Driven Mom, where I help moms 3x their productivity so that they can take massive action on their goals.
+
+[00:01:06.500] - Cara
+Over the course of the past 3+ years, I've not only been able to help thousands of women in the courses that I have about productivity and time management, but I can impact them through my Podcast, which is the Purpose Driven Mom Show and I get to see moms who struggle to find time for themselves and their goals and I get to help them find that time. And that's what I want to help you do. Because if you are an entrepreneur trying to make space and margin inside your day to work and you don't have a batch system, you are wasting so much time and you are not being efficient.
+
+[00:01:37.970] - Cara
+But it's OK because we're not here to point fingers. We're here to show you some aha moments and I want to see them. So listen, I'm over on Instagram at apurposedrivenmom, take a picture at any point today. Let me know that you're watching and I want to hear your big takeaway. So drop in my DMs. I'll send you a voice memo and we can chat because I don't want this to be another presentation that you sit and you watch and you're like,
+
+[00:01:57.590] - Cara
+"That's cool. I'll do it later."
+
+[00:01:59.100] - Cara
+I want you to take action. Okay? So question for you right now. Ask yourself, write it down on some paper, hopefully, you have something to write with. On a scale of one to ten, how efficient would you say you are right now at managing your time and your business? Now, this is very interesting because today you could feel like a ten, and tomorrow you can feel like two. Give an average when it comes to managing your time, when it comes to all the things that fall on your plate, where do you fall, where do you land?
+
+[00:02:26.570] - Cara
+What does it feel like for you? Because wherever you're at right now, what I really hope and pray is that we are able to jump you up from a two to a four, a four to a six, a six to an eight, an eight to ten, wherever you want to go, by the time we're just done talking, this is without any implementation. So if you're ready, let's do it. OK, here are the pillars of batching we're going to talk about today, we've got four.
+
+[00:02:48.680] - Cara
+Pillar one is how to categorize your tasks. And I'm going to show you how I do all of this via Trello. If you're like "What is Trello? I don't want to learn Trello. I don't like technology." Don't worry, friend. You can do everything that I teach you on a piece of paper. OK, so like I said, I have a piece of paper. Now, this Trello board that I have, I'm going to make sure I submit it with my presentation because it is a template that you can copy and I've done a lot of the work for you, so you are welcome in advance. I'm going to show you how to do it. We're also gonna talk about how you can pre-map your content plan out. Pillar three would be creating your time blocks and the fourth pillar is pre-planning your work. So we have a ton to talk about. Let's jump into step one, which is creating your batch groups. Now, there are two ways that you can batch your time. One of them essentially is a batching by task.
+
+[00:03:34.350] - Cara
+Alright? So this is saying that on Mondays I'm going to write every email I have to write for the whole week. Right? No matter what, if it's for my membership, if it's for my course, if it's a newsletter, for a Podcast, whatever it is. OK, that's batching by task. You can also batch by content pillar. This is saying on, I'm working on a project, right? So, say I'm working on my membership, which I think will be able to show you in here.
+
+[00:03:58.280] - Cara
+And if not, we can even jump into one of my personal Trello boards, I think, and I'll show you what that looks like. So I also batch by content pillar. So I do my initial batching with Mondays are emails, Thursdays are podcasts, etc. but then I also will batch by project. So I'll write all the tasks I have to do for a project down and I'll work on it where like, Wednesday is membership day and I only work on the membership.
+
+[00:04:21.320] - Cara
+OK, you can work on these simultaneously. You can switch it up with what you do each day. Alright? This can work whatever way you want to. The first thing I want you to do though is create a list of all the things that you do for your task. So I wrote this on paper and then I'm going to jump on over to Trello because that's my zone of genius and where I love to spend time. So here's just a really, really easy example.
+
+[00:04:43.640] - Cara
+I need to write a blog post. What are all of the steps? What are all of the things I need to do to get this blog post up and running? Well, I need to do my SEO research, then I want to create my outline. After my outline is done, I like to go through and make headlines and H2s based on my outline. After that's done, I can create all my images. I like to find some affiliates that fit in that blog post.
+
+[00:05:04.490] - Cara
+Then I want to write out and draft out, take all those out, that outline, and really write those paragraphs out. Edit, format. Write the social media, make a newsletter blast for it, and promotion. Whew, right? That's a lot of steps. That's a lot of things that have to get done. But when we start with this step. Yes. Can it feel overwhelming? Yeah, sure thing. But it doesn't have to because it can feel empowering because it can help us batch together.
+
+[00:05:26.930] - Cara
+So let's jump into Trello. I'm going to give you a bird's eye view of how we're going to do it on Trello and then we're going to break it all down. So I'm going to be flopping and flipping back and forth here.
+
+[00:05:36.500] - Cara
+If you've never used Trello, welcome, this is Trello! Trello is where I like to map and brain dump and plan all of my things. I use a couple of systems when it comes to my business to make it more efficient. And my trifecta is Trello, ClickUp, and AirTable. So I'm going to show you how we do it on Trello right now. OK, if you've never used it, I am going to make sure I submit this board. You're going to hit "Create board from template."
+
+[00:06:00.020] - Cara
+You're going to have to create, this is a free Trello account. You give it whatever name you want. You save it to whatever team you want to have it on and boom, it's yours. Once it's yours, you will not see this bar and you are free to edit it and make it your own, okay? Some basics on Trello, these things that are horizontal here, these are your lists. OK, so what I'm saying list, that's what I mean.
+
+[00:06:20.530] - Cara
+These things going vertically.
+
+[00:06:21.940] - Cara
+These are your cards. All right? These are your cards right here. The basics, all you need to know. So let's walk through pillar number one and step one. And that's going to be brain dumping all of the things that have to get done.
+
+[00:06:33.590] - Cara
+So if you use my template, I've already done this work for you. Again, you're welcome. You don't even have to do it. You can add in specifics. Now, the reason I like to do this is because it tells me what I have to do. Now, this is "ideal world." I know that, like for my Podcast, for example, we don't have it up on YouTube right now, but we would like to have it up on YouTube.
+
+[00:06:50.020] - Cara
+But I might write down add to YouTube as something on there so that we can vision cast. I can say this is where I would like to go. You don't have to have it all on there. OK, so here's the blog workflow that I said. Keyword research, outlines, exact same from the presentation, creative video, format it, pin it to Pinterest. OK, so there it is? Here's my Podcast workflow. So I want you to brain dump if you write a Podcast. Do a content plan, outline the episodes, record, make your images, make the Wave videos for promotion, do social media posts, or do a review of the week, edit the episode. You can see it goes on and on and on. Here's an example of how I broke it down for social media. Everything I got to do for social media. Instagram images. OK, so we gotta do the captions, research hashtag, Instagram daily engagement, analytics, answer my DMs. All right? And then here's something for videos. Here's an example of you used, I don't know, YouTube. You've got to find stock images and personal images, and you've got to make freebie images, and mockups, and everything.
+
+[00:07:48.070] - Cara
+So this is like everything now. The Podcast flow is sequential. I do these things in this order. The video images? This is not sequential. This is just literally everything I have to do when it comes to making videos and images for my business. OK? Now what's cool about Trello is you can drag these cards. So I recommend you just like brain dump it all out and then you can drag them and put them in a sequential order.
+
+[00:08:14.530] - Cara
+So let's say YouTube is one of your pillars. And as you can see, I've got a whole bunch of lists for you and, at the very end, you can add another list. So if you've got another content pillar you can put it in here. I put Shipping, I don't ship anything, but maybe you want to say, like, what are all the steps for shipping, for Coaching, for Twitter, for Research. However, you want to break it down, OK?
+
+[00:08:32.050] - Cara
+You can even make it for Product. So like, for me, that would be like my membership and then I would break down like all the things I do for my membership type of a thing. Okay? So let's do a YouTube example together. OK, if I was to do YouTube, now, again, I know these things are here under Video, so you could just drag them over if you want or we can start over. So if I want to do YouTube, I want to do, like, content research, and then I'm just going to enter to make a new card.
+
+[00:09:00.040] - Cara
+I need to outline the video. I need to record the video. I need to edit the video. I need to come up with a thumbnail. I need to do some, like, hashtag research for it. I guess this would also be like hashtag SEO research. We want to upload it. We need to pin it to Pinterest. We need to promote to email lists. Promote to IG and Facebook. OK, so see, I'm just literally going through and I'm writing all my tasks down.
+
+[00:09:38.230] - Cara
+That is just Step One. Step One is literally just a brain dump to get it out of your head. And again, this might not be all things that are happening right now. This could be like "ideal world." And what's cool is inside Trello, you could use these little labels. So let's go to YouTube, for example. So pretend we've got YouTube as one of our content pillars. We could go here and edit labels and we're going to just make a label. It would be like In Progress, so this is like stuff we already do. And then we're going to make another label and we're going to call this like Future Vision. So this is like stuff I'd like to do. So if, for example, I'm like, I do YouTube, but it's literally like for us, I film my Facebook lives once a week and we just toss it on YouTube. Like, we pretty much just, like, upload it and put it on YouTube, but we would. So that would be like In Process.
+
+[00:10:27.370] - Cara
+So let's add a label to that. Edit labels, here we go, In Progress. Everything else is so random. Like, I mean, I do outline the video, so I'll put that in, but I don't have anything else here. So I'm not really doing much research. I'm just guessing, to be honest, it's like such a random strategy. So I would put that as like future vision. Like I would like to do this, but at this point in the way my time is, I just don't see where it fits.
+
+[00:10:51.190] - Cara
+OK, so record video, I could go through and say this is obviously something I have to do. I don't do any editing of the video. Maybe one day we'll do that. We do make a special thumbnail for it. So I'm going to say, OK, that's In Progress. I'm not doing any SEO research. It's like super random that would be something we need to do. We do pin it to Pinterest. I do promote it to my email list. And then I do share it on my social, so I actually, you know, I was with the dog myself. I'm doing better than I thought!
+
+[00:11:24.380] - Cara
+Oh, and then, like, embedded into a blog post. That we do too. So after you've gone ahead and you've created this, I want you to then do this. Is it in progress? Is it my vision? Like where am I right now? Because that's going to give us a better look at holistically where we're going to spend our time. All right. So once we've done that, I want to do a tight inventory. Now, I always recommend you start when you're creating systems and routines in your business.
+
+[00:11:49.040] - Cara
+Start with the end in mind. What is your vision? Where do you want to go? We just did that. Then go back to create your baseline. Where am I? This will allow you to see things you can group together. It'll also let you think about where you want to work in your zone of genius. Maybe you have something on your time inventory like filming a video, for example, when your kids are awake and it takes you nine hours because you have to keep pressing pause.
+
+[00:12:12.050] - Cara
+Right? That's not efficient, but you won't know that until you do the time inventory. It also is going to, it's going to tell you where you're wasting time. And I don't want to point any fingers. Right. But we love to waste time on things that don't matter. And so we're going to learn that. It's going to help you fill the gaps and do your workflows. So if I'm doing a time inventory for my Podcast, I have this whole list I made on Trello of everything I wanted to do.
+
+[00:12:33.740] - Cara
+Right? But, but, but, maybe I forgot a couple of steps because I have the curse of knowledge, you know, the curse of knowledge where like you think you know all the steps and then you try to teach it to someone else and you realize you missed a million things. So what I want to do is I want you to create a time inventory. So this is something I, I just do it on Trello card or on a piece of paper and I do it for about three to five days.
+
+[00:12:57.140] - Cara
+Now, what you're going to do once you've done your time inventory is we're going to go back into Trello and you're going to write down how long things take. OK, so you could do it a few ways. So these are like estimated time. So say I was doing my...let's do our social media. So say I was posting in my Facebook groups every day. OK, so, you know, say that takes me seven minutes. And I realize that when I'm doing it that I don't have planned out in advance what I want to say on my Facebook group.
+
+[00:13:26.390] - Cara
+So I'm wasting time thinking what would be a good post. And then I go to Google and I'm like icebreaker questions for your Facebook group. And then it's seven minutes later and you finally get a post up. OK, then you would type all that in here, right? Like wasted time finding a post.
+
+[00:13:42.470] - Cara
+Opened Facebook and got lost in the scroll. All those little notes, I want you to write them down for yourself, then you're going to have a really good idea of how long things take. Now our next step is delegation, which you might not be ready for right now, which is totally fine. No worries at all. But I want you to start thinking about delegating. You do not have to be the person doing every little thing in your business.
+
+[00:14:04.850] - Cara
+And I'm gonna tell you, it wasn't until last year, like, a literal year from today, that I hired my first person. For two years, I did everything by myself and then I hired someone else. And when I hired someone else, it was the scariest thing that I did. But it was amazing because I didn't have to do it all. I have to be everywhere. And then my brain was free to actually be the CEO and visionary of my business.
+
+[00:14:30.410] - Cara
+And so by asking for help, by delegating, by hiring things out, I freed up a bunch of time and I've made a lot more money. So it works! And now we have a team of four and then a whole bunch of freelancers that work for us, which is incredible. So you're going to go through, I'll show you the second Trello, and you're going to label things that you can delegate. You're going to delegate things that you don't like doing, things you're not good at, things that take you forever, and things that you do just because it allows you to procrastinate.
+
+[00:14:56.210] - Cara
+So let's break this down, OK? I don't like making images. I don't like doing it because I'm not good at it. So I want to delegate those things out. I don't like making sales pages because I'm not good at it. I hate checking my email because I get overwhelmed. Delegate those things out. Now, there are also things that take you forever to do. So like I currently write all the copy for my emails, but I am so ready to hire a copywriter because it takes me a little bit longer than I would like.
+
+[00:15:23.600] - Cara
+And then there are also things that we do that allow us to procrastinate. So I really love planning and so I can't really always delegate all the planning out, but I can delegate some of it out because I will make that my procrastination tool. I have a friend who loves design and so whenever she's procrastinating, she just goes to Canva and makes a whole bunch of Pinterest Pins. And I'm like, well, that's not the most efficient use of your time. But you can find tons of people you can hire out to.
+
+[00:15:49.490] - Cara
+So I've had high school kids work for me from church. They do some of my social media. I have to do photo shoots through me, like, I've had to do a lot of random things. Watch my kids. So you can find high school kids if you have a teenager. And so he's like, download videos for me and things like that. You can find interns at colleges, you can go to onlinejobs.ph, you can hire abroad.
+
+[00:16:09.470] - Cara
+You can also find moms in your local area that are looking for some help. Like, don't feel like "I can't hire out because I don't make the money." You don't make the money because you don't hire out. OK? So think about the ways that you can do it. And also you don't have to delegate everything now? Why don't we create a wish list together? Start to record your processes now so that when you're ready, you know exactly what the job description is, you know what it looks like. I've made this mistake where I've handed, I've hired people with no system in place. And it was a whole mess! And it took us months to finally make a system that worked. And it frustrated them. Right? They were frustrated with it and I was frustrated with them. And it was because we didn't have the system first. So what I want to do is go back into your list. So let's go to Blogs.
+
+[00:16:51.950] - Cara
+And I made a label here in Trello. But again, grab a highlighter, whatever you want to do. This label is called "Can Delegate." And I want you to think, do I have to be the one doing it? If it doesn't have to be me, then it gets a label. So I think I'm going to do...like F4.
+
+[00:17:08.510] - Cara
+So this is a keyboard shortcut on Trello with the labels. Just to show you what I'm going to do real quick if you stick your cursor over this little pencil, you can hit the number four and it'll come up red, which we've already pre-identified is "Can delegate." So I'm going to go through and hit four on anything else. So like, I like to outline my blog post so I know what I'm talking about and I still write them. But could I delegate them?
+
+[00:17:31.190] - Cara
+Maybe. But somebody else could be doing all the research, the editing, the images, the opt-ins. I would need to create the video. Right? That I want to put in there. But somebody can format it. Somebody can schedule social media. Somebody can publish it. Somebody can do the Pinterest. Somebody could add it to our promotion board. Wow! Look where only I need to show up.
+
+[00:17:49.260] - Cara
+Interesting, right? This allows us to see where we don't have to do at all. OK, so we've gone through, we've broken down our tasks. We've written down all the things we need to do. We've done a time inventory. We know how long things are going to take us and we know what we can delegate out.
+
+[00:18:04.950] - Cara
+Hopefully, you now feel like a little more empowered instead of overwhelmed. You're like, "OK, this is a lot. I know, but I know that the future tells me I don't have to be doing all of it and I can make a smarter plan." So it's time to make that smarter plan. Step Two, though, is we've gotta content plan. So you may know all the things you have to do. You've got every single one down, but if you don't create your content plan in advance, you cannot batch in advance.
+
+[00:18:30.630] - Cara
+My goal is always to have next month completed. Before I do this month, I'll even want to look and I'm sorry. Yes, this month completed before next month. So, for example, I'm recording. This is November. I want all of December done before December starts. So this month I want to work on December Podcast December social. All of it! So that in December I can work on January, I can work on projects, I can work on connecting and collaborating.
+
+[00:18:55.410] - Cara
+And I don't have to be in the weeds, writing the blog post that's due tomorrow. We've been there. We've all been there. It's Tuesday night and your podcast goes out on Wednesday. You haven't recorded yet, so you stay up till 2:00 am. Guilty! But, but, but, when we go ahead and we create content plans, smart and batch the planning we can, then batch the do it. Someone laughed at me the other day and they were like, wait, you make a plan to plan.
+
+[00:19:21.540] - Cara
+I was like, "Heck yeah, I do!" So I actually will plan out. Week two of every month is where I batch out my planning for the next month if I haven't already done it. This is where I'm making adjustments and editing, doing what I'm about to show you. Before the quarter starts, I start this planning in advance. So. All right, let's jump over. Ok. This is a content plan. I'm just going to show you one.
+
+[00:19:43.560] - Cara
+I took a picture of it, but I actually opened it in Drive. So we're just going to look at it together. And I've made you a blank so you can take it too. All right, let's look. This is an example of a blanket Content plan. It's simply a Google Sheet, not a big deal, but I do this. So this is for Q1. I created mine and I started it at the beginning of October so that was literally, like, right when the quarter started - I start to plan. And what I do is I take an hour every Monday to just plan and work on this stuff. It takes me probably a whole month to plan it. Well, in doing it this way, then a whole other month to, like, start to batch it and then start to get it done so I can get ahead. So here is a finished product and then I'll walk you through from the beginning.
+
+[00:20:30.420] - Cara
+I just wanted you to see the blank. And now this is my finished product. This is my actual content plan for the quarter. So we've got our dates here. We've got our promotions and our launches here. We got weekly themes, freebie midroll if you have a Podcast, and then I do a Live on Monday and newsletter Tuesday, some social media posts, and a podcast. OK? You might stick a blog in here, whatever it is.
+
+[00:20:52.790] - Cara
+So here's how we start. We're going to work vertically and not horizontally this time around, because when you work vertically up and down like this, you can easily just come up with ideas compared to having to go across and be like, "Oh, what fits this theme?" So first things first, drop your dates in. Second thing, what is the promotion that you were doing that week, and what is your lunch? So I do each quarter. I do like a big product launch for my own product.
+
+[00:21:19.040] - Cara
+Then I do a small launch for maybe a Masterclass I'm teaching or a JV that I'm doing with someone else. And then I do an affiliate or a partnership. So I tend to have about three big things. Now, this January, you can see there's been a little crazy. I've got like a million things going on here, so there's a lot happening. And again, this is my actual content plan. So if you want to hang with me for any of these things, this is what we're doing.
+
+[00:21:40.940] - Cara
+OK, so I go ahead and say, "What's my promotion?" OK, so I had literally a different Summit or a JV or an affiliate each week. Then as you can see here, I've got some blank space. I'm not promoting anything, so I just highlight it. I've got a beta course coming out. I'm doing a flash sale. There's a bundle. OK, so I've got all these things. So I start here with, like, what am I promoting?
+
+[00:22:01.280] - Cara
+What's happening? This way I can theme my weeks. I do that first. Once I've come up with that, then I go to the themes and I go from top to bottom. What am I want my theme to be? This is my message. This is my runway. This is where I'm going to have all my content around that. So week one, I'm talking about Action Planning for Your Goals. So let's, here we go. Let's look at an example for the Blogger Breakthrough Summit, right? My theme was Mompreneur Routines. Now you can see that because of my promotions, Genius Bloggers Toolkit, Blogger's Breakthrough, and my beta, which is a system of course for Mompreneurs, I've got four weeks where my theme is just Routines for Mompreneurs, Routines for Mompreneurs. Once you've got that, you move to the next one. So if you Podcast what freebie pre-role/mid-role makes sense here. So I was promoting the Summit, I was doing a few that made sense.
+
+[00:22:49.940] - Cara
+Let's see if I have a weekly checklist. If I have a webinar, I made them all in advance. Now the reason I make them all in advance and I write them all down now is so that when it's time to batch out my Podcast mid-roles, I can take one day. I already know my entire quarter worth of mid-roles and I can just bang, bang, bang, record, record, record. And I can record every single mid-role I need for the entire quarter and then it's done! And then I can batch them out.
+
+[00:23:19.610] - Cara
+If you don't do this step, if you think, "Cool, Cara. I'm just going to sit and batch. I'm just going to record my Podcast mid-roles on Thursday morning. But you don't do this planning. You're going to waste so much time because you don't know what you're supposed to be recording. I literally can sit down at my mic, record all of these, have all my links together. Boom! Done! All right. So let's walk through kinda the rest of it.
+
+[00:23:42.770] - Cara
+This is just how I break my week out based on my themes, I do a Live on Facebook every single Monday that connects to my weekly theme. So, again, I'm going to go through and I'm going to write them all down. What are my weekly themes? How does it all fit? OK, so if I'm doing Trello for three weeks, talk about tracking goals with Trello, how to use it as a calendar, where to start when it comes to your goals. All connecting to Trello.
+
+[00:24:02.990] - Cara
+OK, this is easier to think of ideas than going across. Now, on Tuesdays, I send like a newsletter or an email. Now, one of the things I actually do is I repurpose some newsletters. So if it's linked here, I literally just link from ConvertKit into here and I just link the, what's it called...? The actual email from ConvertKit so I can open it up and just use that one. So I've got some emails that have performed well.
+
+[00:24:27.080] - Cara
+I just relink at them and then I come up with what I'm going to talk about. So again, when it's time to batch my emails, I'm not sitting at the computer saying, "I need to write Tuesday's email. I said that I was going to write Tuesday's emails today, so I've got to write all of them for the next month. But I haven't planned what I want to write, so I'm going to waste all this time." After you come up with the system we talked about in Trello, you've got to do the batching.
+
+[00:24:49.880] - Cara
+You've got to batch out your content plan for the quarter or you're wasting time.
+
+[00:24:54.380] - Cara
+Now, other things I do then is I've got podcast episodes so I batch those in advance, they all fit my theme and then I batch out my social media. So two times a week, I do like a value-packed...What's it called? Like a, you know, teaching type of a social media, an infographic, whatever. Two times a week is like a personal lifestyle story, all connected to my theme. OK? So I will even back to those out I will write all of them at once so that they're all done and ready to go.
+
+[00:25:19.340] - Cara
+I hope that made sense on how it works. Again, this is where it ends, but this is where it starts. So take some time. Batch out! Write all your promotions down one day. On Monday, I'm going to pick all my promotions. On Tuesday, I'm going to do all my weekly themes. On Wednesday, I'm going to do this. So by the end of the week, you've got your whole content plan done for the whole quarter, and then the next week you can start working on it.
+
+[00:25:41.510] - Cara
+Then the next week, you can move from planning mode to doing mode. You can start recording the freebies. You can start doing the SEO for the blog posts. You can break it down. That's how you get caught up. That's how you get it done in advance. It's getting heated over here. OK, so we've talked a lot about this. I'm sure I have other things on my slides that I didn't talk about.
+
+[00:25:57.160] - Cara
+Hold on, let's scroll on down. Yep, cool. Talked about all that. Pre-assigning our content plan. Boop! Back to Trello. So once you've come up with your content plan and you know all the things you have to do, I then recommend you kind of pre-assign when you're going to do it. So here are some examples. Over here, I've created these little headers in Trello, which all you have to do to do that is click on the card, hit cover, pick a cover that you like, and hit the big side with the little lines over here and then you see it looks like a little cover and then you could put cards underneath it. So that's just a little Trello tip. Take it and run with it. And now what we're going to do is we're gonna batch out your advance work. So maybe this is where like. OK, the third week of every month is a planning week for me, where I'm going to plan out stuff so I can make sure everything's in line. So I'm going to make a card right here and I'm gonna call it Planning Batch.
+
+[00:26:50.910] - Cara
+So I know that in week three of the month, I'm planning. Week one of the month, I'm creating. This is where I'm doing the blog post writing, the Podcast recording, all of those things. And maybe I'm also Podcast batching. So you put those together. Week two of the month, I'm going to do email batching. So I'm going to make a plan so that I can write next month's emails and then the next month's emails, and the next month's emails. And then they're done and you don't got to worry about it!
+
+[00:27:14.850] - Cara
+And maybe, you can see here Podcast Batching. Obviously, it's not going to get done one week of the month. So you can say I'm going to do a little here, a little here. Maybe on week three, I do my social media. So that's when I write all my Instagram posts for the month. That's when I plan out what my Facebook group is going to be and I hand that over to my VA and she schedules it all for me. Maybe week four, you're doing admin.
+
+[00:27:34.470] - Cara
+So we've got all these other things, right? We've got a blog post and research and video. How is that going to look for you? So I want you to go in and I want you to stay, "Out of the month, what am I going to be working on in, what weeks?" Now, you can do this because you have a content plan because you know the end goal so you can fill in the gaps. So you can start with saying, "I know that by the end of December, I want all of January Podcast done."
+
+[00:27:59.580] - Cara
+Right? So that means that I need to work on the Podcast stuff. So I need to make sure Podcasting goes in those first two weeks so that the last two weeks of the month, I'm not worrying about Podcast. Right? And it makes sense, right? You want your Podcast done for the next month so that you can work on the social media for the next month, so you can work on the images for the next month. You can't do it in any other order.
+
+[00:28:21.210] - Cara
+All right. So once we kind of preassigned those, the next one is how do you can create your time blocks so that you can group your tasks together and not like toggle through the day? We're gonna talk about how you can create an ideal time block to work on. And then one of the things I do, and for the parents out there, is I have a list called "Things I can do with my kids around," so that I can maximize my moments when my kids are around and I don't want to get frustrated at them because I'm trying to work. Alright, be flexible as we create them and figure them out. Let's look at them in Trello. OK, come on over to my time blocks. Again, if you copy this template, you will have this whole thing for you. All right? So there's one up here, that's the cover. This is where I've got all of your daily tasks, things that you do every day and you're not sure, like, when you're going to do them.
+
+[00:29:11.000] - Cara
+This is your "things I can do when my kids are around." Maybe you do your manual pinning and see how it's got the time inventory? So I know how long it's going to take. Sometimes we'll say to ourselves, "Oh, Cara, you don't have enough time to do it, like, your kids are playing right now, but you don't have time to do any work because we can't sit and get into the deep work." It's OK to not always be in the deep work, because sometimes we have to deal with the other stuff too, so by pre-identifying how long something's going to take, and I'm like, "All right. I know my kids can play outside for like 15 minutes before, like, they need me, so I'm going to get started on the 15 minute task right now."
+
+[00:29:44.100] - Cara
+So I'm not overwhelmed. And so because I've done the time block, I know how long it takes. I, therefore, can decide which tasks to do instead of complaining about not having enough time, we waste more time complaining about not having enough time than actually doing the things, right? So these are the daily ones. But let's go down to the time blocks. OK, so a few things that I recommend you do. One is that you create whatever your time blocks are.
+
+[00:30:08.180] - Cara
+So let's say, Monday I'm going to work on my emails. Actually, I don't think I want to click on that yet. Monday is when I work on my emails, Tuesdays when I work on my membership, Thursdays when I work on my Podcast, OK? And so I've got them all kind of written down here. Now, inside each of these cards is where I go ahead and I write down what's going to happen when. So there's a few ways you can do this.
+
+[00:30:31.540] - Cara
+You can make a checklist, you can call your checklist whatever you want. So I've called it 5-9, 9-12, 12-3, 4-8, and 8-11. This is my whole day. So this is what every Monday looks like for me. And I've said on Mondays, I work primarily on my emails. So "ideal world," five to nine a.m., that's my, say 5-9 is my work time and 9-12 is my work time.
+
+[00:30:56.690] - Cara
+So let's say my kids are going outside of the home to school or whatever it is. You can see I've got things written here. I don't have anything written during the day because say I pick my kids up at 12 pm and then they go to bed at 8 pm. So I don't work then, so this does not have any work in here. It's just empty. So I've said, on Monday I'm going to do my emails and I plan out in advance-
+
+[00:31:16.210] - Cara
+What am I doing? I'm working on newsletter one, newsletter two, and newsletter three. I've already got it here and it's got these great checkboxes in Trello so I can track my work. The other thing I might say is, "OK, now I know this is quiet time, so it's actually not hard for me to write these emails because my kids are still sleeping." They're doing quiet stuff, whatever it is. Now from 9-12, maybe it's a little louder, I'm doing something different.
+
+[00:31:36.910] - Cara
+So from 9-12, that's when I can work on maybe different newsletters. Well, we already have newsletters up here. So I'll show you, if you hit those three dots, you can just delete things. But maybe from 9-12, I said I'm going to work on my Podcast promo email because it doesn't take as much brain space because it's already kind of written for my show notes. I'm going to work on any sales emails. I've got it planned out so I know what my day looks like.
+
+[00:31:55.270] - Cara
+So my recommendation to you is going to be to kind of go into any of the blocks, say what you're going to be working on. Say, "This is when I work on my membership on Tuesdays." Which is actually what mine looks like. And I will show you guys in real-time, don't judge it, my actual Trello board when we're done. So this is my membership. Maybe on Tuesdays I have a mother's helper, so I know I can get some quiet work done.
+
+[00:32:16.000] - Cara
+So from 9-12, this is what I like film videos because that's my ideal work time. This is when I do like lives in student groups. Okay? Things like that. But maybe in the morning or this time it's not so quiet. So, that's when I engage in Facebook groups, etc.. OK? So I want you to go ahead, go to those blocks we've created because you've done all the work. You know exactly what has to get done and drop them in.
+
+[00:32:41.530] - Cara
+When are you going to do those things? This allows you to know when something's going to happen and where it's going to happen. And when you pre-plan like this, you can kind of pivot, as needed.
+
+[00:32:51.700] - Cara
+Now, this next pillar is pre-planning out your tasks and I recommend you do this before the start of the month because once done everything else, you kind of have a sense of what has to happen. OK, I write a newsletter every Tuesday.
+
+[00:33:07.480] - Cara
+I need to write this one, this one, this one, and this one. Right? I need to do this social media. This will let you eliminate your procrastination because you know exactly what needs to get done and what else gets pushed off. You're like, oh, no, I can't get behind on these things. OK, so this is an example of what the card looks like in Trello. So, for example, if I was to do email, I would make three different checklist.
+
+[00:33:27.970] - Cara
+One would be, "What do I need to complete this week? What do I need to complete this month?" And one is, "What I've already done?" So I do this the, I guess it's the fourth week. So maybe like the Monday before the week starts, I sit in Trello and I make these cards and I feel like I have an example of these...
+
+[00:33:46.260] - Cara
+You know what I'm going to do? Audible! Come on in. I'm going to have you come into my Trello. I'm going to show you my real board, no judge. And I'm going to show you what it looks like for me because I thought I had an example here, but I'm not seeing it, so we're just going to do it in real life and I'll show you what it looks like.
+
+[00:34:03.700] - Cara
+OK, so this is inside my Goal Trello board. This is my personal life and my regular life. So we're going to scroll on down to the regular stuff. Here we go. OK, so this is this week. Nope, that's not this week. This is this week. So I'm going to go all the way down. OK, so here's what I have.
+
+[00:34:22.190] - Cara
+These are my work batches. OK, focus. On Monday, I do my emails. On Tuesdays, do my club and my coaching. Wednesday, they work on launches. Thursdays, I work on Podcast, social media, and team. And Fridays, I work on projects. OK, so this is my email list for the entire month. I've got three lists: to complete this week, to complete this month, and what I've completed. Now, it's the beginning of the month, so I haven't done anything yet because I don't add any of this 'till the end of the week.
+
+[00:34:47.180] - Cara
+But before the month began, I brain dumped every newsletter. And you can see I'm behind. Like, I like for December, for November to be done, but it's not.
+
+[00:34:55.450] - Cara
+I'm going to be real with you! So I'm behind, but my goal is always to get ahead. And so I have gone through and I've broken down every email I need to write for December because again, this is my emails, emails, student emails, call emails, prep emails, all of it. And then on Sundays or Saturdays, actually, I move anything that I want done for the week and I move it up here. And then I also add in things. Like doing the budget and the data review doesn't fit under emails, but I didn't do it on Sunday, so I just had to kind of add another item in if that makes sense. So you can always move things up.
+
+[00:35:25.820] - Cara
+So this is what it looks like at the end of the month. I'm going to drag this up so it's easier. So at the end of the week, I'll take anything that I did and I'll put it up here and I will congratulate myself like "You go, girl! So proud of you. Can't believe you got those emails up. Nice work!" You gotta love on yourself. And I move it here, I see what's left, and then I ask myself, "Well what needs to complete it next week?"
+
+[00:35:49.850] - Cara
+And then I drop those bad boys up here. So now I know exactly what I'm working on next week. So when it's time to write the emails and I know that in the morning is the best time to write my newsletter email, boom! I open this up and I just start working. I'm not thinking about it. I'm just doing it. And I'm starting with the end in mind. So this is kind of like that final step that pulls it all together because we've done...Man, did we talk about a lot?! Right? Like a lot today. All right. But just to reiterate our steps by going in through, going through, and brain dumping first, you've got your vision, then go to the baseline, do your time inventory and then say, "Hey, what can I delegate? What can I get out of here? I know where I'm at." And then you're going to go through and pause. You're going to make your content plan.
+
+[00:36:35.150] - Cara
+You're going to fill it in. So you know exactly which emails, exactly what social. Exactly, exactly what has to get done. Then you're going to pop back into this bad boy and you are going to make your batches. You're going to make your time blocks. You put everything together, you're going to have it be crystal clear when it's time for you to sit down and work. This is what you're doing when you're doing it. No decision fatigue.
+
+[00:36:55.760] - Cara
+Just get started. So let's all take a deep breath. All right. I'm ready too. And I would love to encourage you to do this time inventory, add in the tasks you can delegate, make your content plan, and batch. Here's my pro tip: 15 minutes a day. Put in 15 minutes a day, every single day to work on this planning piece, because if every day you're doing some sort of planning, then that's how you get ahead. You can't just say, "It's November the 30th and I want December's plan 100% done." Because you're going to start December 1st, be like, "Um, I don't know what I'm doing. I'll just try again next month." It happens. Start now. Fifteen minutes a day. Just brain dump and move baby steps. OK?
+
+[00:37:39.560] - Cara
+This was really fun to connect today. Like I said, I know I went very fast and I talk very fast and hopefully, you can get the recording of this and I'll make sure all these links are here.
+
+[00:37:48.530] - Cara
+But I want to connect. So head over to apurposedrivenmom on Instagram. DM me! Tell me your biggest aha moment, the biggest action step, and take away that you're going to do today. Better bonus - do it after you do it, right? Like watch it, bring dump one of your batches, and then DM and say that you did it. OK, I want to voice back and forth if you've got Trello questions I can show you a little video.
+
+[00:38:10.670] - Cara
+I am committed to helping you make this the best. I just want to give you another free gift. I feel like I've put a few in the Summit, but I have a free workshop. It's called How to 3X Your Productivity Without Burnout. You can go to apurposedrivenmom.com/productivityworkshop to help learn how you can maximize your time and handle the distractions that life goes and throws at you all the time. Otherwise, this is fabulous! I've loved hanging out with you.
+
+[00:38:33.800] - Cara
+I appreciate you and your time and again, I'm so excited to connect more. Toss me any questions. Tag us up on Instagram so we can become Internet BFFs and again, you got this 15 minutes at a time. The planning will make you more efficient in the long run. You can do it! I believe in you!
+
+

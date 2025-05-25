@@ -1,0 +1,155 @@
+Title: 5 Keys to Using Analytics for Success
+Speaker: Jenn Zellers
+Website: https://virtualsummitsearch.com/
+Level: All Levels
+Category: Data
+Length: 18:06
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/5-keys-to-using-analytics-for-success-jenn-zellers/
+
+Transcript:
+[00:00:09.750] - Jenn Zellers, virtualsummitsearch.com
+OK, so let's talk about five things that Google Analytics can tell you about your blog or Website and what to actually do with the information that you get from that.
+
+[00:00:17.970] - Jenn
+So we're going to be asking five questions and we're going to ask 1. Where's the traffic? 2. What are they searching for when they find your Website? 3. Who's actually coming to your Website? 4. Where are they going on your Web site? And, 5. then what are they doing when they get to your website? So I'm going to start off by sharing my screen real quick. We'll go over here. And so this is going to be the first thing that you see when you come into Google Analytics.
+
+[00:00:44.250] - Jenn
+This is their default dashboard. So I'm using the Google Analytics demo account. It essentially pulls data from their merch store. So it gives us a lot more information than a typical smaller website. So it just kind of helps for visualization, I can talk today....
+
+[00:01:02.190] - Jenn
+So as you can see on here, you get some idea of how many people are coming each day, what their conversion rate is, that type of thing. You can see how many people are currently on their website. So it's about fifty five ish. How many people are coming back month over month where they're coming from around the world, things like that. But we're not going to dive into this too much because this isn't the stuff that we want to talk about.
+
+[00:01:26.580] - Jenn
+So the first thing that we're going to ask is where is the traffic? So where are they actually coming from?
+
+[00:01:35.040] - Jenn
+So to get here, you're going to go to Aquisition> all traffic and then source slash Medium. All that really means is what website are they coming from? And that's the source. And then the Medium is what type of traffic as it's like, is it paid? Is it organic or essentially organic just means that it's not paid for and stuff like that. So in this case, you can see that Google's main traffic is coming from direct/none.
+
+[00:02:01.840] - Jenn
+So what that means is there is, the source is direct. So typically that means that someone is typing in the URL directly into the browser or they're coming from bookmark or there's some other reason that they can't track where it's actually coming from. And then the none just means that because of that, they don't know what the type of traffic is. So it's not paid, it's not organic, it just is. And then the next highest one is their Google-CPC, which stands for cost per click.
+
+[00:02:30.990] - Jenn
+So what that means is that their second highest traffic source is their paid ads.
+
+[00:02:35.370] - Jenn
+So I mean, its Google, they're paying themselves, but they have paid ads, essentially their campaigns that people are clicking when they're typing in a search query. And so that's where their second highest traffic is.
+
+[00:02:51.360] - Jenn
+When it says not set. Unfortunately, what that means is that Google can't get any information on it. Either someone's using a tracker blocker or they, for whatever reason, are not allowed to track their, like where they're coming from. So that one is kind of just stuck.
+
+[00:03:08.250] - Jenn
+You can't get any more information off of that, but if you're looking at, say, this PartnerSource affiliates, what that typically means is that they gave someone a specific URL to send out as an affiliate, and so they want to see how their affiliates are performing. So there are affiliates are number four on their traffic, which isn't too bad. And then as we go down, you'll see this one's another paid AD the DfacPM. The Google slash organic is organic search traffic.
+
+[00:03:35.570] - Jenn
+So that means that someone typed something into the search bar and they clicked on a nonpaid search results. And you just kind of go down here. The referral just, it doesn't mean a whole lot. It just means that the traffic was referred from somewhere. So in this case, the mail.Google is a Gmail link, like someone opened up an email and clicked on it. It's not a whole lot.
+
+[00:03:58.150] - Jenn
+But what you can do with this information is take it and figure out where you're getting the traffic from. So say you were running some paid search ads for your blog or your website knowing that the cost per click ads are getting you the most traffic is really helpful. It means you can put more money into it if you want, or figure out other ways to get more search traffic without paying for it, which is always nice. And if you're trying to track if you have affiliates like you have your own courses or products that you list on your website, knowing if your affiliates are sending you traffic is also helpful.
+
+[00:04:34.390] - Jenn
+So kind of just go in and here's where your best traffic, your most traffic is coming from and then optimizing. That is a really good way to use this metric. The next thing we're going to look at is what are they searching for? So to get here, we're going to go to aquisition again. But this time we're going to go to search console and then queries.
+
+[00:04:54.340] - Jenn
+So as you can see in here, we have a bunch of different queries.
+
+[00:04:58.750] - Jenn
+So this is a query, just the terms that someone is searching when they are finding your website. So in this case, their highest one, someone typed in DynoGame into Google, and when they typed in Dyno Game, one of their products came up. So you can see in here we've got clicks. Impressions, CTR and average position. So what that means is the clicks pretty probably pretty obvious. It's how many times people have actually clicked on the link from the search query in order to get to the website.
+
+[00:05:32.170] - Jenn
+The impressions is how many times people have seen that search query in the results, whether or not they've clicked on it. The click through rate is a combination of those. So they take impressions, divide it by the click. Well, sorry, backwards. They take the clicks, divide it by the impressions, and that's the percentage of people that have clicked through otherwise the click through rate. So 3.47% of people who search for Dynogame have actually clicked and gone through to Google's product page.
+
+[00:05:59.170] - Jenn
+And then the average position is where on those search results it actually ranks. So there's usually 10 results in the first page of the search results when you search for something. So your goal is to be less than 10, because if you're more than 10, let's be real. Most people don't go to the second page of the search results anymore. So in this case, you can see they came up around about four fourth in the listings. So that helps with their click through rate because you can see the next one is at number eight and it only gets less than half a percent of people who click through to get to that page.
+
+[00:06:37.990] - Jenn
+So the higher you are in the position, the better your click through rate typically tends to be. So comparing Dynogame versus dinosaur game, Dyno game definitely gets the much better results than dinosaur games, but they could do it. That is, take that information and optimize their SEO so they could go and use Dyno game instead of Dinosaur game. They could sprinkle that in in more optimal places. There's a lot of things you can do with that.
+
+[00:07:07.450] - Jenn
+So if there's a particular search term that you are trying to rank for, that you want people when they search for something, they want that you want you to be the first person that shows up. Go ahead and get into this data and see where you're ranking right now and figure out how you can improve that.
+
+[00:07:25.150] - Jenn
+So next thing that we're going to look at is who is actually coming to your website. So to get here, we're going to go to audience again. And this time we're going to go to demographics and overview.
+
+[00:07:35.980] - Jenn
+So this is a pretty simple overview. So you can see the ages that are coming to the Google website. So they have the most users in the 25 to 34 year old range and then they've got 18 to 24, 18 to 24 year olds and it kind of drops off after that. They also have primarily men that are coming to their website. So that's interesting. Some people have more men than women. Some are pretty evenly split. This one's not too far off at 59.1% and 40.1%.
+
+[00:08:08.500] - Jenn
+But knowing that can help you with targeting, as well. Men and women, tend to have different things they're looking for. So if you're trying to attract more men or more women, this can help you figure out how to do that. Another thing in the demographics that you can do is go to the interests.
+
+[00:08:26.350] - Jenn
+So we're just going to look at the overview real quick. And this is, it can look a little weird.
+
+[00:08:34.750] - Jenn
+So there's a lot of things going on here you got the affinity category, which makes no sense, the in market segment, which also doesn't really help, and the other category. So completely ignoring the titles of these things because they're just jargon. What you're looking at is the different things that your visitors have also expressed interest in. So in this case, Google has a lot of people who are value shoppers. They're looking for a good deal at a good price. They also love movies.
+
+[00:09:05.380] - Jenn
+They like technology. So maybe they're the first ones you get a new cell phone or the new PS5 or whatever it happens to be. They like music.
+
+[00:09:15.610] - Jenn
+And so knowing all of these things can help you also with targeting and SEO and all sorts of other stuff. So if you maybe have a Facebook page for your community, you could use questions around this like what's the best deal you've gotten this week or what's your favorite movie, whats the next song I should listen to? Stuff like that. You can go in here and get ideas off of that. The market segment is more about advertising. So these are things that they might be looking for, advertising and marketing services that they want to buy, those kind of services.
+
+[00:09:48.610] - Jenn
+They're looking for women's apparel. So maybe you start making T-shirts or something like that. They're looking for employment. I probably aren't going to integrate that as much, but stuff like that can be really helpful. So if you're looking at it with a creative lens, you can go and figure out ways that you can serve the needs of your audience based on this. And keep in mind, with these types of things, it is very broad.
+
+[00:10:12.670] - Jenn
+They do not have very specific information on this type of thing, but it can be a good just kind of umbrella to give you an idea of what you could do to give your audience more value.
+
+[00:10:27.220] - Jenn
+So the next thing we're going to look at is where are they going? So to get here, we're going to go back to acquisition all traffic and source-Medium. This time, instead of actually looking at the source in the Medium, we're going to go to landing page. So to do that, you'll click over here, start typing in landing page and then you'll just click that. And what this is going to do is switch it over from telling you where they're coming from to where they're going.
+
+[00:10:53.350] - Jenn
+And this is helpful because it can help you find your best pages and even your worst pages in terms of performance so that you can go ahead and optimize them to get even more traffic to them. So in this case, we can see that Google's top page that people are going to on their store is the home page. It makes sense if they're searching for something, then it's entirely likely that's the first thing that's going to come up. And then from there, they'll start searching for actual products.
+
+[00:11:20.800] - Jenn
+But the next highest one is this YouTube one. So they may be searching for products that are related to YouTube. The next one is, unsurprisingly, based on the search queries, the dyno game.
+
+[00:11:34.870] - Jenn
+So knowing this type of thing, you can go in there and start optimizing the page. You can look at the search queries, you can look at their interests and things like that in order to make your page show up more often and you can optimize your ad traffic, send more people there and whatever else you want to do with it. So knowing your best pages can be one of the top ways to get more people to those pages. But if you want to find the one, you're pages that are doing the worst, so maybe you're doing click, like the CPC, cost per click ads and you're sending them to a page that isn't getting the kind of traffic you want, you can go ahead in here.
+
+[00:12:18.370] - Jenn
+You just go and you click the users and that will flip it. So that is showing the ones that get the least amount of traffic. So you can see, is a page that I'm paying for not performing the way I want or as a page that I'm trying to get the SEO working again on, not doing the way it should. So going in here can really help you figure out if you need to stop pouring time and energy and maybe even money into a particular page, or if you want to go ahead and optimize something that is already working really well for you.
+
+[00:12:49.750] - Jenn
+So the last thing that we're going to look at is what are they doing once they get to your website? So this is one of my favorite reports.
+
+[00:12:58.750] - Jenn
+It looks like spaghetti, but I can give you some really great data.
+
+[00:13:03.250] - Jenn
+So we're going to go back to audience for this one. Scroll all the way down to the bottom of that section and click users flow, so.
+
+[00:13:11.010] - Jenn
+The country one is what it automatically defaults to, thats not super helpful for us as a blogger or someone with a website. So what we're going to go in here is we're going to search for source. And we're not going to do source/medium because that breaks it down a bit more granularly than you necessarily need to, unless you're doing something like paid ads where you want to see, OK, are people coming? Like what are they doing when they come from paid search result versus an organic search result?
+
+[00:13:44.130] - Jenn
+That might be helpful, but typically I would recommend just going with this because they know they get all of the Google results, they'll get all the ones from the partners, whatever else.
+
+[00:13:52.590] - Jenn
+So since the direct traffic is so huge, we're going to skip that one. We're going to go to Google. So there's a couple of things you can do here. You can just highlight the traffic that's coming from Google. So as you can see it then kind of gray's out all of the traffic that's not coming from Google. But you can also go and view only the segment, which is more helpful in most cases. So we're going to go here.
+
+[00:14:18.300] - Jenn
+And what this is going to show you is where everybody that's coming from Google is going on your website. So in this case, there's some apparel that a lot of people are going to. So in this case, what it's showing us is that there are eight hundred and eighty two people that have come to this particular Web page. And what this through traffic and dropoffs means is that the through traffic is people who have clicked on this page.
+
+[00:14:45.750] - Jenn
+They've looked at it and they've gone to another page on your website.
+
+[00:14:49.650] - Jenn
+The dropoffs are people who have gone looked at the page and then not actually done anything. They've closed out the page and gone on to something else. Maybe they've gone to different search results or they've just they found what they wanted and they were like, I don't actually need that. And they've moved on. So knowing this can be really helpful, because if people are dropping off of a page a lot. So in this case, 84 percent of people are not staying on Google's merch store.
+
+[00:15:18.210] - Jenn
+After they go to this page, then that can tell you some things that might mean that you're not giving people what the search result promised. So maybe they're searching for women's apparel and they're coming to this page. And the page is not exactly what they were expecting. Maybe it's not the type of apparel that they wanted or it's not men's apparel or something like that. But regardless, it means typically that people are not finding what they want. So you can go ahead and optimize your Web site.
+
+[00:15:51.810] - Jenn
+Based on that. We are going to go ahead and highlight the traffic that does continue through here. So when they come to this page, most people then go on to men's apparel. So if you have a lot of people going to a particular page after that, then that's a pretty good sign that you can optimize it based on that. In this case, you can see now, once those ninety seven people have gone through to this page from that first page, 78 percent are sticking with it.
+
+[00:16:20.190] - Jenn
+They're going to multiple pages on this website. Only 21 people out of the ninety seven dropped off, stopped browsing the website, so then we'll highlight the traffic further through there and you can see it continue. So the more pages that someone views, the more likely it is that they're going to continue viewing more pages. So if you can back link in your blog posts, that is going to really help keep people on the site. And the longer they stay on the site, the more valuable they tend to be, the more likely they are to buy something.
+
+[00:16:53.150] - Jenn
+So going into the users flow report can really help you figure out where people are going so that you can provide the best back links. You can make sure that either you're giving them the information that they want if they're having to search for something, and you could just go and give them a back link to it. It makes it a lot easier on them and it means that they're more likely to stay on your Web site. So those are some of my top tips for what to look for in Google Analytics to optimize your blog or Web site and what to actually do with them once you have found them.
+
+[00:17:28.190] - Jenn
+If you have any questions, shoot me an email at hello@virtualSummitsearch.com. And if you don't have Google Analytics set up yet, I have a free Google Analytics 101 course that you can grab to go ahead and get that going, I hope this helps and I can't wait to see what you do with your new Google Analytics information.
+
+

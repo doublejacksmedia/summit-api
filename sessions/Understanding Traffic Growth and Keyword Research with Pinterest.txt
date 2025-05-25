@@ -1,0 +1,302 @@
+Title: Understanding Traffic Growth and Keyword Research with Pinterest
+Speaker: Lena Gott
+Website: https://courses.adventuresinblogging.co/
+Level: Intermediate
+Category: Pinterest Marketing
+Length: 35:44
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/understanding-traffic-growth-and-keyword-research-with-pinterest-lena-gott/
+
+Transcript:
+[00:00:00.500] - Liz Stapleton
+All right, guys. I'm really excited for this session with my friend Lena Gott from What Mommy Does and Adventures in Blogging. Lena, thank you so much for being part of the summit. I'm really excited to have you.
+
+[00:00:11.380] - Lena Gott
+Thanks for having me. This is great.
+
+[00:00:13.320] - Liz Stapleton
+I know because I miss you. I used to live in Raleigh, and we have this great group going. I haven't...
+
+[00:00:19.410] - Lena Gott
+I don't know. And you got a puppy, and I wanted to see a puppy. I know. You had to leave us and go across the country. I know.
+
+[00:00:25.800] - Liz Stapleton
+Anyway, but you are so good at what you do. And teaching others about it. And so, can you give everyone, in case they don't know you, which I find hard to believe, but in case they don't, a little bit on your background and what we're going to be chatted about today.
+
+[00:00:41.160] - Lena Gott
+Yeah. So my background is, my blog is whatmommydoes.com. I've been over there about eight... I always forget. I started around 2010, 2011, when I was in the middle of having kids. It was foggy in my brain what I was doing, and it dabbled on and off for years until I started taking it seriously. But I've been working in the online space for about 10 years, and I try to have fun with my blog and write about things that just mean something to me at the time. So my blog has evolved from budgeting and keep fun in the beginning when I had little babies to now I teach moms how to start businesses from home and more parenting type stuff now that I have more kids and know what I'm doing. Basically, I blog over there. I just love writing. And over the years, people started ask me how I grew my blog to be what it is. And so I, on accident, started the Adventures in Blogging brand, where I wrote a book. It did really well. People started asking me traffic tips and advice, and I started speaking, and just ballooned from there.
+
+[00:01:45.800] - Lena Gott
+So I have the whole course side of Adventures & Blogging, where I teach SEO, Pinterest, Google and Pinterest SEO, affiliate marketing, all kinds of stuff.
+
+[00:01:56.310] - Liz Stapleton
+All right. So obviously, you have a lot of experience, And I know you especially have a ton of experience with Pinterest, because I think that's where you started to really get traction, correct me if I'm wrong. So what do you think are some of... I talked with Carly, who I know you know, about how to best figure out your strategy for Pinterest, right? Because different niches, you need to do different things or search when you shouldn't, things like that. But keywords, which is what we're going to talk about, is so misunderstood. So what do you I think people gloss over or miss when it comes to using Pinterest to market their blog, especially when it comes to keywords.
+
+[00:02:38.770] - Lena Gott
+Oh, boy. Okay. I feel like this is like, I could go on hours and hours about this.
+
+[00:02:43.610] - Liz Stapleton
+I'll catch up. Sorry.
+
+[00:02:45.620] - Lena Gott
+Yeah. Just ask me questions. If I start getting off a tangent, you let me know. Okay. So there's just a few things. Actually, I'm teaching a new class right now, and so it's fresh in my mind some of the questions that people ask me in the beginning. So one thing I What I want to keep in mind is when you talk about keywords, I came from the world of Google SEO, and so I knew all those little tricks. And then when I got on to Pinterest, it was more visual. But then after I used it for a while, I realized that it's still based on the same rules that any search engine is because they have to be, because they have to have a way to organize the content on there. So Pinterest, in a way, it used to be more real-time-driven, and that's how a lot of people could see a lot of really instant results, whether or not they were using keywords at all, right? Because it used to be a real-time feed. As long as you just had your pins popping up there all the time, people were seeing it, people were clicking it.
+
+[00:03:39.940] - Lena Gott
+They were showing it to people no matter what. They've gotten away from that over the years. So if you can implement keyword strategies on there and understand where you should put your keywords, then you'll do a lot better. But don't let me forget, I want to talk about how specific you get with your keywords, too.
+
+[00:03:56.970] - Liz Stapleton
+Yeah, we'll definitely dive into that.
+
+[00:03:59.870] - Lena Gott
+But I always like to say the first thing that people need to know when it comes to Pinterest SEO is that there are only certain ways that you can tell Pinterest what your keywords are. And I call it your Pinterest keyword real estate. And so when Pinterest is looking at your Pinsand looking at your blog posts, they're not the same as Google where they're diving in, they're crawling your site. I mean, they might start getting there, but as far as I know, they're not there yet. They look at your actual pin, they look at where you pinned your pin, so they look at your board that you pinned to, what it's about, what other Pins are occurring. They call it pin co-occurrence on that board because they need a clue as to who to show this to. And these are the clues that they're taking. So where is it pinned? What other pins are around it? When it gets pinned, what other pinners pin it? So they're looking at all of this. So once your pin gets out there and it gets pinned by, let's say it's a budgeting pin, it gets pinned by all these different budget accounts, budgeting bloggers, people interested in budgeting, they start assigning these attributes to your pin.
+
+[00:05:02.250] - Lena Gott
+So we want to tell them things, give them clues. We want to make sure our keywords are on our board descriptions, on our board titles, that on the pin itself, they're starting to be able to read your pins. So that on the pin itself, it has the words that you want it to be recognizing you for your blog post title, which also appears when you look at it.
+
+[00:05:24.120] - Liz Stapleton
+That's a newer thing. Yeah.
+
+[00:05:26.760] - Lena Gott
+Yeah. Make sure your title of your post has the keywords in it or something similar and related. And your pin description that you can type in when you put the pin in. And also the meta description of your blog post, which a lot of people gloss over that part, I find, because Pinterest, it depends on how you're looking at it. I use it on the desktop a lot, and on desktop, it does show you it's pulling meta descriptions most of the time. I think whether or not they show it to you in the moment, they're still seeing it. So it's important that you have your your Pinterest keywords in your meta description, but that's overall good practice for SEO anyway, right? Because you want you want Google to be able to see that.
+
+[00:06:09.240] - Liz Stapleton
+Well, one of the things is, too, because a lot of people, and this is something hopefully people are moving away from, we're using their alt text for their pin description, or just using the same description from their meta description for their pin description. And that's really a mistake because you really have two different, or at least I think it's a mistake. Let me know if you think it's You have two different opportunities to really work in and tell Pinterest what your post is about or whatever it is you're pinning.
+
+[00:06:38.920] - Lena Gott
+No, I absolutely agree, especially on the screens, depending on where they're using Pinterest from. When they can see, let's say that somebody can see your image, your title, your meta description and the pin description all on that one screen, you don't want it to say the same thing. You don't want it to say best budgeting ideas for 2020, best budgeting ideas for 2020, best budgeting ideas for 2020 four times because it doesn't tell them why they should click over to your post. So just from a user standpoint, it doesn't make any sense. But also from a Pinterest standpoint, you're only giving them best budget spreadsheet. In that example, you could have given them all these other phrases.
+
+[00:07:17.840] - Liz Stapleton
+Budget tell us how to start a budget, how to use budget spreadsheets. I mean, we can go on and on. Yeah. So making sure you take advantage. I do want to quickly ask because I've moving away from them because I haven't found his hashtags. Do you still use hashtags? I feel like they really... I've started moving away from them, and I haven't seen a dip or anything for my client.
+
+[00:07:40.820] - Lena Gott
+I tried to use them some throughout, and Honestly, I never saw a big uptick when I did. And then it was just an extra thing for me to do. And lately, I honestly have not noticed. I haven't even been seeing them really on Pinterest. So I would say it's not important right now. And unless they tell us to pay attention to it, I wouldn't.
+
+[00:08:00.420] - Liz Stapleton
+Yeah. No, I agree with that. I just wanted to share. Okay, so because it is easy, I like your point, it's easy to fall into that, have the title and then have the title in your description, and have that repetitiveness. So how do you go about deciding What? Because you don't want to be keyword-suffing. You don't just want to list a bunch of keywords or long-tail keywords. How do you go about the angle you take with your description? Because I've heard, Oh, you should write it like a fan. You should write... I've heard different things. And then how do you decide what keywords you want to get in there?
+
+[00:08:35.200] - Lena Gott
+As far as deciding the keywords I get in there, I would get into Pinterest like a regular person, honestly. That's how I recommend doing most keyword research. And look around. And I think one thing that I find that my students do, and that I used to be guilty of this too, when you find that you are finding keywords, because there's one thing to find keywords, there's one thing to find the right keywords. I find that a lot of time people try to do too much with each blog post. So I would say the biggest thing you could do when you're getting keywords is to hone in specifically on the thing that you're trying to help the person with and not try to go for everything under the sun, if that makes sense. So if this gets down to the purpose of the post, too, I think you have to back up and say, well, what is the goal that they're going to achieve with this post? And in the example, the best budget spreadsheet, what is the goal? Well, they're going to get an Excel file that they can download, and it's going to transform their finances, right?
+
+[00:09:33.860] - Lena Gott
+So I do, to answer your question, I do like to write it in an enthusiastic way because you got to think these Pins are making recommendations to people. You wouldn't go to your friend and say, Oh, yeah, I found this spreadsheet. Maybe you should use it one day, right? If you're going to make a recommendation, you'd be like, Oh, my gosh, look at this thing I just found. It was so easy. It helped me do this. It took me 10 seconds. You would use words like that, and you would actually recommend it with some enthusiasm. So I recommend being the same way in your description. But I know that it sounds weird because you're writing it about yourself. But it's just a, it's something I had to learn because I'm not that way. I'm not an exclamation.
+
+[00:10:17.220] - Liz Stapleton
+I know that we're constantly being like, Lena, come on.
+
+[00:10:21.250] - Lena Gott
+I'm very practical, matter of fact. But when I write on Pinterest, I am not.
+
+[00:10:27.280] - Liz Stapleton
+Okay, okay, good to know. So let's go back to keywords versus the right keywords and digging in on Pinterest. I don't know if you want to show an example that we can maybe... Because the keyword you want to depends on the intent, right? Like you're saying, it's what do you want them to achieve. And so finding the right keyword that ties to that is, I assume, where you're going.
+
+[00:10:51.710] - Lena Gott
+Yes, it is. We can do an example. Let me see if I can try to screen share. Well, first give me a topic because I feel like I want to use a different topic since we've already talked about budgeting.
+
+[00:11:01.410] - Liz Stapleton
+Let's do travel. Let's do travel or something. Like planning a vacation or something. Not necessarily a budget vacation. I know we're both in the personal finance space.
+
+[00:11:14.010] - Lena Gott
+How about we do a Disney World vacation or something? Tell me if you can see this. Can you see my screen? Yes.
+
+[00:11:26.870] - Liz Stapleton
+Sorry, I keep muting myself because my dog is...
+
+[00:11:29.080] - Lena Gott
+Oh, okay. Yeah, no, it's fine. He's not that loud, actually. Okay, so Disney Vacation. So maybe for a mom. So this is where I would start. I wouldn't just get in here and necessarily search Disney Vacation because I don't think yet. I guess you can. So let's do that. And we're looking at Disney Vacation, but you have to think from the person that's planning it. Would you just come into Pinterest and type in Disney Vacation if you were planning a vacation? I probably wouldn't. I probably I mean, I like to go specific.
+
+[00:12:02.290] - Liz Stapleton
+Yeah, and maybe be like Disney Vacation in the fall, or which Disney do I want to go to, or something like that.
+
+[00:12:12.520] - Lena Gott
+Yeah, I'm trying to think of what I did last time. So when we did Disney Vacation, we planned things like the resort we were going to stay at. I remember thinking that I wanted to take my kids to the Bibbidi Bobbidi Boutique, and that was a big deal because it was expensive, but it was also very hard to get into. So that's one angle. What I like to do, and this is one thing that I recommend all my students do. It seems that if you would go very niche with your topic, that you wouldn't have as much traffic. But I find the more specific you can make your post, the more traffic you're going to have overall, because when somebody sees that, they're going to click on it, right? And it's just a really good place to start, I think. So for me, I would probably say, Like best Disney resorts for little kids, right? And this is just to show you because we can back out and I'll show you how I might brainstorm some keywords, but this is just to show you when you search this, People are writing these specific titles right here.
+
+[00:13:20.420] - Lena Gott
+Best on site property for large families, best and worst Disney World moderate resorts, five best Walt Disney World resorts for kids. So you can see there's There's a demand for this. Also, now that we're on here, I can show you we can talk about how here they're using their keywords here, Disney World moderate resorts, the best Disney World resorts. That's how they got to me. They talk about everything you need to know about Disney Moderate Resorts, the best Disney, modern Disney Resorts, and the worst, along with lots of details and pictures. And then they did use some hashtags. And then down here, everything you need to know. Look, theirs is the same.
+
+[00:14:00.170] - Liz Stapleton
+So I will- Look at they're the same, which- They're the same.
+
+[00:14:04.180] - Lena Gott
+I will say- specific, right?
+
+[00:14:06.500] - Liz Stapleton
+But they missed an opportunity. They could probably be showing up in more searches if they weren't the same.
+
+[00:14:11.960] - Lena Gott
+They could. And I will say, though, that this person probably has a meta description looking at how detailed their keywords are. Sometimes, Pinterest is super frustrating. And even though you have a meta description, it pulls your Pinterest description twice. So that doesn't mean we shouldn't be using our meta, but just remember, if you do see this and you're like, I put my meta description in there, where is it? It's just the way they're showing it. It doesn't mean they can't see it. So it does look funny. But you see how if you had put the same there, it would look really funny, right? I'm just going to see if I answer your right question. If you're trying to find the keywords, so let's say this is the word that I wanted to go, the post that I was looking for as a person searching it. If I was trying to find the keywords to go with that, I would probably start at the highest level but still niche section of Pinterest that I could go for. So for me, that would probably be Disney Resorts, not just Disney. And honestly, I would probably say Disney World because we go to Disney World.
+
+[00:15:18.210] - Lena Gott
+We live on the East Coast, and so that's what I know about. I don't want somebody to come to my blog and think that they're finding Disneyland, and then get Disney World back. So I want to stay in here But you can see that person that we just saw had probably come in here and she pulled best, moderate, and Disney World Resorts, and then she had families in there. So she had pulled all the appropriate keywords that you could go for. So if you If you just start clicking around, you'll see. So you're going to go for best Disney World Resorts. Just start backing back out and then see, because sometimes you can actually drill down even further. I think usually if the topic is bigger, this wouldn't have been the end of the drilling down that you can do. But in a niche topic like this, it is going to be. So as you can see right here, this is actually very straightforward. I would use the keywords best moderate Disney World resorts for families. Would probably be my title or my pin. There's still other considerations to take into for your title, but I would throw those in there, absolutely.
+
+[00:16:23.170] - Lena Gott
+And then start thinking of... I think one thing that people ignore is that synonyms are very important. Right? So to me, I might research resorts, but hotels was there. If hotels wasn't there, though, you should probably still use it because hotels is another synonym for resorts in the case of Disney World. And then when you put in hotels, look, it brings back cheap. So now we also see that cheap is something people are looking at when they're searching this.
+
+[00:16:50.760] - Liz Stapleton
+Yeah. Then you really start to dig in. Yeah, I like that. And you'll notice one of them did hotels to get both in there. I saw that.
+
+[00:17:02.740] - Lena Gott
+It did. And then you can just back out. So if you're like, well, I still need some more to work with because sometimes people do a keyword research before they write the post, right? So I think that sometimes you can come in here and try to find the angle that you want. So if we just type in Disney World and nothing else, we can see that I'm pretty sure that Pinterest still does this. I've always thought that they put most important or most popular from the left to right. Just because it's a drill down list. Disney World pictures, we're not writing about pictures. The first one we come to that we're writing about is planning. I would probably click on that. Disney planning. Look, we know cheap was important, and it's telling us on a budget. So maybe my angle of my post might be Disney World Resorts on a budget, and then I would throw in how to save money, family vacations, and tips. You see, we started with the resort angle, and then we back, back out and thought, okay, well, if we go for on a budget, how to save money, family vacation tips, then we're really going to grab a lot of people that are interested in this.
+
+[00:18:09.830] - Lena Gott
+And that's where we get our angle for our post. So we're not just writing about all Disney World resorts anymore. We're going for only the ones that are for people trying to stay on a budget. And that's how you can narrow down the topic of your post, and you can get more people to it, even though it's only about this one specific thing.
+
+[00:18:27.150] - Liz Stapleton
+The idea is not just using it to optimize your pin, but to you plan your content as well, because like you said, it follows some similar rules with Google. So doing one is good for the other, too, typically.
+
+[00:18:44.010] - Lena Gott
+That's true. Okay. That's true. And I like doing this for Pinterest because, I mean, let's face it, unless you're a blogger like mousetravel.com, you know what I mean? The major Disney travel bloggers, and there's a lot of them that do only Disney posts. You have to really bring your A game and build up this mega site on Disney before you can compete for something like Disney World Planning on a Budget on Google. Yeah. Sorry. Is that truck really loud?
+
+[00:19:12.640] - Liz Stapleton
+I can't hear it. Okay.
+
+[00:19:14.870] - Lena Gott
+I thought it was on here. But on Pinterest, I feel like the playing field is a little bit more even because anybody can build up a good representation of Disney World advice through their boards and through their pins. And I feel like you're on a more even playing field, and you can actually compete with these bigger websites.
+
+[00:19:35.210] - Liz Stapleton
+Okay, so we talked about keyword research and how to go in and out and beckon and stuff. And we talked about it on your pins, but we haven't really talked about it, keywords on your boards, which can also make a big difference, right? Because of that co-occurrence, which something term like that anyway, because it helps Pinterest. It's all those little data points to explain it. So do you do the same keyword research method to come up with keywords for boards?
+
+[00:20:08.580] - Lena Gott
+I do. I would use the same exact method. And how detailed I get depends on how detailed the board is going to get. So Disney World Planning Board, I would probably come out here and use these as my guide right here when I'm talking. I would cater it to what type of content I'm going to do. I would probably throw in Disney World Planning on a budget. Probably not printables because I do a lot of printables, resorts, tips, kids, family tips, trips, that type of thing. Yeah.
+
+[00:20:39.530] - Liz Stapleton
+And those would each be different boards, or would those all be one board with all those keywords?
+
+[00:20:44.970] - Lena Gott
+I tend to like to make only a handful of boards on each major topic that I write on because I write about so many topics on my blog. So this would all be on one board. I would probably have a Disney World planning ideas. Disney World Trip Planning Ideas Board. And then the keyword description, because it can be usually about three sentences, would have a lot of these keywords in there. And that way I could pin any and all of my Disney World planning pins to it. And then also put other people's pins on it to give interest a clue that, Hey, maybe this is an important board for Disney World Planning. Does that make sense?
+
+[00:21:20.740] - Liz Stapleton
+Yep. No, that does make sense. Another thing I did want to ask you about is because I believe you do run at least one group board, if not more.
+
+[00:21:27.760] - Lena Gott
+Is that Okay.
+
+[00:21:30.650] - Liz Stapleton
+So with group boards, because I talked to Carly about how the more specific a group board is, it tends to be better to be on because it's that board co-occurrence. So how do you decide But she doesn't have group boards to run because of the time it takes to run them. So I would like to do you decide when to group board, how to set that up? I know yours is closed right now. I have one. I have it actually where they can do the click request rather than taking up description with that information. So as a group board, I know what you look at in terms of people you accept onto your group boards, but also just in managing it to make sure it stays quality, it stays something that's going to help everybody.
+
+[00:22:15.210] - Lena Gott
+Yeah. So group boards, I think you're right. I mean, group boards, or Carly was right when she said this, I love very, very niche group boards. I like them for my account because it just gives some variety, but I also like it for the networking. It's a chance to give my friends who are bloggers, and in this case, the personal finance niche, a chance to work with me, and we work together just to promote each other's things. So I don't look at it so much as like, Oh, my gosh, it's going to be the best for getting me traffic, because it may or may not be, right? But it's just a good place. It's like a community, almost. So I will say it is a lot to manage when you're currently letting people in, and then people aren't following the rules. That's why mine is closed right now, because it got to be... I wasn't spending a lot of time doing it, but when I logged in here, I would log in here and people would just have Pins in here that had nothing to do with saving money. And I would be deleting them.
+
+[00:23:14.970] - Lena Gott
+I had to go delete the pins, and I kicked out the person.
+
+[00:23:18.560] - Liz Stapleton
+I'm not doing a warning nonsense. Kudos to people that do your super kind to take that time. I'm like, Ah.
+
+[00:23:25.620] - Lena Gott
+It's hard, and especially when people automate what they A lot of times, I didn't even know. Some of my very good blogging friends were spamming my board, and I had to be like, Please don't do that. It was a little bit of policing in the beginning. It was a lot of policing in the beginning, but I will say now that I closed it, and these are all people that, most of them I know personally, you don't have to know people personally, but I know Ben from BTX Capital, is not going to spam my board. And all these people, they're not going to do that to me, and we got a groove going on. Now that it's gotten going, I don't police it like I used to. And it's been great because I know that for the most part, everybody's following the rules. And only if you want to be a super stickler, you need to come in here and police it all the time. But I've been happy the way it looks. I've been happy with the traffic that these things have been bringing me. And a fun fact, randomly, a famous person will message me and be like, Can I join your board?
+
+[00:24:25.380] - Lena Gott
+Dr. Laura Schlesinger asked to be on this board. That's That's cool. You got to get this be seen as known for a topic when you do something like this, and not just interest, but just people in your community.
+
+[00:24:38.310] - Liz Stapleton
+Yeah, especially when it's a niche where it's not just like, Hey, friends, just post your best blog post. That's not great.
+
+[00:24:44.700] - Lena Gott
+I'm not a huge fan of that, just because it doesn't mean anything. We're talking about the keywords. It doesn't work well.
+
+[00:24:50.700] - Liz Stapleton
+It doesn't help.
+
+[00:24:51.590] - Lena Gott
+It doesn't work well.
+
+[00:24:52.860] - Liz Stapleton
+To know what stuff is about. I think as far as policing goes, it's more like, set a reminder up on whatever whatever you use. I use ClickUp, maybe use Asana, or whatever. Set up a monthly recurring task. It's like, go in and look at your group board to make sure it's not a mess. And then if it is, kick out the people that are responsible and delete one day. I wouldn't be going in daily or whatever. But I had a friend, Jason Butler, if you know him. But he had, I was looking at his Pinterest. I was like, dude, this guy's totally spamming your board. Everyone else is doing a good job. You need to get them out of there. He was like, oh, I didn't even notice. So Just once a month, set a reminder to go check and make sure it's decent and people are listening.
+
+[00:25:36.210] - Lena Gott
+Yeah, I would say so, especially in the beginning, maybe even once a week when you're very first, you're still accepting people. But the cool thing about it, I like, is that I let these people in and I verified them before they got in. So I know when I want to go fill up another one of my budgeting boards with pens, that I literally can just go through and do a pinning spree of some of these. And that's very helpful because you don't want to have to sit there and think about every single pin you're pinning when you're just trying to maybe get a new board or something like that to take off. That's one way that I use this, and I like doing that. Oh, look, see, here's a duplicate. So this is all you do. Come in here, delete. And because you own the board, you can delete whatever you want, which is not. So she might not have known she pinned that twice. It could have been a glitch.
+
+[00:26:20.240] - Liz Stapleton
+I find tail one has a glitch sometimes where it'll do it twice.
+
+[00:26:25.720] - Lena Gott
+For the most part, people are following the rules and I'm happy with it.
+
+[00:26:33.430] - Liz Stapleton
+No, and it looks good. Yeah. Because there's a lot of people that are like, Don't join group boards. They don't do anything for you. And I don't think that's true. I think you have to be very particular in what group boards you're a part of, and especially if you're going to create a group for what it looks like. And I found for my clients as well as for myself, although I'm not good at doing it all for myself, the specific ones tend to work really well.
+
+[00:27:00.050] - Lena Gott
+Yeah, I think so. The good thing about owning one yourself is you can still pin whatever you want. You set the rule, they can only pin so much, but sometimes I might pin a little bit more because I feel like it. I like having the control over a board, and that's why when it's down to a personal board versus a group board in general, I always go for a personal board because you have so much time, and you can make that personal board as nice as you want, and you're not limited to, you have to only pin two pins a day. And that's so frustrating. I might want to put 10 a day for a couple of weeks to get it going, and then go from there, and you can't do that with a group board. Yeah.
+
+[00:27:41.290] - Liz Stapleton
+So I mean, there's a lot when it comes to Pinterest, but I think doing your keyword research and we touched on this, Carly, as well. Take yourself out of business mindset on Pinterest. Go in there as a user every now and then. Not even just when you're doing keyword research for yourself, but just go use it. Go find a dinner recipe or go, whatever, get some organization idea, whatever it is that you need help. Go and use it a little bit to remember what that's like, because the more you can put yourself in the mindset of the Pinterest user, because search intent is really just user intent. The better you'll be in figuring out what to do.
+
+[00:28:21.960] - Lena Gott
+I agree. I agree because if you don't use it as a person, then how are you going to even know? I mean, and especially since it tells you the keywords right on there. Yeah. You have to use it that way. Otherwise, you're just guessing. And why guess when it's going to tell you the answer, right?
+
+[00:28:35.980] - Liz Stapleton
+Absolutely. Okay. So any final words of advice for... Tell me, I know you got a great exclusive for our all access pass holders, but any last words of advice?
+
+[00:28:45.460] - Lena Gott
+It's something that just occurred to me that I do want to show. So we were talking about setting up your own boards, right? So let's say we're going to look at Disney World planning. I wanted to just show this because when you're making a new board, especially when you're new, it's hard to know what your board should be like. And I always say the whole point of SEO in general, and even on Pinterest, is that you're competing, right? You're competing to have the best resource on the topic because that's the point. You want to be shown first. You want to be ranked at the top. So if you are sitting here and you're like, Okay, I want to make a Disney World Planning Board, I would literally come in here and look up Disney World Planning, sort it by boards, and then just look around and see what people are doing. What does Pinterest think is the most important thing in this category? And you can also see how many Pins people have. You can see the one they're bringing back at the top has 190 pins. There's up to 792 Pins here. Just scroll down a little bit and see.
+
+[00:29:47.340] - Lena Gott
+I'm looking through here. Disney World Planning is actually a really good niche to me because the best boards that Pinterest is showing me, only a few have over a few hundred pens. Most have 25 or 40. This It gives me a hint. If I'm going to start a Disney World Planning Board, I need to plan on having, if I want to be the best of the best, I would say, aim for 400 Pins because only a few boards beat that. And just not pins of your own, But over time, put 400 pins on it. Be a curator, because that's what Pinterest is about, right? You're a curator on the topic. So if you're going to go for Disney World Planning, really curate a nice board that Pinterest would like, and eventually really, you will rise up to the top, and you will be shown up here as one of the best boards on the topic. And then all the pins you pin to it will do better overall. And it's just a good overall organic strategy, and it starts with the day you create your board, I think. Yeah.
+
+[00:30:44.800] - Liz Stapleton
+Okay. I know that was like, I was like, Any final words? But I have to actually have a follow-up question. So because I think it's in the same idea as tailwind tribes, do you, what are your, what are your thoughts or pieces of advice as far as tailwind tribes go? Because part of me likes it, it's easier to tell the rule followers from then on. You know, but it is, it means you have to actually keep up with it too. So I just love to get your thoughts on, because tailwind tribes are very similar in the idea of group boards, but you're really directing it at other business owners to pin it out. So I was just curious what your thoughts on Tailwind was in that.
+
+[00:31:27.770] - Lena Gott
+I like the concept of Tailwind tribes. However, I will say when it comes down to the limited time I have to spend on my blog and on Pinterest, I don't spend a lot of time in there, only because anything that requires me to rely on somebody else doing something to make something happen for my blog, it's just not a strategy that it's going to be part of my main strategy. So I like being in there. And like you said, if I need to fill up a board with good content, I will go in a tribe, and I'll just look at the relevant tribe and pin some things from people I trust that I know has been curated by somebody else and use it that way. But I would not say, base a strategy on Tailwind tribes, because then you're putting your hands already a platform you don't own. You don't want to put the strategy in the hands of somebody else on a platform you don't own. It's just too much.
+
+[00:32:17.740] - Liz Stapleton
+Yeah, no, I agree with that, but it's more I feel like, like tribes be a great way when you're new to getting things the ball rolling on Pinterest, because it can sometimes getting into group boards can be a little difficult. You can obviously create your great own boards, and that'll help. But if you're looking for a little extra oumph, that can be a good place to start when you're brand new, your marketing on Pinterest is my take on it.
+
+[00:32:43.020] - Lena Gott
+They weren't around when I started, so that was not- This is the same here.
+
+[00:32:45.890] - Liz Stapleton
+My clients, right? I have one that literally started at zero. And I know products helped us get to we were like at 400.
+
+[00:32:55.970] - Lena Gott
+I can see that. I can see that, especially when you're brand new. Because when you're brand new, you need all the help you can get. Exactly.
+
+[00:33:01.590] - Liz Stapleton
+Do you schedule stuff? Do you do Tailwind? I know Carly does manual pinning. Are you a manual penner?
+
+[00:33:06.100] - Lena Gott
+I rarely manual pin, just because I just don't have the time. I'm very think about what I pin, so I use Tailwind board lists, and I schedule things out that way and get activity on it that way.
+
+[00:33:17.990] - Liz Stapleton
+Yeah, no, I love the board list. I use it. That is my good. Because I don't remember. So many things to do every day.
+
+[00:33:25.590] - Lena Gott
+Exactly.
+
+[00:33:27.540] - Liz Stapleton
+Okay. That was awesome. Thank so much for your insights. I hope everyone got a lot from it.
+
+[00:33:33.450] - Lena Gott
+You're welcome.
+
+[00:33:34.520] - Liz Stapleton
+Can you tell us, I know you got a great offer for our all-access pass holders. Can you tell us a little bit about it?
+
+[00:33:42.300] - Lena Gott
+Sorry, I can't hear it, but my neighbor boy is singing a song through a megaphone, I swear.
+
+[00:33:47.940] - Liz Stapleton
+You can't make this. I have to edit this video so much. It's going to be in a big so short. That's okay. That's okay.
+
+[00:33:53.490] - Lena Gott
+I think this stuff is good to include because this is real life. This is really me trying to blog if my neighbor is singing on a megaphone outside my window.
+
+[00:34:01.310] - Liz Stapleton
+I'll keep this little bit in.
+
+[00:34:04.320] - Lena Gott
+So, yeah, you're asking about a freebie?
+
+[00:34:07.930] - Liz Stapleton
+Well, if you have a freebie for our attendee, absolutely. But also your All Access Pass exclusive that you're offering.
+
+[00:34:14.660] - Lena Gott
+Oh, yes. So, yeah, I would love to offer the All Access Pass holders 30% off of any product on Adventures in Blogging that's under $200, which is all but one thing that I offer. So go grab the code from the dashboard. And also, if you want to continue learning, I do have a freebie, a free course, almost, that I just created. It's a three-part mini-series on little things you can do to blast off your traffic for the beginning of the year. And it's called Traffic Blast 2020. And it's just actionable things, short videos. I did an interview with Carly Campbell on, specifically, headlines, because that's very, very important for your blog. I also did a deep dive of the the Pinterest Trends tool, which I was so excited about because it basically tells you what to write about next if you want more traffic. So you can go to adventures and blogging and opt in for that for free anytime. Yes.
+
+[00:35:16.850] - Liz Stapleton
+So definitely go check that out. We'll make sure the link for the freebie is below. All this is possible. They're just 30% off. And she's some great stuff, guys. And she's so much and so valuable. You have a profitable blogging task, I think is what it is. But you have a ton of stuff, and it's super affordable. And Lena really knows her stuff. She's so generous with her knowledge. So thank you again for doing this. I really appreciate it.
+
+[00:35:41.470] - Lena Gott
+Oh, you're welcome. This was fun.
+
+

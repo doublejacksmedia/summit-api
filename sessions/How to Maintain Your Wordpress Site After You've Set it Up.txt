@@ -1,0 +1,290 @@
+Title: How to Maintain Your Wordpress Site After You've Set it Up
+Speaker: Cousett Hoover
+Website: https://techiemamma.com/
+Level: Intermediate
+Category: Tech
+Length: 24:36
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-maintain-your-wordpress-site-after-youve-set-it-up-cousett-hoover/
+
+Transcript:
+[00:00:09.390] - Liz Stapleton, Summit Host
+All right, guys, I'm excited for today's session with Cousette, who is going to be talking to us about WordPress Maintenance and we'll get into that. But Cousette, welcome and thank you. If you wanted to share a little bit about your background.
+
+[00:00:21.450] - Cousette Hoover, techiemamma.com
+Yeah, for sure. I, I tell people that I'm just kind of the techie. My business name is Techie Mama and that just came about because I was a new mom and I still love tech, so hey, why not? And that has evolved into different things. But before I was a mom, I was always a tech person. I grew up in Silicon Valley. We moved to the Austin area. So I say that we move from Silicon Valley to Silicon Hills.
+
+[00:00:51.960] - Cousette
+And then my favorite little claim to fame is that God and Steve Jobs kind of worked out so that the first iPhone came out on my birthday.
+
+[00:01:01.260] - Liz
+Oh, very nice.
+
+[00:01:05.400] - Cousette
+But besides the more professional credentials, I have a background in computer science. I've been doing WordPress for 12+ years. I worked at the university teaching. I got into a lot of teaching and doing educational technology. So teaching faculty and also pre service teachers how to integrate technology into their classrooms. And that's where I really fell in love.And and I love what I do and I love my little ones, of course.
+
+[00:01:34.830] - Liz
+I mean, educational technology... Right now is essential. So...
+
+[00:01:42.540] - Cousette
+Yes, and it's not going away. So, you know, I get back to it in five years or so. It's still going to be there.
+
+[00:01:50.190] - Liz
+So let's talk about WordPress Maintenance, because I feel like there are a gazillion tutorials out there on how to start a blog. I have one evenn, you know, on like how to set up the hosting and install Wordpress, but that's, OK, great. There's not a lot of information on maintaining it.
+
+[00:02:07.890] - Liz
+I mean, a lot of hosts will push automatic updates to WordPress, but then there's plugins and themes and all sorts of other stuff. So what what is... I guess my first question is, what do you see people not doing that they should be doing?
+
+[00:02:24.900] - Cousette
+For sure, so I think one major thing is to keep up with the updates, to keep up with security issues.. There... One thing that is great about WordPress is that it powers so much of the web. But the flip side of that is that hackers also really love WordPress because with one system, they can get into a lot of sites, small and huge. And so once there's a security issue, 1. usually the plugin developers are very good at patching it and getting it to work again.
+
+[00:03:06.750] - Cousette
+But once there's a security issue, you need to go and find that update or you need to find another plugin that will work.
+
+[00:03:14.580] - Cousette
+Another thing I see a lot of people doing is just going and downloading either whatever they were recommended from some YouTube post or blog post or something like that, and maybe not checking on the date of it and still downloading that plugin. And when I go to the site to look at it, I see plugins that are over two years old that haven't been updated and WordPress now puts on the plugin page, "this hasn't been updated in over two years." you know, watch out.
+
+[00:03:46.860] - Liz
+Like years ago, maybe it was recommended, but now not so much. It's an old and SEO has kept it up or whatever.
+
+[00:03:53.650] - Cousette
+Right. And that's the problem. You know, it's a... It's a double edged sword. There's so much information online that is so wonderful. But, you know, the person that put up their "how to start a blog" and put up this awesome plugin may not be keeping that up and so may not even realize that it's outdated.
+
+[00:04:15.330] - Liz
+I should totally go back and check my tutorial. Now that I'm thinking about it...
+
+[00:04:22.080] - Cousette
+And one plugin gets a lot of recommendations and become really popular. And what I try and do is not necessarily always go for, like the little man, but I try and try out a whole bunch of plugins and kind of not just go with the one that's always recommended, but but look at the features and look at the different things. And a lot of times, like one may fit really well for one site, but another one may have a feature that someone else really wants.
+
+[00:04:54.280] - Cousette
+And so it just kind of learning a little bit more of like how to read the feature set and how I look up different plugins and kind of figure out what works best for your site.
+
+[00:05:03.590] - Liz
+Right. So some follow up questions from what you just said. How do you find out about security issues, because people don't necessarily like to advertise that there's security issues. I mean, they do send out e-mail, but are you getting emails on plugins?
+
+[00:05:17.740] - Liz
+You know, it's how do you find out about those?
+
+[00:05:20.190] - Cousette
+There's a couple of really good websites and a couple of really good plug ins that kind of help you keep track of everything. And going blank on the website that I check most often Sucrui, I believe, is one that keeps up a long list of plugin Boolen vulnerabilities. And if it's been updated and I also just searching Google searching or plugin vulnerabilities and WordPress.org, I believe has also a list....
+
+[00:05:53.010] - Liz
+So maybe setting like a Google alert or something.
+
+[00:05:56.070] - Cousette
+One more time?
+
+[00:05:56.850] - Liz
+Maybe setting like a Google alert for like WordPress security.
+
+[00:05:59.790] - Cousette
+Yeah, exactly. Yeah, I know there's a couple that have like a daily newsletter. Also, just go into your site on a regular basis. I'm in my site daily. I'm sure a lot of bloggers are. But if you're not, then make sure you're going in about, at least once a month or so and just checking the updates and seeing if there's an update.
+
+[00:06:27.540] - Liz
+Yeah, and I know there are several security plugins. Wordfence is a popular one. I believe so. Securi too, I think.
+
+[00:06:37.620] - Cousette
+Yes, it's a great. Yes, it's a plugin as well. So those focus not only on the plugins, but also on just kind of making the WordPress install a little stronger.
+
+[00:06:48.940] - Cousette
+So like a big thing, not so often anymore. But back in the day when you installed WordPress, the main admin user, the login was "admin". And so hackers could figure out, OK, I got a login. Now I just have to figure out what the password is. And so that sense has changed. And a lot of people recommend, you know, to set up your name or whatever as that first person,
+
+[00:07:20.060] - Liz
+In the admin role. Yeah, don't just use Admin it's kind of like using a password of "1234"
+
+[00:07:26.120] - Cousette
+Exactly.
+
+[00:07:28.620] - Liz
+OK, so security plugins can help you keep an eye on things and help protect your site, even if other plug ins have some vulnerabilities. One of the other questions I had, is how would you recommend kind of researching a plugin that's recommended that, you know, is it just by the date? Is it like how do you kind of pick and choose?
+
+[00:07:51.960] - Liz
+Like you said, some features are good for one site but not for another. And then it's easy to have plugin overwhelm and have tons of plugins. You know, that a lot will repeat the same thing. So how do you research sort of whether you need a plug in or whether something you already have to do it or. Yeah,
+
+[00:08:11.250] - Cousette
+For sure, there's a lot plugins that do a lot of different things and you don't necessarily need an additional plugin for things.
+
+[00:08:20.750] - Cousette
+And what I do first is just search for the functionality.
+
+[00:08:25.140] - Cousette
+So let's say I want a SEO plugin. So I search WordPress "SEO plugins" and I'll get a million blog posts of different reviews. I look for the ones that are doing kind of comparisons and not just a specific one like Yoast or something like that. And so I'll get a blog post that has five different ones. I'll read through kind of what they say, the prices and stuff like that. That usually gives me a good idea if I read a couple of different blog posts of kind of what direction I want to take, the other things that you can do is if it's a plugin in the WordPress repository. Look at the reviews. Look at how many reviews it has. Is it five stars, a four star, and look at the actual comments of what they're saying. And then I think something that a lot of people don't do is look at how many open tickets there are. So there's a whole ticketing system within the WordPress repository for the plugins. See, are they being answered or are there tons of tickets still open and not closed? Are they active?
+
+[00:09:42.560] - Cousette
+And then watch for just when was the last update date? Are they keeping up with the or has it been several years since they updated it and so forth? Most plugins should be updating probably once, big plug  ins should be updating like at least once a month or so, once every two months or so. Especially with big WordPress core updates.
+
+[00:10:13.340] - Cousette
+A lot of times that will change the functionality of things and then the plugins have to update as well. So.
+
+[00:10:23.610] - Liz
+All right,
+
+[00:10:24.090] - Cousette
+So just a combination of all those things and having a feature set that you want,
+
+[00:10:31.260] - Liz
+So once it's recommended to you, kind of do your homework on it. And and I would say, because I've made this mistake where I have multiple plugins that do the same thing, like you might already have something installed and maybe that's not the reason you installed it, but it has that functionality too.
+
+[00:10:46.210] - Cousette
+Right, exactly. Yeah. Like a lot of SEO plugins will do all of your social media connections, like the Pinterest connection and stuff like that. And will connect analytics for you or have a place to put in that snippet and stuff like that. So but then another tutorial that you read tells you that you have to install like header footer code managers like that to put in the code.
+
+[00:11:11.100] - Cousette
+And but it was already in this other plugin so you don't necessarily have to do that.
+
+[00:11:18.630] - Liz
+OK, so I want to talk and ask you about free versus paid plugins, because obviously there's tons of free ones and you can really get by with free ones. I think paid ones tend to be updated more, is my kind of understanding. I've definitely used some paid plugins in the past. I'm not sure from using any paid ones right now.
+
+[00:11:37.260] - Liz
+But so kind of especially when a plugin has a free versus paid version...
+
+[00:11:43.470] - Cousette
+Right.
+
+[00:11:43.980] - Liz
+I feel like people need, they feel like they need the paid version, but not necessarily. So how do you kind of figure that out?
+
+[00:11:51.000] - Cousette
+Yeah, I look at the... I look first for plug ins are in the repository because I think that's always a good place to start. The whole kind of mission of WordPress is to be open source and to be a community driven. And so if the plugin developers are somehow in the repository, you know that that's kind of part of their mission as well, which I always like. Whereas if they're just going on to marketplaces like envoto or something like that, then they're kind of not so much part of that mission.
+
+[00:12:24.960] - Cousette
+And then the other thing is I usually just install the free version and just see kind of what....
+
+[00:12:34.500] - Liz
+How it works,
+
+[00:12:35.400] - Cousette
+What features are there, and look at the paid version of the features. I really don't have that many paid plugins. It takes a lot for me to do a paid plugin, very specific functionality like my LMS (Learning Management System) plugin. That's a paid plugin I'm using LearnDash, um a membership plugin. I would probably get a paid version...
+
+[00:12:59.910] - Liz
+Stuff like that, where it's I think for product sales type of stuff. That makes sense.
+
+[00:13:04.060] - Cousette
+Yeah, that's true. WooCommerce, the core is free and then there's a lot of add ons that are paid.
+
+[00:13:12.810] - Liz
+I mean there's that's a whole that's a whole rabbit hole we could go down. I do want to because you keep mentioning the repository and I feel like some people may not know what you're referring to when you say that. That's when you go into the plugin section in WordPress and you go to like Add New and you search is that what we're referring to?
+
+[00:13:32.430] - Cousette
+Yes.
+
+[00:13:32.510] - Liz
+I just want to make sure that was clear....
+
+[00:13:33.540] - Cousette
+It's that directory of plugins and there's also a website on WordPress.org  that has that full directory as well as that you can search on WordPress.org. And both of those places are known as the repository.
+
+[00:13:49.080] - Liz
+OK, I just wanted to make sure that, yeah, we cleared that up because I feel like some people who are new at this could be confused by that language. OK, so when you're choosing plugins, paid or free, you're looking at kind of when they were last updated. But I know sometimes you don't always want to install the update right away because there can be bugs. So how do you know when to run those updates on your themes on your plugins? Because you want to keep your site up to date. And again, I think WordPress is usually automatically updated by your host but the other stuff themes, you know, because I'll see, I pay someone to deal with that for me, but it can be don't update yet because there's a bug and they have to fix it, so. How do you decide when you're updating and when you're not?
+
+[00:14:37.130] - Cousette
+For sure, there's no magic way to decide. I think the magic word is "back up", back up, back up, back up.
+
+[00:14:46.310] - Cousette
+If your host has a way to do a staging site, definitely do the updates on the staging site, test it out. That's why it's nice to pay someone to do it, because they can do all of that for you.
+
+[00:15:01.700] - Cousette
+But back up, try and update on the staging site, if you don't have a staging site then make sure you have a good backup and just go one by one and test it out. And I think most hosts will install the security updates for WordPress core. I don't know if they'll do the major update. So like when Gutenberg came out.
+
+[00:15:27.410] - Liz
+Yeah. I mean, it kind of depends. Like sometimes I get a message from my host saying they push the update and sometimes they don't. And I resisted the Gutenberg update for quite a while. Before I finally made the change.
+
+[00:15:37.750] - Cousette
+A lot of people did it.
+
+[00:15:41.900] - Liz
+Change is hard
+
+[00:15:44.600] - Cousette
+Change is hard, it is, it's so hard.
+
+[00:15:47.330] - Liz
+But let's talk backups for a second. Right, because so there's a lot of different ways to do that. But one thing you don't want to do, from my understanding, is you don't want to back up to your host because that'll eat up all your space...
+
+[00:16:00.890] - Cousette
+For sure.
+
+[00:16:01.850] - Liz
+So how... What kind of backups recommendation do you recommend and then... You know, where, what kind of ...How would you set it up? How would you recommend people do that if they can't afford to pay someone the kind of have a daily backup system?
+
+[00:16:17.570] - Cousette
+There's a lot of options, all from like do it yourself, very low cost to to kind of more of a service that will do it for you.
+
+[00:16:30.050] - Cousette
+One of my favorite services that will do it for you is called BlogVault, and I believe they're about like $8 a month or something like that. I wish I could afford them for my business side of things, for all of my clients, but they're really nice. They have a really nice dashboard where you can set up backups. They backup automatically, they take care of the space. So you're not backing up to your host. And they also have a way to do a staging site so you can have like a temporary staging site on their systems.
+
+[00:17:08.180] - Cousette
+So that's kind of one of the more paid versions. Jetpack also has a really nice one. It's within the Jetpack kind of ecosystem..
+
+[00:17:17.360] - Liz
+Jetpack is kind of heavy on your site, though, isn't it?
+
+[00:17:20.120] - Cousette
+It is. It's one of those things that you can weigh if you're using Jetpack. Like a lot of the features of Jetpack, it can replace a lot of those plugins. And then it's not so bad, if that's the only thing that you have, but it can be a little slow. You can also turn a lot of features off and only turn on the features that you really want to use. So if you're like, I really just want backups to be taken care of, you can just turn on that feature and nothing else.
+
+[00:17:53.900] - Cousette
+So it's it's definitely a thing to weigh, but it's definitely not necessarily a fully bad thing. Just depends what else you have, because Jetpack will take care of a SEO, will take care of analytics, will take care of a lot of things if you want it to.
+
+[00:18:11.890] - Liz
+So and I think is Updrafts plus another is another option?
+
+[00:18:19.280] - Cousette
+Updraft is another option.There's a lot of options like Updraft and BackupWP, BackWPup. I think I always want to say, pup, because I know that... All of those are kind of more of a do it yourself.
+
+[00:18:39.230] - Cousette
+And that's where you have to be careful to not choose your host as the place to back it up for a couple of different reasons. One, yeah, it will take down all your space very quickly, but two, if your backup is on your host, then if the host blows up, then your backup is gone too, for lack of a better way... if something happened... The hurricane hits your host, then you know...
+
+[00:19:06.860] - Liz
+And sometimes accessing a backup from a host is a little harder.
+
+[00:19:10.100] - Cousette
+Yeah, for sure. For sure. So with updraft or backWPup, you can set up like Dropbox or all of these kind of cloud services. I recently set up... It's a little bit more back and forth, a little bit more of a setup. But it's a one time thing. I set up Amazon AWS space and that is very cost effective. I have something like 20 different sites backed up there and it's like two bucks a month. So it's it's a really great way because I kept running out of space on Dropbox and different things and they're not really set up for like big backups like that, whereas AWS is just kind of the content space.
+
+[00:19:56.810] - Cousette
+So yeah, there's a lot of different options, just depends on how much you want to do it yourself. And then if you get kind of a care plan or maintenance package as a service, I don't know about you, but like I offer the backups as part of my services.
+
+[00:20:15.390] - Liz
+Yeah. mine does as well.
+
+[00:20:17.540] - Cousette
+So it's a lot of those will do that as well. So then you don't have to worry about maintenance or backups. Yeah, they take care of it all.
+
+[00:20:28.160] - Liz
+And if you are DIY-ing it of course do a backup before you do updates. But to set up just a regular monthly backup, weekly backup?
+
+[00:20:38.090] - Cousette
+I would do at least a weekly backup and check with your host too, some hosts, actually do backup for you and some will backup off site so you can also check with your host. WP Engine is a great one that will backup offsite. They do daily backups and then you can do kind of what I call like on demand backup. So right before you do an update or something like that.
+
+[00:21:08.240] - Cousette
+But a lot of hosts will just back up on their own servers and so then you lose that...
+
+[00:21:14.450] - Liz
+It's not as helpful as having... Having it yourself. It's kind of like the the whole like you don't own your social media, but you own your email list type of thing.
+
+[00:21:22.960] - Cousette
+Yes, yes.
+
+[00:21:26.270] - Liz
+All right. And let me just review. See if I have any other follow up questions based on what we chatted about, I think those are my questions wrapping up. I know you do have something for attendee's. Do you want to tell us about it?
+
+[00:21:45.710] - Cousette
+Yes. So I have an awesome checklist of what you should be doing on your blog daily, weekly and monthly for maintenance. So some of the things that we talked about, like doing backups, doing updates and tips and tricks on how to do that and have a nice, easy checklist to to get that done. And so the headache of knowing what to do and when to do it is gone.
+
+[00:22:10.970] - Liz
+Yes, that sounds awesome. Definitely. Check that out, because if you're not maintaining your WordPress, not paying someone like Cousette or one of our other experts, and you do need to make sure you have a system in place and this checklist is a great way to get started until you can afford to pay someone to do for you. And I think you also have something for those that buy the Pro Pass. What what can they get inside the Pro Pass from you?
+
+[00:22:39.470] - Cousette
+Yes. So really related with this topic altogether. If you buy the Pro Pass, I have a course called Life After Blog Setup because there's a lot of life after you set up your blog. And that covers everything from how to do backups, even a backup on AWS, how to set up security, how to maintain security and plugin updates and so forth, and takes you step by step through all those things. So it would be a really great way to learn how to do it yourself.
+
+[00:23:15.080] - Liz
+OK, yes. So if you don't have the Pro Pass, definitely check that out. And if you purcahsed the All Access Pass and you're like, I want the Pro Pass, just shoot us an email support@elizabethstapleton.com. We'll give you a discount for the price difference of what you already paid versus what it costs now. Cousette, thank you so much for doing this. This was, I think, a lot of really valuable information that people don't always think about or realize is important. So thank you again.
+
+[00:23:40.790] - Cousette
+For sure.
+
+[00:23:42.240] - Liz
+All right. Have a good rest of your day. Everyone go check out. Go get that checklist. The link is below. I think it's to the right. I really need to figure this out because each time I record, I'm like it's on the page, I swear.
+
+[00:23:53.810] - Liz
+But in that way, anyway, it is on the page of the link. But or you could just go to techiemama.com/BBS21. So if you're having trouble finding the link on the page, go there, get your checklist and say hi to Cousette.
+
+

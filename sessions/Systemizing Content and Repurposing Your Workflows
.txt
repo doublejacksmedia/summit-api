@@ -1,0 +1,249 @@
+Title: Systemizing Content and Repurposing Your Workflows
+
+Speaker: Layla Pomper
+Website: https://processdriven.co/
+Level: Intermediate
+Category: Systems/Automation
+Length: 28:20
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/systemizing-content-and-repurposing-your-workflows-layla-pomper/
+
+Transcript:
+[00:00:12.460] - Liz
+All right, guys. I'm so excited for our speaker in this session because she has literally helped transform my business this past year. She is the owner of Process Driven, where she helps small teams systemize their entire team operations by mastering ClickUp. Layla Pomper is here. Thank you, Layla, so much for being here. I'm going to try not to fan girl too much.
+
+[00:00:33.860] - Layla
+No, thank you so much for having me. I'm excited to be here and you know, I always get a little nervous when folks say they've been working on stuff based on what we say, because I'm like, oh, no, has something gone wrong? And it's going to come into this interview. But I'm happy to hear that we've been able to help and I'm excited to chat with you about all things content today.
+
+[00:00:51.820] - Liz
+Yes. So, we're talking about you know systemizing and repurposing workflows. Let's kind of define those terms for people if they aren't familiar and they're just flying by the see of [inaudible 00:01:02]. How would you define a system versus a workflow? How they work together?
+
+[00:01:07.540] - Layla
+Yeah, I think those are hard and I think we often get caught up on the terminology of the process space that keeps us from feeling like we can't even dip our toe in the water. I think what I like to view process as is kind of a journey to a fixed destination. Workflow tends to be, I think, an easier metaphor, sometimes like an assembly line. It's more of this repeating thing that flows and they kind of work hand in hand. So, usually when we're talking about a repurposing workflow, what we're talking about is figuring out what's one loop around the assembly machine, so we can repeat it. And that goes hand in hand between these two topics.
+
+[00:01:44.910] - Liz
+Okay. Because there are so many pieces that go into creating content, whether that's for YouTube or blog posts or whatever. So, what you're saying is like, each step figuring out the assembly line, is that fair to say? 
+
+[00:02:00.970] - Layla
+Yeah, we basically, we want to be you know like, forward here and we want to figure out you know what is the assembly line we want for where we are right now and then let's do it. And the next time we go around that assembly line, maybe we add another piece of it. But that's kind of my view when it comes to processes. Yeah, figure out what loop you want for your content, for your brand, for your capacity. Let's just make that loop really tight and work really well. And then maybe we make the assembly line a little longer. We add some paint color, we add some additional repurposing. But that's kind of my approach.
+
+[00:02:32.170] - Liz
+Okay. So, if someone is just they've been blogging, they sit down, they write their post, they publish it. Honestly, I don't know how people do that, but I know I did at some point, I'm sure, but I can't bounce on it now. Where should they start and why should they start kind of figuring out this process? How is that going to help?
+
+[00:02:52.540] - Layla
+Yeah, so I'll answer the first part first and then I think it should hopefully make the 'why' part a bit more relatable. So, if you're just getting started and I get it, what you're talking about, of just getting down, creating the content, moving on, if you're that superhero mode, what I would ask you to do is to take a moment to just reflect on what you're doing. And oftentimes this is done with sticky notes or a piece of paper and just write down what do you do at a high level. So, you sit down. Cool. You maybe write a script or an outline. You write the post and you publish it. That's great. You've just defined your assembly line. And that's what I would suggest someone do when they just get started. Have it written down, so that the next time you sit down to do that again, you know what you're doing and what you're going to find, and the value of doing this, that kind of go hand in hand is that when you can see 1, 2, 3, 4, this is what I'm doing, you can start to make it better by seeing it. It's like once you see your workout regimen, you can say, oh, I need to do more leg day.
+
+[00:03:54.130] - Layla
+I actually know nothing about a gym. I don't know why I use that metaphor. But you get the idea because you can then add some stuff into that.
+
+[00:04:01.240] - Liz
+And I think it also makes it easier when you're batching. Because as much as we all love to be like, oh, yeah, I'm publishing both that day, so I'm going to sit down and write that day, life happens. And I think those within who are watching other subpositions are going to realize that batching is important. And so, if you're trying to create multiple pieces of content at the same time and you are using your assembly line, there's a lot of moving people. You've got four times, say four posts, trying to figure out the next step and get organized. How do you, I know, I'm going to ask you to explain how you, ClickUp would help with that, it is a free tool, guys. This isn't just like, go buy this tool, this is, I use it in big part because of all help I got for [inaudible 00:04:44]. But how would you kind of help them figure out that step to sort of get organized with it?
+
+[00:04:53.310] - Layla
+Yeah, I have a quick up demo account here open if we want to show some of this. But I'll just say at like high level, write down your four steps. Right? And if you know that those are your four steps for right now, where you're at, add all of those four posts you want to do per month. Put them in there, so you can see them and you can see the four steps in ClickUp if that's the tool we're using, or any tool. You can put your four steps that you have on your piece of paper or in your sticky notes, you can put them in there. And so, then you're taking this thing that you know you need to do and getting it out of your head and into something visual. So, you can see, I've got four posts, four steps per post, I've got 16 things I need to do. All of a sudden, we've made it visual for just tracking the stuff that we are already doing. So that mental load is not in our brain. We can spare our creativity for not remembering, oh, what post was I working on? No, our creativity can be spent on actually writing the post and adding that original kind of injection.
+
+[00:05:48.640] - Liz
+Okay. So, sort of the follow up to that is when you're kind of creating that content. Obviously, it's great for blog posts, but how do you then take kind of that organization method and use it to create more content or repurpose that content? How does that go hand in hand? Because it can get, I think, very messy very quickly.
+
+[00:06:09.040] - Layla
+Yes. You know, I think the way I would say to do it. Let's go the easiest approach, let's go back to those sticky notes. Let's say we've got our five steps. We just sit in our chair, we write thing, go on. When you are reaching a point where you want to repurpose, which I imagine throughout the summit, people are going to be like, oh, my gosh, I need to repurpose like this or like that. The thing we start with is, all right, where does that fall into the four things I already do? Let's add step five now, is to make one social media post using a quote from my blog post. That's just a match, and that's the strategy. We add that in a step five. And if we're using a task management system of some kind, we add that also, we add that fifth task or that fifth status, depending on how we're organizing things. And that's how we remember to do that next step. Yeah. Step one is deciding you want that to be your process. Step two is putting it in your tool. Step three, you just have to do it then. And my recommendation for folks when they're getting into repurposing is to take it in a measured approach.
+
+[00:07:10.620] - Layla
+So, like any process, don't change 50 things at once because you won't know what broke it. Let's lay your things.
+
+[00:07:17.960] - Liz
+Yeah. So, I think that example is great, especially when you're going from a blog post to a written piece content like a social media post. But what if you want to go to a completely different format? Do you want to turn that into a podcast episode or a YouTube video, and there's not any recorded component to it when you're writing the blog post?
+
+[00:07:39.190] - Layla
+You know I think when we're starting with a blog, we are a little bit limited in the fact that if we want to take it into the audio-visual side of things, we have to do a little bit more work versus if we start with rich content, it's easier to strip it down. But I think let's ask ourselves if we want to turn our blog post into podcast episodes, let's say that's our thing. For you, in your skill sets, what would you need to do in order to do it? Okay, I would need to sit down and read out my blog post, perhaps. I would probably need to create some kind of cover image or episode description. Big boom. Boom, boom. Okay, so I need to do three things every time I finish a blog post in order to do this type of repurposing, which is really like additional creation. So, then those become additional steps or additional statuses in the flow that we built out. And it's really just a matter of deciding, realizing what it involves by learning from experts or from trying it and seeing what you need to do and then working that into your assembly line for the next time around.
+
+[00:08:40.760] - Liz
+Yeah. And I will say, even if you don't kind of get the assembly line into your task management right away, having it written down somewhere, so that at some point you're like, oh, I need to go add those in. Big help. Big help. I've learned that the hard way.
+
+[00:08:55.540] - Layla
+I think that's so huge. I used to work with folks like pre, you know, precovid, pre, everyone was always online, and I remember telling folks like, hey, do you have a piece of paper? And we would write down the 50 things they had to do for every client. And I kid you not, for one particular client, we would make copies of the piece of paper with the checklist on it. And that repeating piece of paper added so much value just by knowing, what do I do next and where is each of my clients at? I don't think it needs to be fancy to work, which I'm so glad you pointed that out.
+
+[00:09:23.790] - Liz
+Yeah. So, I run this big summit once a year. I did do a mini-summit last year in September, but it had a lot of the same components as the regular summit. And I was like, wait, how do I set up a private podcast feed again? And so, I wrote it down this time, so that this year for this summit, I don't have to go refigure it out. So, yeah.
+
+[00:09:43.990] - Layla
+And it's so amazing that your story right there for anyone listening, you didn't wait until you had it perfectly figured out. The first time you just did it, and then you wrote down what you did, and then you use that. I feel like so many folks are like, I can't repurpose anything until I know exactly what I need to do. But I think that uncertainty that you were willing to go out there and try you know to do that thing or to explore how to repurpose.
+
+[00:10:07.090] - Liz
+Well, I've done it before but it had been nine months and I didn't remember how, you know.
+
+[00:10:11.140] - Layla
+Okay, so there's also that.
+
+[00:10:12.810] - Liz
+So, it was like, okay, I need to maybe just write this down, so each time I'm not having to go figure it out because I don't do it that often. So, yeah, same idea though. And it was just down there, you wrote it on piece of paper and then, you know, typed it up and took up. And I'll make it better, all I had screenshots, you know, but basic steps are there, so I'm not trying to figure it out by going back a bit of time. What are the settings on that old one that I did? Yeah.
+
+[00:10:41.660] - Layla
+Absolutely.
+
+[00:10:44.360] - Liz
+Okay, so we've talked about kind of the assembly line. We've talked about the workflow. As bloggers grow, there's more to do, which means you are looking at automation, delegation and elimination, which is if you guys haven't watched Stephanie Blake's session, we talked about that. But automation and delegation, I think are two of the hardest things to do, but two of the most useful because I know I didn't really get systems in place until I needed someone else to help me with things and it was really hard and she was like, you're not giving me the tools I need to succeed here. And I'm like, okay, I'm working on it. So, how would you suggest people get started with that? Obviously, if you've got something going that's mild ahead of a lot of people, but where do you suggest they start approaching those kind of options?
+
+[00:11:38.890] - Layla
+Yeah, I think first of all, let's all just share the fact that there's a point where we're all unsystemized and just winging things and just writing blog. Can we start with that? Like understanding that let's get rid of the guilt layer. That would be step one because we've all been in that position and some of you guys watching might be in that position. That's cool. We're all there at some point. So, beyond that, step two will say, I would start your journey by making sure you know what your assembly line is, which I know this kind of sounds like I'm repeating what was before, but I can't tell you how many times I've seen folks hire, setup automations, build fancy templates, only to realize that they hired somebody for something they don't actually want to do or they don't know why they're doing or they don't think it's on brand for them to do. So, my 1st/2nd step would be to take a moment and look at your piece of paper or your sticky notes or whatever you have and just say, hey, is this what I like? Is this aligned with my brand?
+
+[00:12:37.600] - Layla
+Am I doing this just because some influencer told me to? Or does this actually feel like what my blog is all about? If you can say, yep, yep, yep, everything I'm doing here is essential and necessary, where I usually tell folks to go in. Next is to look at what areas of your process, given that they're all necessary, that you know, that they're all aligned, what is something that is, for lack of better words, inhuman. That's where I would go next. Typically that automation layer is more cost-efficient and easier if you have a solid process. And that's where I would suggest people start by using templates and automation tools.
+
+[00:13:16.310] - Liz
+Okay, let's get into some specifics of automation tools and maybe even just a couple of examples of what sort of an inhuman task would be, just cause I think that really helps people to better understand if they've gotten examples.
+
+[00:13:29.310] - Layla
+Yeah. Do you mind if I share my screen?
+
+[00:13:30.840] - Liz
+Oh, no, that's great.
+
+[00:13:32.520] - Layla
+Okay, fabulous. Well, let's just see if I can actually do that. This is a true test, which one am I clicking on? All right. Can you see this lovely blanks ClickUp screen right here?
+
+[00:13:41.350] - Liz
+Yes, I can.
+
+[00:13:42.420] - Layla
+Okay. So I wanted to give you a visual because sometimes I think that helps. It makes sense. The first automation I would suggest that anybody does is what I would call templating. This is kind of an automation, but mostly just writing things down in a very basic way. But let's just say, you have your assembly line, you know, it's all valuable. What I would suggest is, and this is just a YouTube example, but the same goes for blogging or any other form of content, write down your steps. Once you have this, use a piece of technology to template your steps and I'm demonstrating this in ClickUp, but really any tool has this. 
+
+[00:14:20.080] - Liz
+Trello, Asana, they all have, yeah.
+
+[00:14:22.450] - Layla
+Even email these days, right? So, whatever you have, it probably has this. Or duplicate your Google Doc and then set up an automation that allows you to say, hey, when I have a new blog post, I know I want to write, apply this template. You want the beginner automation every single creator needs. When my task is created, apply a template. I'm demonstrating this in ClickUp. But again, any tool you have is going to get close to this in some way, whether it's done by a technology or even done by a VA. Maybe we could quasi manual automation to have that whole pipeline, that whole process be created for you.
+
+[00:15:03.710] - Liz
+Yeah, I don't even think about that being an automation because that's already automated so long ago for me. That's a great point. So, I'm like, oh yeah, mine just does that and that's great.
+
+[00:15:16.840] - Layla
+That's the first one.
+
+[00:15:17.600] - Liz
+Yes, yes. I think the other one is like sometimes creating graphics can be a little more automated and that's my other place that I always try to add stuff. But yeah, the number of automations I have set up in ClickUp for this summit and managing speakers, I was like, couldn't have done it without all the learning things from you. And I still have to tweak some things, but it's going pretty well. I'm quite pleased, I've got to say. The further down you get in the line, guys, the much more complicated and crazy it can get, but also simpler and what you are actually having to do.
+
+[00:15:48.510] - Layla
+Exactly. Because you're like automating little problems rather than big problems at that point.
+
+[00:15:54.130] - Liz
+Yeah, yeah. I think one of the best things I do is you'll kind of notice you had to do a secret intake form as part of my process, and then based on answers in that form, it sent out a different email with next steps. So, you knwo I'm not onboarding the speakers manually, which I have done many years past.
+
+[00:16:17.960] - Layla
+You had to start there.
+
+[00:16:19.410] - Liz
+Yeah, yeah. And this is someone this is my fourth year doing this, and I'm really just getting, like every year my process, I always think I've got a process in place, and then I'm like, well, that didn't quite work as well as I'd hoped, so let's try something else. And I've tried different tech, you know and so it's a constant changing and updating and seeing what works. Okay. So, yeah. I didn't even think about that being an automation.
+
+[00:16:46.310] - Layla
+Well, you asked for beginner. That's the one that's gonna be the low hanging clue.
+
+[00:16:48.630] - Liz
+It did. You are absolutely right. No, it is. And I've just become reobsessed with ClickUp and all the different automations you can do, and email templates for quick responses and things. So, yeah. So, definitely look at whatever tool you're using and make sure you're taking full advantage of the features that offer for whatever plan you're on, I think just a general piece of advice. Okay. What are some places you see people get hung up on when it comes to trying to get organized and systemized in their content creation?
+
+[00:17:22.990] - Layla
+Yeah. So, I give some thought to this question because you know I do content creation, but I've also worked with folks who are bloggers by trading on multiple blogs and that's kind of like their thing. They're a blogging house, for lack of a better word. And I think one of the most recurrent themes I see across all scales of content creators, including the higher end, is having a hard time separating keyword research or idea selection from creation, particularly if it's an agency or a team model. But even if it's just you, I think it all scales. I see that as a recurrent challenge, and that applies to work in general, but particularly with content where that shiny new idea is the one you want to start working on, or that keyword that looks like a hot opportunity, you want to fast track it, but you have a hard time dividing. You know how many ideas can I handle at once? How can I reach the 50 posts I need to get out this month if I keep derailing based on something coming up? So, for me, that's resolved by separating those two things.
+
+[00:18:27.340] - Liz
+Okay. And by separate, do you mean like, you only do keyword research, you know the first week of the month, and then you're done with it for the month or you know every other month or something? How does separating that actually look like in terms of the tasks that they do?
+
+[00:18:44.060] - Layla
+Yeah. So, let's say, let's talk about tasks and the specific pieces of it. In terms of the cadence, right, monthly, weekly, daily, whatever, I think that will depend on the scale you're at and what you're going for. You know trends is different than evergreen, and I think we need to leave space for that. But when it comes to the practicalities, when you have key phrases that you're trying to target and you have blog posts that you think are going to relate to those key phrases, the easiest thing we can do, technically speaking, is keep these as separate entities. So, if we're using Airtable, let's make a database of key phrases and a database of blog posts. They are not the same thing. If you're using ClickUp, we've got a key phrase list, we've got a blog post list, and we can view these as two separate things that can be happening separately in separate areas that can be connected together, but aren't necessarily one and the same. That's usually what I see succeed more in separating things, is having your research over here, your action over here, and you're able to work on them independently without them being all on top of each other.
+
+[00:19:48.640] - Liz
+Okay. Yeah, I think what I have is I have like a running list of keywords, and then I use a relationship to my blog post, so I can see what keywords I supposed to be using for this post idea. So, yeah, no. Blogging is an addictive thing, and then once you start one and there's another, and now I'm up to four, and I don't know how many domains I own.
+
+[00:20:13.390] - Layla
+And then your writers under you, and you're like, wait, which writer is doing this one? Like separating that out like you have it is just such a smart way to allow you to be creative. But make sure you're hitting those marks that you need to hit.
+
+[00:20:25.540] - Liz
+Okay. And you touched on this a little bit earlier where you talked about sort of outsourcing and automating things you don't want to do. I wonder if you can maybe dive into that, because sometimes the thing you don't want to do is create a system, but sometimes you find it's just a specific assembly line you want to avoid. Like, how do you kind of force past that and then make it a solution that works for you? How would you kind of give advice on that?
+
+[00:20:51.340] - Layla
+Yeah, I think a lot of the hate that comes with like building a workflow is because we always think of it in terms of this boring factory sense, or maybe that's just me, but that was always my connotation with systems and processes. It's a boring factory thing for, like, engineers and quants to worry about, and everyone else is just inflicted upon them. But I think what we need to reframe this as is process or your assembly line is your internal brand. I mean, it's the recipe for the pizza, you know, and you're known for your pizza. So, like, we should care about the recipe if we can reframe it in that way first. All of a sudden, this whole process conversation talks about how can we make sure our blog always feels and sounds like us, even if we get someone else to help. It's creative. It's not restrictive. So, with that mindset in terms of how to go about it, I would look at your pieces of your assembly line and find the thing that is, I would say, the least value for you doing it, but at the same time, it's going to contribute to the bottom line, meaning move the piece forward, get the blog published.
+
+[00:21:59.520] - Layla
+Anything that doesn't fill you up could be something delegated, but I have to push back that. I don't think the system piece is one of it. Do you really want some other chef to define the recipe of your pizza when you're known for your pizza? Come on.
+
+[00:22:13.210] - Liz
+Yeah. Yeah. And I think one thing I heard, I forget what book or person said this is, like, if you can find someone to do the task at least 80% as well as you, can outsource it. If it's not something you absolutely love doing, like it's not worth kind of you doing it.
+
+[00:22:31.610] - Layla
+Especially with content creation and repurposing, I think there's a lot of pieces that I mean, you can be a great writer, but does that necessarily mean you're going to be the greatest at putting a featured image on the post? I think we're all, like, we all think we're amazing and we all are amazing, but we don't have to be amazing at everything, every moment of every day. That's exhausting.
+
+[00:22:52.240] - Liz
+Yes. You know and I think I don't know if this was inside the membership or if it on your YouTube channel, guys, go subscribe to her YouTube channel, by the way, you will learn a ton. But for example, when you create a YouTube video, you're recording it because it's your face, but that doesn't mean you have to edit, transcribe, upload it, do the graphics, you know. Those things are things that don't require you and can be systemized, you know and given out to other people. Yeah.
+
+[00:23:17.830] - Layla
+Who are generally better at it. Like, can we just put that elephant in the room? I mean, we're all afraid that it's going to go down in quality, but generally speaking, if you can, like, just do what you're good at, we all need, like, a humility pill. Like, oh, yeah, I'm actually not the best at editing, out. You know, I think that's the piece that's nice about it too.
+
+[00:23:34.320] - Liz
+Yeah. Yes. Okay. So, any other places you see people get hung up on besides keyword research, that I think it's just as important to learn other mistakes as it is to learn kind of what to do. So, what are some other mistakes that you see people making a lot?
+
+[00:23:50.520] - Layla
+Waiting till things are perfect, that would be my second one. So, we have never written one blog post, but we need to make sure we have a 50 piece repurposing chain because I watched the Gary Vee episode before I could do anything.
+
+[00:24:05.740] - Liz
+Yes. I don't know. Okay, I'm going to call everyone watching this session, but if you've not published your blog yet, publish it.
+
+[00:24:15.910] - Liz
+Put one post out there. You don't need to start with ten or 15 or 20 or whatever. Like, if you can write, but don't you're procrastinating? Just go hit publish.
+
+[00:24:26.590] - Layla
+Yeah. I think [inaudible 00:24:27] 
+
+[00:24:27.520] - Liz
+Procrastination by perfection.
+
+[00:24:30.340] - Layla
+I would say that's the number two thing. Procrast a planning, I sometimes call it, because we spend the time, like, moving boxes around and making our perfect assembly line. And it's like [crosstalk 00:24:39]...
+
+[00:24:39.610] - Liz
+The website.
+
+[00:24:41.210] - Layla
+Tweaking the website, the logo, the colors. In my world, it's like adding 50 steps of repurposing. That's just like, oh, man.
+
+[00:24:49.540] - Liz
+Yes.
+
+[00:24:50.530] - Layla
+Improve your process by doing it. And that goes for most specifically, I think, for folks you said, where they might be worried about delegation. Procrast a planning around delegation is huge. So, you know let's say, I want to hire somebody to help me edit my posts. Like, I can't edit my own work, I just want to hire an editor. Well, if I was procrast a planning, I would obsess over the fact that I don't have a perfect checklist for everything to check for when editing. It's not perfect yet. And so, I can't possibly hire an editor. That's kind of silly because you're going to procrastinate, procrastinate, it will be two years until we get an editor when the editor would have given us time back.
+
+[00:25:28.600] - Liz
+Yeah.
+
+[00:25:29.590] - Layla
+So, my switch on that is get enough done. Get enough. And then bring that person in and learn from them. Learn from each other. Build the thing as you need it and not wait for it to be perfect.
+
+[00:25:41.620] - Liz
+Yeah, because especially if you hire the right person, contractor, employee, or whatever, they can tell you, hey, if they're not getting the result you want, then that's a conversation with them, hey, what else do you need to be able to get to that point? Or they will say, hey, I don't have all the tools I need, if that's the result you're expecting. So, if you're hiring the right person that's willing to kind of speak up and be like. You haven't done your job fully yet for me to do mine, which can make a big difference. Especially when you're used to being just you, you don't realize how much stuff is in your head that needs to get out for someone else to do as well. Or at least 80% as well as you do.
+
+[00:26:19.910] - Layla
+Absolutely. And that can be a conversation. It doesn't have to be you the expert having everything ready. Like, they can ask you, hey, Liz, where do I go to find this? And then you say, oh, here's the link and then you have it for next time. It's okay if it evolves like that, it doesn't make you a bad blogger or anything to let it grow.
+
+[00:26:37.010] - Liz
+Yes. Because you're already learning so many skills when it comes to blogging. Like, learning how to outsource, manage is just another skill to learn and takes time.
+
+[00:26:46.840] - Layla
+Yeah. practice.
+
+[00:26:47.240] - Liz
+Okay, so any final words? Any final tips you want to give our attendees?
+
+[00:26:54.260] - Layla
+I would just say don't be afraid to practice. It's a skill to build. Everyone can build it. You're not too type B or too creative. Like, creativity and systems are not mutually exclusive. We can all learn the skill enough to be dangerous and that's all we really have to do.
+
+[00:27:08.620] - Liz
+Okay, I love it. And where can our attendees find you if they want to learn more, if they want to start obsessing over things? Because that is what happens when you follow Layla.
+
+[00:27:20.960] - Layla
+We're going to rebrand processes to be fun one of these days, I swear. They can find out more info at processdriven.co/bbs. And we've got like a free training and stuff for you guys here that I think will help you take the next step. If you want to geek out about this stuff, like, we are here.
+
+[00:27:36.130] - Liz
+Yes, definitely go check it out. It's really, the mindset shift alone, I think, because I think that's where I started was like your free workshop and then I was like, yeah, I need this. And it's been so helpful, guys. My ClickUp and everything was a mess and I never really bothered paying attention to it and it's, yeah, game changer. So, Layla, again, thank you so much. This is so helpful. I hope everyone goes and checks out that training. Just, thanks again, I appreciate it.
+
+[00:28:03.430] - Layla
+Yeah, thank you for having me. And good luck, everybody. I'm filling out those proceeds.
+
+

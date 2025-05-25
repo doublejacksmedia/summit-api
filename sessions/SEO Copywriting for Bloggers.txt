@@ -1,0 +1,245 @@
+Title: SEO Copywriting for Bloggers
+Speaker: Trevann Hamilton
+Website: https://www.trevannhamilton.com/
+Level: Intermediate
+Category: Copywriting
+Length: 29:55
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/seo-copywriting-for-bloggers-trevann-hamilton/
+
+Transcript:
+[00:00:13.370] - Trevann
+Hi, everyone. Thank you so much for joining me today. I am Trevann and I'll be presenting SEO Copywriting for bloggers. But before I get started, I just want to to thank you for taking titles of your day to hang out with me. I really hope that you find this presentation helpful and that you walk away learning something.
+
+[00:00:42.070] - Trevann
+So, I will be doing a quick introduction. As I said, my name is Trevann. I am an SEO copywriter. I help women entrepreneurs create blogs that are SEO friendly so that they can make sales, generate leads, attract organic traffic and stress less. I also help women business owners craft emails because as you know, emails are a great way to drive traffic to your blog.
+
+[00:01:11.530] - Trevann
+Just all the random facts about missing through you know hanging around.
+
+[00:01:20.930] - Trevann
+I studied molecular biology in College, which might seem random, but I actually write SEO friendly science articles for clients and the research fields that I've learned from you know studying molecular biology, I think are very helpful. I'm also Jamaican. So, if there are any other Jamaicans listening, just say, hey in the chat. So, you're probably wondering what makes you so qualified to tell me about SEO or SEO copywriting? That's a great question.
+
+[00:02:02.270] - Trevann
+I completed the SEO Expert Learning path on LinkedIn. I do SEO courses on HubSpot SEMrush. I'm always doing another course. I really like to learn new information and I always feel like there's something more to learn. I have been writing content for maybe five years, maybe five years.
+
+[00:02:28.070] - Trevann
+And I honestly think that the best part of the SEO, the creation of the content. And you probably know too, that there are so many different facets to SEO, right? You have local SEO, you have the technical aspects. But seeing as though I'm coming from like a content appraisal background, I really fell in love with like on page SEO. And so that's really what I focus on.
+
+[00:03:01.250] - Trevann
+I've also been blogging for myself on others four or five years now, and so you know let's get started.
+
+[00:03:17.310] - Trevann
+So, what we're going to cover today is what is SEO copywriting, elements of SEO copywriting, you know why should you not care about SEO copywriting, and ten steps to create blog posts using SEO copyrighted techniques. Right before we start, I just want to ask that you put your phone on do not disturb because we have so much to cover today and I don't want you to miss anything. So, what is SEO copywriting? You know that SEO stands for search engine optimization and copywriting is writing for conversions.
+
+[00:04:03.190] - Trevann
+So, what is SEO copywriting? So I define it as the process of writing and publishing content that appeals to both search engines and people.
+
+[00:04:16.990] - Trevann
+So, let's get into the elements of SEO copywriting. So that includes use of keywords, having a great headline, appropriate reading level for your audience, use of images, use of alternative text, well structured content, valuable content, and of course, having a call to action. So, you don't want your right into sown robotic because you're only thinking about ranking on google. Let me tell that Google actually prefers articles that are valuable and helpful and structured well. So, really, if you are creating SEO content, good SEO content is going to be good for readers as well.
+
+[00:05:12.810] - Trevann
+So, why should I care about the SEO copyrighting? And that's one of your questions. So, SEO copywriting techniques can help users generate more traffic to your blog posts through organic search, will help you rank higher in the search results, you generate leads, build your email list, make sales.
+
+[00:05:36.690] - Trevann
+SEO copywriting is a great way to have your content work for you.
+
+[00:05:46.530] - Trevann
+So, let's look at some ranking factors. Just so you know, they're not four ranking factors, they're actually over 200. But what I can say is that SEO copywriting helps with at least four of them. So, let's look at site speed. Briefly.
+
+[00:06:03.280] - Trevann
+Site speed really means how long your site takes to load. If your site takes too long to load, people are going to leave. And if people are losing your site, they're not reading your post, they're not going to convert, it's not good. Right. So, SEO copywriting techniques that would help with site speed really would just be including images that are small, because if the images are too large, then the site is going to take longer to load.
+
+[00:06:37.350] - Trevann
+And we talk about that later on. The site speed is a bit more on the technical side, but because I wasn't going to cover images today, I decided to include it. Then you have title tags. So, those would be like your H1 tag, right. Your H one tag should have your keyword.
+
+[00:06:59.680] - Trevann
+That helps to tell Google, hey, this is what I'm trying to talk about, this is the information I'm trying to devote. And then you have other tags like the H2 tags, the H3 tags which will get into that you want to optimize. Then we have quality backlinks, so backlinks are just basically links to your content from someone else's website. So, if you're creating valuable content structured, well, easy to read and spell with information, then people are going to want to link back to your site and then you'll get more traffic because people click on that link.
+
+[00:07:43.860] - Trevann
+And having quality backlinks is great for your blog. Then we have user experience. So, user experience really boils down to having easy to read content, having content that your reader actually wants to read.
+
+[00:08:03.910] - Trevann
+Having content that either solves a problem, you know gives information, anything like that would fall on the user experience. And with what we're about to cover your users, your readers will have a good experience.
+
+[00:08:23.590] - Trevann
+So, let's get into the ten steps to create blog posts using SEO copywriting techniques. So, before you start writing, you're going to want to do keyword research. So, this is the SEO part of the SEO copywriting. So, I do keyword research using a keyword research tool. There are several you have Google Keyword planner.
+
+[00:08:51.050] - Trevann
+You have Moz. I personally use SEMrush. So, what you'll do is use this tool to find out how many people are searching for the keyword. How easier, harder will be to rank for the keyword? What are the other related keywords people are searching for?
+
+[00:09:13.090] - Trevann
+You want to opt for long tail keywords? So, long tail keywords, they're more specific. Right. And they're typically easier to rank for. So, long tail keyword would be, well, let's look at what the short tail keyword is.
+
+[00:09:30.020] - Trevann
+So, a short tail keyword for a glass would be glasses that is not specific at all. Am I speaking about all the glasses that you wear on your face? Are we talking about more than one glass? Are we talking about the history of glasses? We want to buy glasses.
+
+[00:09:49.390] - Trevann
+It's so not specific and super hard to answer because there are glasses you want something and more specific. So, a long tail keyword could be blue line glasses. So that's specific. It's worth more specific. You should also pick keywords with low competition.
+
+[00:10:12.430] - Trevann
+So, the keyword research tool will tell you how easy or how hard it would be to rank for that specific keyword. If there's a low competition, then with really good structured content, then you have a higher chance of actually ranking, which is good. Then you need to look at search intent. So, SEMrush actually just released or just updated their tool, their keyword research tool where they actually attempt to give you the search intent of a specific keyword that you're searching for yourself..
+
+[00:10:56.720] - Trevann
+What's the search intent? It's really why somebody searches for this term. Do they want to make a purchase and they look at the information. What is the intent behind the search? As I mentioned, you can include related keywords and phrases.
+
+[00:11:14.930] - Trevann
+You don't have to use the same keyword all over the blog post. You can use related keywords. Google gets it or the other search engines.
+
+[00:11:30.470] - Trevann
+Now you want to structure your content. So, I don't know if you guys just dive right into writing. I prefer to do an outline. And so after I do my keyword research and I start to structure my content. So, I start to say, okay, this is what I'm going to have as my H1 tag. This is what I'm going to have H2, H3.
+
+[00:11:52.880] - Trevann
+Have points for my introduction, some points for my conclusion, what's my call to action.
+
+[00:12:04.250] - Trevann
+So that's how you create your outline. But in general, even if you just dive right in, you make sure that you have your intro, conclusion and the call to action. Use H2 and H3 tags. People might be confused about what the tag is their headings.
+
+[00:12:25.070] - Trevann
+They're just headings. So, make sure you have short paragraphs. People do not like large blocks of text. So, break up paragraph. Make sure that your sentences are concise, take out unnecessary words, use bullet points and use images.
+
+[00:12:44.330] - Trevann
+This is great for user experience, because if people click on your blog post and just say a wall of text, chances are they're not going to read it, even though you may have valuable information that would help them solve their problems. Just the look of it is all put in and so, structure in your content really well. We'll have people staying and reading and converting.
+
+[00:13:12.990] - Trevann
+So, next you'd like to hook your reader. So, now we're starting to really write. The first thing I really do is flesh out my introduction. So, when you're trying to hook your reader, you have to you know grab your attention. You can use a fact, a stat.
+
+[00:13:35.370] - Trevann
+You keep people reading. You use short sentences. You can you know write things like, here's the deal. This is what happens next.
+
+[00:13:48.450] - Trevann
+You string people along, that's how you write so that they want to continue reading and continue strolling their hope. You can also use the APP method, which stands for agree, promise and prep. And we're going to look at this briefly. So, for agree.
+
+[00:14:11.190] - Trevann
+Agree with you. An example if you stare at a screen all day and even if you don't realize your eyes will remind you that I definitely need a break and you know it. So, when I was writing down the long tail keyword example and I had blue light glasses in my head, so this is what this is relating to. But just say something that your reader would agree with. Like, I would probably say something like SEO looks daunting or SEO seems too hard.
+
+[00:14:49.690] - Trevann
+You know things like that. Next we're going to look at promise. Promise you relax some type of benefits. But protecting your eyes from all that blue light can provide so many surprises.
+
+[00:15:05.230] - Trevann
+It's like, I want to know. You know promise them something. What are they going to get when they're finished reading the spot? How will this help them? You know you can allude to that. Then you have preview.
+
+[00:15:18.790] - Trevann
+Give them a little synopsis of what the blog post's about. So, for example, we're going to look at five benefits of blue light glasses that change your life.
+
+[00:15:31.630] - Trevann
+You know you just give them an idea of what they're supposed to anticipate.
+
+[00:15:43.670] - Trevann
+I don't know if you guys usually include a little table of content in your blog post, but I think they're great. When I click on a blog post and I see the table content, I'm less likely to leave. I'm going to search the table content, find what I want, probably read the rest of it. I just like how it looks. I screenshot this from smart blogger. But as you know, it outlines what the post will be about.
+
+[00:16:12.890] - Trevann
+It's great for user experience. So, the next thing is to actually use your keywords. So, we're writing now with hook the audience. You need to use your keywords. You use the keywords in the body of the blog post, in the headings, in your title tag.
+
+[00:16:34.610] - Trevann
+In your meta description. There is the base on keyword stuffing. So, keyword stuffing basically means that you're using the keyword a lot like you just, a lot, in the blog post. So, I've heard people say keyword stuff is amazing. Google doesn't really care about it. And I'm like it's a big no no, do not keyword stuff. My take is if you don't want your content to just sound weird by just putting the keyword randomly, like when you read it, does it sound natural, so normal then it's fine.
+
+[00:17:14.280] - Trevann
+Use your keywords where necessary and include related keywords. You don't have to use the keyword as is, you can finally see keywords, your keyword planner tool, usually such as Zone. You can use those so that your writing doesn't sound robotic or not pleasant to read.
+
+[00:17:42.970] - Trevann
+So, I have an example here of a blog post using their keywords really well. So, this is headspace. As you can see, they have meditation for sleep.
+
+[00:17:58.030] - Trevann
+That is their keyword that they're trying to rank for. They included it in the headline or in the title tag. Even though the headline isn't compelling, it did the job in this case because they are ranking on the first page of Google for Meditation for sleep. So, just on the side note, if that's where you're going to if you're writing something about meditation asleep and you're looking at a post that's already up for it, you're going to look at how you can improve it. So, their headline is a compelling. You can write a compelling headline and hopefully rank on the first page as well.
+
+[00:18:47.470] - Trevann
+But you also have to look at their contents and see what they missed.
+
+[00:18:51.130] - Trevann
+Those and things like that. But anyway, they also have their keyword in the country, which I highlighted their meditation for sleep.
+
+[00:19:03.470] - Trevann
+They use related keywords like sleep meditation, so they don't just say meditations for sleep, meditations for sleep, meditations for sleep. They also use sleep meditation and I checked. They do run on the first page of Google for sleep meditation.
+
+[00:19:22.670] - Trevann
+Then they use the keywords in the H2 tag and you'll notice that they've used it in their meta description. So, just showing you how to use the keywords where to put them, make sure it sounds natural and normal. And I think they did a good job of that. Next you want to include internal links.
+
+[00:19:46.020] - Trevann
+So, link to other blog posts in all your blog posts where you see appropriate. Don't just link for link for ranking sake. You're going to link to a blog post that's really going to help your reader. So, if you're writing about I guess, I guess, let's just say, blue light glasses again, and you mentioned something like, you mentioned something like this is what would happen if you don't have blue light glasses and then you name the thing that happened and maybe you have a blog post where the thing did happen to you and you wrote about it. You can make that blog post right there because it's appropriate.
+
+[00:20:33.550] - Trevann
+They'll have a better understanding of what you're saying in this blog post. So, make sure the anchor text is relevant. So, you're probably like, what is the anchor text? So the anchor text would be where you hyperlink.
+
+[00:20:50.370] - Trevann
+So, instead of linking click here, you can use the title of the blog post that you're linking to or something else, but try to avoid things like click here.
+
+[00:21:12.050] - Trevann
+Using internal links helps the search engine to create an accurate site map, so they know the kind of content that you post, what your site's about, and you're going to get traffic to your blog post. So that's always great. You want to also include external links. So, you should link to other authoritative, credible sources in your blog post. Like, for example, in the science articles that I write, I link to other scientific studies.
+
+[00:21:43.670] - Trevann
+I link to sites like Health Line because they're credible and authoritative. And I think that really gives you some, it makes you look more credible as well and shows that you did your research and you are giving additional information to your readers. That might seem counterproductive to send your readers elsewhere, but it's actually a good thing to do to include external links.
+
+[00:22:13.950] - Trevann
+So, now we want to create a compelling headline. Your headline should captivate your reader and make them want to click on it. It should promise a benefit. Be specific. You can use headlines, ask a question, listicles.
+
+[00:22:30.410] - Trevann
+No, I love me a listicle. I write a lot of listicles because I think they're great and the readers do think they're great too. And you should use words like secrets, tips, tricks, guides you know people love that. So you might have a great article.
+
+[00:22:51.300] - Trevann
+But if your ideal reader doesn't like the headline or it's not compelling enough, they're not going to click on it. And if they don't click on it, they won't share the article either. That will impact your traffic, sales, lead generation, everything. So, even though you might have followed all the other steps, it's really a good idea to create a compelling headline so that people will want to click on it, want to share it, want to listen to it, wants to read it. You know what I mean.
+
+[00:23:29.890] - Trevann
+So, I use Coschedule to help with my headlines sometimes, it's a website. It will tell you how your headlines are doing. Of course it's just a bot, but it can provide useful tips. Also, it's a good idea to keep a swipe file.
+
+[00:23:51.910] - Trevann
+So, if you've seen a really good headline that you're like, wow, this is great. I wish I came up with that. You can actually save it. In a file, you could link to the article. Just copy and paste the headline.
+
+[00:24:05.600] - Trevann
+And of course, you're not going to steal a headline, but you can keep it there and revisit it. But when you have it right those block, you really can't compare a headline that will help you.
+
+[00:24:18.870] - Trevann
+So, I looked at some headlines. I Googled writing better blogs and these were the top results. So, as you can see the first is, there's a listicle because people of numbers, especially odd numbers. Not really sure why, but I realized, like, three reasons, five tips, seven secrets, things, odd numbers.
+
+[00:24:45.100] - Trevann
+People like that. And notice that leaves the word tips. Also, the one under it promises a benefit. You'll be able to write it right there's. Not so great.
+
+[00:24:56.520] - Trevann
+Of course. So, you don't want to click on it. And that's part of the reasons why these blogs probably rank so high. And I'm sure they're great and you know they have substance, but their headlines are really good. So, these are two headlines of mine for two blogs that I have that rank on the first page of Google.
+
+[00:25:20.590] - Trevann
+So, these are from the blog that I have as a hobby. Notice that they're specific. They promise a benefit. They're simple. It tells you exactly what you're going to get.
+
+[00:25:35.230] - Trevann
+This is another headline that I've written for a post that ranks on the first page of Google. But this one is for our client. Note you see, I told you I've listicles.
+
+[00:25:45.610] - Trevann
+So, Seven Ways and numbers you know my spice sparks on curiosity. So, it works. So that's an example. Next, you need to write your call to action. What do you want your readers to do?
+
+[00:26:02.630] - Trevann
+Buy something, subscribe to your email list. Tell them you can use a button or have a link. I think it may be a good idea that when you're planning your blog post, you automatically know what your calls actually is going to be. Like why are you creating this blog post? Are you going to promote your own products?
+
+[00:26:25.650] - Trevann
+Affiliate marketing? Are you looking for engagement? Is that why you guys create your blog post? Drop it in the chat below. Why do you primarily create blog posts?
+
+[00:26:38.930] - Trevann
+So, I'm just showing some examples of call to action. So, the Headspace article from earlier. This is what they have, Try headspace of three days, the button and they're trying to generate leads. This one is from Clever Girls Finance, where they want people to access their free courses. Next, edit the method description.
+
+[00:27:03.320] - Trevann
+So, if you don't edit it, Google will put something in there. There is still a small chance that you will edit it, and Google will just put what they feel like. I noticed that it does that sometimes, I don't know why, but it's still good to just edit it anyway. So the meta description is what people are going to see in the search results page.
+
+[00:27:23.460] - Trevann
+Make it interesting so that people click on your blog instead of someone else's. So, include your keyword, remember, and your call to action. So, this is an example of the method description that I use for this blog here that ranks on the first page, telling them what expects. I included my keyword and I'm encouraging them to click the list.
+
+[00:27:50.310] - Trevann
+Use images. People love images. As a matter of fact, it says there's a stat out there that says bloggers who added ten or more images in a blog post. Of course, it's stronger results than those who didn't. So, make sure the image file is small so that it doesn't affect that speed negatively.
+
+[00:28:10.790] - Trevann
+Edit the alt text in the images. Add keywords real relevant. Don't put them where they don't belong. They're descriptive with their text and you don't have to use it.
+
+[00:28:24.290] - Trevann
+If the image is purely decorated.
+
+[00:28:29.170] - Trevann
+So, those are the ten. Let me just recap real quick. Do your keyword research, structure your content to be reader friendly who care readers. Use your keywords.
+
+[00:28:44.530] - Trevann
+Include internal links, include external links. Create a compelling headline. Write your calls to action, edit your method description. Get images. So, I have a freebie. I created this.
+
+[00:29:02.870] - Trevann
+It's the only business, login checklist that you need. It helps you to employ SEO copywriting techniques because as I said, you know that's a list of things that you have to remember. But there are more things that I included in the checklist, I separated it into before it start writing while you're writing and after you're writing to help you to get traffic, you know generate leads and make sales.
+
+[00:29:41.150] - Trevann
+So, thank you. Let me know if you guys have any questions whatsoever.
+
+

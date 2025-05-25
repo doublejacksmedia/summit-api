@@ -1,0 +1,258 @@
+Title: How to Manage Email as an Entrepreneur
+
+Speaker: Erin Flynn
+Website: https://outofofficeentrepreneur.com/
+Level: Beginner
+Category: Productivity
+Length: 27:31
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-manage-email-as-an-entrepreneur-erin-flynn/
+
+Transcript:
+[00:00:11.850] - Liz
+I'm super excited to have this next speaker back with us. She is fantastic. She's the founder of the Out of Office Entrepreneur where she helps creative entrepreneurs customize and automate their businesses, so that they can spend more time out of office. After starting her own business back in 2012 and finding that she was glued to her computer 24/7, I can relate, she started simplifying and systemizing her businesses. Now she runs a six figure business and works just ten hour weeks without a team and wants to help other creative entrepreneurs do the same. Big warm welcome to Erin Flynn. Erin, thank you so much for coming back.
+
+[00:00:46.080] - Erin
+Thank you so much for having me. I'm really excited to chat today.
+
+[00:00:49.420] - Liz
+Yes. Because I think, I mean when you work for yourself, there's always one more thing and it's a very easy to stay glued to your computer. One of the things I want to talk about though, specifically is email because it gets, because you subscribe to things to learn and you subscribe to tools and then things change and it's just a hot, mess and there's a gazillion things. What would you say is the biggest problem people have in terms of managing email as an entrepreneur?
+
+[00:01:18.850] - Erin
+I think that they don't really like do any organization until their emails come in. So, they have all of their subscriptions, all of their login information, things from clients or sponsors or, you know, depending on how they run their business, everything is coming into one place, but with absolutely no organization and how that is. So, it's easy to miss important things like if you need to pay something or if somebody needs to pay you. And questions, support questions, if you sell products or services or something, those are really easy to miss when you have just an inbox completely full and nothing organized.
+
+[00:02:02.870] - Liz
+Yeah. So, almost like if you're always doing reactive organizing because that's a big problem I have. I can either go in and I can like organize my email or I can actually respond to them and I can't seem to do both in the same sitting. So, what would you recommend to kind of be more proactive in managing email?
+
+[00:02:24.830] - Erin
+So, I think the easiest thing that anybody can do right away is use a different email address. Like a totally different one is my advice for subscriptions and login information because typically when you sign up for something, you're going to be added to their email list anyhow. So, anything, you know, that's going to put you on an email list. I prefer to have that in a completely different email account, just like, you know, a classic Gmail. So, if you change your domain name or something later, you're not going to lose your login information. I can't tell you how many times I've seen that happen before too, where somebody's using like, amazingsite.com for their, you know, email and their website and then they're like, I'm going to rebrand to this. But they don't switch everything over. So just...
+
+[00:03:13.950] - Liz
+Or forward.
+
+[00:03:14.310] - Erin
+...Or forward, yeah. So, just, you know, use a nice gmail that you're not ever going to get rid of and that will work really well for like your logins, your subscriptions, all of that kind of stuff.
+
+[00:03:22.530] - Liz
+Okay, so next question is that because I have rebranded different domains in the past for one of my sites, and I now have just a gazillion email addresses, like so so many, I'd have to count, but I'd say at least ten. What would you recommend, someone who's in that same boat? Because when you do change domains, you keep the old domain generally or, you know, to have it forward to the new one. And ideally, you have the emails forwarded, or at least you still have access to the email through the hosting company. But when you have that many email addresses, how do you suggest condensing or just yeah, like, what should I do? Well, surprise, you start doing this a little bit, but I'm curious what your thoughts are.
+
+[00:04:07.870] - Erin
+Surprisingly, a lot of people do not do the forwarding. They just get rid of their domain and forget it. They like, signed up for things. I've seen this a lot, so don't do that. Don't just get rid of your domain without making sure that all of your emails are going somewhere else. I definitely recommend, you know, holding onto your domain for a couple of years if you rebrand, at least. And then I think the easiest thing, obviously is setting up forwarding is great, but it kind of makes sense to like tag things as they come in. So, for example, let's say you have example emails are going to hello@example.com, and you've now got superawesomesite.com, or whatever, right?
+
+[00:04:46.940] - Liz
+Yeah.
+
+[00:04:47.400] - Erin
+So if you see an email like have set up, if you use Gmail or I'm sure you can do this in others as well. I use Gmail specifically, and you can create a tag, so that if something comes into example.com, it will get a tag applied and it can have a special color on it. And then you know that I've got to go back into this account and update my email address, so that I can not get these emails at this account anymore. And eventually, let's say you make it a bright yellow tag. Eventually, as you work your way through those, you're not going to see bright yellow tags in your inbox anymore, so you're not going to have to like, hang on to that domain for the rest of your life.
+
+[00:05:27.270] - Liz
+Okay, so taking a step back, actually, because you mentioned Gmail, I know for a long time, when I first started my site, I just used the Imail or whatever it's called on Mac. But then when I started working with a VA, she couldn't access things that way, so I did kind of switch to Gmail. Is Gmail what you would recommend? Is there certain email platforms you think are better than others or ones to avoid in terms of your inbox?
+
+[00:05:54.140] - Erin
+I think Gmail is a really great one for most creative entrepreneurs because it's reasonably priced at $6 a month for a domain email. So, you know whatever your website is. And you can create aliases in addition to that, which we can talk about more, like how you can use aliases to auto organize your inbox, but you can have, like, hello and support and payments, you know, all going in. And it doesn't cost extra for those aliases. It does cost extra to add, like, a VA or somebody like that to have their own account, but I think $6 a month is a really reasonable price. Plus, it's easy to organize. You can access it from anywhere. You can add team members as needed, and of course, it can sync to all of the other Google things. So, I do recommend Gmail. There are other great platforms out there, and you can take a lot of, like, what we're talking about today and apply them there as well. But I think Gmail is, again, like, a really easy platform to use, and it's what I would recommend unless you have really extensive needs, in which case I don't actually know what the best platform would be if you have like a huge team, but I think most of us are solo preneurs or have a small team, and Gmail is perfect for that.
+
+[00:07:10.680] - Liz
+Yeah, I think most people have some familiarity with Gmail, even if they don't have it through their domain based email. They may not be familiar with Google Workspace, which is what you end up signing up for when you do that. Okay, so let's get back to aliases, because I feel like I've heard this before, and I've tried implementing it in the past, and I've failed miserably.
+
+[00:07:32.750] - Liz
+Partly, because I think I can never just remember what they I don't know. But anyway, can you give us a little more information on what an alias in Gmail is, as well as kind of how to best implement and use them?
+
+[00:07:45.890] - Erin
+Yeah, so there are lots of great ways you can do this. The way that I learned, I think I actually learned from Jordan Gill of System saved me. I feel like that's where I heard about it, but I can't find where she talked about it.
+
+[00:08:00.740] - Liz
+No, I think I have same thing. I think that's where I first heard of it, too. Like she did part of a bundle or something, I feel like.
+
+[00:08:07.130] - Erin
+Yeah, I think there was something that she did at one time that, maybe no longer exist, where she talked about using aliases. And it was this really incredible organizational moment for me. I was like, oh, thank you, Jordan. This is amazing. But basically what you can do is you create your account, your main account. So, for example, my main account for my personal brand is hello@erinflynn.com. Then I can also use payment@erinflynn.com as an alias, and for that, I would use things like, sign up for PayPal and Stripe and those emails from them. I would then create a filter and auto tag them, so that I know that it's a payment related email if they email me. So, anything that goes to payments@erinflynn.com is auto tagged, in my case, it's green for money. So, I'm like, oh, that's a money related thing. And I love being able to look in my inbox and just see the colors and know what different emails are, because then I can kind of, if something goes to support@erinflynn.com, it's tagged in red. Because I know that's a client or a student reaching out to me, and I want to make sure that they get top priority.
+
+[00:09:15.710] - Erin
+So, you can use these aliases with a filter and a tag to basically auto organize all of the emails that come into your inbox. The real trick is making sure you actually use those emails in the appropriate place, so that this happens and that's something that's harder to do the farther you get into business and the more accounts you have, like spread throughout the internet. But if you are newer to business, I'd highly recommend setting this up like early on, so that you don't have to deal with this later when you get, you know, hundreds of emails per day. And if you are further into business, start with just like one, start with switching whatever is most important. Probably support for most of us, if we have products, would be the most important thing to have auto tagged and liked marked in your inbox as something urgent to take care of. So, you would just like update your wherever students or customers contact you, you would just change it to support@example.com and make sure you have that tag and filter set up. And then if that's all you do, it's really going to make a big difference in being able to find those important emails.
+
+[00:10:27.230] - Liz
+Those are definitely some of the steps I missed, like setting up the alias but then not having the auto tag and stuff. I will say quick caveat, if you later want to establish a separate inbox for support@example.com, or in my case, support@elizabethstapleton.com, you have to delete the alias in the other one or let you do it. I was like, why is this not working? Because I had someone come in to manage that specifically. But yeah, so just quick tip there. But in order to make aliases work, you need to make sure you take the second step of tagging and setting up some rules. It sounds like, in my head I'm like, this is the fourth year doing the summit and I should really have an alias that's like summit,  so that I can immediately find those emails because I'm constantly like, I need to stay on top of those. Okay, so, auto tagging and filters, those are two different things. I think we've talked about auto tags and how it relates to aliases and being able to quickly get at a glance of your inbox. How do you use filters? What's the benefit of those?
+
+[00:11:34.220] - Erin
+So, the filters, I actually keep mine really simple. And I know it's hard when we're just talking about it and you can't see my inbox. It can be hard to picture, like, how things look. But overall, I use the, so like filter to auto apply the tag. So, if somebody sends an email to support@erinflynn.com, I have a filter that's set up where if it's sent to that email address specifically, it auto applies the tag, and then I just have my tag set up in different colors. But that's basically the main way that I use filters, and I don't really have, there are some really cool filtering things you can do that get quite complex that I don't actually really spend time with. I pretty much just do like, the Alias rule, and if it goes to this address, this filter is applied. Something some people do, and I think a lot of people recommend, is they auto filter it into a folder, and it skips the inbox and it goes into a folder. And I don't personally like that because I didn't lose it forever. I forget to check my folders, so I like everything to go into my inbox, and then when I hit archive, it will just magically go into the folder.
+
+[00:12:45.750] - Erin
+But there are so many cool filters out there. Like if anybody wants to dive into Gmail filters, just Google Gmail filters and you will find this world of amazing possibilities.
+
+[00:12:58.390] - Liz
+Okay. Would you mind if I share my screen showing you where people can find these in Gmail? We won't actually set anything up because I'm pretty sure my VA, who set up all my various filters and stuff, would kill me. So, this is in Gmail, real quick, I believe Alias says you would pull into the you have to go into the workspace for, don't you?
+
+[00:13:22.770] - Erin
+Yes, it's in the, like the admin console.
+
+[00:13:25.310] - Liz
+Yeah, the admin console. So, you would go into your admin console and you would go create...
+
+[00:13:30.850] - Erin
+An alternate email address.
+
+[00:13:32.550] - Liz
+...Yeah, right there. Email alias. So, if you're wondering what that is, there you go. Okay, so back over here. Settings would be my guess, maybe.
+
+[00:13:41.980] - Erin
+Yeah, if you go to settings and all Settings.
+
+[00:13:47.450] - Liz
+Okay.
+
+[00:13:48.040] - Erin
+And then you have filters and blocked addresses.
+
+[00:13:53.780] - Liz
+Okay.
+
+[00:13:55.210] - Erin
+So, you already have some set up.
+
+[00:13:57.390] - Liz
+These were not me. These are my VA settings up because she was tired of stuff. That's ridiculous. But yeah. Okay. All right.
+
+[00:14:07.950] - Erin
+Yeah. If you create a new one at the bottom, you can walk through all of the steps, and there are so many things that you can do. For example, if you do the two line is kind of what I'm talking about. So, if it goes to support at elizabethstapleton.com, you can then start creating a filter. There's a create filter. So, I don't do anything else there. I just do Create filter, and then I don't skip the inbox. Some people do, but you can do label. Yeah, label and then whatever labels you have set up. So, I think you have to set up, if I'm remembering correctly, you set up your labels first, and then you can apply those.
+
+[00:14:45.600] - Liz
+You can actually do new labels.
+
+[00:14:46.800] - Erin
+There you go.
+
+[00:14:47.360] - Liz
+There we go. Okay.
+
+[00:14:48.890] - Erin
+And so, then you can label it as support or payments or whatever would be the appropriate one for that address. Then you would just click create filter, and it would magically be tagged whenever you get an email to that address.
+
+[00:15:01.620] - Liz
+Okay, I'm going to not do that because I don't want my VA mad at me. In theory, I'm the boss, but in reality, I'm like, what do you need me to do? Okay. All right. Anything else you kind of want to talk about while I'm sharing my screen?
+
+[00:15:20.710] - Erin
+I did mention that I like to color coordinate things. So, if you have labels and you hover over your labels on the left hand side and you click the three dots, you can do the label color.
+
+[00:15:32.140] - Liz
+Okay.
+
+[00:15:32.940] - Erin
+And so, for example, support. Like I said, I make it red, so it stands out in my inbox. And I know I got to take care of this. This is a priority, but you can just choose any color you want. You can add custom colors if you already know.
+
+[00:15:44.360] - Liz
+And definitely, like a visual color coding is a big thing. I don't think my VA is, I love her.
+
+[00:15:51.630] - Erin
+That color coding thing is really, like, key for me. And the way my brain works when I'm just going through my inbox, I know if it's red, I need to respond right away. And if it's any other color, it's not necessarily a priority. So, if I've got limited time, I don't have to necessarily do anything that's not red.
+
+[00:16:08.870] - Liz
+Okay. Got it. Okay, good to know. It looks like she set up a thing for me. I'm feeling very embarrassed right now. Okay. I'm going to stop sharing my screen. My system does work, guys. It works because I have someone helping me. Karen is so good, she doesn't need it. But yeah, okay. All right, so now we've talked about sort of proactively organizing your email. So, you know what, when you jump in there, you're like, okay, what's red? Any tips or advice on making sure, maybe you don't have time to get to the things that aren't read, making sure those aren't lost in the shuffle or forgotten or missed? 
+
+[00:16:51.780] - Erin
+Yes. So, there's basically a two minute rule which comes from the book. Getting shit done, I believe, is the title. I have to double check that, but I can send you a link after this.
+
+[00:17:06.020] - Liz
+I think I've read the book. I don't know that the rule from there, but it might be.
+
+[00:17:08.890] - Erin
+Yeah, but it's basically like, if it takes two minutes or less, just do it, like on the first time you open the email or whatever it is. Like, it applies to anything in life. But in terms of email, if you click on it, it's going to take you less than two minutes to take action on it. Don't close that email. Just do the thing and move on. And I found that to be really helpful in terms of like just getting like, you can set a timer for 15 minutes, or if you've got a toddler like I do, you can do like a 15 or 20 minutes video that they're going to watch and they're going to be busy for that time. And you just get through all of those emails, like every single email that you can. And then if it's something that's going to take longer than two minutes, I schedule that time into my calendar to actually do that thing. So, I have like a block of time each week where basically, I'm like, let's take action on these things that people have sent me that I need to take action on. And you can do this as either, like, scheduling the actual things.
+
+[00:18:10.030] - Erin
+If somebody's like, oh, I need you to write a guest post for this and you want to write the guest post, then maybe you actually schedule the time to write the guest post. But you can also just have a block of time that's to take action on all these little tiny miscellaneous things that are sitting around in my inbox.
+
+[00:18:25.880] - Liz
+That reply to, you know, emails that need reply.
+
+[00:18:29.030] - Erin
+Yes, exactly.
+
+[00:18:31.650] - Liz
+Okay, so when you're scheduling [inaudible 00:18:33] calendar because sometimes you need the emails of reference point, are you literally pulling in the email into a calendar thing in Google Calendar? Like what's the nitty gritty of that look like?
+
+[00:18:46.330] - Erin
+So, there are ways you can actually just put the email directly into Google Calendar. But for me, most of it is just, like I just throw it a block of time and I'm like, I think this is going to take me 2 hours to do this thing, so I'm going to schedule it in. Or every Wednesday, from one to two. I'm going to just get through these emails. I know there are some really cool ways you can do this, but I just find like, for me and my brain, like whatever is the simplest, like the least path to resistance, I just do. And maybe I'm not using all of the cool automations and stuff that are out there, but it works for me. And if somebody wants more, just know there are really cool things you can do between your Gmail and like Google Calendar integration with your email.
+
+[00:19:32.550] - Liz
+Okay. Yes. If you have the time to dig into that, but don't use it as a prestination method. 
+
+[00:19:40.550] - Erin
+Yes. I think that's like one of my big things too. I'm like, I want to know how to do these cool things, and I know about them, but I spend more time than just doing the organization and stuff than actually getting the thing done. So, whatever is your path to getting things done the fastest? Yeah.
+
+[00:19:57.330] - Liz
+I used to set a time limit, though, on how long you're allowed to research and try to figure out another way. I did that yesterday. I was like, okay, this is driving me nuts. This is so tedious. I am okay wasting an afternoon trying to figure this out. And if I don't come up with a better solution, I'm done. I'm just going to keep going. But I'm okay, if I give this a go for several hours once.
+
+[00:20:20.550] - Erin
+Did you get a good solution?
+
+[00:20:22.080] - Liz
+I did figure out, it wasn't email related, but it was somewhat related. I did figure out a bit more streamlined. I figured out the issue of why what I thought was going to work didn't. And so, it was a whole thing regarding making all the workbooks for the summit syllable. It's like, I do not want to have to go in and create a box. And like the tool I thought would automatically recognize it wasn't. And then I figured out if I uploaded it as a lower quality PDF that was flattened, whatever that means, it would recognize it. The whole afternoon of going down a rabbit hole and trying, okay, well, maybe I need to try this other tool instead, because the one I thought would work isn't working, again.
+
+[00:21:01.960] - Liz
+It was just meaningless, the whole thing. But yeah, so I was like, we can waste one afternoon on this because the potential return is a lot of time. And I actually managed, once I figured out later that night, I sat down and I managed to get all the workbooks that I had so far, all the worksheets for each session done. And normally, I would have taken days.
+
+[00:21:22.640] - Erin
+Yeah, that's awesome.
+
+[00:21:24.090] - Liz
+The one afternoon. But I was like, you can't keep going up, like this is your one chance. Otherwise, you're just going to have to sit through the [inaudible 00:21:32] . So, yeah. If you want to kind of explore, that would be my tip, you know, a better way to use things, set a time limit on how much time you're allowed to explore and learn and think through that before you just go back, you know. Yeah.
+
+[00:21:46.200] - Erin
+I love that. I think that's really good because it's really easy to get lost in the procrastination of finding the best way when sometimes it's better to just get things done.
+
+[00:21:57.850] - Liz
+Yes. Yes, so give yourself time limits, give yourself deadlines. These are all things of part of being your own boss and being an entrepreneur. Okay, so I mean I know you have some awesome things for our attendees, but before we get to those, any sort of additional tips or advice you would have in terms of making sure your time in your email is productive.
+
+[00:22:22.190] - Erin
+I would say don't open your email first thing in the morning. So, email is basically a to do list that other people are sending you. It is not necessarily your priority. Your to do list, like, you might have other goals for what you want to get done that day. And as soon as you open that email, you start getting sidetracked. At least I do, and I think a lot of people do. Maybe there are some people who don't, but when I know I've got stuff to respond to, it just throws off. I'm like, let me just get through these emails and then I can work on the thing that I wanted to work on. And then 3 hours later, I'm like, oh man, like I'm tired. I don't want to do the thing that I was supposed to do.
+
+[00:23:00.250] - Liz
+Or I have to go get the kids off the bus and then they're going to fight and I've got a referee and I'm not going to be able to work.
+
+[00:23:06.960] - Erin
+Exactly. So, I would say don't open your email first thing in the morning. And if you can't, I mean, yes, like you're probably depending on your business, like you need to check email daily-ish, but you can also do like an auto responder that says, I try to respond to emails within 48 or 72 hours. So, you kind of set expectations that you're not living in your inbox. Because email is not actually meant to be an instant form of communication. It's not a chat, it's, even though a lot of people use it like one. It's like getting a letter and then there can be a little bit of a delay before you respond, and that's okay. But if you have clients, especially, I know probably a lot of people listening to this are watching this, have more like digital products. But I know when you do client work especially, you have this need of constantly being like available. But no company is constantly available, right? Like as a soloprenuer.
+
+[00:24:07.890] - Erin
+No, no one person.
+
+[00:24:09.710] - Liz
+I think most of your customers know that you're probably, just you or a small team.
+
+[00:24:14.400] - Erin
+Yes.
+
+[00:24:15.650] - Liz
+And you can set that expectation of like, hey, if you're a customer, you know we check emails this often. We try to respond as promptly as possible, but please be patient.
+
+[00:24:25.290] - Erin
+Exactly.
+
+[00:24:27.030] - Liz
+You know like recognize that you're a human being and make sure your customers know it too. 
+
+[00:24:30.980] - Erin
+Yes. And it's totally okay to set those boundaries and those expectations, no matter what your business is. So, don't be afraid to have an autoresponder that sets those expectations and not feel guilty about not checking your email first thing or waiting a day to respond to things if you need time to think about it.
+
+[00:24:50.540] - Liz
+Yes. Okay. And I know you have a fantastic, like if you guys want to really dig into this more, you have, I love the name of it, GTFO, your inbox, do you want to tell us a little bit about that?
+
+[00:25:04.000] - Erin
+Yeah, so it's basically my, I forget how many lessons are in it, but it's a mini courses, short. It will only take about half an hour to watch all of the videos. It will of course take longer to actually implement and depending on how much your inbox needs wrangling. It could take, you know, a bit of time, but the idea is that you get all of the steps that you need in a very short period of time, and then you can start implementing them one by one or however many you want to at a time to start taking back control of your inbox. And I go in depth into like how I do my labeling. I talk more about best practices for in your inbox to get you in and out as quickly as possible. I've got, like, some copy and paste stuff, like an autoresponder that you can use and tweak to your business, so that you don't have to come up with it from scratch.
+
+[00:25:54.700] - Liz
+Yes. Yes, and I think if you guys get the all access pass, you'll actually get access to that included as part of the pass that you will need to pay for it. So, if you haven't gotten your all access pass yet, definitely go do that. Erin, thank you so much. Any final words you want to share?
+
+[00:26:09.910] - Erin
+Oh, gosh. First of all, I really appreciate like chatting about this and kind of, like, geeking out about mail organization. Hopefully, everybody who tuned in is now as excited as I get about labeling their inbox. So, basically, yeah, if anybody does follow the steps that we talked about today or goes even more in depth with the course, please let me know how it's working for you. Send me a screenshot of your cleaned out inbox or your neatly labeled inbox. And I really love nothing more than seeing how people organize their stuff. So, really, it would be super fun.
+
+[00:26:46.600] - Liz
+Yes. Yes. I have a feeling that you, like me, also own a label maker for your home.
+
+[00:26:51.920] - Erin
+Of course.
+
+[00:26:54.690] - Liz
+There are those that do and those that don't. That's really the difference. But you don't need a label maker to get a handle on your inbox. You can do that even if you aren't as label, you know, excited as we are. Okay, so thank you. And guys, if you have questions, in the chat, we are available to answer those. Obviously, this is pre recorded, but Erin, thank you so much.
+
+[00:27:17.420] - Erin
+Thank you. 
+
+

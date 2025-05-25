@@ -1,0 +1,429 @@
+Title: How to Handle Google Updates With Your Site
+Speaker: Grayson Bell
+
+Website: https://www.imarkinteractive.com/
+Level: Intermediate
+Category: Tech
+Length: 31:54
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-handle-google-updates-with-your-site-grayson-bell/
+
+Transcript:
+[00:00:13.250] - Liz, Host
+Alright, guys. Our next speaker, I feel like doesn't actually need an introduction. This is his third time speaking at the summit. His sessions always get tons and tons of views. He is the go to WordPress guru in most blogging circles. I definitely pay him to be my go to every month, and I'm glad to do it. I'm excited to welcome back Grayson Bell from I Mark Interactive. Grayson, welcome back. Thanks for joining us again.
+
+[00:00:39.580] - Grayson Bell
+Thank you for having me. I'm excited to be back. These days, it's excited just to talk to people.
+
+[00:00:45.640] - Liz, Host
+Right.
+
+[00:00:46.360] - Grayson Bell
+So any way that I can, I'm in.
+
+[00:00:49.390] - Liz, Host
+Alright. So, we're going to be primarily talking to site speed and Google updates today because site speed always gets hurt on and people stress about it, sometimes more than they should and sometimes not enough. And then Google updates. One is rolling out right now. We can talk about those in general because they do happen regularly. So, what would you like to start with first?
+
+[00:01:14.370] - Grayson Bell
+Well, since we talk about site speed, let's talk about Google updates first.
+
+[00:01:18.610] - Liz, Host
+Okay.
+
+[00:01:19.890] - Grayson Bell
+So, yeah, there's one rolling out right now. This is a core update. Now, this year, 2021, Google, I think, was just like a, I mean it, they just went on some crazy bender of updates. You know I've been doing this since 2004. I've never seen this many updates, at least significant ones. Right? So, a lot of people think that when you have a core update and they drop some traffic, they automatically think there's something wrong with their website or there's a technical issue.
+
+[00:01:54.020] - Grayson Bell
+And I believe John Mueller, who's one of the search advocates for Google, came out and said, Actually, rarely is it a technical issue for a core update, because if you have a technical issue on your site, it'll typically manifest itself immediately inside of your Google search console or something like that. You'll see traffic drop immediately if there's a technical issue. Core updates in general are relevancy issues or content. So, basically, they find that your content, whatever that piece was, might not be as relevant as whomever went ahead of you.
+
+[00:02:32.470] - Grayson Bell
+Right. So, one of the things that we kind of like, try to tell people is one don't panic. If it's a core update, it usually takes several weeks for it to fluctuate out. Right. So, you might see a swing up or down and then it might normalize or even come back. So, don't just start going and making a bunch of changes. There's literally no point in doing that. It's like chasing your tail. I mean, you have no idea what you're actually going after. And in general, when there's a core update that happens. If you make changes to your content or to your site, most likely, you're not going to see an immediate turnaround.
+
+[00:03:15.070] - Grayson Bell
+That's just not really how core updates work. Even though Google does a lot of updates, you could be waiting until the next core update, depending on how much work you have to actually put in, right. So, we kind of just want people to.
+
+[00:03:35.950] - Liz, Host
+Sit tight.
+
+[00:03:36.580] - Grayson Bell
+Yeah, sit tight. Put the brakes on a little bit. These updates are happening a lot, and Google is getting very good at making sure they're pinning down what they call basically search intent. What they feel the searcher is actually trying to say when they're typing into the Google search box.
+
+[00:03:57.070] - Grayson Bell
+And a lot of times, especially, a lot of people got hit really hard in the July, the June and July ones this year. Also, during that time was the core web vitals update, which wasn't the same thing. A lot of people correlate them. They're not. They're two different ones. So, these were big ones. They got hit because what Google found out is that a lot of sites were ranking for keywords that in actuality, they really shouldn't have been ranking for like, oh, yeah. This really wasn't as relevant as we thought it was.
+
+[00:04:33.070] - Grayson Bell
+So, what they do is they basically don't deindex you. They just drop you down. It could be a couple of positions. And those couple of positions can really depending on where it is really hurt your search traffic. So, for example, I have a personal finance blog that I really don't write on anymore. I mean, I haven't read it on five years.
+
+[00:04:54.440] - Liz, Host
+We're both pretty bad about it.
+
+[00:04:57.190] - Grayson Bell
+Yeah.
+
+[00:04:57.520] - Liz, Host
+I'm resurrecting mine, but yeah.
+
+[00:04:58.690] - Grayson Bell
+I mean I'm actually playing around with trying to separate some new things. I'm going through a content audit because I started my personal finance blog in 2012. And I've had it for a long time, but I haven't written on it since 2016.
+
+[00:05:13.470] - Grayson Bell
+So, it's not fresh. There's a lot of bad content on there, because, I mean as you know, back in 2012 and 2013, you could do sponsored posts all day long and not the good sponsored posts. The stuff you shouldn't have been doing at the time. At that time, it wasn't a thing like you could just do it, right.
+
+[00:05:31.650] - Liz, Host
+Yeah.
+
+[00:05:32.950] - Grayson Bell
+Well, a lot of that stuff is still on there that needs to go. So I'm going through a content. But what happened in one of Google's updates and in the July update, we were ranking for a keyword term that really we should have been ranking for. It was like a locational term, like it was something near me. And I'm like, why are we even ranking for this? But we were getting a ton of traffic from it. But then Google realized why the heck are we ranking this guy?
+
+[00:06:04.130] - Grayson Bell
+So, I mean we went from like number eight to eleven. So, we got pushed off the first page and that dropped our traffic because that was actually one of our leading keyword terms. Because, again, haven't written on the five years. It was just kind of just running on autopilot. And it was slowly trickling down because you don't write on it for a long time, but just moving those couple of spots and you wouldn't think that you would have a lot of traffic on number eight. But eight compared to eleven when you're on now page two.
+
+[00:06:35.590] - Grayson Bell
+It's a big amount of traffic. So, there isn't really anything I could do about that, because we should have never been ranking for that term in the first place. So, it's kind of like, all right, well, let's go find some other low hanging fruit terms that we can probably incorporate into that post that might get us back some other you know.
+
+[00:06:56.940] - Liz, Host
+Traffic that's more relevant.
+
+[00:06:58.130] - Grayson Bell
+Yeah, more relevant that actually goes, oh, yeah, this works out. But you know, unfortunately, you know I didn't even start doing the content on until last month, and I don't expect any of the changes that I made, which aren't really significant to take effect in this new core update because I haven't done anything.
+
+[00:07:17.920] - Liz, Host
+Yeah.
+
+[00:07:18.560] - Grayson Bell
+But I would imagine when Google does their next update, which will probably be you know in another couple three or four months. It's usually around the time when they kind of push them through. But maybe if we make a number of significant changes, we make the content better, easy to read. Don't fill your site with a bunch of junk and stuff like that, then it might make a difference.
+
+[00:07:39.940] - Liz, Host
+Yes. So, I want to touch on a couple of things you said. So, we obviously said as a core update rolls out, put the breaks on. Don't go making a bunch of changes. That doesn't mean stop publishing content, though.
+
+[00:07:50.710] - Grayson Bell
+Correct.
+
+[00:07:51.560] - Liz, Host
+Just to be clear, it doesn't mean you just stop working on your blog. It just means don't make a bunch of changes and stuff already there.
+
+[00:07:58.030] - Grayson Bell
+Right.
+
+[00:07:58.800] - Liz, Host
+Okay. And then I did, because they are different. If you wouldn't mind delving in a little bit to these core updates versus the core web vital updates, since people do get confused.
+
+[00:08:13.030] - Grayson Bell
+Yeah. Yeah, I mean Google didn't do a great job with naming, naming conventions. So, core web vitals is their metrics that they revolve around more of the user experience and speed. It's all kind of like this combined thing. And core web also has Https security, mobile friendliness, no interstitial bad ads or anything that are popping up in people's faces and stuff like that. So, people hear core web browser and all they think is speed, but it's actually multiple facets hooked together. So, core web browser released itself into the world in June of this year 2021, and it was slow rolled. So, even though they released it in June, they slow rolled it out all the way until the end of August.
+
+[00:09:04.250] - Grayson Bell
+But really what we've seen so far, and we've talked to a lot of people. We've talked to a lot of SEO people as well. The really core Web models updates didn't really do much for traffic. It didn't significantly increase traffic. It didn't significantly decrease traffic. And I think Google indicated this would be the case. But what happened is there was just a bunch of hysteria in a lot of groups. A lot of things people were saying if you don't get this fixed, your site is basically going to be worthless enough.
+
+[00:09:35.140] - Liz, Host
+Yeah. There's a lot of fear mongering. There's always someone who's doing a fear mongering around that kind of thing.
+
+[00:09:40.340] - Grayson Bell
+Yeah. And a lot of it is people selling their services to try to fix it kind of stuff. But the thing is that there were people. I mean, I know some people that were charging you thousands of dollars to do core web vital fixes. The problem was that most sites wouldn't see a positive ROI in that. Right. We did a couple of tests with some customers of ours. Instead of fixing core web vitals or passing it, we focused on just making the user experience better, bigger fonts, making it easier to read, dealing with accessibility issues.
+
+[00:10:16.810] - Grayson Bell
+So, color combinations. A lot of people do really like colors. And if you have vision impairment and stuff like that, it's just really hard to read, right. So, we want to make those things easier. So, a lot of people made some really good changes of cleaning up their sites, and it was good. They might not have passed core web vitals, but what happened in doing so is that they actually not only cleaned up their sites, but they focused entirely on making their content better. And those people that did that, we did a small group of like 50 sites that just focused on that.
+
+[00:10:52.600] - Grayson Bell
+And then we did another group. Well, actually, like almost all of our customers, we worked on core web vitals in some sense. But then we started realizing that it really wasn't that big of a deal. The people that focused on the content were gangbusters in the updates. They were up 40 plus percent. I think we averaged, I think it was average 35%, but somewhere up 40. It was great. Now, when core web vitals came out, almost nothing. It might sound like a 1% for somebody, but we really saw nobody like fall down because of it.
+
+[00:11:30.890] - Grayson Bell
+So if you see your traffic declining, it's most likely not core web vitals. Don't get into a battle of trying to get into fixing core web vitals. Now, again, user experience is great for customers or readers or whoever. If you have ecommerce store, the faster your site is, it's going to be better, right? They'll get through even if you just have ads, the faster site loads. Technically, the more ads that can show, so you can make more. So, it's good as an all around part of the picture.
+
+[00:12:01.450] - Grayson Bell
+But if you're just focusing on core web vitals because you think your traffic is declining or it's going to decline, that's the wrong mindset to have.
+
+[00:12:10.420] - Liz, Host
+So, it's coming back really to content user experience.
+
+[00:12:13.970] - Grayson Bell
+It always is content. It's always content content. Content, content, content, I don't know how many times we have to say it, but I mean it's content. Again, focus on these other small things, but don't harp on things. I think it was all 2020 almost. And in the early 2021, everyone focused 100% on core web vitals. I saw a lot of messages on Facebook where people basically lost a bunch of traffic because they stopped even publishing content because they were focusing so hard on getting passing corporate vitals. They just stopped doing anything else on their site.
+
+[00:12:50.610] - Grayson Bell
+And that's really just. I mean, that's not the way to do it.
+
+[00:12:55.230] - Liz, Host
+No, it's amazing. That what just being consistent with creating content will do if you do nothing else.
+
+[00:13:02.190] - Grayson Bell
+Yeah. Good content. Right.
+
+[00:13:03.740] - Liz, Host
+Well, good content.
+
+[00:13:05.870] - Grayson Bell
+They'll just pump out like junk content. But good content that answers questions. Right. That answers a question or some type of intent. Yeah.
+
+[00:13:17.490] - Liz, Host
+Okay. I want to ask you some specifics of some things you said about user experience of just quick changes and fixes bigger fonts. What size fonts should people be using?
+
+[00:13:26.280] - Grayson Bell
+So, most people are between 18 and 21. Now this seems huge and 21 really can be. It really depends on the font style that you have.
+
+[00:13:35.520] - Liz, Host
+Okay.
+
+[00:13:36.220] - Grayson Bell
+So, I know a lot of people love to use Google fonts and stuff like that. We don't recommend it. The reason is that one Google fonts tend to be they do cause site speed issues. It has to load a font from Google and all that kind of stuff. We usually typically just recommend system fonts, and if you have a good theme, a lot of them allow you to just turn on a system font.
+
+[00:14:00.280] - Grayson Bell
+And all the system font is a font that is pre installed on your Reader's computer, and that's their default font. So if you don't specify a font, it's going to lay back to that. Most of them are like aerial Helvetica type layout. Now, the good thing about this is that readers are used to it.
+
+[00:14:22.610] - Liz, Host
+Yeah.
+
+[00:14:24.870] - Grayson Bell
+They don't have to sit there and squint to try to read your stuff. And here's one key thing not only for site speed, but also it's some of the things that I've talked to accessibility people they really harp on stop using script fonts. They are not only very hard to read. Typically, they're not big enough to actually somebody can read them, but also you have people with bad vision can't read it, and then you have script fonts are terrible for speed. I mean, just utterly terrible for speed because they're often very big font files that have to be downloaded.
+
+[00:15:01.810] - Grayson Bell
+So, I know people love their font styles and all this branding and all that kind of stuff. But you got to think one thing. And we've done several stuff talking with our readers and stuff like that. People don't care about your fonts they don't care about. They just want to read the content. They're not there to look at the design and style, especially on mobile. Although you can't really see a lot of that kind of stuff anyway, right.
+
+[00:15:25.410] - Liz, Host
+Unless it's blocking the content.
+
+[00:15:27.870] - Grayson Bell
+Right.
+
+[00:15:29.130] - Liz, Host
+I tried to go read a post today from my phone and I was like, you have 17 pop ups, and I don't see the exit button. I'm out of here.
+
+[00:15:37.150] - Liz, Host
+Yeah, that's a little bit different, but yeah.
+
+[00:15:39.230] - Grayson Bell
+But that is another thing, but yeah, like we try to tell people you have to be very careful with the items that you're adding onto your site, especially if you think. Ad networks are notorious for this kind of stuff. It doesn't matter what ad network is. If you think about it this way, they want to add more stuff. They want you to add more stuff to your site, so you can make more money, because that's how they make more money. But oftentimes it really destroys the user experience.
+
+[00:16:08.330] - Liz, Host
+Yeah.
+
+[00:16:10.110] - Grayson Bell
+I mean I know that we all have to get paid for our work, and there's nothing wrong with that. But there needs to be a happy medium between the two. Like, don't just keep turning on everything these companies tell you to turn on, because there is an underlying factor that they're like, oh, yeah, if they do this, they're going to make more money. But we make more money. It shouldn't always be about how much money you make. You should also think about.
+
+[00:16:33.190] - Liz, Host
+Long term sustainability.
+
+[00:16:35.680] - Grayson Bell
+Yes. Long term sustainability. Readers aren't going to come back to you and go, oh, yeah, this is a great site. It has really great information. Oh, wait. I can't read any of it.
+
+[00:16:46.240] - Liz, Host
+Yeah. And then the other thing I want to ask about specifically, I know this isn't like your area of expertise, but I'm sure it's something that you're dealing with a lot, and I'm seeing it come up more and more is accessibility issues. And using colors that are not contrasting enough make it difficult to read. So, yeah. What sort of quick things could you tell someone to do to make the site more accessible if you could.
+
+[00:17:15.610] - Grayson Bell
+Yeah. So, font size is a big one. Font size is a big one. You can even have a really good color. And typically most sites have a white background. You're going to want to have a dark font, either a pure black or even a really really dark gray. But if you go any lighter than that, you will have issues. Now, you can have a pink, but it's got to be a dark pink. It ends up being almost purple sometimes.
+
+[00:17:42.790] - Liz, Host
+Yeah.
+
+[00:17:43.390] - Grayson Bell
+A lot of people don't really realize it. There's a free tool. It's called Wave.webAIM.org, that you can put your home page. You have to put single posts or pages in, right.
+
+[00:18:00.040] - Liz, Host
+Yeah.
+
+[00:18:00.260] - Grayson Bell
+And it'll tell you if there's contrast issues. A lot of times you just don't realize because you are following your own branding, right. But your branding doesn't work with accessibility.
+
+[00:18:10.660] - Liz, Host
+Yeah. And you need to think of it not just a because it's the right thing to do. But be like, there are laws. I've seen a lot of people lately get sued over accessibility issues, so.
+
+[00:18:24.990] - Grayson Bell
+Yeah, so
+
+[00:18:25.320] - Liz, Host
+Different session on accessibility.
+
+[00:18:26.250] - Grayson Bell
+Yeah. I mean I'm no lawyer. We don't even actually like a lot of people ask us to do accessibility out. We won't do them because we can't be specifically responsible for saying, hey, you're now accessible because actually, I don't believe you can even be 100% accessible based on the current rules and regulations. Because it's almost like literally, I think somebody said it's like a unicorn to be 100%.
+
+[00:18:54.720] - Liz, Host
+Yeah. And those guidelines and stuff, like most things, the government aren't really up to date with the technology in a lot of ways, too. But that's also part of the thing is the tools that are being used to make sites accessible to people are different. You know the technology for that slow to adapt and change as well.
+
+[00:19:16.850] - Grayson Bell
+Yeah. I heard that they're coming up with a new one supposed to be soon. I don't even know what it's called, but new regulation or something like that or new guidelines, new guidelines. So, I mean, these tools, we're going to be chasing ourselves, really.
+
+[00:19:31.930] - Liz, Host
+Yeah.
+
+[00:19:32.310] - Grayson Bell
+But if you think about it, you know the accessibility thing is a weird one because these rules have been around for a very long time, and they haven't changed. But nobody really paid attention to them because I really don't think the government really understands knows how to handle websites or blogs in general.
+
+[00:19:51.050] - Liz, Host
+Yeah.
+
+[00:19:51.660] - Grayson Bell
+Right. It was only really built for physical places, restaurants, or even at the time, government websites.
+
+[00:20:00.520] - Liz, Host
+Yeah. Yeah.
+
+[00:20:01.030] - Grayson Bell
+It wasn't built for blogs and just bloggers, like, just regular content people. I get it a little bit more if you're selling if you're doing e commerce.
+
+[00:20:11.220] - Liz, Host
+Yeah.
+
+[00:20:11.770] - Grayson Bell
+Right. But I don't, I get that you should be as accessible as possible. I don't like the lawsuits. I mean, who does really? But I don't like that.
+
+[00:20:23.010] - Liz, Host
+Yeah. Okay. So we are running short on time. So, I do want to touch on a little bit of site speed. What are some things you want to make sure you know are working well, but aren't going to take a lot of time to improve on. Right. Like what's the low hanging fruit with site speed?
+
+[00:20:44.950] - Grayson Bell
+Low hanging fruit is opposite. The first one is always images. Images, images, images like image. People are, it doesn't matter notorious for uploading very large images. Never take something off your cell phone or your camera directly or even out of, like, Photoshop, and put it right into WordPress. That's a no-no. The aim that we go for and there's no rhyme or reason behind it. It's just literally you know basically off the total amount of page size. We try to tell people try not to get anything bigger than 150 KB per image in file size.
+
+[00:21:26.770] - Grayson Bell
+Now. Dimensionally, that can be a large world of sizes, right.
+
+[00:21:33.050] - Liz, Host
+Yeah.
+
+[00:21:34.690] - Grayson Bell
+We typically upload images that are 1200 pixels wide. Google's a fan of that for their Discover. And they'll use those as their sometimes the featured snippets 1200 pixels wide. You can do anything that's either like 1200 X 800 or even 1200 by 15 or 1700 if you like the Pinterest style layouts. But 1200 wide is what we go for. And that also gives you the ability to do we call future proofing is where you don't have to worry about having to change your images every time you change your theme.
+
+[00:22:10.580] - Grayson Bell
+So, images. You want to get those really optimized. There are several free tools that you can use. Squoosh is one. It's from Google. Short pixel is one. You don't even have to really pay for it. If you don't want to, you can actually load your images up on their own website and then download them before you upload. They have the plugin that you can pay for credits that will optimize your images.
+
+[00:22:35.550] - Liz, Host
+I think it includes, like 103 credits a month as well.
+
+[00:22:38.210] - Grayson Bell
+Credits, yes. But that's not images. It's just credits, so you can run through pretty easily
+
+[00:22:42.910] - Liz, Host
+Depending on how much you're publishing.
+
+[00:22:44.540] - Grayson Bell
+Yeah, but if you do images, is typically the biggest one, you want to not only resize down if you're uploading 3000 Pixel images, that's a no no. And also focus on the file size. Ads are always going to be an issue. It doesn't matter who you have. I mean, yes, like the Mediavines and the ad drives have optimized their code a lot better than most, but a lot of bloggers can't get on there.
+
+[00:23:12.890] - Grayson Bell
+So, if you have ads, you're probably going to see site speed tests show as poor. That doesn't mean that you can't pass core web vitals, and that doesn't mean that you can't be fast. That just looks terrible in a speed test, right?
+
+[00:23:24.980] - Liz, Host
+Yeah. Yeah, like, If you're in orange, don't freak out too much. If you're in red, do a little work.
+
+[00:23:31.390] - Grayson Bell
+Do some work. Do some work. orange is really not like, you going from orange to green really doesn't do anything.
+
+[00:23:35.670] - Liz, Host
+No.
+
+[00:23:36.140] - Grayson Bell
+And again, for site speed scores do not matter. Google's never used these scores. They've literally built this tool to show you how well you might be doing in optimal conditions. They literally just introduced a new update to it two days ago. I think it's actually a little bit harder to understand because they put the core web vials part up first. So, if you're failing, it just says fail. And so it looks like, oh, my god, I'm doing terrible. So, we're updating this in our site speed course because it doesn't look that great.
+
+[00:24:08.810] - Grayson Bell
+Like when you look at you're like, oh god.
+
+[00:24:11.530] - Liz, Host
+Are you talking about page speed insights?
+
+[00:24:13.600] - Grayson Bell
+Yes, yes.
+
+[00:24:14.340] - Liz, Host
+Yeah.
+
+[00:24:14.540] - Grayson Bell
+So, Google's Page Speed Insights, they changed it. They even changed the URL. So, it goes to like, their web Dev thing. So, yeah, images and then go through a plug in on it. Really a lot of times over the years. We just add plugins and maybe used it once and didn't realize that we were doing it. Getting rid of this stuff can get rid of stuff that might be loading on the front end. Page builder are typically a no no. I don't recommend page builder. You can use them if you want to do, like sales pages and stuff like that, but never put your post in them.
+
+[00:24:44.260] - Grayson Bell
+Don't build a whole website with them and stuff like that. And then really, we have found one of the best ROIs. Now this is more work, but the best ROI is a theme change. And that goes from depending on what theme you have, right? That's going from maybe a really big heavy theme to something that is clean and fast and well-coded. So, there's literally only two that we typically recommend, and that is generate press and cadence. Those are the two. They're both free. They do have a pro add on if you wanted more features, but by and far the two best that we use and recommend.
+
+[00:25:26.120] - Grayson Bell
+Ashford is pretty good too. I like Kadence more. And there I mean there are some other ones that might be okay, but those are the ones that we are typically moving most people over to. So, if you're going from a really heavy theme to a really fast theme that in itself typically will fix a lot of your problems.
+
+[00:25:46.570] - Liz, Host
+I just want to add if you're not sure if you have a heavy theme, I think one of the tips you gave last year it was really good is go to the theme demo site and run that through page speed insights, and see what it's coming up with. Right? Like, it's not going to be the exact same as your site, but it'll give you an idea.
+
+[00:26:02.760] - Grayson Bell
+Yeah. 100%. Like, we typically will run a demo through and you can kind of see the heft if you will. If they are built on Page Builder, I would just niche it immediately. I would just say this is not, there's a lot, majority of themes on, like theme forest, which is a really big theme. Marketplace, are almost always built on either Elementor, WP Page Builder I think it's called now, used to be called Visual Composer.
+
+[00:26:33.380] - Liz, Host
+Yeah.
+
+[00:26:33.770] - Grayson Bell
+Whatever it is. And those are really the two big ones that they build on.
+
+[00:26:38.180] - Grayson Bell
+Then you have Divi. I've never been a really big fan of Divi.
+
+[00:26:44.260] - Liz, Host
+Divi hard to leave.
+
+[00:26:45.000] - Grayson Bell
+Divi is hard to leave because they use like, a short code mess everywhere. They have made some really big changes this past year that have made it a little bit faster. But even though it's faster, we see a lot of bugs in it. A lot of pages end up just loading with blank content on it because their new method does this weird stuff to it. So, it's not 100%. And really, it's really just a pain to leave.
+
+[00:27:08.990] - Grayson Bell
+It really is. It's a huge pain to leave. I've never been a fan of Debbie. A lot of people use it, though, but usually when they leave it and they go like something with cadence and just pure, like Gutenberg. They are like, oh, wow, this is so much different. If you're really big into sales pages, maybe something like lead pages off. The site for your sales pages might be a better option, I believe. Well, actually, I know you can use, like, the lead pages plugin that you can make the sales page look like it's on your domain.
+
+[00:27:40.170] - Grayson Bell
+A lot of people do that.
+
+[00:27:42.130] - Liz, Host
+Okay. Yeah.
+
+[00:27:42.490] - Grayson Bell
+Lead pages obviously is a fee, but if you're doing lead pages correctly or sales pages correctly, you should be making enough money to count on that.
+
+[00:27:51.440] - Liz, Host
+You should be getting enough investment. Yeah.
+
+[00:27:53.590] - Grayson Bell
+Yeah, so.
+
+[00:27:53.950] - Liz, Host
+I will say. And I don't know if this has changed. I spent a long time since I use lead pages, but for their lead boxes and whatever. Those were short code. So,, just be careful with that.
+
+[00:28:05.860] - Grayson Bell
+Yes, they still do have those. I guess I was just referring to the landing page.
+
+[00:28:13.150] - Liz, Host
+To the landing page. I just, I just, you know, I feel like a lot of people can then, it's just as hard to leave.
+
+[00:28:18.250] - Grayson Bell
+I guess here's one of my biggest points since I know we're running short on time is really don't obsess so much about site speed. I have seen so many people over the past year get rid of everything in order to have a fast site, but then you have no opt ins. You have no sales conversions unless you're running just pure ads, but that should never be your main focus. Ad should always be a secondary or tertiary focus. You should never focus just purely on ad revenue.
+
+[00:28:51.190] - Liz, Host
+It's like bonus money.
+
+[00:28:53.290] - Grayson Bell
+Yeah, it should be mailbox money if you will. Right, like you should still have things that are going to make you money, affiliate conversions, all this kind of stuff. So, you have to understand that there needs to be a happy medium between the two. Don't just go wiping everything out because a fast site that makes you no money is worthless to you. And this is you know stuff I harp on with my customers all the time when they're just focusing 100% on sites. Be. I said, you guys need to remember that you take these things away.
+
+[00:29:26.150] - Grayson Bell
+You're going to lose revenue in some sort of fashion. You're not going to have opt ins anymore. So, you're going to have not be able to get people on your email list and sell them X, Y, and Z, so don't go crazy over. It's not that big of a factor. It does help in the grand scheme of things. It's a good part of the puzzle, but it's not the main piece. It should never be the main piece.
+
+[00:29:48.410] - Liz, Host
+Yes. Alright. I like it. Those were kind of final words, but any other final words? Is there anything anywhere you want to send attendees to check something out or?
+
+[00:30:01.430] - Grayson Bell
+We do have our site B course. We are updating it. We're actually going to be moving platforms in the beginning of the year. So, we have our site B course, which teaches you a lot of this stuff teaches you how to use specific plugins and stuff like that to optimize your site and all that kind of stuff. You can go to imrinteractive.com/site-speed-course. Those are dashes in between each word at the end of that one. It will teach you all the things you need to know, basically on how to handle site speed, and it really gives you a good view of what your site is actually doing.
+
+[00:30:32.650] - Grayson Bell
+I think that's the big thing that a lot of people that have taken it have noticed is, wow, I didn't know all these things affected my site this much. I was just putting them in because someone told me to put them in.
+
+[00:30:43.850] - Liz, Host
+Yeah. And then I think if you are super super new to blogging because we do end up with a lot of attendees, I think you still have your free WordPress course, right, wich will.
+
+[00:30:52.760] - Grayson Bell
+Still have the free WordPress course. I'm actually redoing that completely when we go to learn because it is old. It is old, and I don't really update it that much, but it is free. So, I mean.
+
+[00:31:04.160] - Liz, Host
+Yeah.
+
+[00:31:05.490] - Grayson Bell
+But I am revamping it to be like all on the new editor and all that kind of stuff. But WordPress is doing a big update in December, so I'm kind of waiting for a lot of the big portions to.
+
+[00:31:16.830] - Liz, Host
+We'll see kind of where it's at the summit starts January 31st, hopefully.
+
+[00:31:20.230] - Grayson Bell
+Yeah. I'm hoping that I have the course out by then.
+
+[00:31:25.300] - Grayson Bell
+It just depends on how much stuff I can get done between when they release it in December.
+
+[00:31:32.610] - Liz, Host
+We'll have the links below for both those things. Obviously, Grayson knows his stuff. He's always my go to person. Grayson, thanks again for joining us.
+
+[00:31:43.510] - Grayson Bell
+You are welcome. It was a pleasure.
+
+

@@ -1,0 +1,66 @@
+Title: The Art of Designing Accessible Emails
+Speaker: Erin Perkins
+Website: www.mabelyq.com
+Level: Advanced Bloggers
+Category: Accessiblity
+Length: 17:45
+Year: 2025
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/the-art-of-designing-accessible-emailserin-perkins/
+
+Transcript:
+Erin Perkins [00:00:12]:
+Hello. Welcome to the Art of Designing Accessible email. I am Erin Perkins, and I am deaf blind. I can hear with the help with my hearing aid and cochlear implant. I have no peripheral vision, so I can still see the center, but I can't see next to me, below me, or above me. I am a disability advocate, and you can call me an educator, a coach, a strategist, whatever. My mission is to teach you how to take accessible practice to to create an inclusive customer journey for everybody. I am also a design architect.
+
+Erin Perkins [00:00:59]:
+I love design. I think it's one of my favorite thing. If I wasn't doing this, I would probably be an interior designer or architect. So I wanted to quickly go over my little framework to help you understand how we have landed on the topic of email. So when I have created the word successable, which is just just an accessible that creates successible it is where accessibility and your business meet to create a successful future. And when I talk about the word success, I pull it out so that you can break it down into different aspects of your business. So you have all your aspects of business. You can utilize accessible events to connect with your audience and promote your brand.
+
+Erin Perkins [00:01:53]:
+You can create engaging and accessible podcast content that resonates with your community. You can communicate with your followers on social media with accessible content, enhance your brand design through the length of accessibility and inclusion, simplify your online presence by optimizing your website for inclusion and accessibility. And finally, we want to strengthen your communication to your audience via accessible email marketing. So these are all the different parts that I can teach and show you how to build accessibility into your business. Today, we are going to be talking about email. So I want you to think about what you are doing right now to support email accessibility. There have been people that said they use link and button to make it easy to see. They keep the paragraph short and simple.
+
+Erin Perkins [00:02:55]:
+They break up the content with heading and subheading. They choose a font that is easy to read. They leave plenty of white all of these are fantastic thing to consider. But I'd like to ask you, are you using emoji? Are you using GIF? Are you using video? Are you doing layout? All of these thing can actually create some sort of a accessibility barrier. So we are going to focus on 3 thing that you can do to ensure that you are accessible. The goal is to get to know your people. That's the first thing you wanna do. You wanna engage your list.
+
+Erin Perkins [00:03:44]:
+Use survey for feedback. Monitor which topic resonate, and listen to your people. By doing this, it's gonna help you naturally segment your list, which means you are segmenting your list based on specific behavior. So the update number 1 is we're going to segment our list. The reason why we want to do this is because you want to make sure your audience is satisfied because the people that might prefer plain text or the others that actually enjoy receiving email with some gifs and do it. So when you segment your list, it's gonna keep your audience happy and engaged. So what does being accessible, segmenting your list have to do with being accessible? A lot, really. Segmenting your list doing ensures you can create an accessible experience for everyone regardless of how they engage with your content.
+
+Erin Perkins [00:04:53]:
+Segment your list allows you to ensure that you are accommodating different reader preferences. If you like to design your email strictly using layout and use a lot of GIF and emojis, you might wanna consider that you're also using this text only email aspect to ensure that it's accessible. So one of the thing that you can do, as I mentioned in segmenting your list, is through link action. What you're gonna be doing in using the link action allows you to automate your action when the subscriber click on a specific link within the email. Ask your reader about their preferences and interests. Use the surveys and feedback form to gather this data. When you naturally segment them, that means you're gonna segment them based on specific behavior. So, say, one question I encourage you to ask, like, when they first join a list, you want text only, or do you want email with images? Give the reader a call to action to decide which statement they want to join.
+
+Erin Perkins [00:06:20]:
+Update number 2. We're gonna be talking about enhanced your link. There are several different ways you can do this, but the main reason why we do this is because we want to make sure that it is accessible. It's really important to design your call to action clearly because screen reader will often announce Links and buttons. If there is no text, they will say link or button. And the reason for that is the link needs to give the user an idea of what happened if the link is clicked on or activated. Don't worry. I have a couple of examples here.
+
+Erin Perkins [00:07:05]:
+So I have a screenshot of one of my email. So first of all, I wanna remind you, a call to action text should be meaningful and descriptive, and it tells the user what will happen after they click something. So for example in this, I have a line that said, if you can't make it but have a question or 2, you can fill out this form. And only the word form is highlighted in bold, different color, and underline, and I'll address it on the call. Form do not tell the user what is gonna happen. Especially if you are a screen reader user, you're gonna hear the word form link. That's not gonna give the reader context, what and what is gonna happen if they click on word form. And then I also have a button that said, a purple button that said join me, but it literally just says join me.
+
+Erin Perkins [00:08:07]:
+How is a reader or listener supposed to understand what join me means? So, another example that you can take note that makes it better. When it come to so with this one, I have said use this anonymous form to submit your question. It has bolded, change the color, and underlined anonymous form to submit your question. The reason being is if somebody, a screen reader were to say this out loud, it would tell them and not link to anonymous form to submit your question. They know, oh, this is gonna take me to a form so that I can submit my question. And then there's another one that said, add the date to your calendar. So when I click on it, they know they click on it. It could've take them to a calendar that you can add to your own calendar.
+
+Erin Perkins [00:09:10]:
+Then the button that clicked to join the successible monthly call. Oh, if I click this button, it mean I'm gonna join the call that's gonna happen. So it's really important to understand, Screen readers will announce links and buttons, but without any kind of context or alt text, the user can't discern where they will lead. They're less likely to engage with your email. So I want you to imagine if you are on a website or even your email, you encounter a link that says "link". Would you click on it? Probably not. It's like you enter an elevator, and all the buttons are plain blank. How do you know where you wanna go? This is why we need to prioritize making sure that we are giving clear and navigable pathway that guide users to their intended destination.
+
+Erin Perkins [00:10:18]:
+So the other thing I wanna emphasize, and and it's really important to have at least 2 more differentiator beside color when it come to highlighting your link. If you're using a button, that already give that differentiator. But if you're adding link to your body copy, you like, your text is blue. Your main body text is blue, but your link should be a different color. But I will show you the next thing. You wanna make sure you add I like to add bold and underline. The underline, I think, is really important to the highlight. This is a link.
+
+Erin Perkins [00:11:04]:
+I also wanna encourage you to go easy on hyperlink. Too many links can confuse your reader and hinder screen reader. When you limit the hyperlink to improve accessibility, it improve the visual impairment or cognitive disability. You wanna make sure that you are clear and concise so that people can actually focus on your content and what the info what information is important. Now did you know 1 in 12 men and 1 in 200 women experience some level of colorblindness. 1 in 12 men. That's a lot. That they you probably know 2 or 3 people in your circle that are colorblind.
+
+Erin Perkins [00:11:58]:
+Part of enhancing your link is also considering color and color contrast. So the goal for this is aim for good contrast ratio. You wanna make sure that you have a 4.5 to a one for normal text and then a 3 to 1 for large text. If a user is color blind, they may struggle to differentiate between the text. So I have a really a couple of examples here. So this is Protanopia, which means they usually can't see red red or green in that content. So I have on the left hand side my actual email. This is what it looks like to me.
+
+Erin Perkins [00:12:51]:
+It's all color. But if you're color blind and you don't see the red and green, you can tell that the colors shift significantly. And the thing I wanna highlight the most is the fact that I have used shown in to use purple as my link selector. However, when you look at if they call it personal color blind, they would not be able to the the color differentiator. It literally looks like the that same color as the to your text. It is why I would encourage you to think about adding at least 2 more differentiator, bold and underline. This is gonna help your reader so much. This is it another one, tris tritanopia.
+
+Erin Perkins [00:13:42]:
+That this is also it showed you that you can still see the color differentiator, but they're losing some color. So so it's not exactly the same, but it stand out a little bit, but you're still able to see it. I also encourage you to so those are the 2 different thing to think about. I use this app called, are mycolorsaccessible.com. And one of the thing I do is I enter all of my HEX code. I put in all my HEX code, and it will tell me what color I can use with what. For instance, I have a lot of yep for, like, the navy blue can you be used with any color except for the dark purple, which kinda makes sense. And then with the orange, it can only be used mainly with the navy blue, maybe with the dark purple if it's larger text.
+
+Erin Perkins [00:14:47]:
+But every other color with orange is not gonna work. Though these though, I strongly encourage you to go to the website and use that to build out your color contrast. The last thing I wanna share with you is emoji user. I do encourage you to minimize your emoji users because it is problematic. I would like to show you an example, a video. So we So how did that sound to you? If you use emojis at bullet points, it's gonna sound very, like, overwhelming. It's gonna be like, wait. What is happening? Because the screen reader literally reads out what that emoji is and then the sentence.
+
+Erin Perkins [00:16:07]:
+So I am not telling you you should stop using emojis, but I want you to be more strategic about it. Don't use it as a bullet point. Use emojis at the end of a sentence. There's way more accessible at this point. So to recap, we have, segment your list. Ask them what is their preference. If they want text only, they want design email, everyone has a preference. Maybe it's a little bit more work for you, but it could still mean a lot to people.
+
+Erin Perkins [00:16:48]:
+Think about your link. Make sure they're descriptive enough, but they're short enough so that they understand what is happening. And in addition to the link, making sure that you're using 2 more differentiator beyond color. And then the last one is emoji user. Just think about it using more strategically, and then it'll be a lot easier for you to do. If you have any question, I have included a freebie that is gonna help you with instituting a lot of these things for your email marketing. Remember, keep building your email list. That's the only list you own.
+
+Erin Perkins [00:17:31]:
+Alright. Thank you.

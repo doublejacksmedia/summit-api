@@ -1,0 +1,653 @@
+Title: Site Speed Mistakes to Avoid and How
+Speaker: Grayson Bell
+Website: https://www.imarkinteractive.com/
+Level: Advanced
+Category: Tech
+Length: 34:33
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/site-speed-mistakes-to-avoid-and-how-grayson-bell/
+
+Transcript:
+[00:00:09.460] - Liz Stapleton, Summit Host
+We're here today with Grayson Bell, who was one of our fantastic speakers last year. I think he had the most upvoted talk last year, most popular talk. I forget the exact language. I should really know what it was, it was my Summit. But he's awesome. He's a WordPress guru. Grayson, thank you so much for agreeing to do this again. I know I hounded you.
+
+[00:00:25.980] - Grayson Bell, imarkinteractive.com
+Ah, you're welcome. It's, it's my pleasure. And I believe you are correct. The most up. I'll take it.
+
+[00:00:31.570] - Liz
+So today we're going to be talking about site speed because it is a huge thing, I feel like Google focuses on it more and more. I say Google, but because it's really the search engine we're all talking about when we say search engine optimization. So what are some of the, you know, one of the things I want to touch on or ask you about is the role page builders and theme's play into site speed. And if you can kind of tell us mistakes made there.
+
+[00:00:53.530] - Grayson
+Yeah.
+
+[00:00:53.890] - Grayson
+So, you know, the huge benefits of WordPress is that you can use anything to build your site. One tool will work for somebody. It won't work for somebody else. Page builders like Elementor or Divi and others, they're great to give somebody a drag and drop type of setup, but they do come at a cost for site speed. It was, we're building a sites speed course, and it was actually eye opening because I actually use Elementor on our site just to make some landing pages and stuff like that.
+
+[00:01:22.300] - Grayson
+There was one time I was just testing it. I took the the page that I built in Elementor and I, and I put it, just in Gutenburg, the default editor with a plug in called Kaden's Blocks, which just kind of extends the editor. It's free. It's a really good extra blocks, I guess you call it, extender. Just has some extra things and stuff like that. And it was amazing with no optimization. It was it went the page went from like fifty five in Google's page speed insights to like a ninety five.
+
+[00:01:54.430] - Grayson
+I mean just, just with that. And it took, I mean that page was pretty easy because it was just a simple FAQ, you know.
+
+[00:02:00.490] - Grayson
+But that's really like it was eye open. I kind of knew the impact of Elementor. We do a lot of site speed optimizations.
+
+[00:02:08.140] - Liz
+Yeah.
+
+[00:02:08.710] - Grayson
+And the thing about it is, is you have to really gauge the ROI for yourself.
+
+[00:02:14.380] - Grayson
+Right? Like if you want to create some landing pages and you don't have the time to try to finagle Gutenberg.
+
+[00:02:21.670] - Liz
+Yeah.
+
+[00:02:21.970] - Grayson
+Use a page builder. It's OK.
+
+[00:02:23.920] - Grayson
+Yeah, but I wouldn't use it to build your entire site. That's where a lot of people are getting stuck right now, is they're using ElementorPro or even Divi to build all of the elements, headers, footers, sidebars, all this kind of stuff. This just adds a ton of extra CSS and JavaScript to your page. And those are two of the biggest things that cause slowdowns and page speed. So use it sparingly if you want to use it.
+
+[00:02:50.800] - Grayson
+I think Gutenberg is slowly getting extended much better and making it easier to build pages with it.
+
+[00:02:57.610] - Grayson
+But page builders still have their place. Themes on the other hand, goodness gracious there...
+
+[00:03:06.670] - Liz
+I know there's a million out there, but..
+
+[00:03:08.330] - Grayson
+I mean, if you go to if you go to if you go to like Theme Forest and you find these themes that say they have like six hundred and fifty demos as a part of it, run away and run away quickly when you have something like that, it looks visually appealing. But these things are utterly terrible for speed. They usually include tons of sliders. Everything is built with a page builder, all that kind of stuff.
+
+[00:03:30.040] - Grayson
+So you have to you really have to come up with a happy medium between design and speed.
+
+[00:03:36.910] - Grayson
+There are a couple of designers that I know that can do both, but you're going to pay a lot of money for a site like that.
+
+[00:03:43.870] - Grayson
+It's not like you're going to just take a theme and go like I'm going through a caching plugin and it'll fix it all. It's not really true. There's only a couple of themes that we actually even use these days. Kadence is one of them, which is free, Astra also free, Generate Press free, some Genesis Power themes, Child themes excuse me.
+
+[00:04:06.400] - Grayson
+Genesis is a framework, all of these have paid add ons that you can get extra features and stuff like that. But really we're seeing lately that most people are going minimalistic in their pages design and then really it kind of makes sense because you think about it, most people are mobile now like for ours I think 70 percent of the people that come to our site is mobile. So really all these grandiose designs don't really show up well on mobile. A lot of times you have to remove some things and stuff like that.
+
+[00:04:33.970] - Grayson
+So these people that are paying thousands and thousands of dollars for a like a beautiful looking desktop site, you don't really get to see all that on mobile. And people don't really care.
+
+[00:04:44.050] - Liz
+Yeah,
+
+[00:04:44.920] - Grayson
+You know, people want to get, they're, they're for the content. They want whatever they're getting there, maybe a printable whatever it is.
+
+[00:04:49.990] - Liz
+Yeah.
+
+[00:04:50.560] - Grayson
+That's just what they want. And I think people are finally starting to realize that design, although it has its place, it's not nearly as important as getting people what they want.
+
+[00:05:00.460] - Liz
+Yeah.
+
+[00:05:00.910] - Grayson
+Quickly, I mean, look at Google site. It's as simple as it can be, really. Theme's if you have a really good theme, that's like the framework, that's like the foundation to your house, if you have a really good foundation, you can build upon it and have a really nice house or website.
+
+[00:05:17.490] - Grayson
+So that's kind of how I look at it.
+
+[00:05:19.140] - Grayson
+If you have a really poorly coded one, you're just going to run into issues. Like it's, you can't really fix it. You just have to put bandaids on it until you move.
+
+[00:05:30.420] - Liz
+Yeah. And I will say as a side note, because I am one of your monthly WordPress support customers, is that you include access to some premium themes.
+
+[00:05:40.260] - Grayson
+We do. We do. And I think we're actually going to start Kadence as well. I think we're going to be adding Kadence here soon as well.
+
+[00:05:47.780] - Liz
+I don't know, I've been pretty happy with Generate Press since I since I got..
+
+[00:05:50.370] - Grayson
+No,I love Generate Press, Generate Press is awesome Kadence is like the new person on the new kid on the block. And we're actually testing it. And I really like it because it really extends Gutenberg very well.
+
+[00:06:02.130] - Grayson
+But the new version of Generate Press, I think it's 3.0, also does a very good job. But it's more it's a little bit more advanced for for General Press if you want to do some other things.
+
+[00:06:14.340] - Grayson
+But it's a great, very light theme.
+
+[00:06:16.950] - Liz
+So what are sort of the besides, like theme and page builders, what are some common mistakes you see people make? I know images is, is one, caching. What?
+
+[00:06:27.720] - Grayson
+Yeah. So images is probably priority number one that we see. I think we, we might have talked about in the last time we had.
+
+[00:06:35.220] - Liz
+We did a little bit. Yeah.
+
+[00:06:35.970] - Grayson
+Yeah. That's really the biggest because people just take images from their phone and they just slap them right into WordPress and that's a no, no. You are expecting somebody that is trying to load this big ol' image. It's just one element has to load all the other elements as well. So you want to do some proper optimization of your images up front...
+
+[00:06:56.160] - Liz
+Before you load them onto your site
+
+[00:06:57.540] - Grayson
+Yes, before you load them on their site.
+
+[00:06:59.190] - Grayson
+I typically recommend that, but if you already have a ton of stuff on your site, then you can use a plug in like ShortPixel to optimize what you've already put on there. It's a paid, it's a paid plug in. It's technically free, but it's really paid  because you have to buy credits for it. But yeah,
+
+[00:07:15.780] - Liz
+It's super affordable though.
+
+[00:07:15.780] - Grayson
+It's Yeah. It's super cheap. Yeah.
+
+[00:07:20.080] - Liz
+Occasionally they do lifetime stuff.
+
+[00:07:22.530] - Grayson
+Yeah. Yeah. So yeah. Appsumo does some lifetime stuff sometimes but that's a way to do it if you have a ton of images.
+
+[00:07:30.930] - Grayson
+But really and on top of that people have really started putting way too many images in posts. I know that people love to get like all the side shots and really it's like a food blogger type thing.
+
+[00:07:45.300] - Grayson
+Food bloggers feel...
+
+[00:07:45.960] - Liz
+Like there's certain niches where it's kind of required.
+
+[00:07:48.920] - Grayson
+Yeah, like you have to, but I was on like this, it was like this SEO for bloggers webinar and they made a really good point.
+
+[00:07:56.550] - Grayson
+You don't need to give everybody every angle of a shot, give them, you know, maybe four or five. Because the problem is, is that break... You're not breaking....
+
+[00:08:05.910] - Grayson
+You're breaking up things too much in text with images and they can't get the content they're looking for. Most people in a recipe world are looking for the recipe.
+
+[00:08:15.000] - Grayson
+Yeah, they don't need thirty seven process shots.
+
+[00:08:17.640] - Liz
+I mean we know they have to write that stuff for Google, but...
+
+[00:08:18.630] - Grayson
+They don't need thirty seven process images and going like, oh this is exactly how you do it.
+
+[00:08:24.750] - Grayson
+And that was like really eye opening because these people, that's all they focus on is like food bloggers, but it also kind of works in the DIY niche. You don't need all of those process shots, pick ones that make sense, but you don't need a left, right, center upward downward. You don't need.
+
+[00:08:39.540] - Liz
+Yeah, what about video then in that sense? You know?.
+
+[00:08:42.360] - Grayson
+Yeah. So video is great. Yeah. So great video, was great in regards to 1. It's really good for SEO, but 2. It also keeps you on your page longer. The caveat to that, if you just embed YouTube video from somewhere else, that really has an impact on site speed, even though YouTube is technically pretty fast, it has to, it has to load all those assets up before it gives it off. So there are some really nice plug ins that can lazy load video.
+
+[00:09:11.610] - Grayson
+I think lazy load for video is one of them and that's free. Basically what it does if you use if you take an embed code from YouTube, use Gutenberg and you put it in like a YouTube block, it will lazy load that.
+
+[00:09:23.880] - Liz
+Basically it won't load the assets until someone's I think scrolls down to the spot.
+
+[00:09:28.950] - Grayson
+Yeah, it's like 50 or 100 pixels above it. It'll start loading those those items. So basically the first view of the site is not like slowed down by those things. But video, very good to have. I think it's an all around good idea if you're going to, if you do YouTube videos. Yeah. But they do have an impact so you really do have to lazy load them.
+
+[00:09:50.790] - Grayson
+Another item, plug ins.
+
+[00:09:52.920] - Grayson
+When I say that...
+
+[00:09:53.980] - Liz
+I remember when you were like, seriously Liz?
+
+[00:09:55.920] - Grayson
+Yeah. When I say plug ins, what I mean is a there's a common misconception that the number of plug ins affects the speed. That's not technically true. It's what they, it's, it's what they do, not, how many you have. So you can have a fast site with 50, 60 plug ins, as long as they're well coded and stuff like that, especially if you're thinking about e-commerce and something like that, you're going to need.
+
+[00:10:18.600] - Grayson
+And not every plugin affects the front end. They only load when you run it back and cut things so you can have, use the number of plug ins that you need to get the features that you want.
+
+[00:10:29.460] - Grayson
+Like that's what WordPress is about, right? The thing is, most people double up or triple up on the same type of plug in. We see it with caching plug ins. We see like six or seven backup plug ins. We see multiple image optimization plug ins, like and then you just have plug ins that haven't been updated in six or seven years. It's probably time to get rid of those.
+
+[00:10:50.820] - Grayson
+Like there's a fine line between knowing that a plug and still kind of works, even though it hasn't been updated in a while. But like six or seven years is a long time. You probably should just dump that, time to get rid of that. We do a lot of plug in audits and that's typically what we find are really outdated plug ins that are never going to be updated again. And really those affect the site not being able to run on the latest version of PHP or the new version of WordPress 5.5.1, which it is right now.
+
+[00:11:20.180] - Liz
+I have no idea what version is. I just let you take care of it.
+
+[00:11:23.760] - Grayson
+Yeah, I mean, the new version is 5.5.1, but PHP is 7.4 and almost every host has it now. I think, I think everyone
+
+[00:11:34.380] - Liz
+And when this airs, it might be different really.
+
+[00:11:36.660] - Grayson
+If you're going to do like a plug in audit, you really want to just look to see what you need or do, are you using all of those things?
+
+[00:11:43.830] - Grayson
+A good way to tell is, you know, is just deactivate it and go look at your site like, you know, like a reader would.
+
+[00:11:51.000] - Grayson
+If you, if you don't, if you..
+
+[00:11:52.800] - Liz
+Which is something you should do occasionally anyway, I think a lot of us forget sometimes to actually go look in an incognito window. I had a period where for six weeks my posts weren't showing to people, but I would see them and I didn't know it until, you know, and it was like a caching issue and it got fixed quickly.
+
+[00:12:09.060] - Grayson
+That's definitely a big one. I definitely would recommend that. Just I mean, even if it's another browser that you don't use regularly, Incognito or another browser, just open it up.
+
+[00:12:17.640] - Grayson
+That also, because here's the thing, you are not typically cached as an admin, so you are most likely going to see things slower as well because you are an uncashed visitor when you're already logged in. So your readers might see something much faster. And that's typically what we see is a lot of people are like, oh, you know, I didn't even know this was broken. I'm like, did you ever check your site on your phone or something else?
+
+[00:12:43.200] - Grayson
+Just check it when you're not logged in,
+
+[00:12:44.970] - Liz
+Like create like a recurring task. And whatever your project management tool, like every week or every other week or once a month, go in and do a solid, like a look around of your site to see if something's broken.
+
+[00:12:54.810] - Grayson
+Yeah, just just look around. I mean, it works out pretty well. So like do that when you're when you want to look over plug ins and see what you need outside of plug ins. I think the other big factor are external, just external elements.
+
+[00:13:07.830] - Grayson
+A lot of people put on a bunch of tracking scripts, things like heat map testing, big ones like Instagram feeds, Pinterest feeds, Facebook widgets.
+
+[00:13:18.990] - Grayson
+You know, we found that I think people get a false sense that those are providing them some type of benefit, because really, if you think about it, what you're doing is you're taking somebody off your site that you can control, either make them a visitor, make them a subscriber.
+
+[00:13:34.110] - Liz
+You have affiliate links or products links directly on there
+
+[00:13:35.920] - Grayson
+Sell them something you're taking to somewhere, one that you can't control you've now lost them to. This what happens, you're going to push somebody to Facebook and you think they're going to come right back? No, they're going to go down in the in
+
+[00:13:46.920] - Liz
+The Facebook rabbit hole
+
+[00:13:48.090] - Grayson
+Deep hole of Facebook or Instagram. They're not going to just check, like, two images and then come back to your site. That just doesn't happen. I mean, they're going to leave and they're going to be gone.
+
+[00:13:57.870] - Grayson
+So really, those items don't really increase your visitor count. And really, it's very hard to make money that way. Like, you can't it's not a it's not a money.
+
+[00:14:05.430] - Grayson
+You can't monetize those platforms as well as you can monetize your own stuff.
+
+[00:14:09.390] - Grayson
+Yeah. So we just say, hey, just get rid of them. You don't need them. And most people who do Instagram feeds, if you think about it when they're on mobile, those are all the way down the bottom.
+
+[00:14:18.450] - Grayson
+Who even goes down the footer anymore?
+
+[00:14:21.210] - Grayson
+It just, it just really doesn't happen. Most people go to
+
+[00:14:24.300] - Liz
+Unless they're specifically looking for something that's traditionally in the footer. They're not going there.
+
+[00:14:27.990] - Grayson
+Yeah, like, yeah, that's rare.
+
+[00:14:29.970] - Grayson
+It might be really only bloggers, I think, go down in the footer these days,
+
+[00:14:33.750] - Liz
+They're like, where's the contact button, where's the legal button.
+
+[00:14:36.390] - Grayson
+Unless you're. Yeah. Unless you're looking for something specific, you just, people just don't go there, whenever they get the information that they're looking for. That could be at the top of the post middle or bottom or read the comments. They don't really typically go any further than that. Just get these things off of your site.
+
+[00:14:51.390] - Grayson
+But also, all these tracking scripts, ones that are really bad are email opt-ins. Typically when you're doing embedding from, let's say, Convertkit, Flowdesk, it doesn't matter which one you do. But if you're embedding these things, these all have to call to those servers to get the information.
+
+[00:15:07.420] - Liz
+You mean like their plug in?
+
+[00:15:08.950] - Grayson
+So the plug-in is typically better, yes, or you can use a plug in like like convertpro or mail opt in or something where it actually just connects to the API instead of having to pull all the JavaScript through. So basically, you're pulling it from your server instead of getting it from theirs. Those do have an impact. But again, when it comes down to site speed, it's basically an ROI for you. What makes sense?
+
+[00:15:31.000] - Grayson
+Don't just don't chase a score. Chase usability. What, what, you actually want your customers to get out of your site. Too many people, just chase the score.
+
+[00:15:39.400] - Grayson
+Newsflash, Google doesn't use the score that know
+
+[00:15:44.710] - Liz
+They're, what they're looking at how long the users on there, whether it's answering the question. Yeah, yeah. The speed plays a factor, but not everything. So a couple of follow up questions on that. So embeds from like email marketing, does the same kind of apply in terms of like embeds from sales tools, whether it be, you know, embedding like a Podia checkout or a Thrivecart checkout or something like that, does that kind of go along the same lines?
+
+[00:16:11.950] - Grayson
+Yeah, if you see the embed just be wrapped in basically it's a script wrapper. You might just see a script at the front and closing script. That's, that's going to be a third party external script.
+
+[00:16:25.070] - Grayson
+Again, if you're just doing it on one page or two pages, don't worry about that.
+
+[00:16:30.850] - Grayson
+But if that's something that's going to go in like your header and across the entire site, think about it for a little bit before you put it in the push elements that come out and push notifications.
+
+[00:16:39.490] - Grayson
+OK, those are those are terrible for for sites.
+
+[00:16:43.420] - Grayson
+They, they just have...
+
+[00:16:46.170] - Liz
+Do them on one page or sales page or something?
+
+[00:16:47.980] - Liz
+Yeah. I mean, I don't even really know how effective they are, to be honest. I know we add them for a lot of people and then like a couple of months later, we take them off just because it's hard to gauge how much money you make from pushing out those things to people's mobile phones.
+
+[00:17:03.460] - Grayson
+So, you know, really, you've got to, as again..
+
+[00:17:07.600] - Liz
+ROI
+
+[00:17:07.670] - Grayson
+You have to measure for your own your own purpose.
+
+[00:17:11.170] - Liz
+Are there any you'd recommend staying away from as they currently stand, knowing they could change?
+
+[00:17:16.750] - Grayson
+Themes?
+
+[00:17:17.890] - Liz
+Sure. Any and all?
+
+[00:17:20.920] - Grayson
+Avada, Enfold, uh and those are.
+
+[00:17:25.610] - Liz
+Yeah, I've heard Divi because like Divi is really hard to move away from.
+
+[00:17:28.540] - Grayson
+Well so is, so is Avada, so is enfold, so is Thrive Themes. I thought Thrive theme builder which now uses like basically their architect thing.
+
+[00:17:38.860] - Grayson
+Because the thing is really only Elementor and Beaver Builder are the ones that don't use short codes everywhere.
+
+[00:17:47.060] - Grayson
+OK, so when you now the page won't look the same if you disable them, but at least the content will be readable by a human. When you disable Divi or Avada or stuff like that and you use their, their builders, you have basically all you'll see is short codes everywhere. So a person that can't read code will look at and be like, I'm just going to move on. This page is broken. Yeah. You don't have that same effect with Elementor or BeaverBuilder.
+
+[00:18:15.710] - Grayson
+That's why that's the only two page builders we recommend if you're going to use one. All right. There's a lot of things we don't recommend.
+
+[00:18:22.870] - Liz
+Yeah. Yeah, you can't go. Yeah, but I know I was just curious. One question I have is what difference does hosting make? In terms of your site speed?
+
+[00:18:32.170] - Grayson
+That's a pretty good one, so hosting is kind of like a people believe that the host is like one of the most important. It's really actually not. You can get a really great score on a host like Bluehost and stuff like that. But really, where it affects you the most is an initial connection speed, which does have a play in actual like real load times.
+
+[00:18:52.870] - Grayson
+Again, the score can be, scores can be manipulated pretty well if you're if you get really advanced with it, like you can do a really good manipulation of a score that doesn't really change how it really looks to somebody going to it. And when you have an initial connection speed that slow, you're going to feel it as a as a human being and actually like looking at the site and where it really comes into play in a big time as a blogger is when you're in the admin doing all your work, when you have a slow host, all of that stuff is just going to be slow.
+
+[00:19:21.610] - Grayson
+The saving, the moving from page to page, the editing, all that kind of stuff is slow.
+
+[00:19:25.810] - Grayson
+So if you think about it, you are now wasting more time sitting there trying to wait for to add a plug in, or a page to save. On a faster host and a host that may be in the cloud or has all the newer technology. Things are going to be a lot snappier, if you will. A lot snappier. I have I have a customer. We're moving over to a cloud host from Bluehost.
+
+[00:19:50.380] - Grayson
+And even though the score change, we were we were able to show her that her basically load time in Chrome was 50 percent better. So we dropped the load time in Chrome, especially in the admin by 50%. That's a big difference. And so you think about along with the theme framework, if you have a good host that has fast servers, you don't have to worry about that initial connection speed.
+
+[00:20:17.050] - Grayson
+You just got it. It's there. It's done. And elements can roll through a little bit quicker. Doesn't necessarily affect the score unless your host is utterly terrible and very slow. GoDaddy, one of the worst.
+
+[00:20:32.800] - Liz
+Tell us how you really feel.
+
+[00:20:33.850] - Grayson
+You can you can see that and feel that in score and then you can see that in the scores. But it's really a real load time for people is where hosting comes into play.
+
+[00:20:44.020] - Liz
+So we keep talking about score and some people may not realize, but that is what you're kind of referencing when you say that. So let's take a second to explain that.
+
+[00:20:53.770] - Grayson
+Yeah.
+
+[00:20:54.250] - Liz
+For those that may not know.
+
+[00:20:55.600] - Grayson
+So there are multiple testing tools, but really most people, when they talk about site speed score, it's a Google Page Speed Insight's, which uses their lighthouse system.
+
+[00:21:07.690] - Grayson
+So basically they've created this score. And this is it's been around for a while, but they've evolved it over time to add different elements into it. It's out of a out of a hundred and basically 100 out of 100 is like you have the best optimization that you possibly can.
+
+[00:21:23.530] - Liz
+You probably have nothing on your site.
+
+[00:21:24.670] - Grayson
+And yeah, you can't get one hundred at one hundred if you have like literally nothing on the site.
+
+[00:21:29.530] - Liz
+Yeah.
+
+[00:21:30.940] - Grayson
+But there's so basically they put it in three brackets, red, orange and green along with a number. And I can't remember, I think, I think red goes up to thirty five from thirty five to seventy or excuse me 80 and then 90 and above is green. We get a lot of people there like I want my site to be green which is ninety and above. And what these, what these scores are basically just how well you have optimized based off of what Google thinks, what Google thinks a great optimization techniques are.
+
+[00:22:06.670] - Liz
+Yeah.
+
+[00:22:07.270] - Grayson
+Again, these scores can be manipulated by doing some really advanced coding, but that doesn't really mean that your site is fast persay. It's just saying, hey, it looks like it is.
+
+[00:22:17.690] - Liz
+Yeah.
+
+[00:22:19.710] - Grayson
+Yeah. So really, I tell people. I think it's always good to have, you can use that as a guide and Google Page Speed Insights does really well to tell you what's what's causing you problems.
+
+[00:22:33.270] - Liz
+Yeah.
+
+[00:22:34.140] - Grayson
+Not everything is fixable. Google even flags its own Google analytics scripts. So, like, you have to just come up with going. You just have to accept it. Yeah, you have to accept it. Use common sense. Some people will go to the extreme to get in that green and really
+
+[00:22:50.040] - Liz
+To the detriment of their site and what they're actually trying to do.
+
+[00:22:52.200] - Grayson
+Yeah. They start stripping everything away and all that kind of stuff. Just focusing on this score.
+
+[00:22:57.240] - Grayson
+And that's where I usually tell people, you know, like, you're literally just wasting time. I think I was looking through this Facebook thread the other day and somebody spent six hours trying to get their score from a eighty eight to a 90, like six hours.
+
+[00:23:10.890] - Grayson
+That little difference of a jump does nothing like there is literally no difference in site speed, real site speed from a 88 to a 90 like nothing, like you just wasted six, let's say
+
+[00:23:22.650] - Liz
+From a 40 to a 90, sure, spend six hours.
+
+[00:23:25.500] - Grayson
+Yeah.
+
+[00:23:25.850] - Grayson
+Like there's a difference, you know, like it's you have to think about your time, you know, like as a service provider, if I was going to spend six hours to do a two point jump, that would be a huge waste of time.
+
+[00:23:37.350] - Liz
+Yeah.
+
+[00:23:38.040] - Grayson
+And you know, like that's billable hours that I've now lost just to, just to do that, just to chase an arbitrary number. So...
+
+[00:23:45.120] - Liz
+It's also something because I feel like that the person that did that is what we would call a perfectionist. Yep. Which is something that holds a lot of bloggers back, like just you just done is better than perfect. You can always change things later like move on.
+
+[00:23:58.480] - Grayson
+Yeah. Nothing is ever done. Nothing is ever done on your blog. It's kind of like, I mean if you if you have ever owned a house, they tell you whenever you're done fixing it up is when you sell it, you know, like that's is what it is. Nothing is ever done. And when you actually get to that point, you sell it. It's the same thing with a blog. The design will never be done. You know, a perfect blog post will never be done.
+
+[00:24:21.150] - Grayson
+Like it's literally an evolving like creature that you have to just keep going and going and going. Don't be a perfectionist when it comes to site speed. Don't be greedy when it comes to site speed. Literally, we've done well over a thousand optimizations in the past year. And I can tell you unequivocally that moving from a 70 to a 90 does nothing for you in regards to it affecting the way that Google ranks your site. You're not going to get any extra traffic.
+
+[00:24:52.650] - Grayson
+Now, maybe it'll be slightly faster for a reader and that might please them. But the ROI that you get for moving from a 70 to a 90 is minimal. I typically say, hey, if you're in the red, move it up, let's get it in, let's get in the orange. Because really, orange is more than acceptable, because if you think about orange goes all the way up to eighty nine.
+
+[00:25:14.760] - Liz
+Yeah.
+
+[00:25:15.150] - Grayson
+And like, like just focus on doing, and that's the thing, too many people focus on thinking that Google is going to rank them better when their speed is fast. And that's not technically true. And that actually came out in a webmaster video on YouTube and said the same thing. What, what speed does is it gives the reader a better experience. And that in turn gives you better conversions, more money, better onload like they stay on their, a lower bounce rate.
+
+[00:25:46.200] - Grayson
+All these things then affect Google's. Site speed is technically what they call a tiebreaker. So that means if you are one and two and your number two and everything else is equal, everything else out of there are 200 plus ranking things. If you are slightly faster, you would leapfrog up to number one, focus in on it for a reader. That's where you want to get it. It doesn't matter. Don't think about what Google wants
+
+[00:26:11.070] - Liz
+Don't write for algorithms, write for people.
+
+[00:26:13.680] - Grayson
+Yes. And I think a lot of people mess that up because they do. They focus purely on keyword research and used Yoast one hundred percent saying like you need you know, you're not doing a passive voice. Avoid all of this kind of stuff we've gotten away from writing how humans read.
+
+[00:26:30.000] - Grayson
+And actually Google's got a lot smarter with realizing that people have gone away from writing.
+
+[00:26:30.000] - Grayson
+And so they're like, it's common, it's common misconceptions and stuff that we actually put in our course specifically about that information and kind of showing, you know, the differences and stuff like that. But just focus on optimizing the whole picture. That's what you should be doing.
+
+[00:26:49.200] - Liz
+So one last question, because I think we're going to run out of time, ads?
+
+[00:26:53.010] - Grayson
+It's OK. I'll try. I'll do this quickly.
+
+[00:26:55.380] - Liz
+That's like my question. Ads, ads?
+
+[00:26:57.870] - Grayson
+All right.
+
+[00:26:58.170] - Grayson
+So ads do have an impact on site speed. There are services, are companies that do well with optimizing them, Mediavine, Adthrive. Those are the two that really do a really good job with optimizing their ads for mobile and desktop. And really, when I say optimizing all it is, is a way to show you that the score is higher.
+
+[00:27:22.260] - Grayson
+I actually did. I actually did it today for a customer, because when you when you do the ad optimization through AdThrive or Mediavine, often it can have an impact on your RPM or your revenue. It can have a, it could be slight, but for some niches, it's really big. They lose 25, 30 percent. And that's a lot of money. Yeah, but really in the in the grand scheme of things. So today I had one site showing seventeen on mobile.
+
+[00:27:52.100] - Grayson
+You defer the ads or optimize the ads, it goes up to about 70. That's that big of a jump. Yeah. Just deferring ads and what different ads means is basically ads don't load in the first view.
+
+[00:28:02.690] - Liz
+It's like lazy loading them.
+
+[00:28:03.800] - Grayson
+Yeah it's lazy loading them. It doesn't go through their auction, which that's where it creates all the crazy calls out to all these servers.
+
+[00:28:10.520] - Grayson
+But when you actually load the site and do a speed test on it, which is, you can do inside of chrome, there was literally a 0.1 second difference between it with ads and without ads.0.1. Yeah, that was, that was it, like it was it was 1.3 seconds without without ads and 1.4 seconds with ads.
+
+[00:28:35.690] - Grayson
+That was how fast the content,
+
+[00:28:37.350] - Liz
+And if it's going to be a twenty five percent change I just keep the...
+
+[00:28:40.250] - Grayson
+Yeah. So that's where like and and that's the thing.
+
+[00:28:43.580] - Grayson
+Those are you have to realize that because if you're, if you're chasing a score you're going to go defer the ads. And for a lot of people it doesn't affect R.P.M. These are just things that you have to test. Yeah, but for Adsense, Monumetric, ezoic, shemedia, media.net, all these other things.
+
+[00:29:01.820] - Liz
+Defer em.
+
+[00:29:03.230] - Grayson
+You can't they don't provide it.
+
+[00:29:05.000] - Grayson
+They don't provide it, in our site speed course, we actually built a couple of scripts that will do it for you. We did it for the monumetric, Adsense, and I believe shemedia. Just because customers have asked for it. Ezoic. You can't do anything with it because they run all their stuff through their own servers and CDN and all that kind of stuff.
+
+[00:29:22.800] - Liz
+Yeah.
+
+[00:29:23.390] - Grayson
+And they will charge you. I think it's twenty dollars per month if you want to do their fast, fast ads or something like that. Yes. It's crazy amount of money and I disagree with it. In our course we're showing some ways that you can actually defer them I think you can actually now in the newer version of WpRocket, you can kind of come up with a way to defer these ads just with WpRocket.
+
+[00:29:46.650] - Grayson
+So we're, we're putting that in the course as well after we do some more testing. We've done it with the three. But really the two networks that are the best out there are Mediavine and AdThrive. But they have a high threshold. And I think what, Mediavine just push theirs to a 50,000?
+
+[00:30:02.750] - Liz
+50,000 session's not pageviews.
+
+[00:30:04.430] - Grayson
+Sessions. Yeah. So you're just right.
+
+[00:30:06.020] - Liz
+AdThrive is 100,000 pageviews.
+
+[00:30:07.700] - Grayson
+Yeah. So AdThrive hasn't changed in a while. But the other ones I think come in at 10,000. Either way, you just have to, it's all about testing. Ads will have an effect, it really depends on how well they do their code and how well they load all these ads. Sometimes it will be to a detriment. I don't know if you've ever been on a website, especially on mobile, where you have ads running and then video, videos start rolling and stuff, and it destroys like your phone's processor.
+
+[00:30:38.050] - Grayson
+I understand the point of having ads because you need to make money, especially for a lot of niches. They don't have affiliate marketing, but goodness gracious, you are destroying the user experience, pushing all this stuff in at one time. You got pop ups going, you have push engage happening, you know, like all this kind of stuff.
+
+[00:30:54.040] - Liz
+Like, yeah, so so think about user experience, what you want user experience, users to experience, as well as what you're trying to accomplish, because chasing the score to the point where you're not accomplishing your goal of getting subscribers or sales or affiliate clicks or whatever.
+
+[00:31:09.730] - Grayson
+Yep.
+
+[00:31:10.270] - Liz
+Like what's the point? Oh your sites faster? It ranks better? Great, it doesn't make any money. So the fact that you have more traffic, is that helping you?
+
+[00:31:17.110] - Grayson
+I would say really the only, only where it works, you want like the fastest site possible is probably affiliate where you're just doing affiliate links inside of content. There's no opt-ins, nothing else. It's basically just getting them there with that information and out. So your bounce rate will still be really high because you've achieved your goal. They've got them out to an affiliate link.
+
+[00:31:38.500] - Grayson
+So really, if you're not doing some all around strategy, which I don't think just doing a hundred percent affiliate is really a great idea for any business. Come up with a well-rounded strategy for whatever your site is. Just because one site does this doesn't mean you have to do it.
+
+[00:31:50.950] - Liz
+All right. Any final words before we sign off? I know they should absolutely check out your speed site course, we'll talk about that in a second. Any final words before we get to that?
+
+[00:31:59.950] - Grayson
+Just site speed in general. Don't don't make changes during your high traffic times.
+
+[00:32:05.530] - Grayson
+I think that's a really big one.
+
+[00:32:07.330] - Grayson
+A lot of people, you know, if you're really big in the fourth quarter or you start doing a lot of traffic, fourth quarter, please, please don't make the changes and do it when you're lower and slower.
+
+[00:32:16.300] - Grayson
+And, you know, if you are also really low, you don't have a lot of traffic, then you really don't have too much to worry about. You can just kind of roll right into it. But you don't also don't be afraid to make changes. This is what, this is what being on the web is about. It's about progressing and changing with the times. And just because the theme looks really great doesn't mean that it's well coded. One great tip that I will say is that look at the theme demo.
+
+[00:32:40.870] - Grayson
+Most places have a theme demo and run it through Google Pagespeed Insights and see what it does.
+
+[00:32:45.790] - Liz
+There you go.
+
+[00:32:46.600] - Grayson
+Don't worry about a like if you see something called like server, improve server response time, don't focus on that because that's not your server, that's theirs. But look at all the other things that come up. That will tell you how well a site is already optimized for you. So if it's poorly optimized, don't go for it.
+
+[00:33:07.990] - Liz
+Yeah.
+
+[00:33:08.560] - Grayson
+Move on.
+
+[00:33:09.100] - Liz
+All right. Yeah. So Grayson Bell, iMarkinteractive, as you can tell, he knows this stuff. Definitely check out his site speed course. I'm going to have to go check it out. The link to that is on the page. Anything else you want to say about it?
+
+[00:33:22.060] - Grayson
+I'm super excited about it. It's been something that's been in the works for a long time. We are constantly adding new stuff like even though it's not launched, I'm still adding more stuff and more stuff.
+
+[00:33:33.670] - Liz
+By the time this airs, it  will have launched.
+
+[00:33:34.910] - Grayson
+Yeah, yeah. By this time this airs, it will be launched. But there's just there's a lot of information there and I try to make it as easy as possible for you to follow. But if you don't know me, I'm very giving in the advice that I give and you'll have access to to me, my team in the Facebook group as well that, that comes with as a part of this course. So, you know, if you're worried about site speed, I would definitely recommend you check it out.
+
+[00:34:03.190] - Grayson
+It's at your own pace so you can just go your flow.
+
+[00:34:08.650] - Liz
+All right. Awesome. Thank you again. I really appreciate it.
+
+[00:34:12.100] - Grayson
+You are most welcome.
+
+

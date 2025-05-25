@@ -1,0 +1,293 @@
+Title: 3 Lines of Defense New Business Owners Should Know
+Speaker: Sam Mazzeo, Esq
+Website: https://inbetterwetrust.com/introductions/
+Level: Beginner
+Category: Legal
+Length: 36:45
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/3-lines-of-defense-new-business-owners-should-know-sam-mazzeo-esq/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton
+Thank you so much for joining me for the session with Sam from the 5 Minute Lawyer. He is obviously a lawyer, as am I. We go back a long ways actually. I'm really excited for him to be sharing his knowledge because he's been doing law stuff for creative entrepreneurs for years. He's based in California. Sam, welcome. Thank you so much for taking the time.
+
+[00:00:22.560] - Sam Mazzeo
+Thank you. Yeah, glad to be here. Definitely looking forward to talking all the topics that creatives and freelancers and bloggers and folks tend to get confused and pretty scared about.
+
+[00:00:32.600] - Liz Stapleton
+Yeah. And we do just want to quickly say a disclaimer, guys. This is not legal advice. This is informational, help you wrap your brain around what stuff is what. There's a lot of sometimes fancy terms and jargon out there. So hopefully this will help you better understand it, but it's not telling you what you should do. So just informational purposes only cover both our bases.
+
+[00:00:55.520] - Sam Mazzeo
+Right. Definitely not specific to your circumstances. And so very high level just informational. Definitely, consult an attorney if anything that we say sounds like it's important to you or scares you or is relevant. So yeah, definitely, information.
+
+[00:01:09.720] - Liz Stapleton
+And in your jurisdiction, because you're based in California, a lot of people on here might not be, I'm currently in Washington. We're not licensed in Washington, other states.
+
+[00:01:17.490] - Sam Mazzeo
+Right.
+
+[00:01:18.220] - Liz Stapleton
+Between the two of us, there's what, three states of licensure? And they're 50.
+
+[00:01:23.760] - Sam Mazzeo
+Right.
+
+[00:01:25.040] - Liz Stapleton
+Chances are we're not licensed where you live. Okay, so let's go ahead and dive in. So when people start a blog, they think it's all just like writing or whatnot, and then they get further into it and they may realize once they start making money that they might want to form a corporation of some sort or LLC, just limited liability corporation. When do you think is best... I know there's an accounting side to that question, but the legal side to that question, when do you think it's best for people to perhaps look at forming a corporation for an online business?
+
+[00:01:55.450] - Sam Mazzeo
+Yeah, it's a great question. It's always one of the early stage questions. I would say that yes to your point, I always like to say that it's a lot easier to fit the legal strategy to the tax strategy rather than trying to do it the other way around. I would say confirm whatever we recommend with a CPA. But generally speaking, LLC and corporation are going to provide the same type of liability protection, assuming that you observe your corporate formalities, which is things like your filings with the state, paying your taxes, separate bank accounts, your internal paperwork, all those types of things. But really what it comes down to with an LLC versus corporation is, LLCs are more simple. They're a little bit less expensive. And when I say more simple, it's that it's a little bit of an easier decision making and governance structure. Corporations have shareholders. They appoint the board. The board makes decisions and instructs the officers who instruct the staff and the employees, where in an LLC, you have members and the members can be the managers. And they're all one, not separate body that makes decisions. And so it's a lot easier.
+
+[00:02:57.610] - Sam Mazzeo
+And then that's a long way of getting to when you should form an LLC or a corporation, but we're lawyers, we're long winded. I would always say that the sooner, the better. But it really comes down to the ROI that you get that up, the return on your investment of all the filing fees and then you'll probably have some ongoing taxes and fees once you have an entity like an LLC or a corporation established. If the revenue is there and those expenses don't seem significant, then I would say do it because it's always good to have that liability protection in place.
+
+[00:03:29.980] - Liz Stapleton
+Yeah, because it's protecting someone who wants to go after your business from going after your house, for example.
+
+[00:03:35.190] - Sam Mazzeo
+Right. So just explain that.
+
+[00:03:37.380] - Liz Stapleton
+Yeah. And you can have, especially bloggers, start out most often as a company of one. It's just them. And so a single member LLC, which varies by state because they are state mandated. It's probably not the right word. And by cost, too, because I don't know what an LLC filing in California is, but I know in Massachusetts it's $500, and Arizona it's $30, right? What that ROI is going to look like is going to depend on where you're at, too.
+
+[00:04:03.720] - Sam Mazzeo
+Yeah, and it's only $70 in California. But it's also worth mentioning, too, that with an LLC and especially a single member LLC, there are some tax advantages typically that you can take advantage of there by filing what's called an SCORP election, which by the way, SCORP is an election, not an actual state authorized entity. You can always think of your state entity and your tax status as two separate things, and sometimes they overlap.
+
+[00:04:28.440] - Liz Stapleton
+Yeah, and that's where you're getting into tax is talk to CPA. I spent eight hours in QuickBooks yesterday, and I was like, I do not like this.
+
+[00:04:37.030] - Sam Mazzeo
+I know enough to be dangerous, but I'm not a CPA. Exactly.
+
+[00:04:41.090] - Liz Stapleton
+And then a lot of times, too, we started a blog... Because I know my first website started out under a completely different name, and I didn't register for as an LLC, so it wasn't as big of an issue when I rebranded to a new name. But DBAs are doing business as... Can you break down what those are, when you would use one, how to go about what people should know about DBAs?
+
+[00:05:03.670] - Sam Mazzeo
+Sure. Yeah. So because California likes to be different, we call them fictitious business names, but they are the same thing.
+
+[00:05:09.420] - Liz Stapleton
+I think they sound wrong.
+
+[00:05:11.270] - Sam Mazzeo
+Right. I know. And so the the DBA, I think of that as like a vanity plate on your car. It is something that identifies you. It is a name, but that's where it stops. It really is something that is only for if you want to have an outwardly facing name that maybe isn't the same as your LLC or your corporation. I could name my LLC, five minute lawyer, and then have Sam Mazzeo as my brand, which obviously it's the other way around. But that could be how you do that. And so DBAs really don't provide you any protection other than the fact that they obscure the actual company behind them. And so in a situation where maybe you're doing something where you don't want it to be easy for the public to figure out who you are for any given reason. I've had clients that have- You're.
+
+[00:05:56.930] - Liz Stapleton
+Blogging or something.
+
+[00:05:58.340] - Sam Mazzeo
+Yeah, anonymous blogging, journalism type things, sometimes that can be helpful. It's really hard to totally obscure who the owner of a company is, but it's one step further with the DBA. I've had clients that have restraining orders due to past relationships and things where they just don't want their name out there. That's one thing they can be helpful for. But at the end of the day, it really is just a nickname. A better example than the one I gave is my name is Samuel, but I can go by Sam. Sam would be my DBA. Samuel would be the LLC name. And the weird thing with DBAs is that they're by county, too. So when you file for a DBA in your home county, technically, you're supposed to have a DBA in every county that you do business. That's not very realistic, and no one does that. But once you have it in your home county, you can use that DBA outwardly facing. But again, it's just a nickname, not any type of protective measure.
+
+[00:06:48.880] - Liz Stapleton
+Yeah. And then, so one thing I know you are very eligible of, especially being in California, is a lot of bloggers to start making money on their site so they can focus on it more. They pick up freelancing, sometimes transfer design. And California came out with an independent contractor rule change that is putting a lot of people in a panic. And I know a lot of freelancers that are like, companies based in California are just not going to work with them anymore. What insight can you provide on that?
+
+[00:07:17.350] - Sam Mazzeo
+Yeah. So it's definitely a lot. There's a lot of history behind it. And I think it's always worth starting with the fact that we actually help employers get proper benefits set up and employee performance management and all of their worker rights that we think are very important. So we do that proactively for employers. We also work with a lot of contractors and freelancers out there. And so this bill in particular, it seeks to help people with better worker rights and benefits, but it's really poorly drafted in our opinion and is making a mess of an economy that was already turning along and doing really well with independent contractors and freelancers. Because a lot of what we find is that people would prefer to be a contractor when they're a highly skilled freelancer or blogger or anything that is now at this point, usually going to be a contractor. This new rule really did a few things. One is that it removed the old test for who can properly be classified as independent contractor. The old test was 8-11 factors, and the whole goal was to be on the independent side of as many of those factors as you could.
+
+[00:08:24.330] - Sam Mazzeo
+If it was the majority of the factors, weight independent, great, that's an independent contractor. If not, employee. Now it's a three factor test called an ABC test, and the three factors are much more stringent. I'll get to in a second why this is even more confusing because there's now multiple layers. But the ABC test is what you'll look at first. And so the ABC test, the first one, A, is how much control you have over that contractor's work. Is it butts in seats, nine to five? You're governing all their tasks? If so, that definitely weighs in favor of employee. If independent judgment, they have on creative license, they're out doing it whenever and don't really have deadlines or loose deadlines, you're not requiring them to wear a uniform or certain things like that, that's going to be more independent. Now, the second factor, the most difficult factor to satisfy is whether or not what they do is substantially related to what your business does. Now, this one is difficult because really what it comes down to is looking at that person, whoever you're engaging to do that contractor work, will your business make money without them?
+
+[00:09:28.350] - Sam Mazzeo
+And you can get into some of the really blurry arguments on that, like you can't make money if you don't have a social media marketing person, but that's not what your business does. Whereas if you are a content creation company and you independently contract all of your content writing, that is substantially related to the core of your business, and they most likely need to be an employee. And then the third factor is really just whether or not whoever you're engaging this contractor does this independently. So it's whether or not that's an independently established trade and that they have other clients that they do this for. Now, the last thing that I'll say on this for the initial long feel that I'm giving is that with AB5, the unfortunate thing that I think occurred is that a lot of people lobbied for specific types of exemptions. What that ended up creating is there's a few exemptions that will expire over the next few years. That's confusing in and of itself, because if you're under that one, you have a pass, but then you have to deal with it later, kicking the can down the road. But then also what's really difficult is that if you're a specific type of skill, so let's say you're a graphic designer, graphic designers have their own specific exemption.
+
+[00:10:39.010] - Sam Mazzeo
+If you're a graphic designer, we're not going through the ABC test and we have our own multifactor test that isn't related to the old test and it's just this new made up test. Same goes for things like grant writers, certain professionals like lawyers. There's just a number now of different analyzes that are required, and they're all really dependent on what you do.
+
+[00:11:00.220] - Liz Stapleton
+Got you. I know in the Freelance writing world, because this is where I've heard this the most because I use to Freelance, is the limit of if you do more than 30 pieces of content or 30 something, there's some confusion as to what constitutes a piece.
+
+[00:11:17.120] - Sam Mazzeo
+That typically applies to photographers. Sorry to interrupt you. And then it applies to a few other... But yeah, so that's a great thing to bring up because it's so specific to what it is the contractor is doing.
+
+[00:11:29.050] - Liz Stapleton
+Okay. So it is varied by what freelance services you're offering. And if the company isn't based in California, it's not an issue. You're not based in California.
+
+[00:11:38.070] - Sam Mazzeo
+Yet to be seen. Because the way that I back into some of these questions is that there's a few motivations for this bill. The outward facing one is the feather in the Congresswoman's cap that says, Hey, I'm working for rights of workers. But I think it is twofold. One is that they lost the lawsuit against Uber and they want something that they can still stick it to them. And then more importantly and relatedly is that taxes. Independent contractors are notorious for not reporting and paying their taxes. And so that ends up being... We looked at a study and it was like something over the last 10 years, it was in the $45 million or something like that and lost tax revenue. And so the state wants that money. And so to that point, if the company is based in California, the compliance is for sure required because they'd be holding and reporting the taxes. And then if they're an out of state contractor or out of state company, it's hard to tell because that still touches California's tax scheme. So we don't know yet.
+
+[00:12:39.540] - Liz Stapleton
+It's going to be a wait to see what shakes out in court.
+
+[00:12:43.470] - Sam Mazzeo
+Right. When they go knock on Uber's door and say, hey, you guys have a lot of improperly classified contractors, and we're going to take this all the way up to the California Supreme Court and sort some of this stuff out. Yeah.
+
+[00:12:53.750] - Liz Stapleton
+Okay. No, so that's super helpful. And I think good people to know. Now I know when I started... Or when I first started my LLC, I got so much mail of things telling me, Oh, you need to get this sign and pay all this money. And it was a lot of BS, but I knew enough that to tell it was BS. But what things should people look out for is real mail they need to deal with once they've registered a business and what they can ignore because you get so much stuff that looks really official.
+
+[00:13:24.300] - Sam Mazzeo
+So.
+
+[00:13:24.760] - Liz Stapleton
+What? It's not, though. And it's really you're like, How is this legal? I'm not allowed. But Yeah.
+
+[00:13:30.490] - Sam Mazzeo
+Yeah. It's tough, too, because sometimes and actually, often those not official notices are related to official rules that you do have to follow. Yeah. So what I always say is that every single one of those notices, the only regulation on this type of spam, scammy stuff is that it does have to say that it's not from a government office. Somewhere in there, it'll be buried in the rest of the text. It should be bolded, but somewhere in there, it'll say this notice or this letter has not been approved by a government authority or government agency. That should be your dead giveaway right there. But the problem, like I said, is that sometimes it'll say, hey, you need to spend $200 on this labor notices poster and put it up in your workplace. It is true. If you have employees in the workplace, you do have to have that poster up.
+
+[00:14:17.930] - Liz Stapleton
+You're a company of one and you work at home and you're a computer and you can get the notice for free from the government.
+
+[00:14:25.350] - Sam Mazzeo
+Well, or for like 30 bucks, you can get a whole laminated, really official and one on Amazon or whatever. Then this goes for trademarks, too. Trademark applications get notices all the time saying, Hey, someone registered your trademark in China, but you can fight it. It's just a lot of this stuff, for the most part, with our clients, we tell them you're only going to receive stuff from us or stuff that we tell you to look out for. And so that usually is helpful. But really, it's like looking for that notice on there. And then if that's not on there, sometimes you can actually just google the name of whatever reached out to you and say, Is this a scam? And the California Secretary of State has an entire page dedicated to scam notices. And so sometimes you can actually find stuff out there. I do the same thing when I get phone calls for numbers I don't know. I google it, and sometimes you can see that it's a scam. So not a great answer.
+
+[00:15:17.550] - Liz Stapleton
+But- No, but I think that gives people... Because you take for granted the legal knowledge you have sometimes you get all this. And someone who's maybe their stay at home mom starting a blog, you know, that didn't work in any legal environment or have that whatever job they had before, they don't know and it just can be scary.
+
+[00:15:41.120] - Sam Mazzeo
+I've had people that worked in... They had their series license and they were an investment broker and they started their first company with us and they got notices and just paid it. It happens to everyone because they look so official. They have little fakes.
+
+[00:15:55.910] - Liz Stapleton
+I remember getting something. I was like, This is really good, but it's not... Another piece of mail it's scary to get, whether it's an email or online, is a cease and desist letter. Sometimes you may need to send. What should you do if you get one and when it would be the right circumstance that you would want to have one drafted and sent?
+
+[00:16:19.020] - Sam Mazzeo
+Yeah. I would say the first thing to do when you get one is take a deep breath and realize that typically these are the first shot over the bow and they're not always going to be as scary as the letter says. Of course, the situation is very dependent on what the actual infringement alleges and what's going on because there are some things that can be really significant. But every cease and desist letter I've ever seen has usually a time period on it. And then even if you pass that time period, there's a period of time where as long as you start a communication with that party, that there's going to be some leeway on trying to comply or negotiate something else with them.
+
+[00:16:58.430] - Liz Stapleton
+No one wants to have to pay to go to court. It's far more expensive.
+
+[00:17:01.480] - Sam Mazzeo
+Right. And that's exactly where I was going to go next. Typically, no one just runs out and files a complaint in court, especially since what we're talking about here, typically with the blogging community is going to be like infringement and intellectual property. And with those types of cease and desist, infringement lawsuits are actually a totally different thing. They're a federal thing. They're more expensive. They take a long time, very specialized. And so a lot of the time, the cease and desist is more of a blurb. And depending on how deep the pockets of who it came from, it can be a blurb. But it's important to just take a breath. Usually, I would say try to get in touch with an attorney because they're going to be able to help you sort through that. But if you're running up against the deadline, reach out and just let them know that you've received it, you're taking it seriously. You want to know your rights, you're speaking to a lawyer, and then at least push out that timeline. And then one of the things that's usually the subject of a cease and desist is like trademark infringement.
+
+[00:17:53.980] - Sam Mazzeo
+And with that, it's always good to do trademark searches on the front end when you come up with your name so that you know, and then have some backup names if possible, in the roster, because rebranding sucks, but it's better than going through a multiyear federal infringement lawsuit, too.
+
+[00:18:10.920] - Liz Stapleton
+Yeah. And then.
+
+[00:18:11.860] - Sam Mazzeo
+To the other question of when is it good to send a cease and desist? So I'm really of the mindset that a rising tide lifts all ships and we can all work together. There's enough of the pie out there for everyone. So I always recommend if you see something that you think is infringing on your intellectual property, first, be sure that it is, because a lot of the time I get questions that are like, That logo looks like mine, or That name is just like mine. It might be, but it might be for a product or service that's totally unrelated to what you're doing, and then it's not trademark infringement, usually. There's that and then the different types of classes of services and products. Then in addition to that, copyright and trademark are very nuanced. Even though it may look identical, it may be very similar. There's just a lot of details that go into whether or not it can actually be actionable infringement, including what your status is, what your footing is, whether or not you have registrations in these things, stuff like that. Then in addition to that, things like copyright, I've dealt with copyright in fashion and different articles of clothing.
+
+[00:19:14.690] - Sam Mazzeo
+One of the problems there is that trying to get registered with a copyright or trying to fight and send a cease and desist is a many-month process. By the time you sort that all out, the fashion may have changed and you may not care about that design anymore. I typically recommend reach out first. Well, if you are sure it's infringement, reach out first super informally, Facebook messages, emails, however you can contact the people and just say, give them the benefit of the doubt and say, maybe you don't know about us, but that's our trademark. That's our copyright. We really appreciate it if you take that down. You can say, hey, just sell off the rest of the inventory to be copesthetic and then take it down. And the reason I say reach out that way first is that you'll see how they're going to react. You'll see if they lawyer up. Frankly, you can always be a dick later. So reach out nice first.
+
+[00:20:04.190] - Liz Stapleton
+Yeah. Start with an olive branch before you... I'd say the one exception I feel like that is in the instance of, because I've seen it happen, someone completely copies word for word, graphic for graphic your entire site. I'd say do not engage. Just file the takedown notice with Google and with their host. Do not engage in that instance.
+
+[00:20:25.000] - Sam Mazzeo
+Yeah. And that's a good recommendation, too, is the DMCA takedown notice. Every single site in the world should and the big ones will, like GoDaddy and the different hosting and things like that, will have in their privacy policy or their terms of service, an infringement reporting mechanism and process where you click a link, you fill out some information, send it off. In that process, it'll automatically take down the infringing content. But the people that have the infringing content can appeal it. And once they appeal it, then whoever that host was has already done their responsibility. They're off the hook at that point. The reason they take it down automatically is they're on the hook if they don't. But once the other person appeals and then it's between the parties, the host or the platform will be hands off because they've done their legal responsibility. So it's not always a silver bullet, but it typically will work and it shows the other party that you're serious. And then if it goes back up, you can reach out to them with your more formal cease and desist or your lawyer letter or whatever the.
+
+[00:21:22.200] - Liz Stapleton
+Case is. Yeah. And I mean, if it's just like a paragraph... But I've seen entire website's copy, and that's a dumb gage. Those people are-.
+
+[00:21:29.880] - Sam Mazzeo
+You're taking pictures of staff, I've seen. And it's like, what? Yeah.
+
+[00:21:34.580] - Liz Stapleton
+Yeah. That's really bad. But yeah, but I've gotten cease and desist or someone was like, actually, I don't want to say cease and desist, but just a request of, Hey, we'd really rather you didn't link to this page. I'm like, okay, I'll go find a different page that works better. Sometimes if it's something like that and it's not a big deal and you don't want to hold strong in it, it's okay. Okay, done. Bye.
+
+[00:21:58.610] - Sam Mazzeo
+Totally. I always tell people, anytime you get into an adversarial conversation, the things you want to think about are what's the best case scenario for you? And so this applies to when you're sending a cease and desist or when you receive one. What's the best case scenario? And then what's the worst case scenario you're willing to accept? You'll probably fall somewhere in between those two. Yeah.
+
+[00:22:16.550] - Liz Stapleton
+But yeah, I like your advice of when you get one, just take deep breaths, read through it as calmly as possible, see what the deadline is, if it's something you really want to stick up for, and then take your time with it and just have a conversation because that will extend things out. It's not going to go zero to lawsuit.
+
+[00:22:34.070] - Sam Mazzeo
+Right. And lawyers are meant to be fire and brimstone most of the time. So when you get that letter, it's going to be very inflammatory and very blamey and very... It's going to be way over the top because most people are going to get that comply and then go a different way because it scared them. And so- The scared tack. -lawyers know that. Yeah, and that's part of the strategy. Yeah.
+
+[00:22:57.720] - Liz Stapleton
+So don't rush in the anything when it comes to those. And then we've touched on a lot. I'm trying to think what else I want to cover with you. Because you have worked with a lot of creative entrepreneurs, what are some mistakes you've seen them make that you've then had to help them fix or that maybe people watching could avoid?
+
+[00:23:23.160] - Sam Mazzeo
+Yeah. Man, there's a lot.
+
+[00:23:25.520] - Liz Stapleton
+Maybe ones that have been in common, not this. Yeah.
+
+[00:23:29.030] - Sam Mazzeo
+So I think using images online, that's a big one. I think people tend to just do a Google image search, grab a couple of images and throw it up on their website or in their blog. And that's definitely going to be a no, no. That's why there's so many of these stock image websites out there now. And I would say definitely use those instead or take your own photos. That's a big one that I see happen.
+
+[00:23:52.200] - Liz Stapleton
+Pay attention to the licensing on those stock websites, too, because some don't allow them for the situation you want to use them for. So just make sure you pay attention to licensing being granted.
+
+[00:24:01.470] - Sam Mazzeo
+Right. Yeah, the five-minute lawyer that you mentioned at the outset. So five-minute lawyer is my own little passion project that just costs me lots of money. But my law firm, too, we have images that we have to use, and we've tried to create our own stock images by just taking photos of stuff in our office. And with the five-minute lawyer, I had to find one of those stock websites. And it was like, yeah, oh, there's multiple layers of licenses. And so yeah, I think images is a big one. One thing that I've seen out there that might not be relevant totally here is music. Music is actually highly regulated as far as what you can play publicly. And music has usually two different licensing bodies, the actual performance license and also then the underlying actual composition license. So that's a whole can of worms.
+
+[00:24:43.740] - Liz Stapleton
+Yeah. No, I feel like there's, from my understanding, wrong rumor that if you only played 30 seconds of it, you're fine, which is not true.
+
+[00:24:53.530] - Sam Mazzeo
+Yeah. Any of the like, Oh, I only use a little bit of it, things, those typically are not going to hold up. However, occasionally you can use that argument as part of a larger argument of their use, but that's a whole can of worms. And then-.
+
+[00:25:09.660] - Liz Stapleton
+Sorry, I just want to mention real quick on the images front. People will do a round up post and grab images from the site that they're linking to you thinking it's okay. But unless they've given you that permission, it's not.
+
+[00:25:21.080] - Sam Mazzeo
+Attribution is not a in lieu of license. It has to be the permission. Even if you attribute it to someone, great, that gives them traffic, but it also tells them that you're using whatever it is. And then I guess another one that I think sometimes we have to dispel the myth of is just generally speaking, we touched on it a little bit earlier, like the name of whatever it is you have out there. By grabbing a domain, it doesn't necessarily mean that you then lock that name down. Having the domain, having even the business name doesn't necessarily mean that you've locked that name down because trademark exists independently of these two things that I already mentioned. You could presumably get a domain name, get an LLC name all in your state, and then realize that someone already has that trademark for whatever it is you're doing. That's just the nature of the beast because even within a state, a corporation and an LLC can have the same name because they're two independent approval bodies. And so, yeah, it's something that we dispel the time I get people. I had a call once with a client that they got pretty heated because they're like, I have the LLC Name.
+
+[00:26:31.460] - Sam Mazzeo
+I have the domain name. That's my name. And it's like, it's your name maybe. And just here in California, people may have that business name in other states. And if it's trademarked, it's not yours. And so that's one... And unfortunately, having the business name in the domain does not support your effort to get a trademark either. So it's tough because they relate, but they're separate. And so I think that's one that's relevant for people to know.
+
+[00:26:55.860] - Liz Stapleton
+Yeah. No, absolutely. I think that's a really good point of names because people just dive. I've seen the threads and Facebook groups of bloggers being like, I don't understand. I got this cease and desist. I use trademark because I named it this. And it's literally in the exact category trademark. And you're like, yeah, you really can't call it that.
+
+[00:27:15.270] - Sam Mazzeo
+The only options there is if you want to try to be... If you want to open a line of communication to whoever sent the letter and see if maybe they're interested in some type of collaboration or license or royalties or whatever.
+
+[00:27:27.500] - Liz Stapleton
+But yeah- And before you settle on a name, if you someone with a similar one, you could always reach out. I've actually seen that, too. There's a brewery up in New Hampshire that started brewery that their name was going to be similar to this other brewery. And they're like, Hey, we don't want to step on any toes. Is it going to be okay if we call ourselves this? They're like, Yeah, go for it. So you never know.
+
+[00:27:49.600] - Sam Mazzeo
+Yeah, totally. And I recommend that sometimes it's delicate because if they do care, you've tipped them off.
+
+[00:27:56.800] - Liz Stapleton
+And the same.
+
+[00:27:59.460] - Sam Mazzeo
+Yeah, right? Well, yeah. It's the whole better to know talent.
+
+[00:28:02.650] - Liz Stapleton
+Yeah.
+
+[00:28:03.630] - Sam Mazzeo
+And there's also sometimes we actually don't recommend if someone is totally married to their name and we run a trademark search and it doesn't look like it's likely to get registered, but the names are only somewhat similar. Sometimes we say then, look, if you're comfortable rolling the dice, we think these are different enough than if someone noticed they wouldn't care, but we don't think you get the registration. And by filing a registration, if they monitor it, then they're tipped off and they will come after you. So it's always do they notice you and do they care if there are similar names out there.
+
+[00:28:33.010] - Liz Stapleton
+Yeah. No, that's a great point, especially in terms of blogging, because I've seen people just added the to their name or something, and it's ridiculous in that case. Yeah. And so then the other thing I want to just touch on quickly is, and we won't dive too deep because they're very complicated, but there are laws that impact you even if you're in Kansas or something. So there's GDPR, which came out in 2018, which caused a huge splash. And everyone, I'm sure, remembers even if they weren't blogging then getting a ton of emails from every company on Earth saying, Hey, we've updated everything. Do you consent? And then CCPA, so the California Consumer Privacy Act? Yes, something like that? Yeah. So this is going to air in February 2020, and that goes into effect January first, 2020. So hopefully the dilution of emails will have mostly passed by now. But if you haven't done it yet, you should be aware that there are certain laws out there you need to comply with. You want to touch on those a little bit, maybe some concerns you've heard from clients regarding those, just so people can be aware.
+
+[00:29:39.650] - Sam Mazzeo
+A little bit. Yeah. So I would actually expect another dilution of emails in the new year because I think that the emails and the new compliance that is going to get captured by the CCPA is the companies that are in California but don't have a global reach because GDPR applies specifically to anybody that advertised or solicited to EU residents. Now CCPA will be California specific. If you're based in or touch California, CCPA is relevant and applicable to you. It is very similar to GDPR in the sense that from a high level, really what it means is, do you have permission from your consumers to have their information, which is why we got all those updated cookies and policy emails? Because that's step one, is that the consumer needs to understand that they are giving you their information and what you're going to do with it. And so that's an important piece is that your privacy policy in terms of service on your website need to be very, very clear. And so we actually try to work with our clients' developers on this stuff when we help with website policies because they know better. And then really what it comes down to as far as the consumer knowing what's going on with their data and their privacy is that they need to know whether or not you sell or use this information and monetize it in any way.
+
+[00:30:55.190] - Sam Mazzeo
+And if you do, there's a whole bunch of other stuff that's relevant that's too much to get into here like you mentioned. But the big overarching thing is that you need permission. They need to be aware of how you use their information. And if you monetize it, there needs to be a mechanism for them to reach out and request deletion of their information and data. And that comes along with its own authentication issues, authentication issues, because you have to make sure that whoever is reaching out is them. And then by trying to authenticate whoever is reaching out to you, you also need to ask for sensitive information. And so there's like a CCPA and the CCPA there. And then also in California to just tie a bow on this, the attorney general jumped in and added supplemental regulations and requirements to the CCPA. And so there's a little bit of a back and forth there that's going to make some uncertainty arise. But for the most part, yeah, I think it's just important to make sure that in the event that you use anybody's information, and even if you collect it, that you're just mindful of these rules and get in touch with somebody that can help you sort it out.
+
+[00:31:58.260] - Liz Stapleton
+Yeah. I think it comes down to business as being open and transparent with people for bloggers, readers, subscribers about what you're doing. And you may not realize that you are collecting information, but if you use something like Google Analytics or you have an email list, well, people are giving you their email address, you're collecting information. It's pretty much every blogger is going to be collecting some information on their site. So just keep that in mind. And I'm sure I'll do another session during the Summit that dives a little bit deeper on that topic. But especially since Sam was in California, I wanted to get his two cents with CCPA because it is new. Is there anything else you think would be helpful for bloggers, online business owners to be aware of on the legal side of things?
+
+[00:32:45.670] - Sam Mazzeo
+Yeah, I'd say there's probably two other things that I would mention. One of them is going to be, and this is just something that's a general recommendation for everybody that I work with, which is have a contract in place with anybody where services or money exchanges hands. Even if it's just something small, small. The thing that I think people don't realize is that let's say your payment from someone is quite small, but you're working on some creative content, the liability that could come from that may be much, much larger than whatever the payment was. Having an agreement in place that says, if you gave me content and then that content got me in trouble, that's on you to handle, then you're navigating that really well. And so I actually always say, and this is on the client and the lawyer, but three lines of defense. Your first line of defense is your contracts. Your second is insurance. And then your third is that business entity that we talked about at the outset. So contracts, that's one thing I would recommend. And then the other one is going to be just like influencer compliance. A lot of the time nowadays, if you are paid to review a product or give a shout out to a product, you need to notify your audience in some way that you are an influencer and that you were paid for this particular article or blog post.
+
+[00:33:56.140] - Sam Mazzeo
+And so that's something that I think there's actually FTC guidelines out there.
+
+[00:34:00.420] - Liz Stapleton
+There is. And they actually just updated the influencer one recently.
+
+[00:34:05.170] - Sam Mazzeo
+They're pretty straightforward. It's just making sure you know them and do them.
+
+[00:34:08.490] - Liz Stapleton
+Yeah, exactly. It doesn't have to be hard or super complicated. They really break it down to people, especially that aren't lawyers. That's a really good point about contracts. A lot of times I see people don't use contracts at all as a blogger, whether that's with a freelance writer that's doing something for them or a guest post, which no money exchanges hands. But are you going to be liable for what they wrote or sponsored content too. Someone just sponsors a post and money is changing hands. So it's always good to use a contract. It's a great point. Liability insurance is also a great thing. I've heard people getting insurance through their homeowners sometimes. So talk to maybe your own insurance companies, see if they offer any media liability insurance or something that would be affordable for you to do.
+
+[00:34:55.450] - Sam Mazzeo
+Essentially, you'll be having the same conversation three times whenever you start out to get your ducks in a row because you'll have it with a lawyer, you'll have it with a CPA, and you'll have it with an insurance broker. Like I said, same conversation because you have to tell them what you're doing so that they can source out what you need. You're going to feel pretty repetitive in those early stages, but it's all worth it, I say, in the long run.
+
+[00:35:15.270] - Liz Stapleton
+Absolutely. And it is tough because blogging in the online world is such a different... It's a little bit of the Wild West because legislation hasn't fully caught up. I was talking to an accountant in Washington. He's like, Well, are you charging sales tax for your digital products? And I was like.
+
+[00:35:31.750] - Sam Mazzeo
+No.
+
+[00:35:32.320] - Liz Stapleton
+But do I need to be? But only in Washington?
+
+[00:35:34.550] - Sam Mazzeo
+It's like, yeah.
+
+[00:35:38.030] - Liz Stapleton
+There is some wiggle room here and there, but it's better to go after the information and try to make sure you're as protected as possible. I think you gave some great tips on that. So thank you very much. Any final words for those watching?
+
+[00:35:53.230] - Sam Mazzeo
+Just thanks for having me. I think part of my job as an attorney, and I think the one that I take most importantly is that I'm actually here to educate and empower people and help them understand, because a lot of you out there are smart enough to do a lot of this on your own. And so you just need to clarify the confusing different five articles that you read online. And so, yeah, I would say if you do have any other questions, check out Five Minute Lawyer. I am an attorney in my daily life as well. And so we're certainly here to help if you're in California. I would say just make sure that you always take a deep breath. Everything is scary when you're doing business, and a lot of it sucks, but the sweet isn't as sweet without the sour. So make sure you just handle the sucky stuff first.
+
+[00:36:32.830] - Liz Stapleton
+Yes, absolutely. And Five Minute Lawyer is really awesome, guys. He's got some great videos on there. You should absolutely check it out. The link is below. And with that, I'm going to go ahead and we'll talk to you next time.
+
+

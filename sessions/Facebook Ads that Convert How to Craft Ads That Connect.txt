@@ -1,0 +1,260 @@
+Title: Facebook Ads that Convert: How to Craft Ads That Connect
+Speaker: Monica Louie
+Website: https://www.monicalouie.com/
+Level: Advanced
+Category: Ads
+Length: 43:40
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/facebook-ads-that-convert-how-to-craft-ads-that-connect-monica-louie/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton, Host
+All right, guys. I'm excited for this next session with Monica Louie, who is a Facebook ads expert. So, Monica, first, thank you so much for being here. I really appreciate you taking the time.
+
+[00:00:11.110] - Monica Louie
+Well, thank you so much for having me. I'm super excited to be a part of this.
+
+[00:00:14.500] - Liz Stapleton, Host
+Yeah, because I know, I remember one year, probably multiple years, at FinCon, you did a session, and it was packed through the door and I couldn't get in. And so I didn't get to watch it. I saw a friend in there and I was like, Can you send me your notes afterwards? I'm really excited to get to do this with you now.
+
+[00:00:33.120] - Monica Louie
+Well, thank you. Thank you. I love teaching about Facebook ads. I mean, it's my passion. It's what I do all day. I'm super excited to be here.
+
+[00:00:42.710] - Liz Stapleton, Host
+So before we dive in that, can you give us a little bit of your background, how you came to be known as I feel like you're one of the go-to people for Facebook ads and some of the highlights of what you want to make sure we cover today.
+
+[00:00:55.610] - Monica Louie
+Sure. I'm Monica Louie, and I started off in the online world with a personal finance blog back in, let's see, 2013, actually, I ended up putting my corporate job to stay home with my kids. So in 2013, I had a toddler and another one on the way. We felt like it was a good time to make that transition. When I was pregnant with my son, we had started to plan for the transition of me eventually being able to stay at home. We tried to be smart about it. We paid off our car, we built up some savings. By the time I was pregnant with my daughter, my husband had gotten a promotion, and we felt like the numbers were aligning that we could make it work. My goal in staying at home was not... I wanted to spend more time with my kids and not be tied to the commute and the corporate schedule and demands on my time. I wanted to have more flexibility on my schedule, but I also knew that I wanted to find a way to make money on my own schedule. With that, that's when I found the online world and started learning about making money blogging and online.
+
+[00:02:07.770] - Monica Louie
+But a couple of months in to me staying at home, we realized that we were dipping into our savings, and that was not the direction that we wanted to go. We wanted to keep that savings there. We didn't want it to deplete it. I was like, okay, well, I'm going to figure this out because I'm determined to not go back to after I have this baby and I want to stay home, I want to have my own schedule. I was like, I'm going to figure it out because I don't want my desires to cause financial strain for my family. I ended up diving into the personal finance world and found that not only were people staying afloat on a single middle class income, but people were also paying off massive amounts of debt. That really inspired both my husband and me to pay off our debt because we saw the freedom that if we didn't have the debt hanging over us, we could have so much more money to do with as we please. We just felt like that would make us feel so free to get rid of the debt. We started to hit it hard.
+
+[00:03:11.460] - Monica Louie
+We actually created this big goal of paying off all of our debt, including our mortgage by the time we turned 40. We were 32 at the times. We were like, okay, eight years. We didn't stop to think to do the math about what that would mean. How much per year do we have to pay off? Is that feasible? Is that realistic? We were just like, we know people are doing it. We're going to do it. We ended up paying off $120,000 of debt in two years all on a single middle class income. I do like to share, like my husband is not a doctor or a lawyer or an engineer, he's in law enforcement, so very much a middle class income. As his coworkers who make roughly around the same as he does, started asking, How are you doing this? Because they knew that I had just started staying home, and then all of a sudden we were paying off all this debt and we were being very intentional. So that's where I was like, okay, I can start helping people online with helping them get out of debt. So that brought me into the FinCon community.
+
+[00:04:08.480] - Monica Louie
+From there, I started following Pat Flynn and Amy Porter-Field. From Amy Porter-Field, I learned the power of webinars and the power of Facebook ads. In reaching more people for a relatively low cost, you can find your target audience via the power of social media. So I followed Amy's approach and had really great success with driving traffic via Facebook ads to my first webinar at the end of 2015. Then I did it again and lowered my cost even further at the beginning of 2016. From there, people in the FinCon community, Principal Finance Network online, started asking me for help with their Facebook ads. At first I was very resistant. I was like, Oh, I just know it works for me. It worked well. I was pleased, but I wasn't ready to step into that role as experts. But then as more people started reaching out and I was very upfront with my experience. Then I started working with people on their Facebook ads, and we started getting really great results and doing a bunch of different strategies. Then by the end of 2016, I just realized that I really enjoyed helping other business owners grow their businesses online through the power of high converting Facebook ads.
+
+[00:05:22.430] - Monica Louie
+Now my team and I also specialize in Instagram ads as well. By the end of 2016, I sold my blog. And jumping into 2017, I've been a full-time Facebook ads Coach, teacher, mentor, speaker. And- now we have an ads management agency, so I have a growing team. And it's been a lot of fun.
+
+[00:05:47.260] - Liz Stapleton, Host
+Yeah. No, I think that's amazing. And I think that's where a lot of people start out online is realizing they can create a schedule on their terms, which fuels that motivation. So okay, as far as Facebook ads go, because I know a lot of people are nervous about them because they have to spend money, right? They've been pinning for forever and Pinterest is great. I just recorded a session on that. But even you could do ads on Pinterest, Instagram and things like that. And that's where people really hang out, is Facebook and Instagram. I realized the other day I was like, I've been on Facebook for almost 15 years since 2005. And I was like, that's almost half my life at this point back in college. But Facebook, one of the things I like about Facebook is because I think people think ads have to be super expensive, and that's not necessarily the case. And I think you, correct me if I'm wrong, are really good at helping people set up ads that are affordable for them.
+
+[00:06:47.510] - Monica Louie
+So.
+
+[00:06:47.960] - Liz Stapleton, Host
+Where would you suggest someone start in terms of they've never done a Facebook ad? How do they decide what to run the ad to? How much they want to... Just where should we start?
+
+[00:06:59.420] - Monica Louie
+Yeah. So the first step, so before we even get to what do I do with Facebook ads? How do I even dive in there? The first step I always say is to install the pixel on your site. So if you have a Facebook page, then you can create an ad account, and with your ad account, then you'll have a Facebook pixel code that is tied to your ad account. It sounds all techy, but believe me, I'm not super techy. It's not any.
+
+[00:07:27.290] - Liz Stapleton, Host
+Different from having to install Google Analytics, really.
+
+[00:07:30.930] - Monica Louie
+Exactly. It's the same thing. So you get a piece of code that Facebook gives you, and you just put that on the back end of your website and all of your landing pages. And so that's the first step. Even if you're like, I think I might do Facebook ads someday. I always encourage people. Yeah, Yeah, to just install it, and that will allow your website to communicate with Facebook so that you have some data to work with when you're ready to dive in. So assuming we've got the pixel installed and we're all good to go there, then we want to break down the strategy. So what do I actually want to do? What do I want to get out of my ads? What is my goal? So as bloggers, we have a lot of different goals. So we might want to just drive traffic to just get more eyes on our blog or our latest blog post, or we might want to grow our email list so that we can grow that audience that we're connected to that we can continue to build a relationship with. Or maybe we have products we want to sell.
+
+[00:08:24.390] - Monica Louie
+So get really clear on what your goal is. And if you've never run Facebook ads before, then I always like to start with driving traffic and just keeping it simple. So creating a traffic campaign is one of the simplest campaigns that you can create. And so what I do, and I do this a lot with my clients and with my students, is we select a blog post that if it's monetized, then great, you can make a little bit of money from driving traffic to your blog post. If it's not and it's just something that you want to get more eyes out there, you think it's a great piece of content and you really want more people to see it, whatever your goal is with that, choose a blog post. And if it's already doing well on social media, it's one of your most repinned pins, or it's something that you post on Facebook in your group or something, and it just goes wild, right? Yeah. So it's already getting great engagement. That's a good place to start, because obviously on Facebook, people are there to be social, and they engage more with attention-grabbing content as opposed to like the, this is how you do X, Y, Z.
+
+[00:09:29.400] - Monica Louie
+So choose your post, and then you can drive traffic to it. A lot of my clients and students, we shoot to get traffic at less than 10 cents per page view. So that means people have clicked over and viewed the page view. It depends on what your niche is and how large a potential audience you have that will result in your cost. Of course, there's the targeting and the ad that goes along with that, and all plays a role. But if you have a larger potential audience, like in the money space, a lot of people are interested, especially this time of year, in being more intentional with their money, their saving, getting out of debt, whatever it is, investing. So a lot of people, if you hit them when they're excited about doing all of that, then your cost will likely be lower.
+
+[00:10:15.220] - Liz Stapleton, Host
+Okay, yeah. And then, yeah, keep that in mind that goal is very important. So once you have that goal in place, you've got your pixel in place, how do you design your ad? I guess, because that is obviously going to be what entice people to go over. Yes, there's all the text set up behind the scenes of setting up the ad, and we'll talk about that in a little bit. But how do you design an ad that's going to convert and people actually clicking?
+
+[00:10:40.570] - Monica Louie
+Yeah. So that, again, comes down to the strategy. So if you're doing a traffic campaign like we're talking about, then that's going to be very different from if you're selling your product. Your ad is going to be doing different things. But the general premise of your ad is you want it to grab attention, and then you also want it to convert. Whatever that means, if that's just like a click-through to read your blog post or click through and purchase, click through and sign up for your email list, whatever it is, you want them to take that action. So the ad has to be eye-catching. We're all familiar with ads that we've seen come through our news feed. But if you think about your experience on Facebook, Facebook is a very busy place, and there are lots of things going on, lots of posts. Our friends post groups were a part of notifications, messages, events that were being invited to, lots of different things. So your ad has to stand out. And usually the way it does that is through the creative. So for a traffic campaign, again, just keeping it very simple, then we have tested this time and time again, and we find that a static image, just a single image in the ad converts better.
+
+[00:11:47.510] - Monica Louie
+And if it's brighter or has more contrast or some element that just stands out and catches your eye, that can help it to tell people, stop the scroll so that they pay attention to your ad. And so an exercise that I like to have people do is to just take a minute and scroll through your news feed and pay attention to when you pause or hesitate or something that grabs your attention. What is it about that post that's grabbing your attention? Is it the image or is it the headline? There were some words that jumped out at you. What was it about that? And then make note of that when you're going to design your ad of what will stand out and grab your target audience's attention. Yeah. And then-Oh, that's okay. And then when we have the image, then we have the copy around it. So we have a headline on Facebook. So that's a larger text below the image. And then we have for a traffic campaign. Again, we've tested this time and time again, we just use a single line of copy above the image, just something to pique their curiosity. So in the headline, we'll often say what the blog post is about.
+
+[00:12:52.680] - Monica Louie
+So that could be your blog title. It could be the exact same thing as your blog title, but something that will help entice them that this is something that they need to know more about. And then the little bit of copy above the image is just something to pique their curiosity to entice them to click over and read your blog post.
+
+[00:13:11.970] - Liz Stapleton, Host
+Okay, yeah. You're right. And it depends on the goal of your ad, but I feel like I see... So that's for a blog post for traffic or something. But sometimes you'll see just these walls of text in the ad, and some of them are really good, and I find myself reading through it. And then some of them I'm like, No. So copy does make a difference. Obviously, design and copy really need to be working together.
+
+[00:13:38.920] - Monica Louie
+Absolutely.
+
+[00:13:39.870] - Liz Stapleton, Host
+So you said a static image, would it be an image with any text on it?
+
+[00:13:44.850] - Monica Louie
+For the traffic strategy, again, we've tested that, and images without text work better.
+
+[00:13:50.940] - Liz Stapleton, Host
+Okay. No, good to know. I think we are, as bloggers, very used to creating graphics that have an image of text. So good to know. Okay, so once you've got it designed, and would you recommend or do you with your clients have them test different ones? Because you can in the ad manager set up different graphics and copy and test what works better. To what extent do you do that? And how many different tests are you running at a time?
+
+[00:14:17.630] - Monica Louie
+Yeah. So that will come back down to your budget and how much you actually want to spend on your ad. So a lot of my students, they'll start off with $5 or $10 a day, and they might set up one test, one version of their or they might do two where they test a different image. But with our clients, we will set up multiple tests. We'll have various images, various headlines, add copy, and different combinations so that we can really narrow in on what is working the best, what's grabbing attention? Because oftentimes, as many years as experience as I have with this now, you can never really tell until you get it going what's really going to grab people's attention and convert the best. So that's why we do like to do a lot of different tests when we have the budget to work with.
+
+[00:15:05.190] - Liz Stapleton, Host
+Okay. And when you are doing tests, even if you're just testing one thing, how long do you test it for before you make a call on what works?
+
+[00:15:14.300] - Monica Louie
+Yeah. So that has changed over the years. So it used to be I would say, I'll give it at least 48 hours, 48 to 72, and you see what's working. Now it seems to be taking the algorithm a little bit longer. Not always, but we will run a test for at least seven days on our team, unless we're in a short promotion time period where we've got to make decisions faster because we are only promoting something for four days. But if we are doing an evergreen campaign where it's just going to be ongoing, we'll give it at least a full week just so that we can give the algorithm enough time to really assess what's working, who's clicking and who it needs to show the ad to. Because when you have your pixel placed and you're driving traffic to a landing page, you can tell Facebook that once people click on that landing page, that that's the goal that you want them to help you achieve, and the algorithm will help you find more of those people who are more likely to take that action. So whether it's clicking over to read a blog post or clicking over and signing up for your email list is as long as you have the pixel placed, you can tell Facebook.
+
+[00:16:17.480] - Monica Louie
+So that's another reason why you want the pixel installed. But over time, the algorithm, as it gets data, it will learn, and then it will help to prioritize showing those ads to the people who are more likely to take that action.
+
+[00:16:29.260] - Liz Stapleton, Host
+Yeah. So it's not unusual to have to spend more to start to get those clicks because the idea is you make Facebook smarter at who to show your ads, and those costs should ideally go down.
+
+[00:16:41.540] - Monica Louie
+Absolutely. That is something that we always see is that cost will start higher, especially the first day, first few days, first few hours. Cost will start higher than we really want them to be. But then if we give a time, we'll see that the cost start to come down. And it may not be a perfect straight line down. There might be a day where it goes back up, but just be patient. Give it a little bit more time. You'll see the general trend is that it's coming down.
+
+[00:17:06.020] - Liz Stapleton, Host
+Yeah, definitely patience is always a struggle, right? So don't freak out about it if you're like, I was aiming for $0.10, and it's a dollar. It might be a dollar to start. Yeah. Okay. And then I think it's been a while since I've done a Facebook ad. So some of the things you have to decide on is your audience size and who you're targeting. So how can you walk us through some tips on how to do that?
+
+[00:17:32.130] - Monica Louie
+Yeah. Okay. So your audience, obviously think about... So when you're ad, you have your offer. So your offer is the blog post in our example, or it's your free lead magnet to grow your newsletter, or it's your paid product, whatever it is, that's your offer that you're presenting in your ad. So you need to think about, who is my offer right for? Obviously, so we need to think about our ideal audience. But then Facebook gives us a lot of different targeting options in order to create those audiences. So there are three main types of audiences, and the first type is a Custom Audience, and these are the people who know you in some way. So if you've got the pixel placed, you can create an audience of people who visited your website or specific pages on your website. So you can create an audience of people who visited that specific blog post. If you know it's already getting good traffic, you can create an audience of people who visited that specific blog post. You can also upload your email list to Facebook. You can create an audience of people who've engaged with your Facebook page.
+
+[00:18:35.880] - Monica Louie
+So you can target people who like your page, but you can also target an audience of people who've engaged with your Facebook page or your Instagram profile if it's an Instagram business profile. So that means that they don't even have to follow you or like your page. But if they've engaged and you can set the time frame up to 365 days. So if you want to say, I want people who've engaged with me in the last 30 days, then you can create that audience, or if you want a larger audience, you can create it up to 365 days. And so that means that people who've shown an interest in what you have to share, but just haven't hit the like button, you can get back in front of them. So we have a lot of different options there for the custom audiences. But those, again, are the people who have interacted with you or your brand in some way. Can I ask?
+
+[00:19:20.020] - Liz Stapleton, Host
+So if you have a smaller site, it could be you want the people in the last three days, but it's not really a lot of people. So what is the ideal audience size to be promoting to? How do you make that work? If you're like, Well, if they interacted six months ago, they may not remember who I am, what would you suggest in that case?
+
+[00:19:43.130] - Monica Louie
+Yeah. So for that case, that's where I like to... If you're starting off with smaller audiences, then that's where I like to use the lookalike audiences or the detailed targeting audiences. And so those are the other two types of audiences. So a lookalike audience, if you have some audience, so you're not starting from zero. Let's say you have even a few hundred people on your email list, and you're getting maybe a couple of thousand visitors to your blog a month. You can create those custom audiences, but then you can tell Facebook you want to create a lookalike audience from those audiences, which means that Facebook is going to look at that audience. So let's say we've uploaded our email list into Facebook, and Facebook does a pretty good job of matching the people that are on our email list with its Facebook users. So you've got your audience of your email list subscribers, and you say, I want to find more people like them, then Facebook will look at its entire pool of people on Facebook land, and you have to give it a region. So for most of us will probably be targeting the United States.
+
+[00:20:45.910] - Monica Louie
+So we'll look at the United States and say, okay, Facebook, find me the people who are most like these people in the United States. Then you have an option of 1-10 %, and that's just percentage of the population of that region on Facebook. So for Facebook, for the 18 and above audience, we know that there's 220 million Facebook users. So 1 % is going to give us an audience size of 2.2 million people. And so we'll start with that, the 1 % audience, unless we're working with a larger source audience. So if you have like 25,000 people on your email list that you're uploading, then we might test a 2, 3, 4, up to 5 % lookalike audience. But generally, if you're starting with a smaller size or a smaller source audience, then we'll stick with the 1 %. And so when you're creating your audiences, let's say you're using detailed targeting, that's where a lot of people think about when they think about Facebook targeting, they think about, Well, I can find people who like this TV show or this brand or whatever or follow this big site that has my audience. That's where you can plug in different interests and behaviors and demographics and really create a profile of your target audience.
+
+[00:22:02.260] - Monica Louie
+And so my order of priority is, if it makes sense, start with your warm audience. If your goal is to bring people back to whatever it is you're promoting, if your goal is to grow your audience, so I want to get more readers to my blog or more people on my email list who aren't there yet, who haven't joined yet, then I like to go with lookalike audiences if we have something to work with as far as the source audiences, the custom audiences. Otherwise, then we'll test the lookalike audiences, where we'll start with the keywords and the interests and create a profile. But then if we have more budget to work with, then I will test a mix of lookalike audiences and the detailed targeting audiences too. I'll throw on a couple of those. So does that answer your question? Yes.
+
+[00:22:47.130] - Liz Stapleton, Host
+No, that makes perfect sense because I think, yeah, I feel like that's the most overwhelming part of setting up an ad, is figuring out what audience you're doing it to.
+
+[00:22:57.370] - Monica Louie
+There's so many options. Yeah.
+
+[00:22:59.490] - Liz Stapleton, Host
+And it's easy to be like, okay, well, I want to set this budget for the campaign or whatnot, but figuring out your audience, I feel like, is the trickiest part. And I would almost think... Would you... Sorry, I'm thinking the best way to phrase this, because you might do a lookalike audience. But I've seen this in Facebook groups that I'm in where people are like, I just realized the people coming to my site are not at all the people I want to come to my site. So I feel like a lookalike audience in that instance may not be ideal. And then there's a lot of questions of like, okay, well, what content are you doing? You might need to tweak that. But would there be a time and place for when you're not using a customer lookalike audience. You're just going after completely doesn't match anything you have right now.
+
+[00:23:51.690] - Monica Louie
+Yeah, absolutely. I mean, if you're starting from scratch or maybe you're starting to talk about a new category to your site or you're branching off or you just know they're not the right people. The people that are coming to your site, like you said, they're not converting. They're just not my people. Then that's when I would start with a detailed targeting audience. One thing I do want to give you my rule of thumb, though, when it comes to making a decision about where to start with targeting. So if your goal is to grow your audience, let's say we go back to our example of driving traffic to our blog post. So let's say the blog post has already gotten some good traffic. It's already been shared on Pinterest, and we're getting Google traffic to it. Then I would create an audience of people who visited that specific blog post and then test to look like audience of those people. So I always ask myself when I'm starting a new campaign, what is the offer that I'm promoting? And do I already have a group of people who have already taken me up on that offer?
+
+[00:24:49.110] - Monica Louie
+Who've already read my blog post? Who've already joined my newsletter? Who've already downloaded that lead magnet? Who've already purchased that product? And then I see if I can create a lookalike audience from those people.
+
+[00:24:59.740] - Liz Stapleton, Host
+Okay. And then at what point... Obviously, I think time... Is there a difference? And I'm sure there is. I'm sure it's not that difficult, but because I don't remember. A difference in setting up an Evergreen campaign versus a time-bound one because of a certain promotion or something.
+
+[00:25:18.170] - Monica Louie
+Yeah. So with that, then you want to be thoughtful about your timing and your scheduling within the ads manager. We most of the time will stick with daily budgets so that we can adjust the budget on the day to day, and then we can see what's working, what's not, and where we need to reallocate budgets. But you can also do a lifetime budget if it's a shorter time frame, then that's when I would do a lifetime budget. But as far as setting it up in the ads manager in the ad set level is where you will set the schedule. And that's where you'll say turn on at this point, turn off at this point.
+
+[00:25:54.930] - Liz Stapleton, Host
+How long does it take typically for ads to be approved? Because Facebook does have to approve them. I know people have had ads rejected. How does that take? Especially if you are time-limited, how early do you need to get that in?
+
+[00:26:08.500] - Monica Louie
+Yeah. So we always try and get ads set up at least 48 hours before they're scheduled to run or before we want them to be running. So if we're doing a specific time frame promotion, then we like to have at least 48 hours so that we can push it off. We submit the ads, and then Facebook. Sometimes, I mean, it's within or a few hours before we say Facebook is as the yay or nay, but it can take longer than that. If it's taking longer than 24 hours and you don't know it's still in review, it'll say in review for that ad, then I would see if you can make a slight edit to your ad or your ad set so that it'll reactivate the publish button because it'll see that you've made a change, and then you can resubmit it. Many times that will kick it through that sometimes it just got stuck. Other times if that doesn't work, then I go to chat support, and it's only during business hours, but you can go to Facebook chat support and have somebody from Facebook take a look and figure out why.
+
+[00:27:16.880] - Liz Stapleton, Host
+Yeah, because I know we both have a background in being in the personal finance niche, and they're real strict about what you can and can't say and do.
+
+[00:27:26.910] - Monica Louie
+And add.
+
+[00:27:28.190] - Liz Stapleton, Host
+Or Facebook is. So it's just don't... It could be your niche, it could be just got stuck. But make sure you plan ahead for that. Okay, so would you mind sharing your screen and giving us a little orientation into the Facebook Ads Manager back inside of things.
+
+[00:27:49.410] - Monica Louie
+Sure. Okay, so I'm going to show you my ad account. Let me see. Can you see it? Yes. Okay, so this is my account. And so here we have a few different versions of the ads manager, so you can see that I can click on this and try the new version. So that's the old version. I did a live workshop a couple of months ago, and we had three different versions of the ads manager. So just know when you watch this or if you watch this a couple of months from now, then things might look different. But basically the setup is we've got the campaigns, the adsets, and the ads. And then we've got our time frame over here. This is my ad account with the ad account ID, and this tells me when it was last updated. So I know how recent this information is, and this is based on this time frame. So these are the main things, and then this is the menu button. And so this is where you can go to all tools. You have a lot of different options. But most of the time we're sticking with the ads manager, which is what I just showed you.
+
+[00:28:53.840] - Monica Louie
+Or I can open up the audience's screen and we can take a look at that. Or once in a while, we'll go into page posts to look at the ads that we have running. Those are the main things. If you want to find your pixel information, that's under events manager, which there used to be a specific pixel section. So just know they move things around. So data sources is going to be the pixels. This is my pixel activity. And then if I click on this, I can see my pixel, and I have to go under set up and then install pixel to find my code. So I do manually add pixel, and that's my pixel code. And you don't have to understand it again. You just need to copy and paste it. So there's that. And then for the audience's screen, so this is what it looks like today. Again, it's always changing. And so you can create audience, and then you see you have those different options. So custom audience is the warm audiences, lookalike audience, and then saved audience is where you can actually mix and match. So you can pull in custom audiences or lookalike audiences in here.
+
+[00:30:03.210] - Monica Louie
+So you can see customer lookalike. But then you can also in the detailed targeting section, this is where you can search for demographics, interests, or behaviors. So if I say I want to create an audience of bloggers, then I can search for blog bloggers. You can see all the different options. It'll start to give you some things that might be relevant. Let's say, let me just do blogger and see. Now I've got more things. So let's say I did interest in blog and then suggestions. So then you can see that it'll try and help you create an audience. It'll give you some potentially relevant options. But of course, depending on what you're doing, not everything is going to be relevant. You might find some things here that sound like they might be relevant. They might be names of brands or Facebook pages, but you want to do your research and not just select. You want to make sure that it's actually relevant. But I really like using this. So I'll start with my keyword and then hit suggestions and see what Facebook suggests. Then you can do browse, which then to me, it's a little bit overwhelming because you have these different options, but then you have all these different sub-message questions, so that's where I like to type and then do suggestions for me.
+
+[00:31:21.680] - Monica Louie
+Then for creating custom audience, I'll show you we have a lot of different options there, too. You can use your sources. Website, so website. This again is if you have your pixel installed. If you have an app, then you can do app activity if it's connected to your customer list. This is where you upload your email list or your customer list if you have a list of people who bought your course or your ebook, for example. Offline activity we don't really use in the online blogging world. Videos, you can create an audience of people who viewed your video, Instagram business profile, so that's the engaged with Instagram audience, events, Facebook page, instant experience, that's if you're doing those types of ads, and then lead form if you're doing those types of ads. So lots of different options. And then again, all of these we can create lookalike audiences from.
+
+[00:32:09.940] - Liz Stapleton, Host
+Okay. One other question, because I just remember, because you can choose where you want your ads displayed because there are actually several different places Facebook will place them, and you may not want them there. Absolutely. Are there certain places you recommend you don't recommend?
+
+[00:32:26.840] - Monica Louie
+Let me show you. I'll show you where you have that option. I'm going to pretend like I'm going to create a traffic campaign to walk you through that. I hit the Create button. Okay, so I do this a lot, so I'm going to start over. Okay, so I always like to start over even if I think I'm picking up, but just so I know I'm starting from scratch. So this is where you choose your goal. So what's your marketing objective? And again, Facebook likes to give us a lot of the different options. If we're driving traffic to a blog post, then we're going to use traffic. We want to have people join our email list or purchase a product, then we'll use conversions. And then you have a couple of these other ones that sometimes we use, but these two are the most often objectives that we use. So then traffic, and then again, we have more options. So you can set your daily budget. Always be mindful of your budget because Facebook will try and help you select your budget. So campaign budget optimization is putting the budget on the campaign level, which is what they seem to be moving more toward, as opposed to putting the budget on the ad set level.
+
+[00:33:37.700] - Monica Louie
+So here I would name my campaign. I wouldn't just leave it to default. I would say what I'm offering. So if I'm running it to my seven ways to lower your Facebook ad cost today, blog post, then that's what I would put here. I might say blog post. I like to be very specific. For this example, though, then here we have the ad set level, and this is our navigation menu. So if you want to go back and forth to any specific section, then you can jump around. But here is where you put all the settings. So this is where you tell the audience. And if you want to do detailed targeting, you can do that. And then here's the placement. So that's what you were talking about. So Facebook will say recommended automatic placements, but I, nine times out of 10, I will use edit placements. And the reason I like to do that, and you'll see again, lots of different options and they keep adding more and more. And that's because there's a lot of competition. A lot of people are doing Facebook ads. A lot of businesses are doing Facebook ads, and there's just a lot of competition for people to get their ads published and seen.
+
+[00:34:38.500] - Monica Louie
+And so Facebook is constantly brainstorming new ways, new places where we can put our ads. So you can check or uncheck by platform. So I will usually, if I'm going to do an ad for Facebook specifically, then I will uncheck Instagram because Instagram is a different platform. We know that the ad is going to appear differently. So, for example, on Facebook, we know we've got the headline and the news feed link description, and we've got the copy above the image. Whereas on Instagram, we don't have a headline. We just have the image or video and then the copy below it. So that's why I like to make the ad specific to each platform. But this is where you can check or uncheck. We can do Facebook stories now, Messenger stories, Instagram stories. And again, for those, I like to make the ads specific.
+
+[00:35:28.320] - Liz Stapleton, Host
+To.
+
+[00:35:28.810] - Monica Louie
+Those places.
+
+[00:35:30.170] - Liz Stapleton, Host
+Do you ever do Messenger ads?
+
+[00:35:34.710] - Monica Louie
+So we have two different things when we say Messenger ads. We have the Messenger placement, which is where the ad will appear in the Messenger app, or we have Messenger ads where the call to action is for people to click to send you a message. And so, yes, we've done both of those. And as far as testing placements, I do like to start off, especially with a new campaign, to test most of them, the ones that make sense. So there are obviously some that are just for videos. If I'm not running a video ad, then it's not going to make sense because we are often surprised that even if we think like, Oh, this might not get a lot of engagement in Messenger or in the audience network, then sometimes we are surprised. So I like to at least starting out, give Facebook as many options as possible.
+
+[00:36:27.290] - Liz Stapleton, Host
+You can always go back and change it later.
+
+[00:36:29.160] - Monica Louie
+Yeah, you can always go back and change it. You can always drill down into the data to see where people are converting, and then you can use that for your next test. So a lot of times for traffic campaigns, we will find that the Facebook news feed or... Oh, Facebook news feed, and it used to be separated out here between mobile and desktop, we'll find that that's the best performing location in most cases for traffic campaigns. We just find that they get the best click-throughs. But again, every audience, every offer is a little bit different, so we do like to test it.
+
+[00:37:05.180] - Liz Stapleton, Host
+Yeah, that's good.
+
+[00:37:06.680] - Monica Louie
+Cool. Yeah, makes sense. Do you want me to keep going through here?
+
+[00:37:10.070] - Liz Stapleton, Host
+Yeah, if you want to just finish walking them through that, I think walking us through that, that would be great.
+
+[00:37:15.440] - Monica Louie
+Okay, cool. So then we have our optimization for ad delivery. And here for a traffic campaign, I would do landing page views because I've got my pixels installed. And so with the pixel, then Facebook can see the when people go from the ad and then end up loading the landing page. So it's just like a micro step further than just a link click. A link click means they clicked on the ad, the link in the ad, but a landing page view means they actually loaded the page, so they're more likely to actually digest my content. And if you do want to schedule your ads, then this is where you can set the start and end date. And then I obviously didn't put in my audience here, but you'll see this potential reach will change based on your settings here. Okay. So then we hit continue, and you can see we're moving along through this menu. This is where we will create our ad. So you want to make sure that you got your Facebook page selected here. If you're running an Instagram ad, then make sure you've got your Instagram account connected here. And then you have a lot of different options again here to create the ad.
+
+[00:38:22.890] - Monica Louie
+If you already have, let's say you shared your blog post on your Facebook page and it's already going on Gangbusters, it's getting a lot of engagement, people are clicking through, and you just want to pull that in and test it with more audiences, then you can use an existing post here, and then you can find your Facebook post there. But most of the time we're going to be creating an ad from scratch. And for a traffic ad, this is where I would use a single, it says, image or video, but I would stick with an image ad for traffic. And then this is where you can add your images. You can either upload an image or if it's in your Facebook library. It's something you've already posted on your page, you'll find it in there. And then this is where you put the text above the headline, and then the description is that little tiny text below the headline that most of the time will get cut off. And then you put your URL here, so you want it to be specific to your page that you're driving traffic to. Then if you want a call to action button here, you have the option here.
+
+[00:39:25.040] - Monica Louie
+For a traffic campaign, we tested this again, and we find that no button tends to work better because for the traffic campaign, we obviously want it to stand out so people engage with it and click through. But we also don't want it to look overly promotionally. So we tend to use no button for that. And then I like to make sure my Facebook pixel is connected here. I know that's my pixel ID and that that's turned on. And then it's just saying I have an error because I haven't filled in all the fields. But then once I'm ready, I would hit confirm, and then it would submit it to review.
+
+[00:40:01.550] - Liz Stapleton, Host
+Okay, awesome. Yeah, I know. I think that's really helpful to see, especially because, I mean, it definitely looked different the last time I was in there. So appreciate you sharing this.
+
+[00:40:10.810] - Monica Louie
+Yeah, no problem.
+
+[00:40:12.570] - Liz Stapleton, Host
+Do you have any final words and advice before we tell everyone about your... I know I've got a great free resource for everyone, but any final words and advice first?
+
+[00:40:22.940] - Monica Louie
+Yeah. So you hit it on the head a little bit earlier when you said patience. So patience and commitment is really what leads to the most amount of success when it comes to Facebook ads. So when I look at my students and my clients that have the most success with Facebook ads, just like we talked about, a lot of times we don't hit it out of the park. There's always testing involved. So just know if you're going to test Facebook ads, they need to be committed to the process because it will take time. Your first campaign might just flop, and you might feel like you wasted your money, but you're really learning something if you get back into it and look at the data and assess what worked, what didn't, what was the audiences? Did I test different audiences? Did I test different versions of my ads? And the more that you do Facebook ads, the more you'll learn over time. What is working? What is resonating? And of course, the longer your campaign runs, then the more the algorithm will help you as well. So patience and commitment to the process. I mean, just with any strategy in our business, if we're jumping around from strategy to strategy-.
+
+[00:41:28.500] - Liz Stapleton, Host
+Blogging is a long game. Pretty much every aspect of it is too.
+
+[00:41:33.160] - Monica Louie
+Yeah. So commitment. Yes.
+
+[00:41:36.400] - Liz Stapleton, Host
+All right. So I know you do have a great free offer or resource for our attendees. Can you tell us about it, please?
+
+[00:41:41.820] - Monica Louie
+Yes. So I would love to offer my free Facebook ad starter kit to your audience. And it's a guide, but it's more than just a guide. I wanted to make it a super helpful resource to help anybody get started with Facebook ads, or if they're feeling like, I'm running ads, but I want to make sure that I'm doing it the right way so that I can get the best possible result, this guide will help you. So it takes you through the six steps to create campaigns that convert. So starting with the pixel on through the strategy and a lot of what we talked about today. But then I also broke it down. And so you have a checklist at the end so that you can fill in. So I like to be fully prepared when I dive into the ads manager. So I like to brainstorm what is my offer? What is my goal? What's my objective? What are the audiences that I'm going to test? How am I going to exactly brainstorm my creative? So you can plan out all of that through the checklist. And if any of these terms that I've shared today are a little bit like, okay, not sure what she's talking about there.
+
+[00:42:43.060] - Monica Louie
+I've got a glossary to go through the key terms so that you understand the terms that are being used in the ad manager and also the terms throughout the guide. And so people can find that at Monicalouie.Com/bbsummit for a blogger breakthrough summit.
+
+[00:42:58.900] - Liz Stapleton, Host
+Yes, and the link for that will be below as well. So you guys can just click there and it'll also be over there. Awesome. Thank you so much. This is really helpful. I think everyone watching will now have some confidence to give this a go and just give it a go, right? You can set a small budget if you're really that worried about it. As you dive more into blogging, you're going to find you could even set up Easy Yes Offers, as Kate Doster, who's in the summit calls them that can help pay for your ads. There's lots of things, but this, I think, was a great way to just get everyone their toes wet and understand how to get this going. So thank you so much.
+
+[00:43:36.730] - Monica Louie
+Yeah. Thank you so much for having me. This is a lot of fun.
+
+

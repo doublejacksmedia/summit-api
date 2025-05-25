@@ -1,0 +1,254 @@
+Title: How to Scale Your Reach with Translation
+Speaker: Thei Zervaki
+Website: https://www.linkedin.com/in/theizervaki/
+Level: Advanced
+Category: Scaling
+Length: 19:52
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-scale-your-reach-with-translation-thei-zervaki/
+
+Transcript:
+[00:00:12.410] - Liz
+I'm really excited for this session because we're going to be talking about something that I've never even thought to do with my websites or even considered. Our wonderful speaker is a world travel seasoned linguist based in Seattle. She has worked in private corporate government agencies, linguist, a language consultant, translator, interpreter, and translation director for 20 years. She's currently working as an interpreter for international conferences and consults businesses and individuals on how to communicate clearly with international audience. She's also the author of the book Translate Your Blog and Website to expand in international markets. A big warm welcome to the Thei Zervaki. I said your name was right?
+
+[00:00:51.230] - Thei
+Thank you. Yes, that's it.
+
+[00:00:52.720] - Liz
+Fantastic.
+
+[00:00:53.380] - Thei
+Thank you so much for inviting me.
+
+[00:00:55.990] - Liz
+Yes, I'm so excited to have you because I literally, this has never crossed my mind and now I've got lots of questions.
+
+[00:01:02.210] - Thei
+Oh, yeah, I'm excited. I want to answer them all if I can.
+
+[00:01:05.460] - Liz
+Yeah. So, basically, the idea is that you translate your blog, so that you can reach other audiences.
+
+[00:01:12.090] - Thei
+Yes.
+
+[00:01:14.070] - Liz
+Beyond just reaching out the audience is what sort of the benefit? How much of a benefit is it to go through this process? Like can you?
+
+[00:01:23.930] - Thei
+Yes, I want to talk about that, yes, directly. The idea is this idea from my book and this project is to help people who have like, you know, established blogs and websites with some, ideally some products, although you don't have to have products and to translate them to expand international. Right. To translate the content and maybe the products as well. It's a process. It's not something that happens overnight. And if you decide to go about it, to start this project is to see it as another kind of, as an expansion of your business.
+
+[00:02:02.660] - Liz
+Okay.
+
+[00:02:05.830] - Thei
+Yeah. There are a lot of things to talk about. The first thing is to talk about the translation of the content, then the URL, then the multilingual SEO. It's a lot of things, you know, that's going on if you decide to go. But before I get into that, the blogs that I found so far that they do that and establish websites, except for the big corporation, right? I mean Microsoft, Apple, Google, all those companies, I mean like other things, they translate the Microsoft Office more than 100 languages. I mean in Apple, I guess the same in Google and all those. The other ones are lifestyle blogs, travel, food, wellness, and even fashion. I found some bilingual blogs in fashion too. Okay. For example, this is what I wanted to tell people, that if you have a website, it's not necessarily a good idea to translate it. If you don't think you have an audience in another country, let's say, for example, you're a dentist and you have a website, does it make sense to translate it in German or in, I don't think so. You have to have like an online presence that is pretty big and then you take it from there and you do what you do.
+
+[00:03:20.590] - Thei
+Ideally, I would start with your Google Analytics and see what people come from. If they come from other countries, and which countries?
+
+[00:03:28.220] - Liz
+Okay.
+
+[00:03:29.060] - Thei
+That's a good start. Yeah.
+
+[00:03:30.630] - Liz
+So that would help you determine what language or languages to work on translating it into, like, hey, these are the best ones to do. It just depends on where your audience is going.
+
+[00:03:40.140] - Thei
+Yeah, that's the first start. Of course, the fact that people come to your website from Germany or Japan doesn't mean necessarily that they want to see the content in English. But it's a good start, though.
+
+[00:03:52.410] - Liz
+Sure.
+
+[00:03:53.260] - Thei
+Yeah.
+
+[00:03:54.120] - Liz
+Okay, so say, you know, you figured out, okay, I have a lot of people coming from, like, Germany, whatever, so I want to create a German version of my site because it is a process. What is the timeline to potentially get that done? Like how long of a process is that?
+
+[00:04:15.570] - Thei
+That depends on how much content you have.
+
+[00:04:17.970] - Liz
+Okay.
+
+[00:04:18.740] - Thei
+You know in translation, you have to know that the projects are based and assessed and evaluated money wise based on the amount of rewards that you have. So, it's not just that I have 20 articles and 50 articles or 50 recipes or 50 how to articles, how to travel in the US or in Germany. It's how many words you have. If you have like, 10,000, 20,000, million, that depends. If you have 50,000 words, you can do it in a month.
+
+[00:04:43.400] - Liz
+Okay.
+
+[00:04:44.220] - Thei
+But if you have 1 million words, probably a year or something six months. That depends also how you go about translation. If you go machine translation, human translation, a combination of the two. Yeah, it's a process. It's a process. Let's say, for example, that you have like, ten blog posts that you want to translate because you think these are your top blog posts in the US. Right? And there are thousand words each. So, you have 20,000 words, and you say, I'm going to do that in German. Let's talk about German. What options do you have? Option number one is to find a human translator. Like, you know, does recruit a translator, freelance translator.
+
+[00:05:27.140] - Thei
+You can get them online from directories, from sites like upwork.com. I don't know Fiverr had translators there. I don't know. I'm not sure. Or do machine translation, like go to Google Translate, DPL Translate. Then after that, you have to recruit someone to edit because ideally, you don't publish something that comes out through a machine. I think Google Penalized, used to penalize people for that. I don't know what they're going to do now with artificial intelligence. Everything is getting into that. And then the third option is to have both, to have a human machine translation product and a human. There is also, if you are on WordPress, the WordPress plugins for translation, they're about 10, 15. I haven't really tested them all. I don't know how well they work. The most famous one and the best one is called the WordPress multilingual plugin. It's not free. Plugins from WordPress is not free for translation. I mean, the free version doesn't give you much, really. You have to pay an annual fee or a monthly fee. And then what they do, you install them and then they kind of duplicate your content, the menu and everything else. And then the translation either is machine translation done through the plugin because they use either Google Translate or any other device too.
+
+[00:06:58.710] - Thei
+And then you, again, you have to do the editing yourself. So, far, from the people I met, the people I didn't really meet, the research I did online, the bilingual blogs are written by bilingual bloggers. It is there from Spain, from Mexico, from Germany, from Japan, from China. So, they do the translation themselves with the aid of machine translation, too. That's how it works so far. I haven't really met someone or seen anything who [crosstalk 00:07:29], yeah, exactly. Except for the big companies, like corporation.
+
+[00:07:34.360] - Liz
+Yeah. Yeah. Okay, so you go through th effort. Let's say you go through the effort of translating. You have your blog basically set up, and I want to talk more about the tech. But let's step back. What is the potential like reach or you know like what is the like, hey, I've done this. I now get this many more page views and ad revenue or whatever. What is that big, hey, this is worth doing it? You know what's that potential?
+
+[00:08:02.750] - Thei
+You know, some people, they started day one. They have a bilingual blog from day one, which is something I don't really recommend because it's something I didn't say. Probably you get it. It's additional work. I think that will add to your workflow about 20, 30% more, because you have to do everything, not everything. The content is the same. The blog is the same. It's identical. You don't change it, really. But the work to do that, it's additional work because you have to think a little bit about your SEO, for example, in a different language. Now, what do you do about that if you don't speak the language, if you don't know the language, you have to recruit someone to help you. Right? I would say, ideally, I wouldn't say to be on the 50,000 to have like the ad revenue maybe a little bit alien, but that you can do.
+
+[00:08:57.480] - Liz
+Okay.
+
+[00:08:59.050] - Thei
+But not too early. If you don't have enough traffic for the US. Market, I don't think you should do it in foreign language.
+
+[00:09:05.150] - Liz
+Okay. I like that.
+
+[00:09:06.350] - Thei
+I don't recommend that. just get your traffic in the US. And then you expand.
+
+[00:09:11.210] - Liz
+Okay. So, I want to talk more about the tech side of things because we've touched on it a little bit with plug in. But then does someone that views the English version also see the other language? You know how does that work? Do you use a separate URL?
+
+[00:09:27.350] - Thei
+Okay, basically you have two options. The option one is to have the same domain name and under the domain name to do both languages. The thing is that the plugin or yourself or your developer is going to put two flags on top, the American flag or the, you know, and the Spanish flag. Or you can even say, EN ES, English, Espanol, or whatever. And then if you want to read the Spanish version, you click on the Spanish flag or the Spanish word. Right? It's the same domain name. There are bloggers though who did two versions of the same blog. Let's say you have a blog, I love coffee, and then they created a blog in spanish@cafemegusta.com or MX, Mexico, whatever it is. So, you have two identical blogs that then you start from English, I think, and then you translate into Spanish, and then you duplicate your content, and they use actually the exact images too. It's amazing. Okay, so I think there's been a while that I was reading about this woman. I think she's Mexican, she's based in Texas, and she does that. She has a food blog, and she said that it's identical, basically everything. She does the translation herself with the aid of machine translation.
+
+[00:10:50.750] - Thei
+She has two blogs. Basically, she says as if she has two blocks, even if they are the same, because they're two different languages. Okay.
+
+[00:10:58.290] - Liz
+I would think that going either route, it's about the same amount of work. Is that okay? So, it doesn't matter if you choose to do it under a single domain or two domains. Yeah, you might have a little more tech to deal with on the single domain so that people can switch between.
+
+[00:11:13.930] - Thei
+Yeah, I think maybe it's a bit easier too, because you have both versions on the same page and you can switch. If you do two different domain names, people don't really know that you have two. If you go to the English version, you don't know that there is the Spanish version. But this particular blogger, she was saying in her article that I was reading that the Spanish version gives her the traffic from all the speaking countries, like Mexico, Argentina, Colombia. That's how she gets her traffic from. She doesn't get traffic from all those countries to the American blog from the american blog. The English version of the blog.
+
+[00:11:56.450] - Liz
+Yeah. Yeah.
+
+[00:11:57.020] - Thei
+So, it makes things a little bit confusing. So, you have to be clear of your objectives, too. What do you want to get out of the two, right? Now the other thing I have to mention that people have to think about, too, it's seasonality for lifestyle blogs, like recipes, for example. Do you publish the same recipe that you make in Thanksgiving in the US for the Spanish version of your blog that they don't have Thanksgiving, right?
+
+[00:12:25.040] - Liz
+Yeah.
+
+[00:12:25.580] - Thei
+Or the summer recipe...
+
+[00:12:28.750] - Liz
+When it's winter in Australia.
+
+[00:12:30.550] - Thei
+Yeah, exactly. That's the thing. Then also, you can even expand that if you sell products, if you sell like guides or fashion. You have to think a little bit about that, too. That particular blog, she said that she does everything identical. She doesn't change it. If it's a Thanksgiving meal in English, she's going to do it in Spanish too. That makes things simple, easier.
+
+[00:12:57.130] - Liz
+I would say you're trying to create higher conversions by making sure you're targeting based on where they're located and what, you know, season is for them. Summer, spring, fall.
+
+[00:13:06.400] - Thei
+Yeah. That's very good that you said the Australian example, if you have like, a fashion blog and you focus on hats, gloves and coats, the winter in Australia, it's not going to have, like, bikinis. You have to decide. Yes, probably you should, but I don't know what you do. You have to think about those.
+
+[00:13:24.380] - Liz
+You might have identical content, but publishing at different times [crosstalk 00:13:27].
+
+[00:13:28.050] - Thei
+That also very technical too, have to organize the tech. And then another thing is social media. Why would you do that? Where you promote, which countries? And the social media language thing is another beast because some, like Facebook, has machine translation to on Facebook. I don't think Instagram does. Pinterest is multilingual. You can have the same Pin in different languages on the same account.
+
+[00:13:55.440] - Liz
+[inaudible 00:13:55] it's probably not as big of a deal. Whereas Facebook and Instagram, like those.
+
+[00:14:00.950] - Thei
+They disappear. Exactly. Yeah.
+
+[00:14:02.100] - Liz
+Flash in the pan.
+
+[00:14:03.080] - Thei
+In ten minutes. I didn't know that. Just speaking about that. That some people, they post the same images for lifestyle blogs again on Facebook three times a day. I didn't know they can do that. I thought they penalize you, but they don't because they say, oh, different people see the same image at different times.
+
+[00:14:23.730] - Liz
+Yes. I am not a social media expert. It is something I try to make more time to do. But this is also why I'm very grateful for our other wonderful speakers who share their knowledge. So, I only take.
+
+[00:14:37.210] - Thei
+What do they do? Yeah, I know. I know.
+
+[00:14:39.130] - Thei
+So that's the other thing. You have to think of the seasonality of the other country that you translate to.
+
+[00:14:48.140] - Liz
+Yeah. And it might not be a single country. Like you said, Spanish is spoken.
+
+[00:14:52.900] - Thei
+I all countries. Yeah, exactly.
+
+[00:14:54.270] - Liz
+I mean, there's different dialects, though, right? Mexican Spanish is very different from Chile Spanish.
+
+[00:14:59.370] - Thei
+Yeah. And also European Spanish is very different than us.
+
+[00:15:02.620] - Liz
+Which is different from Spain. Yeah, I learned that when I started [inaudible 00:15:07] in Chile.
+
+[00:15:10.290] - Thei
+Yeah. I think it's really, yeah, we have to think about all the cultural, seasonality aspect of everything.
+
+[00:15:18.230] - Liz
+Yeah. Okay, I like that point. All right, any final tips you want to give someone who wants to consider expanding in this way to help them scale?
+
+[00:15:30.810] - Thei
+I think that's the basics. Now it's entirely up to the blogger or website owner what they're going to do. You can start only with five articles if you want to. You don't have to do the whole site and see how people respond. I think I met a travel blogger a few years ago in a conference and she had a big massive travel blog for ten years. So, she had she had millions of words, she told me. Oh, yeah, definitely millions of words. And she said she had a lot of requests because the travel blog was about traveling in the US with family and kids. She had requests from Mexico and China. So, she said, okay, people ask me, they wanted their language, right, because they didn't get the American English. So, she said, I'm going to start with the ten articles first and then see what happens. You pick your most top articles in the US. And then you translate that in Spanish and Maldarino, Cantonese in this case, if you're going to do China and see what happens. Then you expand after that, another ten, and another ten. And that's also more manageable time wise and money wise and everything.
+
+[00:16:36.930] - Liz
+Yeah.
+
+[00:16:37.380] - Thei
+I mean, there is an additional cost to all that. Even the plugins cost money. You probably have to recruit someone to translate or edit translation, not an all or nothing thing.
+
+[00:16:48.050] - Liz
+You can sort of test the waters before you have to.
+
+[00:16:50.950] - Thei
+You have to test the waters, so you have to test the water. Yeah. You have to see how you do money wise, time wise, and what you get back, you know.
+
+[00:16:58.710] - Liz
+Yes. Yes. Okay. And I know you have some resources for our wonderful attendees. Do you want to tell them about that?
+
+[00:17:08.560] - Thei
+Yes. The freebie I give out is the eight step guide to translate your blog or your website. So, it's kind of an easy I think it's ten pages, twelve pages guide that it works you around the different steps you have to follow to start translating your blog or website if you want to. So, if you follow that process, things will become much easier. First, you have to know what translation is, how to find a translator, how you approach that project. You have to have clear objectives about that, what you want to get out of it.
+
+[00:17:48.710] - Liz
+So, if you're thinking of testing the waters with translation, start with this freebie to learn more about that process.
+
+[00:17:54.870] - Thei
+Exactly. I think that will give you an idea that you...
+
+[00:17:58.090] - Liz
+Yes or no? Yeah.
+
+[00:18:01.290] - Thei
+You have to know how much time you have, how much money you have, if it's worth it for you, and see if it works, you know. Some people, they say that actually all the multilingual blogs or bloggers that I am familiar with, they're all happy to do that. They say it's more work, 20-30% more, but they're quite happy about it, so you know.
+
+[00:18:23.070] - Liz
+It might be 20% to 30% more work, but a 50 or 100% return, right? So, it depends.
+
+[00:18:29.550] - Thei
+Yeah, we definitely have more traffic. And also they built a different community, too, you know, in a different country or different countries, you know. They have a different community, different funds in other countries.
+
+[00:18:41.070] - Liz
+Yes. All right. And then you also have something for those that have gotten the all access pass or are considering.
+
+[00:18:47.580] - Thei
+Oh, yeah, it's my book. I put a lot of time to do that book. It's about 100 pages. It's in PDF. This one. Translate your blog and website to expand it in international markets. That gives you everything. The research. How many people read in English, how many people read in different languages, how many people shop the expansion of the blogs in the future, there is some stats that is very useful to know and then all the things you need to know to go about the translation process with some resources at the end. Awesome.
+
+[00:19:19.060] - Liz
+So, definitely, if you haven't gotten the all access pass and that is of interest to you, definitely go grab the all access pass. Again, Thei, thank you so much for sharing your knowledge. Super helpful. I have a couple of things to think about now. I appreciate it.
+
+[00:19:33.600] - Thei
+You have to think about your website too.
+
+[00:19:36.890] - Liz
+Yes. All right, thanks.
+
+[00:19:38.490] - Thei
+Thank you.
+
+

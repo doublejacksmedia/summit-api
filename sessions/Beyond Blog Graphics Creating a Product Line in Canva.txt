@@ -1,0 +1,182 @@
+Title: Beyond Blog Graphics: Creating a Product Line in Canva
+Speaker: Kate Danielle
+Website: katedanielle.com
+Level: Beginner Bloggers
+Category: Product Creation
+Length: 33:18
+Year: 2025
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/beyond-blog-graphics-creating-a-product-line-in-canva-kate-danielle/
+
+Transcript:
+[00:00:03.650] - Liz Stapleton, Host
+All right, guys. I'm super excited to have this next speaker back. They help creative entrepreneurs, virtual assistants, and online businesses up their design game with Canva. As a Canva ambassador, she provides easy to follow training and ready to use PLR templates that save time and make life easier. Her mission is to help you create yes moments in your business, say yes to time, freedom, flexibility, and making unforgettable family memories like that surprise vacation. She is passionate about helping you build a business that fits your life. A super warm welcome back to Kate Danielle. Kate, thank you so much for coming back.
+
+[00:00:44.710] - Kate Danielle
+I well, thank you so much for having me. It's always a pleasure to join you for this summit.
+
+[00:00:50.150] - Liz Stapleton, Host
+Yeah. So we're going to be talking about creating a product line in Canva because I know obviously lots of bloggers, not only business owners, use Canva for blog graphics and mockups, but you're talking about actually creating a product line. So can you walk us through that distinction and what you're talking about when you say a product line in Canva?
+
+[00:01:09.390] - Kate Danielle
+So basically, it's just to think about a line of tools, products that your audience needs or wants, based on whatever your niche is. And the beauty of it is you can use Canva to set up a variety of products. So whether you're creating a variety of planners or you blog or talk about one specific topic, maybe cooking, you could create a variety of tools like a cookbook or a meal planner guide and recipe cards. And it's just endless of the different things that you could create as long as it's a printable type or it could even be in a presentation, e-book type thing. You can really get creative with different products you can create in Canva.
+
+[00:02:16.170] - Liz Stapleton, Host
+Okay, so we're going to dive more in to how to do that. Before we do, though, because I think it's just as important to know what to avoid, when someone is designing products, what are some common mistakes that they should try to avoid?
+
+[00:02:29.980] - Kate Danielle
+So one of the biggest things to think about is how your end user, how your user is going to want to use the product, because you need to think about, is this something that I want to print? So do you need to go not so heavy on design? Or is this a product? Some people want planners that have a certain esthetic look, so they don't care necessarily how much ink it's going to take. So you really got to think about how it's going to be presented. Maybe it's only going to be viewed on a computer or a tablet, and then you can go crazy with images and colors and get really creative and use links. But you really got to think about the end experience first.
+
+[00:03:15.450] - Liz Stapleton, Host
+Yeah. So who are you creating the product for and what are they going to want? Okay, so can you walk us through a basic Canva workflow for creating a digital product, whether that's, like you said, a planner or cookbook recipe, whatever. Just what is that? How do you get started? How do you get it organized so that you can find it when you need to deliver it? Just walk us through that.
+
+[00:03:41.420] - Kate Danielle
+I would start first brainstorm, have it out, have your idea outlined. If it's going to be very content-heavy, I don't always do this myself, but I suggest you have the content ready to go, because otherwise you're going to get in Canva and you're going to So you're creating content, editing content, and trying to design all at the same time, and it is going to make you crazy. So have your content or an outline. If it's like a planner, sometimes you just got to outline the different aspects that you need to create and what different pages you want to create, whether you're having a yearly overview section, a goal planning section in each month. And then once you have the grasp of what you're going to set out to create, go into Canva. And I like to start with getting some staple elements done. So maybe you're going to have the same header and footer across all the pages, or you're going to have an e-book where you're going to have title pages. Go ahead and get these initial designs set up so that you can just copy that page and reuse it, and copy that page and reuse it.
+
+[00:05:02.860] - Kate Danielle
+So think about you're building a design. I was going to say a structure, but it's a design. So you're starting with your blueprint, and then you're going to go in and make your template, even though your template is going to be part of your design. And then you're going to rinse and repeat the pages, use design elements over and over. I would go up into Canva at the very top. There's going to be a name, the name it, it's just like, Canva populates if you don't rename it. So name it something you're going to remember to search for later, because I can tell you from experience, if you just keep letting Canva autopopulate your titles, it'll be a big mess years later. So maybe do that first. Open your design, name it whatever you name it, because otherwise it's going to name it something based off the first text you put in, a template you put in something. It will pull something and it will make no sense to your business.
+
+[00:06:07.100] - Liz Stapleton, Host
+It's like the first thing you type in there, which might not actually end up being something that stays. Maybe it's a placeholder or something like that. And then you're like, what? Yeah, no. And we do have a session on organizing Canva in the summit. So you guys are like, I'm not sure about Navy conventions or how to organize. We do have another session on that. I was just like, since I know Kate creates so much in Canva, I wanted to get her two cents on that. I like having those elements that you're going to use to be able to just pull them. Have you ever felt, I don't know, limited by Canva's features? Is there any advanced design tips that you've had to figure out that would be helpful and save people having to figure it out on their own that you want to share?
+
+[00:06:55.620] - Kate Danielle
+Honestly, it's going to depend on what you're trying to create. I feel limited in Canva. I have Canva Pro, so I do get feel limited when I try to make maybe a template for someone, like a printable product template, and I'm trying to only use free elements, free features. So there's definitely, you're going to find more fonts, more graphics, and more tools in in the pro version. So that is because sometimes I can be really specific on what graphic I'm trying to find, and there's just not as many in the free version. Now, if you never have pro, you don't know what's out there. So it may not bother you because you haven't seen something else that you would prefer to use, but that it's a Canva Pro element only. But I think as far as creating products in general in Canva, yeah, I think it's all there. Sometimes more makes things harder, and they're always improving and making new additions. But I think it's really good and how streamlined they have kept it over the years.
+
+[00:08:23.900] - Liz Stapleton, Host
+What are the features you're using most when you're creating in Canva? Any shortcuts? What are you using? I feel pretty sure that'll be easier.
+
+[00:08:34.820] - Kate Danielle
+Okay. I do use tons of keyboard shortcuts, which I talk about all the time. T for text, and I'll go ahead and share my screen because I can show where... I think this is the first time I've used Zoom on this computer, so I'm heading all the roadblocks today.
+
+[00:08:55.600] - Liz Stapleton, Host
+Here we go. I can always edit this part.
+
+[00:08:58.310] - Kate Danielle
+See if it's going to Let me... Okay. In Canva, I'm always using keyboard shortcuts, T for text or drop in a text box, R for... No, can't be active in the text box. R for rectangle, drop in a shape. I typically do that for whatever shape because then you can just come up here and pick it. But I always tell people to come down here to the little question mark and ask Canva, type in shortcuts, and of course, this is all updated. I'm just going to just populate it, some of the most basic shortcuts. And now you can ask it for specific ones, but these are going to be like Control Z, Undo. You don't typically need save a lot when I do use, this is going to force save it, which means, you know, Canva is always saving in the background. And it's a very rare that I have a canva glitch. But if you see, you'll see if I can get my And then just working super speed.
+
+[00:10:17.390] - Liz Stapleton, Host
+Yeah, it'll see.
+
+[00:10:18.260] - Kate Danielle
+Sometimes, yeah. And if you ever see this get stuck or you don't have your little checkmark, you need to try to force save with the control Z, I mean, control S or come up here somewhere in here. Yeah, there's a save because that is your first tip that something is glitching. I feel like this hasn't happened to me in years.
+
+[00:10:41.720] - Liz Stapleton, Host
+It's pretty rare, but sometimes it's just from your internet connection. It's not even necessarily Canva.
+
+[00:10:47.260] - Kate Danielle
+True. The other thing, so shortcuts, they really will. It seems like it won't save a lot of time, but they save you so much time versus coming over here, adding a text box, you will speed up your workflow. The other thing that I use a lot, one of my favorite things, and I believe it has moved a little bit with the glow up that I think everybody has now. Let me just find an element. I love to see more things like this. If I have an element I like and maybe I want to try to find more things in that style. There used to be a little I button.
+
+[00:11:36.630] - Liz Stapleton, Host
+Well, it's down here at the bottom of the... Yeah.
+
+[00:11:40.360] - Kate Danielle
+At the menu, yeah. You can click on your three dots I'm going to come down here and click Info, and it's going to give you all the keywords for it, which these are all clickable, and it'll bring up more. You can also do it right in here within the elements window. I can click the three dots and say see more like this. It's just a good way to really utilize what Canva has to offer when you're making a cohesive design. I'm trying to think. I'm sure there are tons of other things. Sure. When you have time, explore the apps library, there's always cool things popping up in there. But I would say save that for when you are not in the middle of a project because you can go down a rabbit hole.
+
+[00:12:39.820] - Liz Stapleton, Host
+You absolutely can. Definitely been guilty of that. And then if you open an app and you find you're not using it, make sure you're exiting it out of your sidebar.
+
+[00:12:50.810] - Kate Danielle
+Yes, because I probably have tons of things open. Your file folder stay open if you're on Canva Pro and have lots of folders. So it is a good idea. And you just come in and click it because these stay open window to from project to project. And you can get over and messy down there.
+
+[00:13:12.350] - Liz Stapleton, Host
+Okay, do you have any strategies or tips to help people make their design seem more polished, more professional? I mean, Canva is an incredible tool, but I've definitely seen some subpar designs that people have made in it. Any things that make it stand out as being more professional and polished?
+
+[00:13:33.640] - Kate Danielle
+Yes. One of the biggest things I see, always pay attention to your text alignment and your page alignment. Let me just open up. I got Let me just get the square open, but let's go, or this is fine. We can stick with a square, but typically, if you're making a printable product, it's going to be a US letter size. But one of the biggest things, so you'll notice, I popped in a text box It is automatically set the alignment to center. It's on center. So I've seen in the past where people are trying to make a list, and as you change the words here, you're going to see that things are all centered and people will come and try to maybe line stuff up like this. And this one actually looked pretty clean because the text box is growing with the text, but it'll get So one of the biggest things is, most cases, you're going to want your text aligned to the left. So go ahead and do that. It makes it nice for when you come up and use the position tool, which is another way to really make things polish. You're going to want to make sure, again, if you've got multiple elements, multiple text boxes that need to be in line with one another, you have these options.
+
+[00:14:56.810] - Kate Danielle
+This one's grayed out because they're already aligned. Maybe for whatever reason, I need it centered. You can also space evenly, vertically, and horizontally. These are key. And also tidy up. These are really going to help you just make sure your design is cleaned up. You can also turn on your rollers. If you come up to file, or maybe it's an under-editing now. No. File.
+
+[00:15:27.960] - Liz Stapleton, Host
+I think it's under settings.
+
+[00:15:29.790] - Kate Danielle
+I'll show guides and Rulers. Let's close our position window and see these have popped up. And now I can actually drag in guides. So maybe you're designing something and you don't want to use the Canva pre-populated box that pops up. You want something set here. And if I had another page, those guides are going to be there. Your ruler measurement is going to be whatever... I got to go away. Whatever you open your design in. So right now it's in pixels. But if I were to say I want a US letter size or even type in custom size and change it to inches, my ruler is then going to be in inches. So depending on what you're making, that'll help you. So now my ruler is in inches. And if I can zoom in, it zooms with me. So that's really helpful. And don't be afraid of white space. White space in your design just allows things to read. It makes it more easy for your customer to consume it and read it. So take a step back and see if there's anything that you need to clean up or take away from the design to make it a little more polished.
+
+[00:17:00.030] - Liz Stapleton, Host
+Okay, so we touched on this, but Canva has obviously been updating. I was like, not necessarily changing. They've moved things, it's updating, but they've definitely released some new features. Are some of them helping you to really create products faster or just make life easier or they've just enhanced that process?
+
+[00:17:23.400] - Kate Danielle
+So right now, I feel like it's just been enhanced a little bit there, which anytime there's a major glow up, you can see me. I've been going through a move. So since my Canva went through its glow up because I held off for a little while, you can see me feeling around for things. So it takes a little bit of time to be like, Oh, where's that tool I used to use? But it's there. There are some things coming. They did an October drop, but it was more or less like polishing up some things that I think have been around. I think they're really focusing on maybe improving AI, which that can help. Canva does have the AI writer. So let's see if you hit the backslash on your keyboard, you can get magic, right? So this could help you brainstorm ideas, come up with maybe a headline for whatever you're on, things like that. So I only see these features getting better and better because just some full transparency for AI needs. Currently, I use other tools like ChatGPT and other things, but I see Canva to continue to improve, and they are going to be making their mockups better.
+
+[00:18:58.390] - Kate Danielle
+It may even be out at the time that you're watching this. But right now, if you don't know, because if you're making products, you're going to want to create good mockups of them. And so let's just see if I can find in my uploads. Working on Halloween stuff. We'll just pretend this is a worksheet or something I've designed. If you come up to Edit, you can come down to mockups and you can find different... You can find tablets, computers. There's a print one in here. Click See All. Find something you need. But There is an update coming where I believe you're going to be able to use images from the Canva library. Because if you look in the library right now, there will be things that look like it should be a mockup. Helps if I spell correctly. Which you could use these frames, those work for mockups. But if we come over to photos, sometimes you get something like this. Currently, at the time of the recording, there's no way for me to insert something at that perspective here in Canva. But I do think that it is going to be improved in the near future.
+
+[00:20:33.210] - Liz Stapleton, Host
+Yeah, I'm excited to see that. Okay, so once you've created your product in Canva, are you selling a Canva link? Are you selling a PDF? I mean, there's a ton. We'll go over checkout software. I don't know if you're a particular fan of recommending an Etsy or anything like that if you're doing a product line. But what exactly are you selling to give... What's the deliverable?
+
+[00:20:59.100] - Kate Danielle
+So it's really going to depend on your product because I didn't really mention it, but what I do a lot is sell templates. So that definitely could be your product line or you could be making like we've talked about, like a planner. So if it is like a planner, an e-book, something that you're going to download and deliver, you're going to want to download that as a PDF, which you can come here, click Download, and click I don't have anything on my screen. Let's do it again. Canva is They're like, There's nothing there. You're going to click PDF. If you have... Well, again, the way the user is going to use it in the end is going to matter. If this is something you foresee that the majority of people are only going to use on a computer, you could do PDF standard. If they're going to print it, you have PDF print and you can click over to CMYK. If you have If you have a pro that's just going to help it print better even at home, those are just small details. If your product is really big, you may need to, even though it's a PDF, create a PDF link page.
+
+[00:22:16.040] - Kate Danielle
+A lot of times you'll see this on Etsy. And so in that case, you're just going to design a pretty PDF all in your branding. You're going to thank them for their purchase. You may have an offer or more info, and then you're going to have a big button that says, Click here to get your product. And in that case, your PDF or your files will be stored somewhere. A lot of people use Dropbox, Amazon, some Google Drive, and somewhere where they can access a zipped folder of that. Now, if you're doing templates, I would do the same thing. You're going to create a pretty PDF with a link to your template, but you're going to come in Canva, click Template Link. And again, these prepopulate based off what you've been using. So if you ever don't see anything, you can click on See All, and then you can search. You're going to choose Template Link, create a template, and this is what you're going to copy and then put on your nice pretty PDF. So if I make a little button, I tend to do a rectangle, make a button shape, add very plainly like click here.
+
+[00:23:36.200] - Kate Danielle
+You may want instructions of what's going to happen, and then you can link this entire shape with your template link, and it will open up the whole set. So that's how I would share those. And came about recently, so now you can see my template is Live. And they recently updated this. If you're familiar with selling templates, they sent us an email that was scary. It was like, your links aren't going to work. And then it was really like a five, second, fix. So I haven't dug too much into it after I fixed mine, but I think you can actually go view. Maybe not. View where people are clicking it. I I could have made that up. They did something with the link, but you can share it. You do have to have Canva Pro to share template links this way. And if you're selling templates, you should be doing it this way. Versus otherwise, you're just sharing a design, and if somebody makes a change, it changes it on everyone's.
+
+[00:24:53.200] - Liz Stapleton, Host
+Okay. Do you happen to have, I think I might have one I'm looking, an example of what that pretty product PDF links page looks like?
+
+[00:25:05.860] - Kate Danielle
+Yeah, I'm sure I do. Let's see.
+
+[00:25:08.530] - Liz Stapleton, Host
+I have one somewhere, but do I know where it's at right at the second? I'm not seeing it where I think it should be at? That's probably more. Oh, here's one. I didn't do this in Canva, but it's maybe a little bit... Let me share my screen. Just to give an example since I found mine first.
+
+[00:25:30.730] - Kate Danielle
+Oh, yeah. Go for it. Do I need to stop?
+
+[00:25:33.040] - Liz Stapleton, Host
+No, I think I got it. Sure. All right. So this is a PDF. So is that on par with what you're talking about? I mean, this isn't super nice. It's just one link, but similar idea.
+
+[00:25:54.830] - Kate Danielle
+Yeah, just like that. I think that's another good idea, especially if you're doing something it like having the policies, especially if it is something like templates, share how they're the rules on how the terms. That's a great idea and a great idea, a great marketing place as well. But be sure that that's not taking over. Remember, if they bought something that needs to be front and center, you can also have part of your wine could be freebies, and then you're really going to want to utilize the space if you were offering something for free. Yeah.
+
+[00:26:34.360] - Liz Stapleton, Host
+All right. I'm going to stop sharing. Yeah, I was like, just to give an example, because I feel like we're talking about it in the abstract, and it's always helpful to see an example. Okay, so once you've created it, you know how you're going to deliver it, what are your tips for promoting your Canva created product line to reach the right fit to actually make sales?
+
+[00:26:59.100] - Kate Danielle
+So So it depends on your goals. I'm a big fan in setting up little small funnels. So maybe if you're blogging and you have your site, maybe you have a freebie that leads into your products. So you can, one, start building an email list because that way, any time you create a new product, you can market it towards that list. That is what I tend to utilize the most So you're getting people in on a free offer or a little sample and go ahead and on the thank you page be making them an offer to a small product, a tripwire. But also then you're creating this audience, even if they don't make a purchase right then, that you can market to via email. If you are wanting to get into an entire line, like you're wanting to make a style of planners or activity sheets or something that you want to make a bunch of. I think it's the right options to get started. That's not to say you can also sell on your own site, but Etsy already has the the market. Because I know there's a lot of back and forth on whether it's worth it or not, but especially with digital products.
+
+[00:28:23.360] - Kate Danielle
+Just like how you probably... A lot of people go to Amazon, they shop on Amazon first before they think to Google anywhere else. People do that with Etsy with digital products like printables, especially creative printables. If it's more of an info-based, like e-book type of thing, you're going to want to probably stick more towards the funnel, building your audience through an email list. And you can do the same. You can build an email list via Etsy, but it's going to be more like planners, activity sheets, things like that.
+
+[00:29:04.000] - Liz Stapleton, Host
+So again, it's knowing who you're making the products for is really going to help you determine where and how you're going to sell them.
+
+[00:29:10.610] - Kate Danielle
+All right.
+
+[00:29:12.470] - Liz Stapleton, Host
+Anything else people should know about or that we haven't covered that you want to make sure they know?
+
+[00:29:18.790] - Kate Danielle
+I would say, don't be scared to create products with Canva. I get a lot of questions about... And you have You have a lot of information on this, right? About what you are allowed and not allowed to do with Canva elements. Don't be scared. Canva has come forward. They've made it more clear of what you can do. You are allowed to use free and pro elements in your designs as long as you are using that to create your own thing, as long as you're taking I have a couple of them combining it to create your own planner design.
+
+[00:30:05.640] - Liz Stapleton, Host
+Yeah. Don't just take one element and that's it.
+
+[00:30:09.960] - Kate Danielle
+Right. You can't make a poster of a bear you found in the Canva library. You got to combine elements together. People question, How much is a unique design? That is going to be up to your discretion. I don't have the link for me. I can find it, but they have a great page that has a lot of use cases scenarios. And I think Canva as a whole, in the past five years, their team is more clear. And it used to seem like if you had a question and you hit help and ask Canva, you might get different answers from them versus from an employee in one of their groups. I think they've got all that settled. Also, I've not seen this be an issue. I've not I've seen everyone get all up in arms like, oh, oh, my gosh, the terms are changing. I haven't yet to see Canva going after someone creating a printable product. They will go after you if you take a photo, one photo from their library and try to sell it as a poster. But as long as you're trying to do right, they want you to be able to use their platform.
+
+[00:31:25.680] - Kate Danielle
+So don't be scared. I'm not a lawyer, but I have done a I've done lots of research. I've talked with staff. There's been lots of conversations. So it is there for you to use and to make things with.
+
+[00:31:41.650] - Liz Stapleton, Host
+I actually have an article on what you can use in terms of Canva commercially. I'll try to remember to add that link to this page. I think you have something for everyone, where they can find you, all those things.
+
+[00:31:57.160] - Kate Danielle
+I do. I have a free guide. It has over 60 printable product ideas that you can use for opt-ins or products. So to grow your list and make money. You can get that at katedanielle.Com/ideas or there's a longer link that Liz has. It'll be posted somewhere.
+
+[00:32:19.990] - Liz Stapleton, Host
+Yes, that will definitely be on the page.
+
+[00:32:22.660] - Kate Danielle
+But yeah, it'll help brainstorm. There's some info on there to help you generate ideas. Because I think you got to think about what your audience would be after. But also it's got to excite you, too. You got to have that happy medium of what is something your audience is going to want and need and something that you're excited to create and market. So I got a guide with lots of ideas to help you brainstorm and start creating your product line.
+
+[00:32:54.180] - Liz Stapleton, Host
+All right, perfect. Definitely go check that out, you guys. Kate, again, thank you so much for coming back and sharing your knowledge. I always learned something new. I definitely did today as well. So thank you again.
+
+[00:33:04.390] - Kate Danielle
+Thank you so much.
+
+

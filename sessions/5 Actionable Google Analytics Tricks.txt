@@ -1,0 +1,239 @@
+Title: 5 Actionable Google Analytics Tricks
+Speaker: Sherry Smothermon-Short
+Website: https://painlessbloganalytics.com/
+Level: Intermediate
+Category: Data
+Length: 29:59
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/5-actionable-google-analytics-tricks-sherry-smothermon-short/
+
+Transcript:
+[00:00:13.370] - Sherry
+Hey there. I'm Sherry Smothermon Short from Painless Blog Analytics. And first of all, I'd like to say a big thank you to Liz for asking me to participate in the Blogger Breakthrough Summit. I really appreciate the opportunity to share some information with you folks. Now, let me tell you a little bit about my background.
+
+[00:00:30.750] - Sherry
+I have been blogging for over a decade at Cub scot Ideas. I also have two other blogs, Easy Blog School and a new one called The Fax Fault. Before my blogging career, I worked for an auto insurance company. And as most of you probably know, in the insurance world, everything is kind of numbers driven, data driven, lots of analysis going on. And although I didn't do that kind of work for the insurance company, it sort of rubbed off a little bit on me as I was working with you know all the analysts and the folks who are really good at numbers.
+
+[00:01:01.350] - Sherry
+So, when I started blogging, I realized that there was quite a bit of information that's available for bloggers about their blog, and most of it is from free sources like Google Analytics and Google Search Console. But as I was learning about that and talking to much more experienced bloggers than me, I found out that most bloggers don't look at the numbers. They are confused by the numbers. They're not sure even if they know what they mean, they're not sure what they're supposed to do with them. They don't know how to make them actionable.
+
+[00:01:32.620] - Sherry
+So, I decided that I would start Painless Blog Analytics to help bloggers understand everything they need to know about their numbers. And you don't have to be a big numberish to be able to do this. A lot of it's really just looking at the information and drawn some conclusions from it. So, that's a little bit about me.
+
+[00:01:55.350] - Sherry
+So, let's go ahead and get started with our presentation. Let me make myself small here. Okay. What I'm going to share with you today is Five Actionable Google Analytics tricks. And the first one, I'm just going to kind of run through them really quickly, and then we'll dig into each one separately.
+
+[00:02:13.680] - Sherry
+The first one is determine when you have most visitors to your site. The second thing I'm going to show you is how to identify why traffic to a specific blog post spiked. The third trick is I'm going to show you how to compare traffic sources to determine which one is responsible for lower traffic. Trick number four is identify blog posts that are doing well from one traffic source, but not from another. And trick number five is I'm going to show you how to create and track a campaign URL and also explain you what a campaign URL actually is.
+
+[00:02:46.830] - Sherry
+Okay, so let's jump in. And I told you guys I blogged at Cub scot ideas, and that's the account that I'm going to use here for the examples today, is my account, my Google Analytics account for. Okay. The first thing I want to talk to you about is determining when you have the most visitors to your website.
+
+[00:03:09.650] - Sherry
+It's actually right here on the home page in Analytics. And if you look over here, you see this little chart. When do your visitor users visit? Well, if you look over here, we've got the times of the day, and then we've got the days of the week. And you can tell about the little scale here that the darker blue is when you have more people on your site and lighter blue is when you have fewer people on your site, you can change the time frame.
+
+[00:03:36.650] - Sherry
+If you wanted to look at seven days, the last 30 days, you can do a custom time frame, but we're just going to leave it here. Now, why is it important to know this and what kind of action can you take knowing this information? Well, the first thing that you can do is when you see that you've got some of the darker blue here, that's when you want to publish your new blog post. And the reason for that is that if you've got people on your site already, if you publish a new post, you're getting a lot of eyeballs.
+
+[00:04:07.310] - Sherry
+You're going to get a lot of eyeballs on that blog post right away.
+
+[00:04:11.650] - Sherry
+So, if I were looking at this, my traffic usually comes on Monday, Tuesday and Wednesday and then kind of slows off for the rest of the week. But what I would do is I would probably publish my blog post late in the afternoon on Monday, like 3 or 4 'o' clock on Monday afternoon. Now, something that you don't want to do when you have a lot of traffic on your site is you don't want to update your blog or your WordPress. Let's say there's some plugins that need to be updated or you need to update your WordPress or platform or your theme.
+
+[00:04:46.950] - Sherry
+You don't want to do it when you have a lot of people on your site.
+
+[00:04:49.590] - Sherry
+Now, if you're just doing little updates, this might not happen, but I would still wait and do your updates when you don't have much traffic. You run the risk when you do that of having this message show up, briefly unavailable for scheduled maintenance. And we sure don't want that showing up on our blocks when you have a lot of people on your site. So, do those do updates during the lighter blue and publisher blog post during the darker blue. Okay, so go back. That is showing you how when you have the visitors of what you can do from that.
+
+[00:05:28.630] - Sherry
+Okay. So the next thing I want to show you is how to identify what caused a traffic spike to a particular blog post. And what we are going to do with that is we're going to go over here to behavior, site content, all pages. Now, what this is showing you is let me move myself out of the way there. What this is showing you is your traffic by pages, by individual or actually blog posts, and then it shows your graph here.
+
+[00:06:02.680] - Sherry
+I've got this set up for, by day, so I can look at everything by day. Now let me show you what I wanted to show you on this. I'm going to pick out a specific blog post. I have a blog post on Cub scot ideas called how to make armpit fudge. Sounds really disgusting, but it is actually kind of fun and the kids love making it.
+
+[00:06:26.140] - Sherry
+So anyway, there you have it. Okay. So what I'm going to do with this blog post is I want to see, you know did I have any traffic spikes here? And if I did, what cost them? So, the first thing I'm going to do is I'm going to change the date now, as you probably know that typically this is defaulted to seven days, the last seven days.
+
+[00:06:48.230] - Sherry
+But for this particular instance, I had it starting at the beginning of the year, but I want to go way way back. I want to see how far I can go back. Like I don't remember what year I published this blog post. We're going to say January 1, 2014 through November 14, 2021. Okay.
+
+[00:07:09.290] - Sherry
+And it looks like I published it even before that. Let's go back one more year.
+
+[00:07:18.670] - Sherry
+Alright. And you can see it looks like that sometime in June of 2013 was when I originally published this blog post. Okay. So, as you can see, we have these little spikes here. And what I'm going to do, though, is I'm going to take this down to 2015, I think.
+
+[00:07:42.610] - Sherry
+Yeah.
+
+[00:07:47.010] - Sherry
+Just makes it a little bit easier to see. So, I want to find out what caused these spikes here. There had to be something that caused my traffic to jump up that much. And when you hover over the blue line here, you can see that the date shows up. So, if I hover over and sometimes it's kind of hard to get it right on the actual spike.
+
+[00:08:10.210] - Sherry
+But once you can get on there, you see the little blue dot behind my cursor. And this is that this is Saturday, May 6, 2017. So, I'm going to write that down. Then I could also check some of these other little spikes, but I want to check just the bigger ones. Okay.
+
+[00:08:26.920] - Sherry
+So, when I hover over this one, it's Saturday, April 25, 2020. And then let's look at this one too. This one is going to be one. I might have trouble getting it right on the date.
+
+[00:08:52.870] - Sherry
+Sorry about that. Like I mentioned this, sometimes, it can be kind of hard to get it right on there. And I think this is February 2nd. Okay, so we could adjust to see that February 2nd. I could change the dates here and just make this for this year.
+
+[00:09:14.270] - Sherry
+And then it's a lot easier to figure out what this spike is. Tuesday, February 2. Okay. Anyway, I just wanted to show you how you could do that and look at that a little bit more carefully. So, let's go.
+
+[00:09:25.580] - Sherry
+We wrote down May 6, 2017, that was the first spike that we had to this blog post. So what I'm going to do is I'm going to put May 6 of 2017, and then I'm going to do May 6 of 2017. I just want the data for that day. Okay. So, we've got it here.
+
+[00:09:48.480] - Sherry
+And of course, you don't have a chart because you're only looking at one day. But what we're going to do is we're going to go down here to secondary dimension. We're going to click on that and we're going to type in source medium. And actually, if you just start typing, it'll show up and you can pick the option. Now, what this is going to do is this is going to add where the traffic came from.
+
+[00:10:10.300] - Sherry
+And I can see that on that day on May 6 of 2017, I posted about this on Facebook and you can see how much the traffic spiked. I got 70% of my traffic that day came from Facebook. So, my takeaway from this is you know what? I think I need to publish this post on Facebook again. And anytime you need a traffic jump for that post, you can do that as well.
+
+[00:10:35.160] - Sherry
+Okay. Now let's go look at the second date was April 21 of 2020.
+
+[00:10:53.470] - Sherry
+Okay, here we go. I still have my source medium selected. And you can see on this date, I sent out an email with the Armpit Budge link in it. I'll put that out here in a minute. So, I might want to make sure that I send out this blog post in email. So that's another way that we can get some extra traffic to a particular blog post.
+
+[00:11:18.550] - Sherry
+Now, the last date that we're going to look at is we're going to look at February 2nd of 2021.
+
+[00:11:38.570] - Sherry
+Okay. And when we look at that date, I can see that my spike came from Google. I have no idea why. On that particular day, we have lots of extra people coming to visit my site from Google. 
+
+[00:11:53.130] - Sherry
+So, there's really not a lot of action that I can take on this particular one. But hopefully you can see how looking at this, you can go back, you can do an email, you can do a Facebook post wherever the traffic came from. Repeat that again. Okay. So that is our second trick.
+
+[00:12:16.710] - Sherry
+Now, on our third trick, we are going to compare traffic sources to determine which one is responsible for lower traffic. So, let's say that our traffic has dropped off a little bit and we're not quite sure why is it Pinterest? Are we losing Pinterest traffic? Is it Google traffic? What are we losing here?
+
+[00:12:38.070] - Sherry
+So the way that we look at that is we are going to go to acquisition all traffic, and then we are going to go to channels first. I think sometimes I look at channels. Sometimes I look at source medium and I need to change the state because we don't want to look at just one day on this.
+
+[00:13:13.030] - Sherry
+Okay.
+
+[00:13:16.910] - Sherry
+In the other little trick, we wanted to look at this by day, but for this one, we want to look at this by month. It's a little easier to see the graph and what's happening with your traffic this way. And one little trick, in case you didn't know this is defaulted to users, I can change that to sessions, anything. I want to change it to sessions.
+
+[00:13:37.320] - Sherry
+I'm going to change that possession. Now down here we have our traffic sources. We have organic traffic and social. So, I'm going to click both of these little boxes over here on the side. And then I'm going to click plot rows.
+
+[00:13:53.150] - Sherry
+And what happens is it's going to show you your traffic like the orange line is going to be your organic traffic and the green line is going to be your social traffic. And you can see that the social traffic is pretty much the same. It looks like it might have gone up a little bit in September, but that's fairly flat. The orange line, though, is where I'm getting a lot of my traffic. And just so you know, the reason I have like, this big spike here is because this is September, October, and those are the two months that I get.
+
+[00:14:27.750] - Sherry
+A lot more traffic comes out ideas. Okay. So for this, there's not really a lot that I can do with this. You know this is following this curve. I might work a little bit more on Pinterest here and maybe see if I can grow that a little bit more.
+
+[00:14:46.070] - Sherry
+But for the most part, this is not something that I can do a lot with. Now let me show you one other thing, though. Let's unclick these. And I'm going to click into Social, and then we can see Pinterest and Facebook and I'm going to plot those rows. And you can see the same thing going on here. Now I'm going to show you some, actually, some screenshots from a couple of my clients that I want to show you, grayed out their information, so you don't know who it is.
+
+[00:15:24.430] - Sherry
+But the reason I wanted to show you these is because these give you a little bit more of hey, this is something I can take action on.
+
+[00:15:32.570] - Sherry
+So with this client, their social traffic took a pretty big nosedive there, and their organic search traffic took a pretty big jump. So, with this situation, I continue doing whatever they're doing and maybe even ramp it up. Maybe they're updating old blog posts, something like that. So continue doing whatever they've been doing to make this organic search stay, you know keep trending upwards.
+
+[00:15:58.690] - Sherry
+And then I might dig a little bit into my social traffic and see, you know did I change something in my Pinterest strategy or my Facebook strategy, or is this just the nasty Pinterest algorithm? What is this that cause this? That's something that I would do with this particular account. So, with this account, what we're seeing here is that the lines are fairly close to each other, but they're kind of cross and then looks like they might be crossing back again. So, with this, I would probably again check and see what's going on here to make the social traffic drop off a little bit and then just kind of continue with the search.
+
+[00:16:45.220] - Sherry
+Now, one thing I wanted to mention to you if you see the date here is January 1st through November 13 on this particular screenshot, and I haven't defaulted two months here. It's really easy to forget that we're looking at, that we're only seeing November numbers through about the middle of the month, and it looks like, oh, my goodness, the traffic just took a terrible nosedive in November. Well, it didn't really, because this is just two weeks that we're looking at here where all these other points are an entire month's worth of data.
+
+[00:17:18.720] - Sherry
+So, I just wanted to mention that to you because I know that can be a little bit confusing. Okay, so our fourth trick is to identify blog posts that are doing well from one traffic source, but not from another.
+
+[00:17:33.630] - Sherry
+Okay. I'm going to go back over here to my account and going to go back to behavior, site content, all pages.
+
+[00:17:45.130] - Sherry
+Now, in this particular instance, I want to show you my results for one specific blog post. And instead of going down through here and I could go down through here and look for the different you know look for that URL, I could search. I could show more rows and look for it. But what I'm going to do here is I'm just going to search and you don't have to put the whole thing in there. I'm looking for a blog post about robots.
+
+[00:18:10.660] - Sherry
+I'm just going to put robot in there. And then you can see, I actually have a robotics tag. And then I have two robot post, one's about making a robot hand, and one's about making a robot out of a toothbrush, which is kind of a fun project. Okay. So, I'm going to click on this because this is the one I want to look at.
+
+[00:18:30.670] - Sherry
+And then how to make the Cub Scot robots with toothbrushes. I'm going to add my source medium again and then I want to look and see. Okay. In this particular instance, I'm getting almost 55% of my traffic from Pinterest and only 18% from Google. So, what we want to do here is we want to find out how much traffic my site as a whole gets from Pinterest, and the reason for that is just so we can have some comparison.
+
+[00:19:06.250] - Sherry
+So again, let's remember that Pinterest was about 55% of the traffic for this blog post, and Google search was about 18%. This time, I'm going to go back to acquisition. I'm going to go to all traffic and I'm going to click source medium. And we can see here that my Google traffic for my site as a whole is 63% yet on that one blog post, it was only 18%. So that says to me that I probably need to work on that post some more in Google like, I need to work on the SEO and see if I can get that search traffic up.
+
+[00:19:47.510] - Sherry
+There's something missing with that particular post.
+
+[00:19:50.070] - Sherry
+I mean, I'm glad it's doing well on Pinterest. I just want it to do just as well on Google as well. You can do this with any of your blog posts. Take a look at it, compare it, compare it to what your site as a whole is doing and then decide what your action needs to be from there. Now let's talk about our last actionable Google Analytics trick, and it is to create and track a campaign URL.
+
+[00:20:13.130] - Sherry
+And I want to start by telling you a little bit about what a campaign URL is. A campaign URL will show you more specifically where that traffic came from. This is beyond just the source medium that we normally get. There are some services that you may use that already have added a campaign URL for their link. This could be things like your email service provider, your social share buttons, or even tailwind.
+
+[00:20:39.630] - Sherry
+If you use tailwind for Pinterest. Now I want to show you some examples. I'm already in acquisition, but now I'm going to go down to campaign, all campaigns. And I'm going to show more than just the ten that are there. And you can see that I've got here's tailwind, tailwind. Grow is my social share button. These are titles of emails that I sent out so you can see all the different ways that people got to my website.
+
+[00:21:11.330] - Sherry
+In addition to these automated campaign URLs showing up in your Google Analytics, you can also create your own. And let me tell you when you might want to do that. Let's say you wanted to try to do some manual pinning, and you just wanted to see, you know do I get any traffic from those manual pins? Do I get more than I get from regular pins you know what that are scheduled? What are the results of that? So, I did that a couple of years ago and I came up with this very brilliant campaign name of Fall 29 pin man, which for me means pinning manually.
+
+[00:21:50.490] - Sherry
+So what I did was I put the campaign URL that had this campaign on it as the link on those pins that I was pinning manually. Now another one that we did that was manual, the person who does my Pinterest did some video pins for me back in 2019 was the first time I'd had video pins on my Pinterest account. So, I decided to make a special URL for those that included this on it Fall 2019 Pin man. And you can see that's actually done pretty well.
+
+[00:22:25.210] - Sherry
+This was two years ago when I created this and I'm still getting traffic now. Another good way to use a campaign URL is if you do Web stories.
+
+[00:22:35.890] - Sherry
+Now I actually wrote a blog post just last week about the analytics around what web stories that's on my pinlist blog analytics blog. So, feel free to hop over there and take a look at that. There are a few things that you need to be aware of just in terms of how to track those things. So, let's say you do want you. We're going to create a story and we want to track that story with the campaign URL.
+
+[00:22:57.420] - Sherry
+Now let me show you how you build that. What you're going to do is just search for campaign URL builder. It has kind of a funky URL, so I would never be able to remember that. So just search for this and when you pull it up, you can see it's a Google analytics product. Now, there are four pieces of information that are required to create a campaign URL.
+
+[00:23:21.150] - Sherry
+Excuse me. You need to know the website URL. You need to know the campaign source, the campaign medium and the campaign name. Source and medium need to be whatever Google is already using for that. Now I know that for web stories, Google is using Discover as the source and organic as the medium. Campaign name can be anything that you want it to be to help you remember. You could do get really fancy with the naming like I did with that 2019 you know Pin Man, or you can do whatever you want to do there.
+
+[00:23:51.350] - Sherry
+So, let's say we're going to do a story about this blog post here, which is the Alpha Seltzer Rockets that I made with film canisters. I'm going to copy that. I'm going to pop back over here to the campaign builder, and I'm going to put that in here. And like I said, the campaign source is going to be discover and the campaign medium is organic. These are case sensitive.
+
+[00:24:14.040] - Sherry
+So, you want to make sure that you do all lower case here. If you do uppercase, you're going to wind up with two different source slash mediums, one with Discover with the capital D and one with Discover with the lowercase d. Now the campaign name. What I've decided to do as I start to do more stories is I'm going to do a WS dash at the beginning just to let me know that that's a web story. And then I'm going to do let's see Canister rocket, and it needs to be all you know smooth together.
+
+[00:24:44.650] - Sherry
+It doesn't need to have a space in there.
+
+[00:24:46.330] - Sherry
+Now, if you look down here at the bottom, we've got the URL sources, discover medium is organic and the campaign is this was-canister rocket. So, I'm going to copy that and let me pop into the this is the Google Web Stories plugin editor, and I want to show you where you would put this. Okay. So, where you would put this is in the page attachment on your design. So that's where you're going to put this URL over here.
+
+[00:25:18.270] - Sherry
+Now, another place that you might want to put this URL is let's say I have, I decided to make this text be a hyperlink. You can see right there add link. I would want to make sure that I did a campaign URL for that as well. So, after you've got that finished, then you know this will track exactly which web story your traffic is coming from. You may say, but Sherry, if you do a web story about a Canister Rockets and you have traffic that's coming from Discover Organic to the Al Consults or Rockets blog post, it's pretty evident that it came from the web story.
+
+[00:25:59.920] - Sherry
+That's right. But let me show you something that it doesn't tell you. And I'm going to find there's a specific email that I sent out. I sent this email out about a month or so ago, and it was for a blog post that I have where I have some printable word search puzzles for Cub Scots. Now, the only links that I put in this email were to my home page and to the page that actually has the word search puzzles on there.
+
+[00:26:27.860] - Sherry
+Now what I'm going to do is I'm going to add a secondary dimension of page and you can see you have two options here. Landing page is just the very first page that they landed on when they came over to your site, where page will tell you anywhere else that they happen to visit after they came over from that email. So, let me show you. Okay. I'm going to
+
+[00:26:55.880] 
+3.Show a few more rows and you can see that most of the people came over and they landed on the blog post with the puzzles.
+
+[00:27:07.270] - Sherry
+Then I had some people that came to my home page. But then look at this. All of these others are pages on my blog that people visited. So, maybe they came to the puzzle maker post and then they popped over to my find the hidden object activity or to the kids fingerprint activity. But they're visiting more than just these two things.
+
+[00:27:28.960] - Sherry
+So that's why it's really good to know this. Now I'm going to scroll down and you can see the people that came from that email over to my site and wound up visiting 137 different pages or posts on my blog. So, the way I would make this actionable is pop in some of these. If you find one that seems to be pretty successful, there's actually a couple of things you can do. You could say, okay, I need to send out another blog post, not blog post.
+
+[00:27:59.740] - Sherry
+I need to send out another email with the links to this particular blog post, the one with the search puzzles on there. And hopefully, you'll get the same results of people visiting lots of other places on your site. Now, the second thing that you can do with this information is you know look at some of these emails, and if you find some like this one that's got 137 different places that people visited, pop into that blog post and examine it. And see what am I doing in that blog post that I might not be doing in others?
+
+[00:28:31.950] - Sherry
+Do I have lots of links out to other places on my blog? Is that what causing people to stop there and then visit other things?
+
+[00:28:40.690] - Sherry
+So, if you find that's the case, then you know, go into some of your other blog posts and add some more links to it. Okay. So that brings us to the end of our five actionable Google Analytics tricks. I hope this has been helpful to you guys. I will be in the Facebook group for the Summit.
+
+[00:28:59.380] - Sherry
+So if you have questions, feel free to leave them there or feel free to email me at Sherri at painlessblogganalytics.com. Thanks again to Liz for having me. I really appreciate you letting me join the Summit today, and I do have a little something special for you guys. I've put together a freebie that you can download that will help you keep track of those campaign URLs that you generate.
+
+[00:29:22.880] - Sherry
+So if you're interested in using that for your blog, just click on the link below and pop over and sign up for my email list. Now I'll send you the printable, and then you'll also hear information about what's going on at painless Blog Analytics, including courses that I created and any sales on those courses. I actually have have several courses available right now that are about Google search console. So, thanks again.
+
+

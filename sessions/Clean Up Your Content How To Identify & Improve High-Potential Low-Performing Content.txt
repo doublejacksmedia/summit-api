@@ -1,0 +1,249 @@
+Title: Clean Up Your Content: How To Identify & Improve High-Potential Low-Performing Content
+Speaker: Niki Robinson
+
+Website: https://postsbyghost.com/
+Level: Intermediate
+Category: SEO
+Length: 29:51
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/clean-up-your-content-how-to-identify-improve-high-potential-low-performing-content-niki-robinson/
+
+Transcript:
+[00:00:13.370] - Niki
+Hi, everyone very excited to be part of the Blogger Breakthrough Summit this year. My name is Nikki Robinson. I'm President of Posts by Ghost. We're a team of writers and SEO experts that is search engine optimization, which is what we're going to be talking about all today. We work with businesses, but most importantly, bloggers from all over the globe. So a little bit about us, we go straight content, we perform keyword research.
+
+[00:00:41.540] - Niki
+We do post ideation, we do SEO audits, we fix SEO problems, but most importantly, we do content optimization, and that's what we're going to be talking about today. So this section is called Clean Up Your Content, how to identify and Improve high potential, but low performing content. So that basically means that especially if you've been blogging for a long time, you probably have a ton of content out there. And you may have some stuff that's older, and maybe it's not as good because you know we all get better as we go.
+
+[00:01:10.890] - Niki
+You may have stuff that frankly, you look back on and think, wow, I'm embarrassed.
+
+[00:01:15.090] - Niki
+I didn't even know that was out there still. But you also may look back and say, man, you know, I did this really cool project or you know I had this really cool recipe and it turned out really great. But when I look back at that content, I just know that it's not really up to snuff. Like, if I had produced that piece of content today, I would have done a lot different job. I would have done a lot better.
+
+[00:01:39.630] - Niki
+So what this session is about is going through your old content and cleaning it up. Okay. So why do we want to clean it up? Well, we really want to get rid of the clutter, and so, Google can focus on our really important, you know needy actual content. But we also want to make sure that everything we leave on our blog is absolutely the best quality that it can be.
+
+[00:02:04.390] - Niki
+We don't want to have half of our site being dragged down by pages that just need improvement. We want to do is work through that old content, get it cleaned up, get it optimized, get it as good as it can be and you know get it out there in front of Google. So, a lot of problems that bloggers have frequently is how to prioritize which content to work on. And that can be a little bit tricky. So what we're going to do is use Google Search console as a tool to help us identify which content is in that SEO zone, as we call it, you know the opportunity zone for SEO. And which content you should spend time on, whereas which content,
+
+[00:02:43.310] - Niki
+maybe you shouldn't. Important point of note, SEO is a long game. Okay, this isn't something that you're going to immediately pick your top six posts, optimize them, and then everything is done forever. What you're going to be doing is making strategic changes over time to improve your content, your website and therefore, the Internet. Google likes that. Honestly, cleaning up your content should be part of your regular blogging cycle.
+
+[00:03:10.190] - Niki
+It should be just as much of your calendar as you know creating a post every week. You should also be cleaning up a post every week, every other week, or making that part of a regular occurrence that happens on your blog. What you're going to want to do is clean up your content, republish it with a new date, submit it in Google Search console and call it a day. We're going to walk through exactly what all of that means in this discussion. And I'm going to show you exactly how to use Google Search console.
+
+[00:03:40.240] - Niki
+I'm also going to give you a workable process for prioritizing and taking action on that high potential low performing content.
+
+[00:03:48.270] - Niki
+All of the secrets really lie within Google Search console. And it's an awesome tool if you're not using it and it's free. So, there's really no better way, you know to get in and get in Google's head and see how Google sees your site. Alright, so enough intro. Let's dive in and get started. I'm really excited to show you guys some really actionable stuff that you can take away from today and apply to your blog.
+
+[00:04:13.350] - Niki
+Just to note, you may want to turn off your phone or put it in 'don't disturb' mode so that you can concentrate and take notes. I just want to make sure you don't miss anything because this is pretty, you know action pack and intense. And you know we're going to go through a lot in 30 minutes. So, let's get started. Okay, so quickly before we dive into Google Search console, I just want to walk through what I mean by optimizing your content. So, you'll notice in the slide here that we have common SEO terms.
+
+[00:04:41.850] - Niki
+Essentially, what we're looking to do is make sure that each of these pieces is optimized appropriately. And to the fullest extent. The more you make a point of ensuring that each of these bullet points are hit when you optimize a post, the more likelihood you'll have of it ranking. So, I don't want you to just go in there and kind of willy nilly rework the content. We really want to be strategic. And so, we're choosing a long-tail keyword and we're getting it in these different pieces.
+
+[00:05:10.960] - Niki
+But there's more to it than just putting the keywords in there. Now, if you think you already know all this and you really want to get to the Google search console part, just hang in here for 2 seconds. Because basically, you might miss something that is important that you need to include when you're optimizing your content. So, obviously, your post title is going to have your keyword in it. We want to make sure that it is really catchy and that it is something that people want to click on your post content.
+
+[00:05:37.120] - Niki
+Of course, we want to include your long-tail keywords or semantic keywords.
+
+[00:05:41.150] - Niki
+We want to get it really rich. But one thing I want to point out is you don't ever want to just add words to add words. We're not just, you know keyword stuffing. We're not just, you know making it longer or anything like that. We are adding rich meaty content to ensure that the post is really, really, exploring the extent of the topic as thoroughly as possible.
+
+[00:06:02.000] - Niki
+If it is something that only takes a certain amount of words to say, and that's all there is to say about it, that's fine. But if you are creating a project or if you're going through a philosophy or something, you really want to be as thorough as possible to ensure your best ranks. Your H2s. These are great places to include your long-tail focus keyword as well as semantic keywords. Think of your blog post like an outline. Your H1 is your post title.
+
+[00:06:31.000] - Niki
+Your H2 are your section headers, and then your H3 would be your subsection headers. And I usually don't recommend going further than that. Google uses H1, H2, H3 to understand the hierarchy of your content, just like an outline. So when we're not using these things appropriately, you know when we're using H3 instead of H2 because the font looks prettier, we don't want to ever do that because it really gets people confused about the layout of everything. Not to mention that certain accessibility tools, also understand how the content is structured because of the H1, H2, H3.
+
+[00:07:03.430] - Niki
+So we always want to make sure we're using that in the right order, really nicely breaking out sections where appropriate, including those long-tail and semantic keywords.
+
+[00:07:13.030] - Niki
+Then you also have the images in your post. One thing that's very often overlooked is your image name. So we're not just talking alt tags here, we're talking of the name of the actual file. So, you know including your keyword when appropriate, but you know you want to have it be, you know don't make the name of your image too long or anything. But make sure it's a little bit descriptive.
+
+[00:07:36.300] - Niki
+Make sure that it's really clear so that you know, you want it to be clear enough that you know, you have the words in there that make it easy for you to recognize what that photo is without seeing it. So that's one kind of hint. Right. And then secondarily, we want to go and get our alt tags in there for every image. So, we want to make sure that every alt tag is unique in every piece of content.
+
+[00:07:56.990] - Niki
+We're never repeating the same alt tag over and over. We're including our keywords when appropriate, but not to an extreme extent, only when they actually describe what is in the image. So, we're also writing our alt tags as though someone who may have trouble seeing well so that they would understand what the image is without having to see it. Alright. Seo title, definitely, want to make this one as catchy as possible, but really, really hone in on the keyword here.
+
+[00:08:24.080] - Niki
+So, the difference between your post title and your SEO title, your post title is kind of where you can maybe explore more like fun and add more about your personality. Make it a little longer, make it a little like oh, what's this about that kind of thing. But when it comes to your SEO title, you want it to include the focus keyword and you want it to be very clear what this is. You know, it's a guide about this, or it's a walk through here, or it's a, you know, it's how to do this.
+
+[00:08:49.630] - Niki
+It's very clear what it is. It doesn't mean you have to suck the personality out of anything to make your post rank. But for your SEO title, you just want to be really clear what the post is about. And then your post URL, that should be usually basically what your SEO title is. So, you want to keep that, most people say to keep it succinct.
+
+[00:09:10.980] - Niki
+But honestly, I've seen posts with rather long URLs ranked just fine. But what you really want to do is make sure those keywords are as close to the name of your blog as possible. So, it's, you know https/// you know the name of your site, and then, you know use those focus keywords upfront. But make sure the URL kind of makes sense. So, it should be like, you know how to plant your spring garden or whatever, but it should be specific.
+
+[00:09:40.490] - Niki
+Include the keywords and be really clear as to what the post is about. One thing about the post URL that is really, really important is when you're going back through. And especially these posts that I'm going to show you that are in this opportunity zone when you're going back through and looking at those. When you go ahead and go in and go buff those up and really, you know optimize and get all these bits and pieces in place that I'm talking about right now. If that post is ranking on page two, page three.
+
+[00:10:05.030] - Niki
+So let's say it's not ranking well, but it's ranking okay, but it's on the map. You absolutely don't want to change that post URL, because even if you set up a 301 redirect to the new URL that linked you, so to speak, really does not transfer as thoroughly as you like or hope from the old URL to the new URL.
+
+[00:10:25.000] - Niki
+So, this is another reason why people have to be careful, like, for example, changing their brand name or their blog name. I'm sure you've heard horror stories where someone changed, like rebrands and essentially all their traffic tanks. And even if they set it up correctly, it's just because Google doesn't always get it. So, you essentially just really want to not change that. Make sure you get it right out the door and don't mess with that because it's going to make Google confused. And that could make you lose the rankings that you have.
+
+[00:10:53.770] - Niki
+Your meta description definitely includes those keywords. Again, we're not plugging them in there just to plug them in. What we really want to do with the meta description is explore the user intent and make sure that it is explaining exactly what the post is about, and making the reader go, yes, I want to click that. Now, even though Google doesn't always pull the exact meta description, it's still important for Google and for readers to understand what that post is about.
+
+[00:11:19.240] - Niki
+So that meta description field is not something to take lightly. And then we have internal and external links. Now this is a little bit more involved, and I don't really have time to go into it all today. But you definitely want to make sure that your content is well linked, especially your internal links. Your internal links are telling Google which pieces of your content are most important. So, you really want to make sure that your relevant and related posts are really well interconnected within your own website.
+
+[00:11:48.440] - Niki
+It's the best way to give your own content a nice little boost and structure so that Google understands it.
+
+[00:11:55.760] - Niki
+So that means that, for example, your top menu should have really nice, you know categories. And then each category should be really clearly going to a certain set of posts, and all of those posts are related. And so, they're all interlinked together. You can link them together within the content you should. And then you can also say if you like this, read more, and have links to additional content in the bottom of the post. External links are a little bit more tricky. What I will say is that when you are buffing these up, definitely make sure that if you cite anything or if you're crediting someone else, or especially if you have a sponsored situation, make sure that you are using external links appropriately. Make sure that they have the appropriate, you know, follows on them.
+
+[00:12:42.180] - Niki
+If they're sponsored links, just making sure that those external links are put together correctly, put together thoroughly and well explained within your content.
+
+[00:12:51.630] - Niki
+When you don't have any external links that can look kind of fishy to Google. And you also want to make sure that you're only ever linking to really high-quality materials, high-quality quality sites, high-quality stuff. I usually say have any given link open in a new window, so have the link pop so to speak. So that's your basic rundown on optimization. Let's get right into Google Search console. Oh, wait. Before we pop right into Google search console, you're going to want to go and do yourself a huge favor and get keywords everywhere.
+
+[00:13:21.710] - Niki
+It is a Chrome or Firefox extension that integrates with Google Search console and unlocks a ton of data that you would otherwise need to look in a bunch of different places for.
+
+[00:13:32.120] - Niki
+And we're going to use this as I show you how to find this low performing, high potential content. It's unfortunately not free, although it used to be. So of course, now, it's not, but it is super affordable. So, you can see over here, I have 25,000 credits left. I believe it's like $10 for 100,000 credits, and I've only had to refill it like twice since I started using it or since it went paid.
+
+[00:13:58.050] - Niki
+So it's a really good deal. You're not going to spend a ton of money on this. Alright. Now, finally, the moment you've been waiting for, we are in Google Search console. And today we are going to be diving into the very exciting world of water heaters because I will not be sharing anyone's blog data. And this is the client where I can give you a good example.
+
+[00:14:18.650] - Niki
+So essentially, what you want to do is go to your Google search console. And here we are on the main page. And what we're going to do is focus on this performance section. So, I'm going to click Open report over here.
+
+[00:14:32.570] - Niki
+Okay. So now what I want to do is I want to find that high potential, low performing content. Right? So, the first thing I'm going to do is I'm going to go to this compare field. So right up here where it says date, you're going to click this little pencil. And then you're going to click over to this compare tab and you're going to compare last three months year over year.
+
+[00:14:51.200] - Niki
+Now, the reason I do year over year is because you know, basically, especially if you have holiday content or anything seasonal. We always want to compare what's happening this year to what's happening the same time last year. So if I do compare year over year, I'm going to click apply.
+
+[00:15:08.970] - Niki
+Okay. So, here we can see that our performance has been decreasing when I look at total clicks. When I look at total impressions. You know, Obviously, I'm not getting as much of my share of the pie in 2021 as I was in 2020. So, typically, a great place to start is make sure that you have clicks and impressions highlighted.
+
+[00:15:27.420] - Niki
+Make sure that your keywords everywhere is on. And as you can see, that's going to plop this volume data right into search console, which is awesome, because then you can see your data alongside the search volume without having to go into multiple tools. So, I really love that feature about keywords everywhere. What I'm going to do here, though, is I'm going to click on pages. And then I am going to sort by impressions difference, and you usually have to click two times here because what we're looking to do is get the most impressions lost.
+
+[00:15:56.350] - Niki
+So impressions are how often you show up in search, doesn't matter if somebody clicks or not.
+
+[00:16:00.970] - Niki
+That's just how often you show up. You may want to sort by clicks difference. Certainly, sorting by clicks is another way to go to determine which pieces of content are losing the most round. So again, I'm going to scroll down and I'm going to pick what I believe to be the most relevant content that I really want to work on. And right now, I'm totally trying to improve a certain service line.
+
+[00:16:25.210] - Niki
+Right. So, what I want to do is I want to look for what's the most relevant piece of content that I want to improve that's losing clicks, losing impressions, and just overall, losing ground. And for us, that is going to be water heater maintenance tips. So, I'm just going to go ahead and click on that. So what's cool is now what you'll notice is this is just going to filter if you look up here in this page section.
+
+[00:16:48.370] - Niki
+This is now just filtering by that one particular post. So, this is cool because you can get just the information for that post only. So, now, I'm going to go. Okay, you can see what we've lost here. We can see that our click through rate was never very good.
+
+[00:17:03.360] - Niki
+So, okay, this probably needed more attention right out the gate. And our average position has definitely decreased, but was never really that high. This field is not always as helpful as it could be, just so you know. But good news about this is, if you have any questions about what each of these things are, there's a little question mark over here where you can hover over it, read more about it, and even click to learn more to learn more. So, let's see.
+
+[00:17:28.660] - Niki
+So, basically, we're going to scroll down and now you can see it's just this one post that I want to work on because I'm losing ground. So, what I really want to do is make sure that this is truly in the opportunity zone. So, I'm going to click on queries. And now what I want to do is I'm going to unselect impressions, and I'm actually going to select average position, so that my data down here changes a bit. Sometimes, you have to refresh for the keywords everywhere data to flow in here, just FYI, which can be a little bit annoying.
+
+[00:17:57.310] - Niki
+But you'll see what I mean when it goes in here. So just a second. So, basically, you're going to want to do, right away, go to more rows per page down here at the bottom so that I can see more data. And again, all of these queries are only queries for this post. So, this is a great way to see.
+
+[00:18:17.100] - Niki
+Okay, where am I showing up in search for just this post. So, what I usually do first here when I'm in this section is click on position. And again, I'm clicking twice to get it to sort right now. What I'm going to notice first of all is that I'm going to notice some zeros. And so, the thing about this is zeros in this, if you have a position that used to exist, but now you do not.
+
+[00:18:42.400] - Niki
+That actually means that you've lost that keyword entirely. So, those keywords are definitely things that I want to pay attention to and see like, okay, did I lose anything important? So, for example, if I've lost price of a water heater, for this one, I was in position 53 anyway. So, I probably was never really ranking that well for this one in, you know in general. And as you can see, there's not any clicks or anything anyway. But I do want to pay attention to any keywords that I've lost that had, you know, page one ranks, especially in the top three positions.
+
+[00:19:14.830] - Niki
+So, what I'm going to do is I'm going to scroll through all of my zeros. And I'm looking for the first actual, you know, piece of data that is a true number. You can see we've lost a lot of keywords. That's not always a bad thing by the way I mean sometimes, you can lose keywords because you know Google no longer finds them relevant to that piece of content, and you know, perhaps they were already doing poorly.
+
+[00:19:37.120] - Niki
+I'm scrolling through things where we were ranking in a position 95, 98. I mean no one's ever seen these keywords anyway. I mean this one is, you know, this one is about furnace cleaning, so, you know, I mean obviously, that's not relevant. So, a lot of the times when you lose keywords, you do lose things that were never relevant in the first place. You definitely want to pay attention to keywords that you may have lost that are relevant. So, anyway, I'm going to keep scrolling down here until I get to a number and I get to a number here.
+
+[00:20:04.340] - Niki
+So, finally, at the very bottom here, I've got position 3.9. Now, as I said, the volume isn't flowing in here, which is kind of annoying. But my point is that position 3.9 is the best position I have for this entire post. So, I'm in position four, which is not in my ideal type three for water heater annual maintenance cost.
+
+[00:20:27.780] - Niki
+And I have to say, okay, is that keyword relevant to my content and you know, is positioned for something I'm happy with? And for this post, I'm going to say, yeah, it's relevant, but it's not exactly where I'm going, but at the same time, you know I think we can do better than position four being our best position. So, then I'm going to flip to the next page, scroll to the top, and just kind of get a clue where the rest of the keywords are here. So, after that one that's in position four, all the rest of my keywords are in position 9, 10, 11.
+
+[00:20:58.170] - Niki
+So, these are all floating on the page two.
+
+[00:21:00.400] - Niki
+And I can also see that I have, for example, you know lost certain positions here that I did want to rank for. So this is something to pay attention to here, like 3.6. I used to be for this one, water heater maintenance cost, and then now I'm in 9.5, which is way further down the page. So, in this case, we don't want the numbers to increase. And this is telling me like, okay, not great.
+
+[00:21:24.950] - Niki
+Now what we're looking for here is if I had a high volume keyword that was in position one, two, or three. Or if I had, like, a really high volume keyword, but I was in position like five or six, then I would say maybe I don't want to mess with this post yet. Maybe this is not one to prioritize right now because it's holding rank and it's doing pretty well. And that's the thing is like, you know we always want to improve our content to make it better. That is absolutely true.
+
+[00:21:52.270] - Niki
+But when we have things that are doing super, super well, a lot of the times, you know, I tend to err on the side of caution.
+
+[00:21:58.800] - Niki
+There are many other things you can do to your content rather than mess with things that are already doing well. So, I always take an approach to go with this middle ground content and you know, focus on this stuff rather than focusing on things that already are working. So, if we see here, I am in the opportunity zone. And by opportunity zone, I'm meaning like I'm on page, you know, like I said, that one had position four. But now I'm on like, you know, position 9, 10, you know, this is position, oh, sorry, this is page two.
+
+[00:22:26.130] - Niki
+You know nobody is probably finding this. And you can tell here that the one that I was ranking better in position 3.6 here. I've lost like, basically all of the clicks I was probably getting in that position. So, now I'm like, okay, I need to get this knocked up a notch, because what I'm trying to sell at this business is truly helping clients understand the cost of maintenance and what preventative maintenance does for this equipment.
+
+[00:22:54.010] - Niki
+So that's the point of it. And that's the traffic I'm trying to drive. So, again, relevance is most important here. So, now that I've identified that this is definitely one that is a, you know, in that opportunity zone, that's great. Now I'm going to narrow down my keyword focus.
+
+[00:23:10.620] - Niki
+So, now I want to say, okay, this post really focuses on maintenance. I've got a ton of keywords in here. And I don't know if I really want to deal with all of these keywords right now, because I feel like most of these are not going to be as relevant as I wanted them to be. And I need this one to focus on maintenance. So, now you can filter it down even more by clicking on new over here. And we're going to go query. So, here, I only want the keywords that say maintenance.
+
+[00:23:36.220] - Niki
+So, I'm going to go, you know maintenance, just make sure I'm casting a wide net. And I'm going to click apply. So, this is going to give me, you know, more of the relevant keywords that I'm looking for. Now, my keywords, keywords everywhere friendly decided to refresh. And so, I've got my keyword volume data in here. I can expand this to more rows per page.
+
+[00:24:00.110] - Niki
+And now what I have. And again, sometimes, you got to wait for these keywords everywhere to fill in. But now what I have here is I have a really cool, first of all, built-in keyword research. So, this is telling me, hey, here's a bunch of high-volume keywords that you are on the map for but you're not doing super well. But when I narrow down my keyword focus, I can see that I'm kind of on the map.
+
+[00:24:25.360] - Niki
+I mean poorly. Right? I'm on page like 2, 3, 4, 5, whatever, for a lot of these. But the thing is that I have my keyword research in my direction that's in here pretty clearly right now. And I can see where I want to go, and I can explore these different keywords, and see where I want to take this post. So, since I already filtered by the query, you know, and you don't have to filter by the query, you can always just, you know, work with the multitude of keywords in there.
+
+[00:24:56.450] - Niki
+This one had a ton. So, I was just trying to show you that you can filter by that. But what you can do then to get a nice built-in keyword research list is this little button down here shows up when you have keywords everywhere set up. You can also do the export from up here right in Google search console.
+
+[00:25:13.030] - Niki
+But this doesn't quite give you the data that I was looking to get right here. You can definitely experiment with that if you're not afraid of spreadsheets, the export tools can very much be your friend. But this is a very simple, quick export. I promise. If spreadsheets freak you out, you're going to just click this export CSV and open that up, and it's going to open into Excel.
+
+[00:25:37.630] - Niki
+And here all I need, this is going to give me trends over time and whatever, and you can use that information. Fine. But what I want to show you is just a really quick way to understand what's going on with your keywords, your built-in keyword research.
+
+[00:25:53.550] - Niki
+So, this is always going to drop everything that this post ranks for. So, just keep that in mind. But I'm going to just highlight everything, go up to data, go to sort. And then it says my data has headers. I want that checked, and I'm going to go volume sort by largest to smallest and click OK. Now if you look, I've got a built-in list of all of these really great long-tail high volume keywords that I can work into the post if appropriate.
+
+[00:26:22.030] - Niki
+Okay, again, this one, I'm focusing on maintenance. So, you know all these aren't going to apply to this exact post. But this is going to give me again that built-in keyword research for this post that is in that SEO zone because it's in that middle ground, right? It's like not doing that well, but it's like, so close to doing well that if we just give it some more oomph and really buff it up, and optimize to get all the pieces in place, we have a lot more opportunity to rank well for this piece of content.
+
+[00:26:52.090] - Niki
+Som back in Google search console, feel free to play around with these and toggle, you know compare month to month.
+
+[00:26:59.300] - Niki
+Compare different posts. Use different queries to filter and stuff like that. It's unfortunately not an amazing, amazing tool in that sense, you can only filter and sort certain ways. So, you really do want to plop it into Excel and work the magic there if you're getting really involved in this, but you can certainly get a nice, you know plan of attack. Literally,
+
+[00:27:21.580] - Niki
+you just can go right in here, and it'll say, here's where you're dropping and you can look and say, okay, yeah, I'm dropping, I'm not ranking well. And then you can say this is super relevant to my audience. And then you can go in and improve that post. So that's like the whole shebang for how to determine what's going on.
+
+[00:27:38.720] - Niki
+So, you can determine what's going on. You pick the post, you've improved it. Then what you want to do is go up here and use this URL inspection tool. So, this post is this one, I'm going to copy that right in there and click enter.
+
+[00:27:54.710] - Niki
+And then it says URL is on Google. We can see submitted an index. What you want to do is okay, I've improved this, I want Google to see that I improved it.
+
+[00:28:03.660] - Niki
+Now Google is certainly going to go and look at your site map if you have that submitted already and that's all in there correctly. And that's awesome. But I always say, let's try to get this on Google's radar as soon as possible and purposefully to say, hey, Google, I really did work on this. So, right over here to the right, you can see this says page changed request indexing.
+
+[00:28:23.660] - Niki
+And so essentially, you literally just click that and it will put it in the queue so that Google will look at it and say, oh, wow. Okay. This was definitely improved and then knock you up a notch. Now again, just like anything with search, you know it's not necessarily going to be the case where you're going to see immediate, immediate results. But what you want to do is keep cycling through your posts, keep doing this process with relevant content and get these improved, get them back on Google's radar and get Google focused on those really meaty, awesome pieces of content.
+
+[00:28:59.870] - Niki
+Alright, guys, thank you so much for sticking around for clean up your content. I had a really great time, and I know that I went through a lot of stuff very quickly. However, I promise I actually do it a lot slower and a lot more in-depth in my class Google Search Console secrets that you can get using the special promotional code just for Blogger Breakthrough Summit attendees. So, I hope you can check that out. I'd love to have you pop in there and learn a lot more about Google search console, and everything you can do to help you get more search traffic, get more, you know eyes on your content and you know make more money.
+
+[00:29:37.500] - Niki
+Alright. Thanks so much for having me, and it was wonderful. And I will talk to you guys later. Thanks.
+
+

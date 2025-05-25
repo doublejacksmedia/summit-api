@@ -1,0 +1,434 @@
+Title: Websites that Convert: How to Build a Website that Converts Readers into Customers
+Speaker: Mallory Herrera
+Website: na
+Level: Intermediate
+Category: Graphic Design
+Length: 38:42
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/websites-that-convert-how-to-build-a-website-that-converts-readers-into-customers-mallory-herrera/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton, Host
+All right, guys. I'm really excited that this session from Mallory of Mallory Herrera Solutions. She is a conversion expert and designing your website to do things you want. So, Mallory, thank you so much.
+
+[00:00:11.390] - Mallory Herrera
+Of course, thanks for having me.
+
+[00:00:13.190] - Liz Stapleton, Host
+Yeah. So do you want to give us just a little highlight into a smidge about your background and then what we're going to cover today.
+
+[00:00:21.260] - Mallory Herrera
+Absolutely. So I got into working in this online space. Probably like most people. I started blog. And even though I had gone to school for IT, and I really knew my way around the tech aspects of computers and the Internet and all of those pieces, I probably made every mistake imaginable that you could make when you start a blog for the first time. My branding was messed up. I didn't know who I was talking to. I didn't have my SEO understood properly. I did not realize how intense that was. So I have become a hardcore course junkie, and I have probably taken every course out there imaginable to make this a successful business, blogging as a successful business. So I love helping other people do that. I love sharing that bit of information because if I struggled with it, I'm in somebody else's too. So I started freelancing as a website designer, helping people, especially bloggers, really showcase their products and their services and their blog post out there and be able to convert more readers into customers, be able to get more people on their email list so that they can ultimately make more money.
+
+[00:01:43.540] - Mallory Herrera
+Because if your blog is not making money, it is a hobby, and it's an expensive one.
+
+[00:01:48.170] - Liz Stapleton, Host
+Yes, especially when you start buying all the courses.
+
+[00:01:51.730] - Mallory Herrera
+Yes, I don't even want to tell you how much money I've.
+
+[00:01:54.680] - Liz Stapleton, Host
+Spent on. Me either. I'm not going to bring that to myself.
+
+[00:01:57.730] - Mallory Herrera
+Okay.
+
+[00:01:58.580] - Liz Stapleton, Host
+So you want to give us the highlights of what we're going to touch on today? I know we'll probably veer into some things, but.
+
+[00:02:04.940] - Mallory Herrera
+Absolutely. So I want to talk about the keys to understanding what makes your website convert well, how to be able to immediately look at your website and go, Oh, this is not going to work, because a lot of people- Like.
+
+[00:02:19.080] - Liz Stapleton, Host
+My website right now, we're going to get to that. Well, then a.
+
+[00:02:21.790] - Mallory Herrera
+Lot of people tend to put blinders on. They're like, Oh, my website is my baby. I have a beautiful baby. No one can tell me that this baby is ugly. You know what?
+
+[00:02:32.160] - Liz Stapleton, Host
+Sometimes it doesn't work. Just because it's pretty in your eyes doesn't mean it's effective.
+
+[00:02:38.690] - Mallory Herrera
+Exactly. So I want to talk about what makes a website high converting. Talk about some of the design things that could be affecting your conversion rates, as well as some performance things that could be getting in the way of that as well.
+
+[00:02:52.000] - Liz Stapleton, Host
+Yes. And let's just go ahead and dive in. We'll be showing example at the end, and I'll explain more about that. I'll explain myself before we dig into that. But okay, so let's go ahead because we say conversion, and that could be so many different things, right? So it is the first step deciding what you want your website to convert.
+
+[00:03:14.160] - Mallory Herrera
+Yes, absolutely. First and foremost, you have to have a plan for your website. A website is not just this thing that you put up and you throw up some blog post and you have all of this information about you and your business and all of these different things and expect it to work. That's not what it's for. That's what Facebook is for. That is not your website. Your website needs to have a very specific purpose. And it's best to keep that purpose either to one to two things max, so that people don't get confused. People are simple creatures. We have to make things extremely simple for them when they land on your website because you have about 10 seconds to grasp their attention and get them to actually do what you want them to do. So making sure that you know what you're wanting out of your website is the first thing. So do you want people to sign up for your email list? Do you want them to read your blog post? Do you want them to join your Facebook group? Do you want them to buy a particular affiliate product? Do you want them to purchase your course?
+
+[00:04:15.720] - Mallory Herrera
+Do you want them to sign up for your services? What do you want them to do? If everybody landed on your site and could do one thing, what is it?
+
+[00:04:24.450] - Liz Stapleton, Host
+So.
+
+[00:04:25.260] - Mallory Herrera
+Understanding that is key. Okay.
+
+[00:04:28.530] - Liz Stapleton, Host
+So then once you know what you want to be accomplishing, which is a big step that does get skipped a lot. Yes, it does. I'm just following the course, and the courses will show you how to do things once you know what you want to do. But how do you determine if it's working or not?
+
+[00:04:44.900] - Mallory Herrera
+I think the biggest thing comes into understanding who your ideal audience is, whether you were looking for a particular type of client or a particular type of reader, whatever happens to be, you need to know who's coming to your website and what they're looking for because no one is coming to your website to read your posts about how much you love to play in the snow. That's not what anybody cares about reading these days. People want to come to your website because you're solving a problem that they have. So you need to fully understand who your reader is and what problems that they have so that you know that you can solve them for them. If you can figure out how to do those things, you'll have more readers coming, more people paying attention to what's going on. That's why it's generally a better idea to have a very focused blog rather than one of the big giant- -lifestyle cover- -lifestyle sites, exactly.
+
+[00:05:42.610] - Liz Stapleton, Host
+But those can be harder to grow because there isn't something specific.
+
+[00:05:46.700] - Mallory Herrera
+Exactly. But if you have a very specific, say you have a parenting blog and it covers just breastfeeding, that's it. I mean, look at the website, Kelly Mom. They have made a significant amount of money off of that website, only talking about breastfeeding. That is it. They have become a massive authority in their niche, and people understand exactly what they're going to get when they go there, and people trust them because of their information, because they are so- Expertise. -consistent. But they know exactly what their audience is looking for. So if you can figure out what your audience is looking for, you will be able to convert more of those audiences because they will be able to build up that trust in your site. If people don't know you and they don't trust you, they are never going to buy from you. Yeah.
+
+[00:06:33.820] - Liz Stapleton, Host
+So one thing I did in the past is I think it's like User Bob, but there's a bunch of ones like it where I'll get random people, they'll record them going to their site. I mean, they know what's being recorded. It's nothing creepy. We're not stealing anyone's information or anything, but it's like, Hey, can you tell us what you think this site is about? And if they're saying something that's totally off base from what you think you're presenting, I think that gives you a good idea if your website's converting or not.
+
+[00:07:02.270] - Mallory Herrera
+Yes, it really does.
+
+[00:07:03.710] - Liz Stapleton, Host
+They may not be the target audience, but if they can't understand what it is, then you've got a bigger problem.
+
+[00:07:10.030] - Mallory Herrera
+Absolutely. I mean, even if you don't want to use one of those systems, it is so easy these days to just go into one of your Facebook groups because I know everybody watching this is probably in at least 30 blogger.
+
+[00:07:21.290] - Liz Stapleton, Host
+Facebook groups. Hopefully they're in the Blogger Breakthrough Summit.
+
+[00:07:23.560] - Mallory Herrera
+Facebook group. Exactly. So go in the group and say, Hey, can somebody take five seconds, look at my... Look at my homepage and tell me what my website is about. And find out from there if it's clear. If it is not clear, you've got some work to do.
+
+[00:07:38.890] - Liz Stapleton, Host
+Exactly. Yeah. No, I think that's a great example. Okay. So I know you said there were certain elements for determining conversion that you want to discuss?
+
+[00:07:48.360] - Mallory Herrera
+Yes. So some things that can really help make sure that you are getting more people on your email list or selling more products, whatever happens to be, like I said, know where your goal is. But limiting the choices, as bad as it sounds, is actually a huge benefit. A lot of bloggers will typically have their entire blog reel on their homepage, and then it's just this decision-overwhelmed. And people who land there for the first time have no idea where to go because there are so many options available. Give them three, maybe six. Here you go. Here are a couple of different blog posts that you can read. Oh, yeah. By the way, here's my freebie to go enjoy my email list, period. It lets them know exactly what you want them to do very, very quickly. I think a lot of times, especially as new online business owners, we like to think that we need to have everything on every single page, but we don't. Less is generally more. So focus on those things.
+
+[00:08:53.420] - Liz Stapleton, Host
+People don't like making decisions. That's like hard work. You're asking them to do work to navigate your site, which is-No.
+
+[00:09:00.470] - Mallory Herrera
+One wants to do work. Yeah, no one wants to do work. No one wants to pay attention to those extra things, and have goals for yourself. If your goal for yourself is to get 50 people on your email list this month, then cool. Make sure that you are promoting it appropriately. It is on all of your pages. Your call to action should be very clear.
+
+[00:09:21.830] - Liz Stapleton, Host
+It will land on the page that you share.
+
+[00:09:24.110] - Mallory Herrera
+Yes, people should know what you expect from them. Make sure that they have a very clear next step, because if they don't, then you're just going to lose them. They might read your blog post, but then they're not going to do anything else because you didn't tell them what to do. You got to make it clear.
+
+[00:09:39.180] - Liz Stapleton, Host
+I like that. Okay, so what was next on your list of things you wanted to chat about? I know I have more on here, but I want you to... I don't want to go out of.
+
+[00:09:50.630] - Mallory Herrera
+Order if it makes me... I want to talk a little bit about some of the design aspects that people tend to overlook. A lot of times when people go through and they create their first site, especially if they've done it by themselves- Or they're like.
+
+[00:10:06.590] - Liz Stapleton, Host
+17th version of their site.
+
+[00:10:08.410] - Mallory Herrera
+Or their 17th version of it. But typically, they're creating a site for themselves rather than keeping their customers and their readers at the forefront of their mind, which is a huge mistake. Every single thing on your website should be about your ideal reader. If it is not, it should be there. That comes down to the fonts and the colors and the graphics and the content. Anything that is on your website needs to be about your reader. You may like bright pink on a black background, but it is ridiculously hard to read, and no one is going to want to stay on your website because of it. Make things easy. Make them easy to follow, easy to find. People need to know where your information is. They need to be able to answer all of the questions that they have about you and what you're offering without having to go hunting for it. So pay attention to some of those things. Look at your brand colors, for one. What impression and feeling do you get just by looking at the colors? Are you calm? Does it make you anxious? Does it make you excited? Is that the message that you're trying to portray in your website?
+
+[00:11:26.670] - Mallory Herrera
+Some people have seen it before where it was a yoga studio. So wanting to promote this calm, relaxed environment, but they were using this big, bright red in some of their branding. And red means stop and don't go any further, in danger. And that is not the impression that you want to give for your website, for your business. So pay attention to what those things are. Really look at that. Colors are not just meant to look pretty. They do have a purpose.
+
+[00:11:57.920] - Liz Stapleton, Host
+And fonts, too. Like, don't do super scripty fonts that you can't read.
+
+[00:12:03.620] - Mallory Herrera
+Exactly. If you can't read it, they're not effective. Just because you know what it's supposed to say does not mean that anybody else coming to your website is going to know what it's.
+
+[00:12:12.230] - Liz Stapleton, Host
+Supposed to say. Actually, one thing that apparently they don't teach cursive in school anymore.
+
+[00:12:16.910] - Mallory Herrera
+No, they don't. Depending on who.
+
+[00:12:19.790] - Liz Stapleton, Host
+Your target audience is, they literally may not be able to read it.
+
+[00:12:23.880] - Mallory Herrera
+Yeah, absolutely. It is getting harder and harder for people to understand script fonts. I feel like there are more and more people who are using them way too often and in too many different platforms. So if you're going to use a script font, make sure it's easy to read, make sure it is very legible, and use it sparingly. Less really is more. But when you're picking fonts for your site, I would keep it at three, maybe four different fonts max.
+
+[00:12:55.860] - Liz Stapleton, Host
+Three is really good.
+
+[00:12:58.190] - Mallory Herrera
+-usually, if you can get it to two, that's perfect. You have one decorative font like your script font type, and then you have a San-Sara font for the rest of your content. It is-Like.
+
+[00:13:09.120] - Liz Stapleton, Host
+The same font, like bolded for headings and like regular.
+
+[00:13:12.670] - Mallory Herrera
+Yes, exactly. Different sizes, different colors for your headings, that's fine. But have the same font throughout because it's easier to read that way. Also, San-Sera fonts are notoriously easier to read on mobile and on web pages than a Sera font is. Don't do comic sans, though. Yeah. Yeah, don't do it. So you want to make it as easy as humanly possible. Make the font size a little bit bigger, too. Some people just have this really small, like.
+
+[00:13:42.320] - Liz Stapleton, Host
+14.1. No, like size 18.
+
+[00:13:44.950] - Mallory Herrera
+I would say at least 18. If you can do 20 without it looking weird, do 20. Make it bigger. People want to be able to read it. Because if they can't read it, they're not sticking around. So pay attention to those things. Pay attention to your calls to action. There should be a call to action on every single page, period. Every single page. You should give someone the opportunity to move to the next step. Whether you were selling your own service or product or you're selling an affiliate product, it is the same component. You have to become a salesman, and you have to be able to put that out there and get people to click your links.
+
+[00:14:22.740] - Liz Stapleton, Host
+And I like the way you say that of giving them the opportunity, because if you have something that's going to help solve their problem and you're not sharing with them, you're a jerk. That mind shift I really learned from Kate Doster, who's also on the summit. But I like that because some people, they feel like, call to action selling, and they are like, I don't want to ask them to do something. It's like, No, if you have something that will help them? And you're not telling them like, That's not cool? That's mean? You're supposed to like your audience. So like you said, give the opportunity for them to move to the next step. I like that.
+
+[00:14:56.440] - Mallory Herrera
+Yeah, absolutely. Think of their way through your website as a journey. They are on a client journey, a buyer's journey, whatever you want to call it. You need to be able to give them opportunities at each step of the journey for each page on your website to be able to make a purchase or join your email list because everybody is going to realize that they want to work with you a little bit differently. Someone may like you immediately from your homepage and immediately sign up for your email list, and somebody else might have to read 10 of your posts and come back a month later and then read 10 more to realize that they really want more content from you. So give them plenty of opportunities along the way so that you are making sure to get as many people as possible doing whatever it is that you're trying to get them to do. So opportunities, lots of opportunities offering the same thing.
+
+[00:15:56.380] - Liz Stapleton, Host
+Yes. And I think... And if I'm skipping something, let me know. I think one of those, in order for them to have that opportunity, your site needs to be performing well, it needs to be working. As I told you before we hit record, I was like, Yeah, I once had found out that for six weeks my blog feed wasn't pulling in the new content, and it was a caching issue. It wasn't hard to fix, but I just was completely unaware. So let's talk performance. Let's talk about making sure our sites are running well.
+
+[00:16:24.220] - Mallory Herrera
+Absolutely. First and foremost, it is going to come down to your host. Your hosting company can make or break your website. Just because it is cheap does not mean that it's worth it. It can sometimes give you a bigger headache in the long run because you decided to cut corners and you go with the free host or you go with the cheaper option now. Sometimes it really is best to invest early on in some of those things because a good quality host will make your site faster. They will give you a free security certificate, which no one is going to trust you if your site is not secure. Yes. They want to see that little lock on the top, the little top.
+
+[00:17:04.730] - Liz Stapleton, Host
+And Google will warn them away from it if you don't have it.
+
+[00:17:07.920] - Mallory Herrera
+Google will. They will send actual people away from your website.
+
+[00:17:11.700] - Liz Stapleton, Host
+You're like, Are you sure you want to go forward? Because it's not secure.
+
+[00:17:16.250] - Mallory Herrera
+Exactly. So if you don't want to be losing people for silly stuff like that, go with a good host. A good host is going to make your site faster as well, because it's going to be able to supply more bandwidth, more service base, all of those kinds of techy things.
+
+[00:17:30.180] - Liz Stapleton, Host
+We'll be talking techy things with Grayson Bell, and he'll expand on hosting, I'm sure.
+
+[00:17:36.980] - Mallory Herrera
+Perfect. Yes, he will. He'll be able to explain all of that. But, I mean, Google did a study a while back, and they found that if your site takes longer than two seconds to load, you've lost 10 % of your visitors at two seconds.
+
+[00:17:51.480] - Liz Stapleton, Host
+Yeah. People are so impatient. When I was a kid, you hit a website, you went and did something while you wait to load, you came back, it was halfway there, you did something else. This is dial-up, right? But anyway, and if you're wondering how fast or slow your site is, there's Google page insights, I think, and it's free, you put in the URL. And I would test a couple of different URLs, not just your homepage, but a blog post page, a landing page, and see how fast it's loading on desktop, because I think the two seconds is desktop, but mobile people tend to have a little more patience because of signal and whatnot.
+
+[00:18:21.200] - Mallory Herrera
+Yeah, so mobile you might be able to get by with three seconds, but if it's taking you longer than three to five seconds, you are losing people. Because if I'm in the middle of the store and I'm trying to find a recipe and I can't find that one recipe I was looking for to get my ingredients, I'm going to find a different one. So you don't want to lose people for silly things like that. So pay attention to your site speed. It can come down to making sure that your images are properly compressed. There are tons of caching plugins for images. I personally really like short pixel version that works really well, so they compress images well. Also making sure that you just compress them before you upload them to your site. Tinyjpg.Com is an awesome site that you can just drop your pictures in. It'll give you a compressed version of it. It's awesome. You can do JPEG files or PNG files. It's perfect.
+
+[00:19:16.970] - Liz Stapleton, Host
+Yeah, image compression. That's definitely one of the things I didn't know when I started.
+
+[00:19:21.810] - Mallory Herrera
+Yeah, that seems to be the worst for everybody. The image compressions or they'll have too many plugins on their websites. A lot of people, especially these days, all have jet pack installed because it.
+
+[00:19:33.490] - Liz Stapleton, Host
+Does-it's almost the same. I feel like it was almost like an automatic install when I started initially, and then I learned that it really can slow down your sight, and so I took it off. But you really, and this can be crazy because I know at a time I had double this. Ideally, you don't want more than 20.
+
+[00:19:49.240] - Mallory Herrera
+Yeah, absolutely. I try to keep the plugin less than 20. I think I actually have one of my blog sites that's running with 11. So you want to be strategic about your plugins just because it says it offers something cool does not mean that you necessarily have to have it. Sometimes you can find plugins that'll do that same task as well as something else, and get rid of some extras, but it might take some playing around. But make sure that all your plugins and your theme and all of that stays updated. Make sure that you're doing backups of your website because the last thing you want to do is have an update roll through, and then you get that white screen where everything just dies and you can't access anything. So keep back up to your site. Make sure everything is updated. Pay attention to your site speed, and just be smart about it. Be smart about your plugin installs. Be smart about your images. If you want to add a video to your website, don't try to upload the entire video.
+
+[00:20:49.540] - Liz Stapleton, Host
+It's going to cost you more money to do it that way.
+
+[00:20:53.220] - Mallory Herrera
+Absolutely. But you can get this tiny little piece of code, this in-deg code, and just add it to your blog post or your page or whatever happens to be. Yeah. So it's hosted.
+
+[00:21:02.800] - Liz Stapleton, Host
+Somewhere else. If you have YouTube, unlisted, whatever, or YouTube, if you have a YouTube channel, it's just fine.
+
+[00:21:07.850] - Mallory Herrera
+Exactly. Yeah. So just be smart about some of those things to try to make sure that it's really working for you. And if it's not, don't be afraid to invest in someone that can help you. Yeah, Grayson Bell is awesome for a lot of the techy stuff.
+
+[00:21:26.540] - Liz Stapleton, Host
+I'm one of his monthly clients too, or I'm just like, Hey, what's going on here? Why can't I do this? Or what? I was like, Hey, for some reason, my sight's down. Can you guys fix that for me? It's amazing to get to be able to see. But he's just super helpful in general. I asked him questions for years before I was like, I can afford for both sites having.
+
+[00:21:46.850] - Mallory Herrera
+That.
+
+[00:21:48.320] - Liz Stapleton, Host
+Support. But he's so generous with the time and questions, and he's in, I feel like, all the blogging Facebook groups. So if you just.
+
+[00:21:55.020] - Mallory Herrera
+Ask a question. Yeah, Facebook can also be an amazing resource. There's a lot of people in some of those groups that have been around for decades working on a lot of this stuff, and they are more than willing to help you out if you catch yourself in a bind with a very particular problem. Also, Google is awesome. I Google stuff all the time. I have a client's website that went wonky one day when I was trying to add in her Instagram feed. I don't know. It was weird. I hadn't had that experience before, and I Googled it and found the problem. So you know what? Google is an amazing resource. Don't be afraid to use it.
+
+[00:22:35.050] - Liz Stapleton, Host
+Absolutely. Yeah. You're never going to stop Googling things or asking questions no matter how long you've been at this because technology inevitably changes, which is where we're going to get to with our example and why that is. But yeah. So don't be afraid to ask for help. Don't feel silly or if you're asking for help, then you're taking action and you should be proud of that.
+
+[00:23:00.780] - Mallory Herrera
+Exactly. And a lot of people shy away from hiring anyone for their business, especially if their business is new. And I am not saying that everybody needs to go out and pay $10,000 to a website designer to put a website together. That is not what I'm saying. I'm saying if you do not understand how to do something that is truly important for your business, like making sure that your website functions appropriately, you may want to look into having someone come in and help you, even if it's just for a few hours, having somebody giving you a walkthrough of how everything works, that can be hugely beneficial. And there is always somebody out there offering those types of services. So feel free to look around, ask in the Facebook groups, reach out to different communities. There are a ton of WordPress communities online that I have found where people are just constantly just asking random questions of different text messages that they have found. So feel free to ask your questions because like you said, you're at least taking action on it rather than just sitting there dealing with it. Don't deal with the problem.
+
+[00:24:10.300] - Liz Stapleton, Host
+I would recommend that if it's something that can be easily googled, google first, because it's a little like, You can take the time to search google. It's one thing if you search google and you're like, Okay, I don't understand the answers. But if it's something really simple, because sometimes I don't do it in Facebook groups. I'm like, You can take the two seconds to google that. You're going to have someone explain that to you. Take time out.
+
+[00:24:35.740] - Mallory Herrera
+Oh, yeah, absolutely.
+
+[00:24:37.500] - Liz Stapleton, Host
+Just be proud you're taking action, but do take a second and see if you can find an understandable answer in Google before you ask other people to take time out of the day. I think that's just considerate.
+
+[00:24:48.260] - Mallory Herrera
+Absolutely. And it's always better to understand at least an idea of how to do the job before you ever try to hire out anybody to come in and do it for you, because then you'll never know if it's being done appropriately if you just hire somebody from the get-go. If you hire somebody to come in and run your Pinterest account and you've never once messed with the platform, you have no idea if it's working. You don't know how all those pieces fit together. You should always at least have an understanding of the problem, of the situation before you try hiring anybody. So yeah, Google is your friend. Use Google and YouTube. Youtube is also another great resource for website issues.
+
+[00:25:29.320] - Liz Stapleton, Host
+Yes. No, I totally agree on that front. Okay, was there anything else you want to touch on before we dive into an example?
+
+[00:25:37.340] - Mallory Herrera
+No, those cover what I needed to-.
+
+[00:25:40.640] - Liz Stapleton, Host
+Let me preface this example. So all my to-do list is getting it. And so by the time this video airs, my homepage will be updated. But it is Hotmess Express right now, partly because I've been changing a lot of backend things. I have been moving away from a certain page builder that I'd been using for a couple of years that I loved, but was slowing down my sight. It was giving me performance issues. And so it's been moving away from that. And so the homepage I built was just done with, like Gutenberg, which I was also just learning. And so thanks to Pete in this summit who did a session on Element or I have a good grasp with that. So I am going to be rebuilding it. There are literally buttons that don't work. So I figured, hey, this is already a terrible site. It could be a great example for Mallory to take a look and give some feedback. But this is not a reflection of me as a blogger as a whole. I feel like I just need to explain that. I was like, There were a lot of things happening that this is terrible right now.
+
+[00:26:45.290] - Liz Stapleton, Host
+But yeah. I do love criticism, so constructive criticism.
+
+[00:26:51.060] - Mallory Herrera
+Absolutely.
+
+[00:26:51.810] - Liz Stapleton, Host
+Let's go ahead and we can talk through it. I know I can point out some things that are bad about it, but you're the expert. So if you want to go ahead and share screen with my homepage, that is horrible, and we will dive into it.
+
+[00:27:06.360] - Mallory Herrera
+All right. You can see it?
+
+[00:27:08.050] - Liz Stapleton, Host
+Yeah, unfortunately.
+
+[00:27:11.110] - Mallory Herrera
+Yes. So this is the homepage. Just from looking at it from the get-go, yes, I can see a few things that I probably would have left out if I was putting the site together. For instance, this cookie bar is bright blue and just a very strong color, especially since your link is red, so it makes it a little harder to read. The header image here, it doesn't make it very clear what you do, which this is the very first thing that someone may see on your website, and it should always be extremely clear and easy to follow. I would also have some call to action in this as well, because not everybody is going to scroll through the entire page. So having that covered there can really help. It's a little bit dark. It's also a little bit dark. Yes, it is. It's a little dark. And the fact that stop-stressing is in this bright red... I apologize. So the fact that this stop-stressing is in this bright red is scaring me a little bit. It does not make me feel less stressed. So I would throw out some of those things. Apart from that, it's...
+
+[00:28:49.400] - Mallory Herrera
+How many different fonts do you have on here? It should.
+
+[00:28:53.750] - Liz Stapleton, Host
+Be two.
+
+[00:28:54.730] - Mallory Herrera
+It could be...
+
+[00:28:57.100] - Liz Stapleton, Host
+Again, I've been cleaning things up.
+
+[00:29:00.990] - Mallory Herrera
+Okay. It looks like two, but there's a lot of different weights to the font, so it can give it that look of big more. Obviously, not just-That's what we're looking at.
+
+[00:29:12.420] - Liz Stapleton, Host
+And you've noticed that. That's pretty good. As seen is cut off. That's awesome.
+
+[00:29:16.000] - Mallory Herrera
+Yeah. So as seen is cut off. So that's stretched a little bit too big, especially since it's not everybody's screen is the same size. So paying attention to some of those things is always good. And other than that, there's not a whole lot of other color in the site.
+
+[00:29:34.800] - Liz Stapleton, Host
+There is actually. Well, there was. I don't know what's going on. Yeah, those are actually color where the black, interesting. Interesting. Good to know. Something's broken on my homepage. Good to know.
+
+[00:29:51.890] - Mallory Herrera
+I was like.
+
+[00:29:52.720] - Liz Stapleton, Host
+Those actually are color, or at least they're images.
+
+[00:29:58.550] - Mallory Herrera
+Oh, yeah, I know. So the images are not working. They may be broken or something. They're not loading. Yeah, that's great. So yeah, that's black, and then it's just white. That's also black. And then all of.
+
+[00:30:12.360] - Liz Stapleton, Host
+Them are black, and then... Yep. Oh, man, it's even worse example than I thought. This is great.
+
+[00:30:17.250] - Mallory Herrera
+So it mostly just gives it this very... I know that that would be not what you were going for, but it seems like a flat and monotone look to it. Nothing jumps out. It doesn't make anything important. It's because it's all the same color scheme.
+
+[00:30:33.260] - Liz Stapleton, Host
+So there's -I'm so excited that this is even worse than I thought, for example. Awesome. Definitely go look at this now that when this video airs. Go look, it'll look so much better. Yeah. Oh, God.
+
+[00:30:51.540] - Mallory Herrera
+I would probably also not keep your resource, I'm assuming these are affiliate links. I would probably not keep the resource affiliate links on your homepage for the sheer fact you wouldn't want people leaving your site that quickly. You want them to stick around and see more of what you offer. I mean, unless for some reason, these convert really well. You're making tons of money from these links being right here. I probably wouldn't put them here, or at least put them at the bottom because I would rather people get to see them on their articles first before they go to the affiliate links. So I would do that. I probably would also make this disclaimer a little bit smaller, and I would put it in this footer bar. I know you mentioned that you were building with Elementor. Elementor has some really great options for creating your own headers and footers. You can make this a smaller text. And what.
+
+[00:31:57.240] - Liz Stapleton, Host
+I used to be using did, and so that did use to be in the footer. Like I said, I was like, Oh, I'm going to just get rid of this old one that's slowing down my sight and also switch to Gutenberg and just have this steep learning curve while I learn all the new things.
+
+[00:32:17.280] - Mallory Herrera
+Yeah. You know I'm not always the best at it.
+
+[00:32:24.850] - Liz Stapleton, Host
+I'm a go-getter.
+
+[00:32:27.390] - Mallory Herrera
+I understand why you did it.
+
+[00:32:29.510] - Liz Stapleton, Host
+I do. Yeah, but I was like, and I know. And the first time I tried to do the turn, I got really frustrated. And then I did the session with Pete. And I was like, Oh, God. Okay. I translated it to the page builder on YouTube. And I'm rocking and rolling a bit. So I still have to google some things. But yeah, so much worse than it was. I love that the images are broken, like yay, great example of what not.
+
+[00:32:57.210] - Mallory Herrera
+To do. I will say one thing that could be working in your favor is that most people are not going to find you from your home page.
+
+[00:33:04.970] - Liz Stapleton, Host
+They're going to the content. They're going, yeah.
+
+[00:33:07.070] - Mallory Herrera
+Exactly. They're going to go to the main content. They're going to jump around that way. That's why internal linking is so important for your blog post because you don't want people just reading one post and then bouncing. You want them to go to multiple pages. How can I.
+
+[00:33:23.740] - Liz Stapleton, Host
+Make a living even though my home page is...
+
+[00:33:27.400] - Mallory Herrera
+I have seen some blogs with jacked up home pages that still make a killing. Yeah.
+
+[00:33:36.920] - Liz Stapleton, Host
+The home page is not... When we're talking about converting a site that converts, we're not just talking about the home page.
+
+[00:33:43.550] - Mallory Herrera
+It's not just the.
+
+[00:33:44.350] - Liz Stapleton, Host
+Home page. On your site, you're talking about lots of opportunities. Like you said, every page has a call.
+
+[00:33:49.850] - Mallory Herrera
+To action. Yes. Every page, every post should have a call to action. It should have an opportunity to get people to do what you want them to do to increase your conversion rates. So it is not just about the home page. But yeah, down here, this is a hot mess.
+
+[00:34:09.160] - Liz Stapleton, Host
+It'll be fixed before the summer.
+
+[00:34:11.710] - Mallory Herrera
+I'm excited to see what you come up with.
+
+[00:34:14.680] - Liz Stapleton, Host
+I'm not going to be like, It's.
+
+[00:34:15.850] - Mallory Herrera
+Still a hot mess.
+
+[00:34:17.130] - Liz Stapleton, Host
+No, I appreciate the tips on it too. It's always good to get someone else's perspective on your site because like you said, it can be hard. You put blinders on like, This is my baby. Obviously, I can see that my is not working. But yeah, so definitely don't be afraid to ask. It could be just a family member. Someone who's going to be honest with you and not sugarcoat it, not pull punches.
+
+[00:34:46.970] - Mallory Herrera
+Yeah, you want somebody who's going to be honest with you. That is where having a business bestie can be really beneficial. Someone that you can bounce ideas off of and just rant to about all the online business stuff, because I can't tell you how many times my husband has given me that eyeroll of, Oh, my God, I don't want to hear about Google anymore. Find somebody that you trust their opinion and their judgment and just ask questions or, like you said, reach out into the Facebook group.
+
+[00:35:19.520] - Liz Stapleton, Host
+Find a bestie in there.
+
+[00:35:21.150] - Mallory Herrera
+Find a bestie in there. Exactly. Because you're all in the same spot at that point. You're all trying to grow your blogs and your businesses. So find somebody that you can work with to help you out and you can do the same for them because having an unbiased opinion is to look at your website can be huge. Yes.
+
+[00:35:43.030] - Liz Stapleton, Host
+Okay. So that any final words before we tell them you've got a great free offer that I probably need. But any final words before we talk about it?
+
+[00:35:52.510] - Mallory Herrera
+No. So if you take anything away from this presentation today is to understand who your audience is, plain and simple. Understand who your audience is and what you want them to do. And if you can figure out those pieces, then everything else will fall into place.
+
+[00:36:08.840] - Liz Stapleton, Host
+Okay. So you want to stop sharing your screen? We don't need to look at this mess anymore. Can we tell them you've got a DIY website audit freebie? Can you tell us about what that is? The link is definitely below. So you need to.
+
+[00:36:23.900] - Mallory Herrera
+Try.
+
+[00:36:24.210] - Liz Stapleton, Host
+To remember a URL, but tell us what it is and what they'll get when they head over to that link.
+
+[00:36:29.320] - Mallory Herrera
+Absolutely. So it goes over a lot of the things that we talked about today with your website. It's meant to give you a little bit of an unbiased look into your website, what is working, what is not working to really help you understand what steps you need to make to make your website better to make your business function more effectively. So it's a DIY website audit. It's just a easy little walkthrough. You can probably get it done in 10 minutes to at least understand what you need to do with your website. The work might take you a little bit longer, but you'll at least come out of it knowing what's next.
+
+[00:37:10.780] - Liz Stapleton, Host
+They don't know which session to watch next in the summit.
+
+[00:37:13.440] - Mallory Herrera
+Exactly. Yeah.
+
+[00:37:17.440] - Liz Stapleton, Host
+Okay. Yeah. So definitely, guys, go grab that. I know she's got something special for people who buy the All Access Pass as well. Do you want to tell us about that?
+
+[00:37:26.030] - Mallory Herrera
+Absolutely. So anybody who purchases the All Access Pass, I am also offering free mini website audits. So basically, you will set up-time to have a call with me, and we will get on the phone, and we will walk through your website. We will talk about what is working, what is not working. We'll talk about performance things that I can see running some of my tools and stuff on your site, as well as look at it from a design perspective. I'll even go as far as to say, You know what? Your button should be here, not there, and move things around this way to really help you better understand what you need out of your website. So if you want to be able to do it yourself, then grab the freebie. But if you want to be able to- A little hand-holding. A little hand-holding? Exactly. Then we can set up one of those calls? Yeah.
+
+[00:38:17.210] - Liz Stapleton, Host
+If you get the all access pass as fast as you get access to that. There's a lot of great things that speakers have... They've blown me away with their generosity. So thank you so much. That's awesome. I probably going to buy and sign up for that too. We really need it. So thank you again. I appreciate it. Just thank you. This is awesome.
+
+[00:38:39.190] - Mallory Herrera
+Of course. Thank you. I appreciate it.
+
+

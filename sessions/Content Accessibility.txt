@@ -1,0 +1,155 @@
+Title: Content Accessibility
+Speaker: Erin Perkins
+Website: https://www.mabelyq.com/
+Level: Advanced
+Category: Accessibiliity
+Length: 31:19
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/content-accessibilityerin-perkins/
+
+Transcript:
+[00:00:19.290] - Erin Perkins, mabelyq.com
+Oh, I'm sorry, I was muted. You're saying you need audio. Is that what I'm hearing. Well, what do you think it's like being deaf. By the way I am totally judging you right now. Deaf people requesting caption is equivalent to hearing people requesting audio. "Imagine being denied to access to audio every time, everywhere and every day", L. Friedemann.
+
+[00:00:54.300] - Erin
+So, here's what I like for you to do before we get started. I want everyone to turn on the subtitle on the ad, and I want you to really get an idea of what it's like to follow along with caption. Typically when it's live, a live event and you have live captioning, you are actually going to notice the delays. You're going to notice the error. Welcome to my life.
+
+[00:01:24.970] - Erin
+All right. Let's get started here. There are seven point seven billion people in the world. Over a billion of those people, which is about 15 percent of the world's population, have some form of disability. Now in the U.S. alone there is actually, one in four adults have a disability. So, when I talk about disability? I'm not just talking about the physical disability. I'm also talking about vision, hearing, learning, chronic illness and also temporary disability as well. Within the global number, a global market. I'm talking bigger number. We're talking trillions of dollars. People with disabilities have a spending power of more than six trillion dollars. That's trillion with the letters T. This should tell you, people with disabilities have money to spend. We have money to invest. So let's really get into it. So I'm going to go on the assumption that most of us are small business owners, that of other small business owner. So statistics actually show that there are more people with disabilities who start their own business over people without disability. Though, when you look at these numbers, the Small Business Association reported that 12.2 % of the general population show self employment vs. 14.3% of the people with disability who have started their own businesses. The reason why I bring that up again, most of us as small business owners, so you typically tend to accommodate other small business owners? There are more people than you realize that that do have disability in any form or way.
+
+[00:03:28.660] - Erin
+So, what happens when your online business isn't accessible to the disabled community? So, If you're actually here live with me, I want you to pop in the chat what you think happens when your business isn't acceptable to the disabled community. And I'll take my comments in there. So, when your business is not acceptable, to put it quite simply, you will lose money. Eighty-six percent of the people encounter difficulty on a website even when they use assistive software. Assistive software could be anywhere from a screen reader, like using a special designed keyboard that helped them tap through things faster, anything that helps with magnification. If they have difficulty, that's 86% of those people. Seventy percent of those people leave the website and that actually leaves revenue on the table.
+
+[00:04:48.430] - Erin
+That said that is 14.4 billion dollars per year out the window. However, they said, 82% of those people will return to a company and spend more money with a company that provides an acceptable online experience. So, I know when I have a good experience with a company, I usually go back and buy from them again. We're all in the business of serving others so you want to create a good experience for everybody.
+
+[00:05:27.160] - Erin
+I'm going to tell you this, you don't want to be like Dominos. You could end up in court. The fact is Dominoes have been in court because of the fact that their app was not designed to be user friendly for people with disabilities. Their lawsuit was taken all the way up to the Supreme Court and Dominos lost.
+
+[00:05:59.830] - Erin
+In 2017- in all of 2017, 814 website accessibility lawsuit were filed in federal court. Now, you move on to 2018, in the first six months there were 1053 website accessibility lawsuits that were filed in court. That is almost double the amount of 2017 lawsuit. I don't want to scare you, but it really could happen to you. Here's the thing, these lawsuits could cost you between 15,000 - 100,000. There's are  a wide range of what would happen.
+
+[00:06:44.180] - Erin
+I'm doing all this research on accessibility. I've had several conversation with website accessibility experts. And they've had a client that decided not to work with them in the first place because they didn't want to spend the money on monthly maintenance. These client have ended up coming back to them several months later because they've had lawsuits filed against them because the website was not up to Web Content Accessibility Guideline standards.
+
+[00:07:15.440] - Erin
+So, when the lawsuits were filed against them, the client then came back to the website accessibility company and asked them to resolve the issue, so that they're in compliance with the law. The price of monthly maintenance, I've read right from the two clients- two company that I collaborate with, are like $50-$500 a month vs. 15,000- 100,000 in a lawsuit. So, you do the math there.
+
+[00:07:56.990] - Erin
+I'm a deaf woman. I'm an online business manager. I'm a graphic designer. And I'm a disability advocate. I'm Erin Perkins. I the CEO of Maberly Q. I founded Maberly Q in 2018 to work with rebel women, entrepreneurs who are ready to take their business from startup to scale up. In collaboration with that, I'm also a disability advocate and educator on why accessibility is important and showing business how to be more inclusive. For the last two years, I have been teaching my clients the simple but incredibly important strategies in order to make their businesses accessible and successful. Something I call successible.
+
+[00:08:41.750] - Erin
+Now, I want to explain that I do find myself a different case. Yes, I am deaf. Yes, I do speak thanks to years and years and years of speech therapy. Yes, I can hear only with the help of my cochlear implant, my hearing aid and using an interpreter. I also rely on technology such as the audio AI app. 
+
+[00:09:10.310] - Erin
+Now I want to clarify not all deaf people are like me. There are several friends of mine that I have that can't do what I do, which is I, you know, be on webinars and summits like this and still interact fairly well.
+
+[00:09:27.800] - Erin
+Now, there are other friends that can have full on phone conversations with a complete stranger, their family members, whoever. I can't do that. I have to have an interpreter for when I'm on these calls, so, there is a wide range of what a deaf person is. But we are deaf. We all have different needs.
+
+[00:09:58.070] - Erin
+Why I am so excited to be speaking at the Breakthrough Bloggers Summit? So, I am a serious, serious blog reader. I have been making this part of my morning routine for, on regular for 10+ years- since the dawn of time. So, I know that probably just aged me here. So, blogging has really enabled me to connect with so many people that I otherwise would never meet. This is like really part of my morning routine. Other people journal, I read blogs, like a religion and funny thing is I probably follow 50-70 blogs. I know it's kind of ridiculous, but it really is my thing. My personal favorites tend to be DIY, home renovation and fitness. Yet, I'm not a blogger.
+
+[00:10:55.760] - Erin
+So I know that the biggest challenge with blogging is you're all trying to do the next big thing: social media, adding videos, and doing podcasts. And sometimes I've actually seen some of my favorite bloggers shift from just writing content and just doing videos and they just do Instagram stories.
+
+[00:11:22.610] - Erin
+Why should you make your blog accessible and inclusive? I'll show you what you can do, but I want to talk about why. Because when you're not, you lose followers and fans, dozens. When you're not accessible, you're kind of a jerk. I'm just putting that out there. I kind of think you're a jerk. We all know in today's time the number of followers does mean something.
+
+[00:11:50.030] - Erin
+So, I want to share a story with you about a blogger that I've been following for many, many years. And many of my friends did too. Huge fan of them, were very active and commenting, posting on their blog. At one point they decided to stop blogging and move on to podcasting. Totally fine, I was invested. They've been doing it for so many years, but when they started doing podcasts, they didn't transcribe it. And they'd only do show notes, which we all know doesn't really include anything from the podcast. This is really frustrating for us because we would reach out like a bunch of me and my friend actually follow them. We reached out and asked like, "Hey, can you transcribe." And we felt like we missed out because they weren't blogging on a regular basis. Their response to us was, "It's really expensive to transcribe. Who wants to read one hour of talking on a Podcast?" We do. Besides we can read fast. It is a lot quicker than spending an hour listening to the podcast. Finally, I respect that there is a lot of work for editing it.
+
+[00:13:06.440] - Erin
+Honestly, I felt like the blogger was taking the easy way out. The reality is we all knew that the blog is their source of revenue and they're able to live off of it comfortably with the blog income alone. It literally showed me how not valued we were. The ironic thing is this year they spent a lot of time invested on being inclusive and stuff. The thing is people with disabilities are people too.
+
+[00:13:39.410] - Erin
+The reason why I share this story with you, because I know you're creating content for your audience, but you really have no idea who is following you out there. I have pretty much stopped actively commenting and I take what they promote with a grain of salt because I really don't feel like I'm a valued member of their audience.
+
+[00:14:01.460] - Erin
+Now, on the flip side, there was another blogger that I also followed. She started doing a lot more Instagram stories but she wasn't captioning them. So, I would like send them a DM and I'm like, "Can you make sure you caption your video in someway so I can still be involved?" Her response was, "I'm so sorry. I didn't even think about that." And she remedied that situation like immediately and she does it like on point all the time now.
+
+[00:14:35.600] - Erin
+So, here's the thing, when it comes to blog accessibility or business as a whole, why do you need to do this? Because honestly, it's the right thing to do. You want to make and create a good user experience for everybody. You treat all users equally. That includes people with disabilities such as blind people, physical limitation, deaf people, people with learning disabilities, but whatever it is. Also when you're accessible, you actually will increase your reach and exposure.
+
+[00:15:08.780] - Erin
+Now, when you're also accessible, it actually makes your content even more searchable. There's really great SEO.
+
+[00:15:17.930] - Erin
+Now and honestly, once this starts becoming your income, your monetary income, you have a legal responsibility to do this. I really should not even have to explain this, but websites are actually getting sued more than ever before. So make sure you do the right thing.
+
+[00:15:44.900] - Erin
+Common misconceptions about being accessible. Many people think when you're being accessible you are going super basic. That's actually quite the opposite. When you realize that this is an outdated notion that accessibility means stripping away features, starting over and dealing with the impossible. But the fact is being accessible is actually a source of innovation and growth, it can be a catalyst for creativity and a boost to the bottom line. And when we create an opportunity for more people to contribute to society in meaningful ways, little by little everyone can make progress.
+
+[00:16:42.160] - Erin
+What does being accessible look like? There's actually 8 places accessibility matters. When I first started doing research on accessibility, the thing that kept showing up was your website. But the more of I got to thinking about this, I was like, the website is probably not anyone's first touch points that a potential customer has to do.
+
+[00:17:09.860] - Erin
+You may actually connect with your potential reader via social media. And by that I mean Instagram, Facebook, Twitter, Tik Tok, maybe your email list, somehow they got on your email list. Or they saw your design somewhere else and they followed you on social media. Or somebody was like promoting your course about design or whatever. Or like they found your recipe on Pinterest. Or they connected with you virtually. Or maybe they met in person or about physical assets like, you know, the building where you have the handicap door, like every time you communicate on any one of these platforms, social media, email, your design, your website, your online course, you actually could lose the reader/customer because they can't access your content.
+
+[00:18:16.310] - Erin
+So, I'm doing a top three things tailor made just for bloggers, because you're a blogger. You're my favorite kind of people. So, it's easy. I promise you. So, in case you haven't finished- figured it out yet. I'm a huge fan of Schitt's Creek. Late commer, nonetheless. I'm a fan. So, I think we all know that premise of Schitt's Creek is really about, it doesn't really matter who you are identity. Like it doesn't matter what race you are, doesn't matter what gender you are, doesn't matter what sexuality you are. They even make it a thing. It was literally like "Listen, this is what's happening. This relationship is what happened." The same thing actually applies to people with disability, whether someone was born with a disability or came later in life, it's already hard enough for us. And only and enough for one. We're asking just for a little bit of help to help level the playing field because honestly, the world was design for a hetero normative white male. If you're a white male out there, I apologize, but I'm not stereotyping, but it is what the world was designed.
+
+[00:19:42.550] - Erin
+So we're going to start with your website because we all know, you start with your website. So when we talk about your website, this is usually for blind and visually impaired people. You might think, "Why would a blind person be on my website?" Blind people actually use technology a lot more than the rest of us because this is their connection to the world. So, when they navigate websites and blogs, they usually use shortcut keys. When you use your header, when you're designing your website, you want to make sure you include the header one, head two, header three, because this enables the blind people, visually impaired people, to navigate around your blog efficiently and easily and be able to skip post titles and other aspects, and adding the headers actually help with readability.
+
+[00:20:45.340] - Erin
+So, I'm going to talk about link text. When you're linking to something outside, another page or whatever, you want to make sure that it's something relevant and meaningful. A lot of times people, in fact, have always said, "Click Here", "Read This". Okay, I'm reading this.  That doesn't tell me anything. Like no. You want to make sure that you make it relevant. Like "Read more here" and that'll take them somewhere else. Or you're actually linking to a product or whatever. Don't be like click here, click here.
+
+[00:21:30.640] 
+I know a lot of you include images in your website, in your blog. You want to make sure you include alt-text. The reason for alt-text is, yes, it improves SEO but a blind and visually impaired person they're not really seeing the picture or they don't have a clear idea of what the picture is, having the alt-text in there gives  them a little bit of a leg up in regards to, "Oh that's what the image is about." You know.
+
+[00:22:06.130] - Erin
+Now, this might not be a favorite for people without disability for able bodied people, but the fact is I also learned this- don't force links to open in new window or tab. Now we'll let you know that Squarespace does allow you to turn this on and off.
+
+[00:22:24.760] - Erin
+So, the reason why you need to code it so that it just opens, and not in a new window or tab is because when you open it in a new window or tab, it actually becomes very disorienting for a visually impaired user. And even though they might use a screen reader, only the most recent screen reader gives blind users any indication that a new window had been opened. Popping open a new window also resets the back button effectively breaking that link. So, you want to avoid doing that.
+
+[00:23:08.620] - Erin
+So, when you have the next thing, your blog roll should be on the right hand side. Blind users will actually find top and left hand navigation bar annoying because the screen reader starts at the top of the page and reads from left to right. So, it is very time consuming to listen to the same list of links every time you visit a page. You can get people right to your latest post by putting your navigational link on your right hand side.
+
+[00:23:40.640] - Erin
+Finally, I know you like using video, you like using audio that starts automatically. It is very hard for people with visual impairment to navigate your blog. If you use video and audio that start automatically, then people who have to use screen reader have to listen to that all the way through, which is very frustrating, aggravating. It's just causes problem for them. It actually also causes problems for people with other disabilities as well. If you want to use video or audio on your blog, make sure you add an option for people to click start if they want to, rather than it starting automatically.
+
+[00:24:29.050] - Erin
+So that's your website! That is tip number one.
+
+[00:24:33.460] - Erin
+Social media- you want to be accessible on social media. So, you want to use Camel Case or Inital Capitalization for your hashtag. I know Instagram doesn't make this easy when you initial cap because when you initial cap, it makes it easy for the screen reader to actually read what the words are. Otherwise, it will not be able to read the words out loud as it would be incoherent. It also actually help people with learning disabilities to be able to read it easier. So, what I actually do is I have a set list of hashtags that I store in my app and I already made them all Camel Case, so they automatically go in the way I want it to.
+
+[00:25:25.990] - Erin
+Next thing, you want to be descriptive in your link. So when you're asking for someone to click here, don't just say, "Click here". Make sure you explain where they're going, like, you know, "You want to read more, swipe up for details on the product." And stuff like that. If you have over 10,000 followers, like you can be like, make sure your swipe up is clear on where the swipe up is going. If you don't have 10,000 followers, you will only want to say the link is in my biro, and then when you leave them, make sure you left a link in your link to your website, whatever it is, is clear as to what each link is. It is not just images. It has the actual words that is readable, not just a picture that doesn't really tell people anything. You want to... Which brings me to alt-text. You want to make sure you include alt-text or even better image description. So, I really encourage you to include image description in the caption or in the first comment. Those are like 3 things that you can do to improve your social media.
+
+[00:26:43.450] - Erin
+Finally, audio and video. So, I know as a blogger you probably have a lot of audio and video. Number one, caption your video. Do not rely on auto captions that Facebook and InstagramTV has set up. It is not good. It is not accurate. Like you want to control your narrative. You want to make sure that the caption, is accurate as they can be. Next, you want to make sure you have transcripts available. If you're doing a podcast or you're doing a video and you don't have time to do that, transcribe your video and make sure that transcript is available.
+
+[00:27:26.890] - Erin
+Finally be open to adding new practices  to your process.
+
+[00:27:36.400] - Erin
+There's a lot of information that I've shared on how you can ensure that you're blogging is accessible to everybody. But I really don't want you to get super overwhelmed because one day, what I want you to do right now is shoot one thing, like, whether it's for your website or whether it's for your social media or for your video and audio, take one thing and take action on it. I want you to take action on it and do it well. And once you integrate that into your process, then you'll be able to add on the next thing.
+
+[00:28:17.720] - Erin
+It's like I say, it is a marathon, not a sprint.
+
+[00:28:24.670] - Erin
+Finally, we have key takeaways. So, as you've gone through the presentation, I hope you enjoyed it. I've included a workbook for you to, like, download for free to and you can get on my email list. I want you to think about that. Why is it important for you to make your content inclusive and accessible?
+
+[00:28:50.140] - Erin
+Now the next question I bring up is, why this is everyone's responsibility not just one person? Say you're part of a group of bloggers and you noticed that somebody is not captioning their video. Like you need to make sure that you call them out on it. Say, "Hey, I noticed you just posted this new video, but it's not a captioned. Like you might want to make sure you do that."
+
+[00:29:17.860] - Erin
+Now, I know some bloggers have teams, team member. How will you inspire everybody on your team to want to ensure that your- all your content is created is inclusive and accessible? Maybe you work for several different bloggers or you are like the manager for the blogger that you will make sure, "Hey, can we think about this a little bit?"
+
+[00:29:44.760] - Erin
+Now I want you to write down, what is the one commitment that you're going to make to make your content more accessible?
+
+[00:29:53.830] - Erin
+Finally and then an opportunity for you to share what you've learned with others.
+
+[00:30:02.260] - Erin
+The main thing, everyone should feel inclusive, valued, seen and heard. So, I always want to tell people that you want to remember: It's progress, not perfection. You're not going to get it right the first time. You're also not going to get it all done at once. You're going to start making progress. So, don't forget to download the free workbook and you get on my email to get free resource guides to help make sure you get a head start on making sure your blog is accessible.
+
+[00:30:37.220] - Erin
+Well, you know, reach out to me on any of the platforms. I'm always happy to connect with new people. And I really hope that you've enjoyed this and you are on your way to making your content more accessible or as I say Successible.
+
+

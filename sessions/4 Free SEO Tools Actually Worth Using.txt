@@ -1,0 +1,221 @@
+Title: 4 Free SEO Tools Actually Worth Using
+Speaker: Niki Robinson
+Website: https://postsbyghost.com/
+Level: Beginner
+Category: SEO
+Length: 25:48
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/4-free-seo-tools-actually-worth-using-niki-robinson/
+
+Transcript:
+[00:00:12.840] - Niki
+Hi, everyone. Welcome to the Blogger Breakthrough Summit. My name is Niki Robinson. I am president of Post by Ghost. We perform SEO and content marketing services for bloggers and businesses across the United States and the world.
+
+[00:00:24.810] - Niki
+So, today I'm going to talk to you about four totally free SEO tools that are actually worth using. So, most of these tools do what expensive SEO tools do, except at a fraction of the cost. So, these tools allow you to hone in on your SEO craft before committing to one of those more expensive paid tools if you want to go that route. All of the tools that I'm going through today are completely free. Plus, several of these tools allow you to take advantage of really expensive SEO tools without paying anything, which is amazing.
+
+[00:00:53.970] - Niki
+These are the free tools that I use the most that I think are going to be most helpful for you as a blogger. Please stay tuned for the whole thing because I've saved the best for last. Let's dive in. Here are the kinds of tools that we're going to go over today. There are four different tools.
+
+[00:01:06.790] - Niki
+Each one does one of these things. So, these are the best free SEO tools for determining if Google can find your page on search, on-page SEO improvements, competitor analysis, as well as keyword research. And there's a lot more you can do with these tools that I'm not even talking about. So, let's go. Tool number one.
+
+[00:01:24.100] - Niki
+Robots exclusion checker. You can use this tool to determine if Google can index your website. This is only available as a Chrome extension and it is completely free. So, an important part of blogging and making sure that your content is being seen on search is making sure that your site is what is called indexable. So, what we want is, every page that we want to have out on search, we want that to be able to be scanned by Google and available to Google to put up on the search results.
+
+[00:01:55.080] - Niki
+So, robots exclusion checker is really good for this. Whether you're on your home page or on a specific blog post page, this tool is going to tell you can Google see this. Being that it's Chrome extension, you're going to look up here in your little tray of icons. If you don't see it here, you can click the little puzzle piece and it's going to take you to all of your Chrome extensions. So, this one right here is for me.
+
+[00:02:15.750] - Niki
+It's a little robot guy. So, if you hover over it, you can see it says Robots Exclusion Checker has access to this site. Cool. So, this is a very, very easy tool to use. Once it's installed, which takes like 2 seconds, you just go to the page that you're concerned about.
+
+[00:02:29.830] - Niki
+So, this one, I'm just going to this blog post and I look up here and I see, oh my Robot Exclusion Checker is red which means that Google is having a hard time scanning this page. So, if I click on this Robot Exclusion Checker, it's going to tell me exactly what's going on in terms of why Google can't see this page. So, in this case, I see that this post has been marked as no index. Now, if I want this page to be out on Google, I need it to be indexed.
+
+[00:02:58.390] - Niki
+Most frequently, when you see a blocked no index page on your blog, it's going to be a function of whatever SEO plugin you're using. So if you're using Yoast, that plugin has an advanced tab, and at the bottom of that tab, it's going to say, do you want this post to show on search? And basically, you can select yes or no. Other plugins like Rank Map and All in one SEO, all have the same kind of function. That's typically the first place to look if you're seeing this blocked.
+
+[00:03:25.210] - Niki
+So, this is an indication that this post is not being found on search. Google can't find it. So, I need to go figure this out and unblock it. What's really handy about Robots Exclusion Checker is that it's a really clear red, yellow, green system. So, if I'm seeing red here, that's a big red flag, obviously.
+
+[00:03:42.970] - Niki
+Now if I go on the same site and go to my home page, I can see my Robot Exclusions Checker says it's green. And if I look here, it says Meta Robots is allowed, which means that Google is able to find this piece of content. So, robots exclusion checker is a great way to super quickly check is this page available to search or not? Which obviously, if we want it to rank, it has to be available. So, love this tool.
+
+[00:04:11.250] - Niki
+Super easy to use. Next up, SEO tool number two, Meta SEO Inspector. We can use this tool for on-page SEO analysis and fixes. It is completely free, and it is also only available as a Google Chrome extension. Meta SEO Inspector is also a Chrome extension, so you can find it up here in the little icon tray.
+
+[00:04:30.580] - Niki
+If you can't find it, again, hit the little puzzle piece, and then it will show you all of your Chrome extensions. Meta SEO Inspector looks like a little pair of yellow and blue light bulbs. Unlike Robots Exclusion Checker, these do not change color as far as I recall. So, this tool is awesome. I love this tool.
+
+[00:04:49.480] - Niki
+It's fantastic. So, what you do is go to a page on your website, and this is just a blog post. So, I'm going to go and click on the Meta SEO inspector. When I click it, it's going to open up this little box.
+
+[00:05:02.230] - Niki
+What this is going to do is give you hints on pretty much everything that you need to fix in your on-page SEO. So, this is not stuff that's subjective. This is stuff that just needs to exist on your website. It's supposed to be there. It's basic SEO elements.
+
+[00:05:18.120] - Niki
+So, if you get any warnings from this tool, it's definitely something that you want to address. One reason I like this tool is that each section has a little explanation and then frequently you will see things where it says tip and you can hover on that and it's going to give you more information about whatever the issue is. Another cool feature is that there's this little button for copying stuff. So, if you're like, I don't know what this is and something's wrong with it and you want to send it to your web developer, you would just click the little copy button. It's going to copy that automatically.
+
+[00:05:47.250] - Niki
+Then you can, for example, paste it into another document and send it right to your web developer and say, what is this? Can I fix it? Now this in particular was not wrong on this site. Instead, what you're looking for here is you're looking for red. It's going to be really, really obvious when something is wrong.
+
+[00:06:01.840] - Niki
+It highlights everything. So, here we can see that we have, you know, a meta description or canonical links in place, our robots file is working. You can see that because everything is green. Now when we scroll down, we're going to start to see more elements.
+
+[00:06:14.640] - Niki
+So, here I have a mobile usability issue. So, this would be a great example of something I would send to my web developer to say, oh, this looks like it's incorrect and should be fixed for better mobile usability. One thing I forget to mention when I open this up is another reason this tool is really great is because they keep it updated pretty frequently. Like you get regular updates on what they've improved, you know, the features they've changed all of that pretty regularly, which I really like. It shows that they're up to date on anything, you know, new in the SEO world.
+
+[00:06:44.560] - Niki
+So, if we scroll down here, we've got headers. Now this is an area that I see a lot of trouble in for a lot of bloggers. Okay? Because what I'll see is that your website is supposed to be arranged where you have like the H1 at the top. There's only supposed to be one H1 and then H2s are your section headers.
+
+[00:07:03.340] - Niki
+And then if you need a subheader under those, they should all be H3s So, this is a function of your HTML. Sometimes, it's not immediately obvious when you're back in there messing with it because you're just using what looks good aesthetically instead of following the proper order of H1, H2, H3, etc. And so, what we can see here is clearly an H5 doesn't go under an H3 that's sub to an H4 that's at the top. So, what we're seeing here is basically that this page is not laid out in a very good way.
+
+[00:07:35.760] - Niki
+That's going to help Google as well as readers, as well as any kind of reading assistance for Ada use. It's just not going to be clear what the layout of this page is. And so, it's going to give you some additional information on that. It's going to highlight what may or may not be wrong. This is really, really excellent for going through and looking at kind of what's going on with your page structure.
+
+[00:07:55.800] - Niki
+All right. So, as we come down here, we've got some more red. It's showing some additional errors with structure. Then if we scroll down more, we have anchors. So, this is going to tell you if you don't have any anchor text or alt text in your images. So, if you scroll down through here, it's going to give you a big red thing when things are missing, when you need to add additional parameters, information for your images, as well as good anchor text.
+
+[00:08:21.360] - Niki
+So, anchor text meaning the text that is contained within the link. So, when you hover over a link and the words turn a different color, those words are the anchor text. So, even though this looks a little complex, it's actually telling us like, this is what's missing and this is what you need. So, again, as we continue down, we're seeing more information about images. We have some that are missing some attributes, some that are missing, some sizing information.
+
+[00:08:47.010] - Niki
+This is going to tell you exactly what's missing. And it's also kind of neat because it's going to give you a clue, like what your alt tags are without having to go and like right-click, or go in and look at every image, right? Because like, what I want to do is look at my alt tags and see immediately like, okay, these look like they're more comprehensive. A little girl wearing sunglasses or hair tied up, like this is explaining this image. Okay, cool.
+
+[00:09:11.710] - Niki
+And these look like more comprehensive explanations. Whereas if I go to this image, it just says, water heating system is my Alt tag. Well, that's pretty weak, right? So, I can look for opportunities here as well for things that might be missing. And again, there's additional sections down here on links, how it looks.
+
+[00:09:30.730] - Niki
+Again, more tips and what have you. And one more thing I love about this tool is essentially a lot of the page elements are underlined, and it's going to give you a description of what that element is. So, if you've got something in here that's red and you're like, I don't even know what that is, you can click on it and it's going to open up a glossary that's going to help you understand what that is and where it needs to go, which I think is awesome. So, considering this tool is free, it gives you basically your on-page SEO issues all in one swoop. This brings us to SEO tool number three, which is called SEO Quake.
+
+[00:10:04.500] - Niki
+We can use this tool to analyze competition in the search engine results pages. This is also absolutely free. Good news for you guys. This is available on Chrome, Firefox, and for apple products. Important point to note about this tool is that you will need to set up an SEM Rush account, but just a free one, so you can capitalize on a lot of the cool features of SEM Rush without paying a dime.
+
+[00:10:26.350] - Niki
+So, keep in mind, you'll need to set that up and connect it to get this to work properly. All right. So, SEO Quake I also use as a Chrome extension, although it's available for other things. I use it a little differently though, and it works a little differently, which is really, really cool. And as I mentioned, I mean you're really, really capitalizing on SEM Rush as a tool without paying the extraordinary fees involved with SEM Rush. So, you're going to want to make sure that it's connected to your free SEM Rush account, which it'll tell you if it's not.
+
+[00:10:56.670] - Niki
+But here's where this Chrome extension comes into play, and it's super awesome. So, rather than using it to look at on-page stuff or I don't know, there's a lot of different options. If you click on it from the Chrome extension box, there's lots of different things you can look at, and it provides a lot of tools. But I actually think that the most opportunity lies in this functionality, which is if you go to your search engine results page, just go to Google, put in something, and let's say you want to rank for chocolate chip cookie recipe, which you probably won't if you're a new blogger, just so you know. But let's say that you want to go after this keyword.
+
+[00:11:34.230] - Niki
+So, you've got this little SEO quick box to the left here. So you're going to flip that on and it's going to give you some additional information. Now what you've mainly noticed probably is this little box is going to show up under each result. Okay? And this, I think, is what's really handy.
+
+[00:11:49.800] - Niki
+So, right here, this is just giving me some really basic information about kind of the site in general. And this helps me determine like, is the competition too steep? Can I compete on this level? Like some of the other tools, this also has some nice features in the sense that you can click things and get more information about them, which is really nice. It puts these results right into the search engine results page.
+
+[00:12:13.260] - Niki
+So, it's just injecting this right into here. So, I mean no matter what you're looking at, you're going to be able to see this box everywhere. One of the main things I like looking at is the authority score, which is this AS. Now there are many tools that use their own proprietary algorithms to develop this metric. But what this metric is telling us is basically how much authority this site has compared to ours. And if I'm looking at this and I'm seeing a lot of very high numbers here that's going to make it harder for my site to compete.
+
+[00:12:42.840] - Niki
+So, especially, if I'm someone who's just starting out, for example, cooking.nytimes.com, the authority score on that is 88. So, it's a number zero to 100. The higher to 100, the harder it is to compete with. So, I'm looking at a lot of really authoritative domains here. I've got a 63 and 88 to 51, a 68, 71.
+
+[00:13:02.620] - Niki
+Many bloggers are usually in the range of, I mean, from zero, of course. But I would say that some established bloggers tend to be, you know, maybe authority score of maybe 30 to 60. Just starting out, you're probably lucky if you have maybe like an 18 to 25. So, what we're looking at here is some very, very strong scores, which is giving me the opportunity to say, you know what, the competition on chocolate chip cookies is way steep, and I don't think it's going to be worth going after this keyword. There's also several other handy metrics on here.
+
+[00:13:34.320] - Niki
+So, for example, your visits, your average time spent on the site, your bounce rate, etc. So, these are giving me a clue like these. If I'm looking at 93.5 million visits, I'm looking at, you know, a pretty competitive site that's got a ton of traffic. So, this is another metric that's telling me, you know, wow, can I compete with a site that's got 93.5 million visits? Probably not.
+
+[00:13:58.180] - Niki
+So, this is also another metric that's helping me do that. Okay, so I took a look at something that's more of a niche result to see what we could do with that. So, I looked for banana waffles vegan flourless, which I didn't think was a thing, but apparently, it is, which is great. So, basically what we're looking for is potentially some lower metrics to see if this is a more competable keyword. Right?
+
+[00:14:20.020] - Niki
+So, here I've got authority scores of 50, 55, 59. But as we start getting down here, we've got 40, 40, you know, we're starting 41. I'm starting to get more into the territory that I can compete with. Okay. And of course, looking at the results, you know, we're seeing that these are more blogging type sites.
+
+[00:14:37.630] - Niki
+We're not competing with all recipes, we're not competing with New York Times, right? So, the other thing too is when we look at the metrics about the visits, right? So, we're looking for visit metrics. I've got a higher bounce rate, but a lot lower visits overall across the site, right. So, you know, as opposed to 93 million visitors, if I'm looking at 225,000, that is dramatically less.
+
+[00:14:59.830] - Niki
+And so that's telling me that these sites get less traffic in general. So that means they're easier to compete on. Now, there's a number of different metrics you can use and explore with this tool. One thing it also does, and I'm not affiliated with any of these sites that I'm looking at, by the way, but what it'll do is it'll put this bar across the top, and it'll give you some additional information about the site when you're on it. Now, I don't particularly like this feature because I find that it's not frequently accurate.
+
+[00:15:27.730] - Niki
+It takes a while to load, and if you're looking at a PDF within a web browser, it'll basically not show it to you. There's some sort of glitchiness around this. So, the good news is, though, is that you can easily flip SEO Quake on and off either in the search results or if you're on the page, you can just hit the little X here at the top, and it will say, disable SEO bar for this domain, and then I'm back looking at, you know just the page. Otherwise, I can flip it on and off over here if you don't want to cluttering up your search results when you're just trying to, you know, be a human being. The other thing that SEO Quake is great for is that it's going to give you some keyword metrics.
+
+[00:16:06.210] - Niki
+And so, we're going to see some keyword difficulty. Sometimes, we're going to see some additional reporting on that keyword right up here. You can also click here to open a full report on the keyword. There are some limitations about this because, again, it's just the free SEM Rush, not the full thing. So, I think there's limitations on usage and some other things.
+
+[00:16:24.930] - Niki
+But this gives you unprecedented access to a lot of metrics that you would only be able to find by running reporting in SEM rush. So, this is a wonderful way to kind of spy on your competition, see what everybody's doing out there, and choose keywords that you can compete on because you know what the competitors are doing. All right. Save the best for last. SEO tool number four, keywords everywhere. We can use this tool to find great keywords everywhere.
+
+[00:16:49.620] - Niki
+Now, kind of lied. This one is not completely free. However, I'm talking literally $10 a year is the average amount that people pay for this tool, and you can use it for free. This tool is available on Chrome and Firefox, and it is so worth it. All right, guys, get excited because this is really freaking cool.
+
+[00:17:09.070] - Niki
+So, to turn on keywords everywhere, you go into your Chrome extensions. And again, yes, I'm using a Chrome extension for this one, and there's a little K in a circle, and you're just going to turn that on. So, as I mentioned, this one is not completely free, but it does have a freemium version. So, there is a free version. However, some of the features I'm going to show you are not free.
+
+[00:17:28.590] - Niki
+But what I wanted to point out is that I wasn't kidding you about $10 a year. And that is evident when you look at how many credits I have left. I think I purchased 500,000 credits, I don't know, months ago. And I still have 421,000 left. And I use this all the time.
+
+[00:17:45.190] - Niki
+So, just letting you know that even if you spring for the paid version, it's still super cheap. So, you're going to turn this on and then I'm going to refresh my search results for best pizza recipe ever. And I am going to get all this cool stuff. So, like I said, this is great for keyword research. It's great for lots of other things.
+
+[00:18:05.590] - Niki
+There's tons of features actually, but I'm only going to go through a few of them because there's just so much to cover. So, what we use keywords everywhere for the most is keywords, as you may have guessed. So, here's what Keywords everywhere does. It puts keywords literally everywhere. Did you see all this stuff that came in when I turned that on? So, here's what you get.
+
+[00:18:25.390] - Niki
+You get, when you search, you get search volume, cost per click metrics, competition metrics, as well as trend metrics. Then if you come over here, you can look at the SEO difficulty off-page, on-page difficulty. You can click this to get a detailed breakdown on these search results and the authority ranks of each site that's ranking for them. If you scroll down, you can see trend data. For some reason, best pizza recipe ever was really an important thing in April of 2005, not really sure why.
+
+[00:18:57.570] - Niki
+If you scroll down even further, you get related keywords. You get people also search for, you get long tail keywords. And this is just going to give you a wealth of information about what kinds of keywords there are around this set of keywords. So, I can see by the domain authority again, this is the same type of score as the authority score.
+
+[00:19:18.280] - Niki
+That is an SEM rush, but it's [inaudible 00:19:20] domain authority score is pumped into here. So, I can actually see like, okay, the competition around unsurprisingly best pizza recipe ever is pretty steep. Okay. But there are some opportunities in here. There's some 30s, there's some 50s, you know some things I might be able to compete with.
+
+[00:19:36.570] - Niki
+Okay, cool. But honestly, I'm feeling like the best pizza recipe ever market is a little saturated. So, I want to look for a specific kind of pizza that I can make and post the recipe that I actually have a better chance of ranking for. So, this allows you to not only look through a ton of keywords and get keyword metrics for your competition, but also to save keywords that you find important to you, that you want to compare and contrast.
+
+[00:20:00.570] - Niki
+So, to do that, there's little stars by all the keywords. So, essentially, I'm just going to click that little star and it's going to add it to a list and I'll show you that in just a second. So, let's say, I scroll down here and I go, okay, wow. Margherita pizza recipe that's got 33,000 searches per month. I'm going to check that out.
+
+[00:20:18.940] - Niki
+Easy pizza recipes, okay. Let's see. I want to make a more specific kind of pizza that's maybe got a more niche market that I can maybe take over. Let's see. Best ever eggplant pizza recipe.
+
+[00:20:30.060] - Niki
+I'm going to start that one. But here's the cool thing. If I click this, now I'm going to start to hone in on this eggplant pizza idea, right? So, now I have keywords related to simply that pizza with eggplant topping, roasted eggplant pizza, eggplant parmigiana pizza. Okay.
+
+[00:20:47.920] - Niki
+And now I can look at these keywords here because here I'm looking at best ever eggplant pizza recipe, which is 70 searches per month. Okay? But pizza with eggplant topping is actually 480 searches per month. So that's given me a lot more volume than I would have expected for something that's a little more niche. Honestly, I didn't even think about putting eggplant on pizza.
+
+[00:21:07.050] - Niki
+It just sort of led me in this direction. So, now I'm seeing there's a lot of opportunity around that, right? And when I look at the search results here, I'm seeing domain authority scores that are all like, in the 40s, those get a little higher, I guess. But the top-ranking ones are still in their 40s as far as domain authority, which is pretty decent. So, here is where this gets really, really cool.
+
+[00:21:27.480] - Niki
+When I hover on this traffic metric, this is going to do a little pop up thing, and what it's going to tell me is exactly what keywords that these URLs rank for. So, I can literally just click this button, and it's going to give me a list of these keywords. Isn't this cool? Eggplant pizza, eggplant. And I can go ahead to see and add this.
+
+[00:21:45.910] - Niki
+I'm going to add all these keywords, so I can compare and contrast them, right? So, I'm going to do that, and then I'm going to look at the next one and see what they're ranking for. They've got 30 keywords. I'm going to look through those. Oops, this one's got a different one.
+
+[00:22:00.510] - Niki
+Pizza eggplant topping that the other one didn't have. That's got a hundred searches per month, or sorry, 480 searches per month, a 100 visits. That's the estimated traffic column. So, again, I can take a look at aubergine, which I can't say, but is, I believe how you say plant across the pond. So, if I look at that, that's actually got pretty high search volume as well.
+
+[00:22:20.670] - Niki
+So, maybe I want to incorporate that idea into here, eggplant for pizza. Okay, interesting. So, I've got all these keyword research now, and I want to just take a look at the ones that I have, you know, pulled out that I only want to focus on. Okay, So, then I want to compare all these keywords, right?
+
+[00:22:37.830] - Niki
+So, I'm going to go up to my Chrome browser extension with the little K here, and I'm going to click my favorite keywords. When I click that, it's only going to bring in the ones that I wanted to look at. I can look at more entries per page. I can sort by how much volume these are getting globally. So, if you look, I've got a nice set of high-volume keywords for a more niche version of pizza that's a little bit potentially easier to rank for.
+
+[00:23:04.110] - Niki
+So, this has just given me a wealth of keyword information in just a few clicks. Now there's no specific special login or anything for keywords everywhere other than within the browser. So, everything that you want to look at is in here. But look at these other features this, has bulk keywords data, analyzing on-page content trends, data competitor gap analysis, you know looking at what's ranking metrics, top-ranking pages.
+
+[00:23:28.260] - Niki
+I mean, there are just tons of stuff in here and it's just an awesome tool. And like I said, you cannot get better value for your buck for the paid features. And look how much we did with keywords. And I'm not even down that many credits. See?
+
+[00:23:40.420] - Niki
+Super cheap. So, when it says keywords everywhere, it's not lying. It actually pops keywords into other tools, which is freaking awesome also, right? So, if I'm looking at my Google Search Console and I want to know I have this early signs of water heater failure for this client, I want to know what it's ranking for and what those keyword metrics look like. Well, Google Search Console has all the other metrics around those keywords as far as they pertain to you, but it's not going to automatically put in general information about keywords.
+
+[00:24:10.750] - Niki
+So, if I filter by this URL, I can see the data over the last seven days for this particular post, right? And if I scroll down, I've got my keywords that this is ranking for. Okay? And I can expand this list. Sometimes, it takes a little bit to fill in, but now you can see that I have volume information built right into my search console. So, I can immediately see which of these keywords are maybe more meaty and better to go after for this particular post.
+
+[00:24:42.910] - Niki
+What's really awesome about this is when you have content that's already ranking for keywords, this is literally just built in keyword research. You simply look at the keywords your post is already ranking for, pull out what you can potentially optimize for and then do so. It's awesome. So, likewise, it posts keywords into YouTube, into Google Analytics, and I'm sure a few other places, but I mainly use it in those. So, yeah.
+
+[00:25:06.630] - Niki
+How cool is keywords everywhere? I think it's great. Hope that wraps up our free SEO tools that are actually worth using. Thank you so much for attending this session. I really appreciate it.
+
+[00:25:16.450] - Niki
+Again. My name is Niki Robinson, president of Post by Ghost. And if you haven't met me before, I am a Google Search Console enthusiast. So, I'm giving you a free code to my Google Search Console secrets class. The code and the class and the tool are also all free.
+
+[00:25:32.650] - Niki
+Thanks. So much. Have a great rest of your summit.
+
+

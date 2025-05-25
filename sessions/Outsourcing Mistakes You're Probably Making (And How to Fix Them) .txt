@@ -1,0 +1,167 @@
+Title: Outsourcing Mistakes You're Probably Making (And How to Fix Them) 
+Speaker: Marlene Srdic
+Website: www.glitzgrammar.com
+Level: Intermediate Bloggers
+Category: Content Creation, Business Admin
+Length: 19:59
+Year: 2025
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/outsourcing-mistakes-youre-probably-making-and-how-to-fix-them-marlene-sirdic/
+
+Transcript:
+[00:00:03.650] - Liz Stapleton
+All right, guys. I'm super excited to have this next speaker back. She's spoken multiple times. She's a former magazine editor turned content creator and entrepreneur. In her 20 years in media, she's been editor-in-chief of multiple publications and had bylines in publications like BBC Travel, Rachel Ray. And as a publisher, her fashion blog, Life with Mar, reaches over 100,000 women monthly across all networks. She's also the founder of Glitz & Grammar, teaching lifestyle brands and bloggers how to reach their ideal audience through WOW, where they copy a big warm welcome back to Marlene Srdic.
+
+[00:00:42.350] - Marlene Srdic
+Thank you.
+
+[00:00:44.310] - Liz Stapleton
+Yes, I'm super excited to have you back. We're going to be talking about outsourcing, which I feel like... Which is not something I've actually done, really, for writing. I've tested the waters here and there, and then it just didn't quite work out, probably because I was making some of the mistakes you're going to share with us. So where should people start if they want to start outsourcing? And then let's start there and then we'll get to mistakes.
+
+[00:01:09.810] - Marlene Srdic
+I think... So one of the reasons I wanted to talk about this today is because of what you said. I feel like I've seen it in Facebook groups all the time. People test the waters and it doesn't work out and they're frustrated. And it's just it's really common. And honestly, one of the most common reasons is that you're maybe not even ready yet. I think that people under estimate outsourcing. It sounds like a good idea. Hey, I've got this writing that I no longer want to do. Why don't I just give it to someone else? You don't even realize that it's a whole other project now in itself. It is a project now that you have to manage because you got to find the writer, you got to hire them, you've got to manage them, you've got invoices to process, contracts to send out, emails back and forth, questions to answer. If you don't have the time to do that or you're not prepped from the get-go, then you're already being set up to fail, unfortunately. It can be really overwhelming. I think that even that starting point is where a lot of people are just like, I don't have the time for this.
+
+[00:02:07.850] - Marlene Srdic
+If you're outsourcing, and that's just outsourcing for writers, but even if you want someone to come in to your WordPress or whatever on the back-end, you got to have all that stuff documented in some SOPs. Tell them every little thing. How do you want it formatted? How do you want it to look? How do they log in? All these little details, because they live in our heads, we're doing it all the time, we just assume assume that other people know, and that's not the case. You got to be prepared, whether you're outsourcing just for writing or someone's logging into the back-end and tell them every single little thing that you expect. If you want them to fill out Yoast SEO, you have to have that written down. If you want them to fill out the alt text on the images, tell them to do that, number one. Tell them what alt text is, because we're just making assumptions here. Just because somebody's a writer, it doesn't necessarily they're logged in on the back-end, and It doesn't mean that they know what it is that you want. You just got to be prepared from the get-go, have realistic expectations that it is going to be a project to manage.
+
+[00:03:10.130] - Marlene Srdic
+Not trying to scare you off from doing it, but that you're prepped from the get-go with your SOPs in place and a way to track the project, a way to track this is what's coming in, this is when it's due, this is when I'm going to edit back, this is when I'm going to get it published. If you already have a content plan in place, then you're slotting it in there. But just make sure that you're really prepped and ready to go and have the time for it before you even get to actually outsourcing.
+
+[00:03:36.990] - Liz Stapleton
+Yeah, and I thought I was like, okay, I was a freelance writer for years myself. So coming at it from the other side, I've got some perspective and I definitely had some of those things, but I just didn't set the necessary boundaries to be like, Well, you wrote way more than I said I wanted and I was willing to pay for, things like that. That was clearly a mistake on my end. What are some mistakes you see people making when they're working to outsource besides not having a process written down? We'll come back to that. But what are other big mistakes people are often making?
+
+[00:04:14.730] - Marlene Srdic
+I think not having a content strategy is another one. It can be with writing, it can be difficult to manage or evaluate your ROI. If you're not clear on what your goals are, then you might end up being frustrated, but every piece of content should have one. It's very easy if you're outsourcing email marketing because you're going through a launch, well, then you can evaluate your click-through rate and your purchases and all that. But if you are just having a post on your blog, it's a lot harder to measure the ROI. Just having a good content strategy in place, I think, is also really helpful, really knowing what your goals are. We all have to have informational content that lives on our websites just because that's what readers expect. And if that's what you're outsourcing because you need that, then that's great. Don't be mad that it's not making tons of money on banner ad traffic because that's not what the goal was for that. So I think just in general, even when it's not outsourcing, just having a good idea of what your goals are before you create any piece of content, I think it'd be really helpful.
+
+[00:05:22.020] - Liz Stapleton
+Okay. Yeah, I like that. Is it going to be something that you're hoping to get lots of affiliate link clicks, or is it meant to drive traffic for display ads? Is it meant to pre-sell a product in a way or get people to join your newsletter? There's lots of different things a blog post can accomplish. And we're just talking about in the context of writing, so I'm just going to say blog post. But you need to know what it is and it can't do everything. So just being very clear and specific in that goal, I like that. When you're outsourcing, because there's... When I was a freelance writer, AI wasn't really a thing, at least not to the extent it is today. I'd be like, Man, it'd be so much easier to be a freelance writer. I mean, you get that rough draft, and then obviously, you make it your own human authorship. But where do you draw the line? Do you let freelance writers use AI? Are you using AI yourself? How do you manage that aspect of it?
+
+[00:06:23.650] - Marlene Srdic
+I mean, I would say that's a personal choice. I wouldn't really... I mean, if I'm hiring a writer, I'm hiring a writer, I'm not hiring AI. That being said, I think I'm not saying AI is not helpful. It's great for helping you come up with ideas. It can be really helpful for an outline. If you're going to send one to a writer or not in your brief, that's your choice. I think that can help with your expectations, too. But as far as writers using AI, it feels like cheating. But I don't have a problem with it if you're using it for brainstorming title ideas. That's really helpful.
+
+[00:07:00.240] - Liz Stapleton
+That's how I use it myself. Yeah, I do, too.
+
+[00:07:03.380] - Marlene Srdic
+I do, too, and it's really helpful. I feel like nine times out of 10, I'll ask AI for a list of 10 titles, and I ended up piecing together number two, five, and seven. But it still was helpful. Even if I didn't use the exact thing. It's helpful. So I wouldn't tell writers not to use it. And if you want to use AI, same thing. It's still a project that has to be managed, and you still have to know what you're using it for, what your ultimate goal is.
+
+[00:07:37.120] - Liz Stapleton
+Okay. You used a term that I feel like if people weren't freelance writers themselves or they haven't managed, they wouldn't recognize. You said a brief. So can you explain what a brief is and how it differs from SOP?
+
+[00:07:50.510] - Marlene Srdic
+Sure. So one mistake that I feel like people make is not having their expectations aligned. And that can really be from a lack of communication, really clearly communicating exactly what you want. As you mentioned, word count, how you want it formatted, what the article is about, all of that, you would send that in a writer's brief, and that's really going to help eliminate some of that back and forth because you're being clear on exactly what it is that you want and what you expect. Some people will include an outline in a writer's brief. That's up to you if you want to. In the past, I've done it where maybe I do outlines in the beginning, and then once the writer gets to know what I expect in the style, then maybe I don't supply the outline anymore. If it's a really long, complicated article, then maybe I submit the outline. The outline is actually a great way to use AI. I mentioned before having time for the project. You got to assign the content. Well, maybe you have AI draw the outline for you and then you send that over into the final brief that you send to the writer.
+
+[00:08:57.460] - Marlene Srdic
+You can have AI do the writer's brief as well.
+
+[00:09:00.510] - Liz Stapleton
+Okay, I like that. And then SOP is more like how they submit the things, the processes involved in actually the formatting and stuff, correct?
+
+[00:09:10.460] - Marlene Srdic
+Yeah. Do you want them to email it to you? Do you want it in a Google Doc? Do you want it in a Word doc? Do you want them to put it in WordPress? There's so many questions that... Just again, like I said, eliminate some of that back and forth and save time to really streamline it. If you have it all decided beforehand and then documented in your SOPs, and then when you send over your writer's brief or your writer's guidelines, then that will really help clarify to everyone what the expectations are.
+
+[00:09:40.160] - Liz Stapleton
+I like that. Because as you mentioned, a lot of times these processes are things we don't even think about. They just live in our head. We just do them. How do you recognize, Oh, this is something I need to write down so someone else can do it? And how do you actually... That's the thing is I don't remember to actually write it down.
+
+[00:09:58.410] - Marlene Srdic
+I would say it's a living, breathing document. So if somebody asks me, then I'm like, okay, I forgot that it's obvious to me. It's not obvious. Then I'll go back in. So I have one in Notion, and I'll just link it out to writers that I work with. And when I send them that, I'll just update it as needed as things change. Okay.
+
+[00:10:20.250] - Liz Stapleton
+All right. Moving on from the documentation, how would you recommend people going about finding the people they want to outsource to? Because it's a big wide internet world out there.
+
+[00:10:34.100] - Marlene Srdic
+Yeah, it is. I mean, it is a little bit of a get what you pay for space. On the lower end, you're going to get more similar to what you get from AI. On the higher end, you're probably going to get better results. That being said, everybody's on a budget, but just keep that in mind as far as how much editing you want to do. I think it's unrealistic to not expect to do any editing. You should always edit your content before it goes up. You always got to put your personal flair, your stamp on it, and just refine it. I feel like when people outsource, they think that you don't have to edit, and you should always be editing your content. But as far as finding writers, Facebook groups, there's places like Upwork, Fiverr, LinkedIn. I usually hire a lot, actually, via Facebook groups or people that I know, recommendations from maybe other publishers or from LinkedIn.
+
+[00:11:28.090] - Liz Stapleton
+Okay. What would you is a price range? Because I feel like maybe a lot of people don't realize how much, how little it can cost versus how much it can cost. And as you said, you get what you pay for. But what's the starting point and where it's more high-end?
+
+[00:11:46.480] - Marlene Srdic
+It could be anywhere from 10 to 20 cents a word to a dollar, a dollar fifty, two dollars per word. Some people will charge for a project. I have seen three to four cent per word writers, but I personally I wouldn't. If I'm going to outsource, you don't want to get into a situation where you outsource and then you're so frustrated that you're like, I could have just done this myself. That's not what you want. It is supposed to be helpful, even if you're doing the editing, even if you have to send the brief and do all this stuff. You still want it to be helpful and put you one step forward.
+
+[00:12:25.750] - Liz Stapleton
+Okay, so walk me through what a potential workflow would work like or would look like if you were outsourcing.
+
+[00:12:33.370] - Marlene Srdic
+So again, this is going to depend on if you want to outsource the whole thing. No, everyone is different.
+
+[00:12:37.500] - Liz Stapleton
+But just give me an example of one.
+
+[00:12:39.240] - Marlene Srdic
+So I'll give you an example. So a writer I already work with, I have writers now. I work for so long that I could just be like, this is the title and just be like, go with it. But typically, if it's somebody new, I would give them a little brief on what I expect, maybe title outlined. I almost always will include sources. Consult these sources or similar to to help inform your content. Or I might post links to other websites, like check out these for reference. I want it to be formatted like this, or I want it to contain, not to copy, but just inspiration, to be similar, either in structure or information or look to other sites. I think that's actually one of the most helpful things you can do is just be really clear like, Hey, I want it to look like this, but put our spin on then you would obviously go with your agreement, whatever agreement or contract that you have, negotiate your rate.
+
+[00:13:38.340] - Liz Stapleton
+Always have a contract.
+
+[00:13:39.730] - Marlene Srdic
+Always have a contract in place unless you're doing some ongoing work. But you should always have a contract in place. I think that's basically it.
+
+[00:13:49.730] - Marlene Srdic
+Then it comes in, I would edit, either send it back or not, and then publish my post.
+
+[00:13:54.780] - Liz Stapleton
+If you're outsourcing, should there be a specific amount of content you're trying to... Do you see this as a publisher yourself of like, If I want to get this many pieces of content done, I'm going to outsource at least this many?
+
+[00:14:14.690] - Marlene Srdic
+Not necessarily. I guess it depends on your workload, how much you want to put in yourself and what your budget is, really.
+
+[00:14:25.220] - Liz Stapleton
+Yeah, very true. All right, so what is... I mean, we talked about some mistakes people make and you need to set the rules, and you need to be very clear about them, and that's where a lot of the problems arise. If a problem arises, what is the next step? I mean, the contract, I mean, if there's a breach of contract, that's a whole other thing. But how quickly are you responding to they didn't understand? Are you going to have to scrap that draft? What is the actual management of that look like?
+
+[00:14:55.560] - Marlene Srdic
+I have scrapped drafts before. If it's so off the mark, and I feel like it's just not worth going back and forth. I've just called it a loss and scrapped it altogether. I think one way that people can avoid that altogether, that's often overlooked too, is issuing a writer's test before you hire somebody. And this is pretty standard practice, just in the publishing industry. And I think, since we think we're smaller publishers, we don't have to do this. But you can just pay a very nominal fee and give a couple of people a writer's test and evaluate it. And then, before you even make your hire, I like to do this. And it'll give you a good idea- I will say that.
+
+[00:15:39.030] - Liz Stapleton
+No one should work for free.
+
+[00:15:40.270] - Marlene Srdic
+Yeah, no, that's what I meant. Pay a nominal fee.
+
+[00:15:42.840] - Liz Stapleton
+No, I just like to be very clear, because people are like, Well, it's part of the applications. No, that's work.
+
+[00:15:48.240] - Marlene Srdic
+No, no. You pay them for the work. Yeah. But at least you get an idea of how they work, how quickly they respond to your emails, how responsive they are. Did they turn it in on deadline or If you're not, you get an idea right away. Then you can also evaluate, obviously, their writing skills and if it's on point or not, if you can give them feedback from there. I think it just establishes from the start a much stronger relationship, and you're going to be less frustrated with, Oh, I tried this writer and they sucked. Oh, this person didn't get it. Well, sample a couple of people out. I've put out writing tests and skipped on two out of three people. Imagine if I had hired those two out of three people I would have wasted my money and my time on them when I could have just already not hired them based on the test.
+
+[00:16:38.920] - Liz Stapleton
+Yeah. No, I do that, not so much with writing, but I do tend to outsource transcripts for this summit. And so because there's so many, it's 50 sessions around there. And so I will be like, hey, guys, I'm looking for contractors to do this, and I will do a test, which I pay.
+
+[00:16:58.810] - Marlene Srdic
+And I make sure they're all around the same length and whatnot, and then I go through and stuff.
+
+[00:17:04.050] - Liz Stapleton
+So testing, I think, is a paid test to see if they're going to fit for the work itself is always a good idea. What haven't we covered that people should know about outsourcing writers in particular?
+
+[00:17:18.500] - Marlene Srdic
+You should always have some writer's guidelines. If you don't have any, then you should not be outsourcing yet.
+
+[00:17:24.430] - Liz Stapleton
+What goes into a writer's guideline?
+
+[00:17:27.310] - Marlene Srdic
+Your writer's guidelines is going to be your little brand bible that says everything, from your voice, your tone, the style of your content, your demographic, who they're writing for.
+
+[00:17:39.380] - Liz Stapleton
+Do you use Oxford comma or not.
+
+[00:17:39.460] - Marlene Srdic
+Yeah. Do you use Oxford Common or no? Do you use emojis or not? Are you writing to Gen Z or are you writing to boomers? People need to know this information. I have a writer's guidelines that I put together. In here, that's where you can put the stuff like how to submit the content. You want a Word doc or Google But you should have this anyways. If there's one takeaway from this conversation, you should have this for yourself anyways. The thing about writer's guidelines is you can give this to ChatGPT and you can give it to Claude AI. If you're frustrated with the content that you're getting out of AI, and it doesn't sound like you will put together a whole guide and tell them, This is the voice, this is the tone, this is the demographic. We use first person, we don't use first person, we use Oxford commas, all those little things that, again, lives in your head and you think other people just might infer, you need to actually have it documented.
+
+[00:18:37.090] - Liz Stapleton
+Yes, I like that. All right. So where can people find out more about you? I know you have something for them. Tell us all about it.
+
+[00:18:45.900] - Marlene Srdic
+So you can find me at glitzgrammar.com. If the idea of writer's guidelines sounds overwhelming for you, I do have a template that you can grab for free that will help you create your own. And then just a little example of what it should look like. That way you have a good place to start, whether it's for yourself or ChatGPT, or you're ready to outsource to Writers.
+
+[00:19:06.290] - Liz Stapleton
+Yes, and all those links are going to be below this video, or they'll be on this page. Definitely, go check that out. Then I think you also have something if people end up grabbing the All Access Pass and the speaker bonus bundle, whatever formation that tends to become. But what do you have for that?
+
+[00:19:23.830] - Marlene Srdic
+I do have a little Writing Secrets Masterclass. As you mentioned. I talk a lot about writing with with my readers and just some things to help you create better content.
+
+[00:19:34.500] - Liz Stapleton
+Fantastic. So guys, definitely check that out if that is of interest to you. Marlene, again, thank you so much for coming back and sharing more of your knowledge with the Blogger Breakthrough Summit. I'm always excited to have you and learn from you. Thank you.
+
+[00:19:46.340] - Marlene Srdic
+Thanks for having me again.
+
+

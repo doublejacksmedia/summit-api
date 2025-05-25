@@ -1,0 +1,110 @@
+Title: Terms of Use for Digital Products
+Speaker: Nicole Cheri Oden
+Website: https://nicolecheriodenlaw.com/
+Level: Advanced
+Category: Legal
+Length: 20:33
+Year: 2021
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/terms-of-use-for-digital-products-nicole-cheri-oden/
+
+Transcript:
+[00:00:10.260] - Nicole Cheri Oden, nicolecherioden.com
+Hey, hey, welcome to Terms of Use for Your Digital Products. Before I launch in, I'm going to give a little bit of an introduction about me and my businesses.
+
+[00:00:21.870] - Nicole
+So, my name is Nicole Cheri Oden. I am married to my high school sweetheart. We have been married for over ten years now, but together for 14, we have an almost five year old little girl and a 13 year old Jack Russell terrier. And I'm a licensed attorney in the state of California. So, I have my own law practice. Nicole Cheri Oden Law. And I also have an online business, Nicole SEO Cheri LLC, where I provide legal templates for other online business owners so that they can make sure they are legally protecting their online businesses while keeping their sanity.
+
+[00:00:56.730] - Nicole
+We are going to cover a lot of ground today, what our terms of use key provisions to include in your terms of use and making sure that your terms of use are enforceable.
+
+[00:01:08.900] - Nicole
+But before I launch in, I'm going to give my standard disclaimer, everything we'll chat about today is legal education and information. It is not business, financial or legal advice. It does not create an attorney client relationship between us. And since I am a United States attorney, everything I share is going to be from the perspective of a United States law. You definitely want to consult with an attorney in your area who understands your particular business situation so that you can take the right steps for you and your business.
+
+[00:01:38.510] - Nicole
+I like to note that in the United States, contract law is state specific. There are kind of overarching universal concepts, and that's what we're going to cover today. But this is why I do say it's important to chat with an attorney in your area.
+
+[00:01:54.790] - Nicole
+So, let's first dive into what our terms of use. If you offer some sort of an e-course or a membership or any type of downloadable product like a worksheet or templates, you definitely want to make sure you have terms of use in a place. So, terms of use are a contract between you and your customers. Interestingly enough, they aren't legally required, but they are the first place a court will look if you have a dispute with one of your customers. So that's why I think it is imperative, no matter what, if you have some sort of digital product, you need to have terms of use in place. And that is because they are the ground rules for your online product. And this is the first fill in the blank on your worksheet, the ground rules for your online products.
+
+[00:02:42.810] - Nicole
+And I'm going to cover some of the key provisions. You want to make sure your terms of use include beginning with your payment options. So, this provision really should clearly articulate four things, and that is what is the payment for? So is it an e-commerce? Is it some sort of downloadable product specifically outline what the payment is for? Number two, how much is due, i.e. the price? You're going to be very clear about what the price of the product is.
+
+[00:03:13.850] - Nicole
+The third thing is how the payment is structured, so is it a lump sum? Is it a monthly payment? Be very, very clear. And the fourth thing, when is payment due. Is at time of purchase? Is it the first of the month? So, let's say you have a membership. So, payments come out automatically, either deducted from whatever card the purchaser uses. You want to be very clear about when the payment is due.
+
+[00:03:36.680] - Nicole
+And as a note, if you actually offer multiple products, you can refer to a specific sales page, but you want to make sure that the four things I discussed above are included. One, what the payment is for, two, how much is do? Three, how the payment is structured. And four when payment is due. And you want to make sure that you are retaining records of exactly what your sales page says on the specific dates.
+
+[00:04:03.170] - Nicole
+It's evidence down the road if an issue arises so that you can reference that to be very, very clear about what the payments included and how it was structured.
+
+[00:04:13.530] - Nicole
+The next provision is your refund policy, so you want to be sure that you include your refund policy, and that is even if it is no refunds, that's perfectly fine. But you want to be very clear about it. And that's something that I like to actually put on the sales page, as well as in the terms of use so that it's not buried. I think it's better to just be very clear from the outset if you're not going to be giving refunds that. That's clearly articulated, I mean, it's just so much better from a consumer perspective, if you visit a page and you don't have to root around to figure out what the refund policy is and if you do offer some sort of refund, you want to be very clear about the terms. How soon do they have to request a refund? Is there any sort of proof that they have to send, let's say that you have some sort of membership and do they need to complete all of the modules? Whatever it may be clearly articulate. You're going to hear me repeat that several times throughout today's lesson. But you want to be very, very clear.
+
+[00:05:15.730] - Nicole
+I also like to include a note that chargebacks won't be tolerated. So, if you don't know what a chargeback is, that is when somebody makes a purchase using their credit card and then they dispute the charge with the credit card company. It is a huge headache. And that is why it's so important that you understand how your particular payment processor responds to chargebacks. It's not if, it's when, unfortunately, but it is something that you definitely want to be aware of for that reason in terms of how the process goes. So, that's just a little side note.
+
+[00:05:46.480] - Nicole
+So, we chatted about payment options, we chatted about the refund policy. I also like to include a provision that addresses how your content can and can't be used, and that is an intellectual property provision. Is your product something that a consumer can use for personal or commercial use? Let's use the example of social media templates. If you offer those templates, is it something that is just for the person to download and use for themselves and perhaps their online business? Or is it something that they can download and then turn around and particularize for clients or customers and resell? So, you want to be very clear, personal or commercial use?
+
+[00:06:30.100] - Nicole
+I also like to include a few provisions if your product is for personal use, because it kind of specifies that you are really kind of drawing the line, drawing your line in the sand, that the product is for personal use. So, for instance, I like to include a provision that specifically states the purchaser cannot share their login credentials with other people or even sell or transfer their access, which is a commercial use at the end of the day. It's something that's very commonplace in the online space where people will sign up for a course or a membership and they'll decide to split the cost in the access with somebody. So, if you're very clear from the outset in your terms of use, that that's not something that you condone, you'll have that to stand on. And we'll talk about this in a minute when we get to the termination provision.
+
+[00:07:17.950] - Nicole
+Another provision I like to include in the intellectual property provision section is that your purchaser is not going to use your product to basically create a directly competing product. So, unfortunately, there are copycats out there. It happens somebody will purchase your product and then turn around, copy it and try and sell it themselves. If you have this provision in your terms of use, it's extra leverage if you ever have to basically stand on your terms of use in a dispute. So, those are some things I'd like to include. Really, the intellectual property provision is to specify your rights and how you're sticking your claim to them.
+
+[00:07:58.640] - Nicole
+So, another provision to include in your terms of use is the limitations of liability and disclaimers section. This section really is critical. You don't want to expose yourself to undue risk. And at the end of the day, we are laying out your terms so now that you don't have to fight about it later. So, that's why this is such a key-key provision. I like to include a clause that provides a very specific cumulative liability amount. So, in case you have a claim of rights, the amount is basically tied to your digital product and you indicate that by making the purchase, the customer is agreeing to that limitation of liability. So, as an example, let's go back to our social media template. Let's say you have some template bundle for twenty seven dollars. You would have a provision in your terms of use that says, "If you have a dispute and if in any case you are held liable, the maximum amount that you will be held liable for is that twenty seven dollars." So again, it's that threshold liability really minimizing any undue rescue could potentially face.
+
+[00:09:07.190] - Nicole
+Disclaimers, disclaimers, disclaimers, these are so important to include in your terms of use, especially if you're in a licensed industry. If you'll recall the disclaimer that I actually gave at the beginning of my presentation, I was very clear that I'm providing education and information and there's no attorney-client relationship created. Disclaimers are another step to insulate yourself from liability and to really make sure that you are being clear about what you are and you aren't doing. So, including those in your terms of use, I think is really key. A question I get a lot is should my disclaimers be standalone or should they be in my terms of use? And when we get to terms of use enforceability, you'll understand a little bit more. But I think that having your disclaimers included in your terms of use is actually a better practice.
+
+[00:09:58.010] - Nicole
+You could take it a step further and include those disclaimers on your sales page and the footage of your website. I don't think there's any harm in having them multiple places. I think it's actually kind of better because it shows that you're being very, very clear to your customers. But again, when it comes to enforceability and really being able to stand on those disclaimers and say, "They're enforceable, you read and you agree to them." I think having them in your terms of use is a really, really smart business practice. And we'll talk about why in a minute.
+
+[00:10:29.370] - Nicole
+So, I referenced earlier a right to terminate access provision, and this is key, especially in connection with a violation of your terms of use. So, it really is smart to include a provision that you have the right to terminate your customers access, especially if you have a course or membership if someone violates your terms.
+
+[00:10:47.220] - Nicole
+So earlier, I give the example of people splitting the cost and the login information for courses and memberships. If you find that out, if you have that right to terminate access provision, then you can go in and do so. Another example is, if you find out that somebody has been copying your material, you can go and terminate access and then you can move forward with seeking whatever relief it is and whatever way it is that you indicate in your terms of use.
+
+[00:11:12.930] - Nicole
+Which brings me to the next provision, which is a dispute resolution provision and that outlines how and where disputes will be handled. So, including a provision that specifically indicates where a dispute will be heard. So in what state and in what county and how it will be handled either in courts or by mediation or arbitration or some combination of those things really is key. And that is because under contract law, a dispute is typically heard where the contract was entered into or where the breaching party resides. So, I'm going to say that again, under contract law, a dispute is typically heard where the contract was entered into or where the breaching party resides; meaning the wrongdoing person. Which means in the age of Internet business, that people could be required to pursue their lawsuit in different states or even in different countries, which can be an immense headache. If you can deal with that headache from the outset and make sure that you have included a provision that says, "Hey, if something goes awry, we're going to handle it in my state and in my county, you kind of have a leg up. So, it's really important that you include a dispute resolution provision in your terms of use. So, the final provision I'm going to cover is the third party, an affiliate link provision. So, this basically says if your digital product links to some other products or websites. You are not responsible for the experience or the purchase process on any website other than your own, and that if your customers experience goes awry, you have no liability.
+
+[00:12:53.140] - Nicole
+So, let's say you are a health coach and you have a course about losing 10 pounds in 10 weeks and you have a link to some shake that you recommend. You want to make sure that you're clearly indicating that if they click on that link, they're using their own judgment. If they go through and make the purchase, that's their decision. Yes, you're providing the link. But what they do after that is of their own volition. The same thing goes for affiliate links, so there is a lot of kind of legality is tied to being an affiliate, and that is because the Federal Trade Commission or the FTC handles how affiliates are able to market themselves and earn whatever it is that they're earning in terms of monetary income or free products or whatever it may be.
+
+[00:13:47.390] - Nicole
+So, you're required to actually include disclosure that you're an affiliate and you are receiving a benefit. So, if any of the links that you're providing are affiliate links, you have to be very, very clear to your product purchaser that they should use their own judgment and using that affiliate link. And again, if they use the link and the process goes awry or they're unhappy with the purchase, you have no liability whatsoever for that. So, those are the provisions that I highly recommend that you include in your terms of use. But I like to note this is not an exhaustive list. This was a high level overview of the things to consider, to make sure that it is a strong contract, because at the end of the day, that's what the terms of use are, their contract for you and your product to make sure that you are going to get paid and you're minimizing kind of your refund chargeback disputes down the road.
+
+[00:14:47.090] - Nicole
+So, we covered terms of use and what they are some high level what to include. Now, it's cover making sure your terms of use are enforceable, because at the end of the day, that is one of the most important things. It doesn't mean anything if you get your terms of use in place and they're not enforceable. So, that is why it is so imperative. You actually request that your customers affirmatively agree to your terms of use at the time of checkout.
+
+[00:15:13.280] - Nicole
+And this is before they enter their credit card information. They're shipping information, whatever it is that you require to purchase your products. This means they are using a method that requires them to take action. This is the second link on your worksheet, a method that requires them to take action. So, they are either checking a box, they're hitting the I agree button. Whatever it is, they're taking some sort of action. This creates an enforceable contract under the E-sign act, whether they choose to read the terms or not.
+
+[00:15:43.990] - Nicole
+So, as long as you've given them the opportunity to read the terms, if they choose not to do so, that's on them. You've provided the terms, they've click the button, they've checked the box, whatever it is that they read and agree to those terms; that is on them.
+
+[00:16:01.780] - Nicole
+Here is an example of my own on my website for my legal templates, they have to actually affirmatively check that box that says, "I have read and agree to the website terms of use and the terms of use are linked to my policies on my website." And this is required. They're not able to even click the button and proceed to put the purchase information in [their name, their credit card information] until that box is checked. They don't want to agree; so bad, so sad, but it is required to make a purchase on my website.
+
+[00:16:36.080] - Nicole
+And you definitely, definitely, definitely want to keep records of your terms of use, and this is something that I want to highlight. So, a lot of the time people will start online businesses. They may kind of do a Google search and find some sort of template and slap it up on their website and call it a day, which I do not recommend. Let's just say Google should not be your go-to for legal. We'll just leave it at that. But once you have the terms of use in place, you have to continually monitor to make sure you're keeping records not only of the terms of use you currently have in place, but any previous versions and the dates that they were in use. So, you may be updating your terms of use down the line to add products to maybe even change your refund policy. You know, if you're changing your address, whatever it is that you're changing in your terms of use you want to keep records of. Okay, I changed my terms of use on November 30th, 2020. The previous version were in effect from January 1st 2018 until that date. And put those somewhere.
+
+[00:17:42.710] - Nicole
+I'm a huge proponent of having a document management system for your business, even something as simple as Google Drive. You have them somewhere that you can reference them down the line. If you have an issue come up, it's just extra peace of mind for you because your I's are dotted or T's are crossed. If you have an issue, come up, because at the end of the day, that's really what legal is for. If something happens, you have this protection in place. Legal is like an insurance policy. It's not fun. I know a lot of people like to stick their head in the sand and not deal with it. But you're so thankful that you've done it and you've dealt with it when that issue comes up.
+
+[00:18:19.950] - Nicole
+I also recommend you keep records of the fact that your customers have to agree to your terms before they're even able to make the purchase, and this is the third thing on the worksheet before proceeding to make any purchase. So, I want to say this again. I recommend you keep records that show a customer has to agree to your terms before proceeding to make a purchase. And that can be as simple as setting up a Zoom video on your computer and walking through the purchase process and showing that it won't let your customer proceed until they've actually clicked that terms of use. You can walk through showing that once they click it, what the terms of your show and save that in your document management system, in Google Drive, ShareFile and Dropbox, whatever it is that you use. Again, it's proof for you if you have a dispute, come up down the line, which at the end of the day is priceless.
+
+[00:19:12.690] - Nicole
+So, key takeaways from today: And I know we covered a lot, but at the end of the day, you know, you need to get to terms of use in place. If you sell a digital product. You know, you need to require customers to agree to your terms of use before purchase. And, you know, to keep records of your terms of use.
+
+[00:19:29.340] - Nicole
+If you have no idea where to start. You can actually snag in terms of use template in my legal shop at NicoleCheriOden.com/legal shop. And please feel free to reach out if you have any questions, you can e-mail me at Nicolae@NicoleCheriOden.com Shrilled and I do manage my own email inbox.
+
+[00:19:47.730] - Nicole
+But please do remember well, I can point you toward the right resource. I can't give specific legal advice unless you've entered into the written and executed retainer agreement with my law firm. But only business is distinct from my practice. So that's why I say I can point you toward the right resource, but I can't give a specific legal advice. Thank you so much and I hope that you have an amazing rest of your day.
+
+

@@ -1,0 +1,278 @@
+Title: From Chaos to Clarity: Reclaiming Control Over Your Hot Mess Email Automations
+Speaker: Bev Feldman, ConvertKit Consultant & Email Automation Strategist
+Website: https://yourpersonaltechfairy.com
+Level: Advanced
+Category: Tech
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/from-chaos-to-clarity-reclaiming-control-over-your-hot-mess-email-automations-bev-feldman-2024/
+
+Transcript:
+[00:00:03.200] - Liz Stapleton, Host
+All right guys, I'm super excited for this session because I think it is just so important. Very warm welcome to Bev Feldman, who is a ConvertKit consultant and email automation strategist who believes in bringing in and treating your subscribers with trust and respect. Thank you so much for joining us, Bev. Welcome.
+
+[00:00:30.340] - Bev Feldman
+Thanks. Excited to be here.
+
+[00:00:34.170] - Liz
+Yeah, so we're going to be talking about email automations, which are basically the magic sauce of email marketing, but can become overwhelming and disorganized super-fast. So let's maybe start, and I think we're going to just tailor this conversation in terms of ConvertKit, not that it doesn't apply, but as far as the language we're going to use. Let's start by digging in. Can you explain some of the different kinds of automations you can use and why they're important, why you should be using them?
+
+[00:01:08.790] - Bev
+Yeah, I think people watching this might know on a very basic level, having some sort of welcome sequence that when people sign up for your email list, they automatically get welcomed into your world. And to me I think that's really important, because people when they sign up for your email list, they're excited. That is the best time to get them engaged. You know that regardless of what you have going on in your life, that at the very least, new subscribers will be automatically welcomed into your world and you'll help them to decide if this is a good fit.
+
+[00:01:44.910] - Liz
+Yes, and then that's the simplest I think, automation. And then from there it can get more complicated.
+
+[00:01:52.420] - Bev
+Oh, yes, it can.
+
+[00:01:54.640] - Liz
+So with rules and tagging and all this stuff, let's talk about — because one of the things I really hesitated to do for a long time was to delete an outdated automation. What are your thoughts in terms of — because we're going to dig more into organizing and best practices. What are your thoughts on cleaning out automations and how often should you do it? What should that look like? Should you not do it?
+
+[00:02:22.250] - Bev
+Yeah, well, so I'm of the opinion that at the very least if you have some way to keep things organized, I think about with ConvertKit at least, you're limited in how you can organize things. I, for myself, have done this thing. If there's an automation that I'm like, well I don't want to get rid of it completely I'll put a Z or something. That way when it's listed alphabetically, it's at the bottom. It's out of the way, and I'm not scrolling through trying to find what I need. But in terms of thinking about, should I delete this automation or not? My suggestion would be is to, before you do that to actually look at that automation and see what brings people into that automation and what that automation might trigger. Because I've seen instances where people are like, well, I don't need this thing. Actually, you deleted a very important step. We want to be really mindful, and that's why I always recommend, regardless of you're doing, testing out things. Before you put anything new into the world, you want to make sure everything is working the way you want it to. The other thing I'll note about that is that I've seen people say, when you're looking at tags saying, oh, I don't need these tags, I'm just going to delete a bunch. Then you go look at your automation and suddenly you have null, you're like, shoot, I just deleted something that I might have possibly needed, but now I don't know because it just shows up as basically a blank. I always recommend when it comes to things like tags, and I do think it's good practice to clean up those as well just because it can get unwieldy very quickly, is to check where those tags are being used. So looking at your automations, looking at your rules, and making sure before you delete anything that it is not being tied to something else.
+
+[00:04:23.570] - Liz
+Yes, and I have hundreds of tags, I swear. It's crazy.
+
+[00:04:29.840] - Bev
+Yeah. Oh, and fun fact, ConvertKit now actually limits it to 100 for newer. So I don't know when they made that switch.
+
+[00:04:36.650] - Liz
+Oh my gosh, I'd be screwed!
+
+[00:04:39.480] - Bev
+Well, I think I've seen people who had very, very long lists. It would take a very long time to load. And I think maybe they actually did fix that, so it wasn't taking such a long time. But yeah, I think it forces people who are newer to using ConvertKit to be really mindful about what information they're tracking.
+
+[00:04:58.670] - Liz
+Yeah. Wow. I didn't know that. I can't imagine. Well, part of the reason I have so many is because I am housing two different sites in one ConvertKit account because the audiences overlap a lot. So it just makes sense. I used to have three and didn't overlap, and that was even messier. Okay, so how would you suggest people get started in trying to clean up and organize their ConvertKit account? And I'm happy to share my screen if that's going to be helpful for you to point things out, so I can blur personal information and stuff.
+
+[00:05:42.160] - Bev
+It's totally up to you. So, what I've done for some clients is created — I'm going to just preface this by saying it's very tedious because there's no good way to export your list of tags besides doing it manually, is create a spreadsheet basically of what information you have. I'll say that this — I don't necessarily think everyone needs to do this. If you have a very simple, straightforward setup in your backend where it's basically someone signs up for your freebie and they go into a welcome sequence and that's it, then I don't think you need to keep it. You don't necessarily need to do this. But for those of us who have more complex things going on in the backend, having a spreadsheet where you're tracking basically every single tag that you've gotten there and what rules and automations those links trigger, and also where else those are being used. I've done this for my clients so that they could have a full picture of what things are using, and then it enables us to say, okay, well, it looks like this tag, for example, has maybe two people. It's not in any rules or automations. Maybe we can consider deleting it and maybe taking this information, do you actually need it? Can we combine it with something else versus some tags, like we talked about, might be tied to a lot of rules and automations, and you want to be really careful before you get rid of that. I would start with that before you're going to clean anything up, is to just check and see where they are connected. Actually, I have a fun little trick for this. So, if you're on ConvertKit and you go to your visual automations page, and I think depending if you're your Mac or Windows, I'm a Mac user so I know if I do, I'm looking at my keyboard, it's Command-F. I will type in the name of that tag, and then it highlights all the instances where that tag is being used. So I can look and see. Oh, okay. I can either say, Oh, this rule is not being used anywhere. Oh, this tag is being used in these automations. Same thing with rules, like going into your rules page, doing a Control-F, seeing where those tags are being used in your list of rules as well.
+
+[00:08:15.850] - Liz
+Let's give some visual aspect to this. So, this is like rules and I can see how doing Control-Find or Command- F for us Mac users would be super easy here. Are you saying that works in automations also?
+
+[00:08:35.130] - Bev
+Yeah, do the same thing.
+
+[00:08:37.120] - Liz
+So if I go to my visual automations?
+
+[00:08:40.270] - Bev
+Yep. Oh, you know what? In this case, because I have it set up — Yeah, if you have it set up like that, you can actually see what's in them.
+
+[00:08:55.670] - Liz
+Okay. So if I did —  Oh, it means I need to know one of my tags. Well, I could just do that. Right. So the BBS welcome.  No, that's interesting. Oh, I know what I can do. BBS. Okay, so it'll search through the names of the automations, but not necessarily the tags in it, is that...?
+
+[00:09:29.640] - Bev
+It should. You have to have the exact tag name. But when I've done it, it has pulled up. So for example, you see how that...
+
+[00:09:38.010] - Liz
+Oh yeah, no you're right. It's highlighting right here. You're totally right. I just can't type.
+
+[00:09:42.800] - Bev
+It's very subtle.
+
+[00:09:44.000] - Liz
+It is.
+
+[00:09:45.720] - Bev
+Yeah, but then you can see that tag GDPR, or that might not necessarily just be a tag, but you'll see it's in there.
+
+[00:09:53.530] - Liz
+Yeah, it's a sequence in that instance, but same idea, right? Okay, that was just because I was like, I know this isn't the name of it — need to think about the term. Okay, so I learn something new, and I'm betting it doesn't do it. Okay, does it still do it?
+
+[00:10:12.380] - Bev
+I don't know. It's funny. I never put my ConvertKit, I'd never looked at ConvertKit in that view. It's always the like —I forgot you could even have that option because I never think to do it.
+
+[00:10:24.480] - Liz
+Yeah. And you can see. So a few years ago, I did an hour call with an email strategist, similar to what you do. And you can see some of my stuff is actually named really well.
+
+[00:10:37.650] - Bev
+Oh, yeah. I was going to comment on that. I was going to give you — I've noticed that.
+
+[00:10:45.600] - Liz
+I mean, that's not always been the case. So here's my tags. Some of them. So you get down, so you've got all the one site and then the other site, and then you get down to not nearly as well named. I learned that doing the date in 'Flash Sale' doesn't really help me, so I stopped naming them that way.
+
+[00:11:08.710] - Bev
+So, this is an instance where I'd say, well, do you need that information still?
+
+[00:11:13.270] - Liz
+Probably not. Probably not the really poorly named ones. Or I need to go back and look at them and rename them. But yeah, you can see I have tons and tons of tags.
+
+[00:11:23.790] - Bev
+And sometimes there's instances, especially for people like you who are running summits, and during the summit, you need to get granular about the information. But when the summit's over, there's a lot of information that you might not need to know. Obviously, you want to know who attended, who did the paid thing, the paid version of things.
+
+[00:11:46.970] - Liz
+But who clicked on this particular link on this particular day that leads to an offer that's no longer available, maybe less so.
+
+[00:11:56.340] - Bev
+Yeah. And so this is one of those instances where I'd say — because what I do with clients is so tailored to their business, their business model, what they sell, how they sell. And this would be an instance where I'd say, well, we should create an SOP [a Standard Operating Procedure] that here's the list of things you do when the summit's over, including the things you can delete from your ConvertKit account, or combine once the event is over.
+
+[00:12:22.190] - Liz
+Are they archived? I think it will do. I know you can archive forms. I don't know if it lets you archive other things.
+
+[00:12:27.450] - Bev
+No, it doesn't. Unfortunately, the only option is to delete an automation.
+
+[00:12:31.170] - Liz
+Let me see, I cleaned out my list. I wish ConvertKit would let you organize things into folders and make life so much easier. But would you like to suggest a similar naming convention? Or is there something else you tend to recommend?
+
+[00:13:02.730] - Bev
+From what I can see, I feel like your naming convention, it would be something I'd recommend. How you have it set up is great. I think the naming conventions should always be something that makes sense to you as a business owner, so that when you look at it, you're like, okay, these are all for the Blogger Breakthrough Summit and you can see all that information right there, versus if it was just membership waitlist, that doesn't get as granular. It might not give you enough information.
+
+[00:13:37.660] - Liz
+Yeah, and then so you're saying, and I should really do this, I was through this. So if you want to put together a spreadsheet, you could have everything. An Airtable would be great for this, too. I could see if you're not super Google Sheet-savvy and list everything and then connect them, you can reference other things. Is that what you were talking about? Or do you do this differently?
+
+[00:14:02.060] - Bev
+No, I mean, this is pretty much what I would do. I would say what the tag is called, and then I'll put the links directly to any automations or rules that they're connected to. Certainly, there's other software out there that could probably allow you to map out that flow better than a Google spreadsheet would. But for the purposes of what I'm trying to help my clients with it, I don't think we need to get that fancy.
+
+[00:14:29.840] - Liz
+Yeah, you can end up in the weeds so quickly. I'm going to go ahead and stop sharing my screen. Because it does. It starts with the welcome sequence, and then you add an upsell, and then you add, oh, well, did they buy the tripwire right after they opted in? And so does that need to take them to a different welcome sequence? And need to do the product onboarding sequence? And do they want to go do those at the same time? How many emails are they going to be getting? It could spiral real quick.
+
+[00:15:01.610] - Bev
+Oh my gosh, yeah. And then suddenly you've got subscribers somehow going through eight different email sequences at once. And that's what we're trying to avoid. It's about finding that balance where the people in your email list are getting the things that they sign up for without also being inundated with a bazillion emails from you, especially if they're new to your world and then they're going to be more likely to unsubscribe because you're like, well, I did not sign up to get 20 emails from Liz today.
+
+[00:15:27.880] - Liz
+Yes. Okay, so how do you recommend people go in and try to figure out what is happening if they haven't managed to organize from the get-go? Which if that's you, just know that's most people, don't feel bad.
+
+[00:15:45.000] - Bev
+Exactly. So I actually have a five-step framework. It's five pillars, five email automation pillars. The first one happens to be organized, and that's all things like tags, tags and segments, and in the case of ConvertKit, also custom fields. If you're using another email marketing software, might be groups or lists. So start by going through that. That's the first step is like what tags are you using? Where could you be using them better? Which ones can you possibly get rid of? So, that would be the first step.
+
+[00:16:20.960] - Bev
+The next step is the next pillar, is the opt-in pillar, and that's looking at what's the flow when someone signs up for your email list. So, for example, when I'm testing things out for my clients, I will sign up for all the freebies that I can find so I can see what's going on as a subscriber, like what's actually happening? And then I can also track it in the backend of ConvertKit. And if I see if someone, for example, signs up for multiple freebies and I see that they're suddenly being pulled into a bunch of automations, that's something we want to look at.
+
+[00:17:00.400] - Bev
+And then the next step is, offer. So, this is then looking through what happens where you're giving opportunities to sell your things within your emails. For example, if someone signs up for your freebie, what happens next? When are you selling your things, basically?
+
+[00:17:23.700] - Liz
+I just want to add just a quick tip. If you have a gmail account, even if it's the one linked to your thing, you can do — for mine, it's like hello@elizabethstapleton.com. I do like hello plus test one.
+
+[00:17:35.560] - Bev
+Yes.
+
+[00:17:36.210] - Liz
+And I see what happens, and if it's not what I expect, I'm like, hello plus test2, test17, which I get up there when I'm doing summit stuff, guys, because I do a lot of testing and stuff still sometimes I don't catch it. Test1234. So that you know what you did to make it work, versus if it's not acting how you're expecting. So, that is such a useful tip to be able to test things.
+
+[00:18:05.640] - Bev
+Yeah, and that's exactly what I do when I sign up for my clients opt-ins. I'll have one, I'll use a different email address for each opt-in so that in my inbox I can track to see what emails are coming to each one. I'll also use one email address where I sign up for all of them as well, because I want to check each thing individually, as well as what happens if I sign up for a bunch of things at once.
+
+[00:18:29.510] - Liz
+Yes. And then every once in a while I go in and I delete the amount of test emails I have in my ConvertKit account.
+
+[00:18:36.090] - Bev
+Yes, you definitely want to do that.
+
+[00:18:37.510] - Liz
+It should be a lot. But it's great because then you can do things like if you want to send a broadcast and no one's in that been tagged with who you want to send it to yet because it's a different broadcast, I always just be like that one and I have a segment of test. So there's always something in there. So that's just quick little tip there. Okay, so I'll let you get back to once you go through testing what your next pillar is.
+
+[00:19:07.990] - Bev
+Yeah. So the offers, I was on the offer, that one is actually less related to automations and cleaning things up, but the next one is the onboard automation. So what happens if someone actually buys something? Are people, are subscribers being tagged properly to identify that they purchased that thing? If they're in an automation that's promoting it, are they being pulled out of that automation? So, it's basically making sure they get the information they need, as well as being pulled out of anything else that wouldn't make sense at that point. And then I'll also add in this step, that your emails might not actually necessarily be coming through ConvertKit. I've worked with clients who use Kajabi and ConvertKit. Sometimes our onboarding emails happen through Kajabi, or maybe the example of someone booking a call, your emails, those emails might be coming through Acuity or Calendly. As long as that there's some way that you're onboarding your clients, or people who book calls and that they're being identified within ConvertKit, those are the two most important things.
+
+[00:20:15.410] - Bev
+And then the last step is actually the last pillar, is optimize. So that's next level, right? You've cleaned everything up. Where are opportunities to really improve on the things that you already have set up? To give a really concrete example, I was working with a client to do an email automation audit, and she had really great engagement rates, really good open rates and her click-through rates were really high. And she came to me because she wanted to use her email to do more selling. But when I looked at her click-through rates and what she was at, what her subscribers are actually clicking on, I noticed people are clicking on the links to the free things, but not the link so much to book a call with you. So how can we make some adjustments there? So, really this step is really digging deeper into what you have. So it's less focus on cleaning things up, but more about optimizing what you already have set up.
+
+[00:21:11.070] - Liz
+Sure. Okay, so one thing I wanted to ask based on what you were saying earlier is how to best use tags, because a tag versus a form can both kick off an automation. And it would be great to be like, oh yeah, I'm just going to use forms because then tags are very specific set of information. But then you use tools that will let you apply it to a form or a tag, but not both. So any tips regarding what different ways to use tags to benefit your email marketing efforts?
+
+[00:21:51.180] - Bev
+Yeah, that's a great question. Well, first, one thing to keep in mind with ConvertKit is a form will only trigger an automation once. So if you have someone signing up for the same form more than once and you need them to get whatever follow-up emails every time they sign up, you actually would have to do it as a tag. And you would have to not only have the tag trigger it, you would have to have the tag removed immediately. I have tags that are more like admin tags that the whole purpose of them is just to move people through things. Usually, it's basically someone would be tagged and then immediately have that tag removed. So, if it's something like you need — if someone signs up for some opt-in on your website and you need them to get some follow-up emails, then you'll need to use a tag. If it's just they sign up for your freebie and then go down some welcome sequence, and they're only going to get the welcome sequence once at that point, it doesn't really—  it's personal preference on how you set it up. I think, I personally like to track all of the various freebies I have.
+
+[00:23:05.460] - Bev
+So even though I have a form for an opt-in, I like to have a tag just because sometimes there might be different ways people are signing up for the same thing. So theoretically, I could have two different forms that are for the same freebie. It's still helpful for me to see who has actually signed up for that freebie. Personally, I recommend having tags for those. I recommend having tags for things like 'interest' as it relates to you as a business owner. For an example, because I work with ConvertKit, business owners on ConvertKit, it's helpful for me to know when people sign up for my website, are you currently using ConvertKit? Do you use something else? Do you use nothing? Are you using something else and thinking about switching to ConvertKit? So that provides me really helpful information. I think having some interest-level tag is really important because it can allow you to better segment your audience later on.
+
+[00:24:11.480] - Bev
+And if you don't mind I would like to just talk about segmentation a little bit more and how it applies to deliverability. It's like my favorite. If we're working to grow our email list, it's important to make sure our emails are actually showing up in people's inboxes. So I think people talk a lot about segmentation, and they're like, yeah, segmentation is good. But a lot of times people like, well, what does that actually mean? So first of all, it means cleaning up your email list. And I know you said you just did that.
+
+[00:24:43.610] - Liz
+Well, I cleaned out cold subscribers.
+
+[00:24:45.850] - Bev
+Yes, exactly. Not just like deleting people willy-nilly. And I know sometimes it can feel like, oh, I work so hard to get these subscribers. Why would I want to delete them? But yeah.
+
+[00:24:58.190] - Liz
+I got over that a long time ago. But when you're first starting out, yes. Every unsubscribe hurts, and then actually actively getting rid of people can be hard. You will get past it. It's good for you.
+
+[00:25:09.570] - Bev
+Yeah, and you probably noticed your email engagement goes up right after you remove your cold subscribers or you try to re-engage them. So, the other piece to the segmentation is sending people relevant information to them. So for example, if I wanted to send an email to people who are interested in switching to ConvertKit, it'd be weird to email everyone on my list that because presumably a lot of those people already are on ConvertKit. So because I've collected this information at the beginning, I can send a more tailored email to those people, which will help with engagement, which will help with my emails overall showing up in people's inboxes.
+
+[00:25:53.460] - Liz
+Yeah. And I'm going to just share my screen real quick of the benefit of cleaning out your list, just very quickly. Guys, this is when I log in to ConvertKit. This is my account. 85% of my subscribers are five stars of engagement within the last 30 days. Which means I have almost 50% average open rate on anything I send. Some stuff is higher, but I feel like the lowest I ever get is 42%, maybe 40%. It's because a couple of times a year, I'll clean up my list.
+
+[00:26:30.100] - Bev
+I'm ruthless about doing it with my own email list. I do it way more than I think anyone necessarily needs to. 
+
+[00:26:39.230] - Liz
+And I've got re-engagement. I give them an option to stay here, but if you're not going to be doing anything, I'm not going to be paying for you to be on my list. It doesn't mean you have to buy, but if you're not even going to engage.
+
+[00:26:55.520] - Bev
+Exactly.
+
+[00:26:57.520] - Liz
+Yeah, sorry. I just wanted to be like, this is what it looks like when you regularly clean out your list.
+
+[00:27:03.120] - Bev
+Yeah. It's very important.
+
+[00:27:05.700] - Liz
+And other people have even better stats than I do, obviously, but I'm pretty happy that I can almost always count on at least 40% of people opening my email.
+
+[00:27:15.710] - Bev
+Yeah. Actually, since we're talking about stats, and I'd like to, and you probably know this, but just for anyone watching to point out that open rates, we have to take with a grain of salt. They're not super accurate. However, I like to look at open rates instead of looking at like, oh yeah, this is my open rates. Rather, I look at it in context. So if I look at my last 10 emails, for example, and my open rates tend to be in a range. If I saw an email that either had an exception that was higher than I normally see or lower, that would be a signal to me like, oh, this email had a really high open rate. What about it was so engaging? Or oh, this one really tanked and was way lower than my other emails. Like why? What could I have done differently? So while we can't take open rates without any — in that sense, like the other kind ...
+
+[00:28:13.940] - Liz
+But it's an average. The first email you send someone when they're expecting something from you is going to have a higher-than-average open rate, and then it all averages out. So, it's always understand — I was a math major so I know you can make stats work however, which way you want but just having a range that you expect, like I expect my open rate to show somewhere between 42% and 50% for an average broadcast, not counting sequences, not counting things like that. So just knowing where you're at and don't like, guys, if it's 30%, that's still good. Again, these aren't super accurate, like just making sure that you have some people opening your email is important. 
+
+[00:29:02.120] - Bev
+I think it's helpful to look and see not only who's opening it, but who's clicking on it? What are people clicking on? 
+
+[00:29:12.300] - Liz
+Okay, so back to segmentation. Sorry, I just wanted to — you talked about cleaning out your list. I'm like, look, guys, this is why you do it, is so that — because the higher engagement you have for your list, I think, is where you were headed, the better deliverability. 
+
+[00:29:27.910] - Bev
+Yes, and so we want to make sure that our emails that we worked really hard to write and the list that we've worked hard to grow, that those people are actually getting those emails and they're not ending up in people's spam folders. 
+
+[00:29:42.310] - Liz
+So I think we are running out of time, unfortunately. Anyway, so any final tips, any final words you want to make sure people know about keeping their email marketing service organized and working for them?
+
+[00:29:59.720] - Bev
+Yeah, I would say that maybe— I know it's not fun, and I'm sure there's other things you'd rather be working on in your business. But making a point either like I said, if you have an event coming up, making sure that part of the process afterwards that you are going and getting rid of the things you don't actually need anymore. And then on top of that, making a point periodically to really look through what's going on back there. See do I still need this automation? Or there are ones you turned off, can you get rid of those? What tags can you get rid of or combine? But again, not just willy-nilly. Just so that when you go inside, everything makes sense to you. Because that's the whole point, is that things are clear, they make sense to you, and you know that the right emails are going out to the right people, because when you start to make things really complicated, then that's where you can run into trouble.
+
+[00:30:59.080] - Liz
+Yeah, and just regularly review stuff just like you would. I always am like, every once in a while, at least once a quarter, go look at your site in the incognito window and you'll discover things. And same thing with your sequences. I have a recurring task to go review sequences. And I went, and I was like, oh, this will be a quick thing to check off my list. And for some reason, the first two emails have disappeared because glitches happened, or at some point it didn't save or whatever. And I was like, oh my God, how many people have been getting a blank email? Fortunately, it wasn't many. But I was like, oh, and I was like, where can I find the older version? Which ConvertKit support is super helpful. We got it there. But stuff happens, so go make sure things are continuing to work.
+
+[00:31:41.700] - Bev
+Yeah, and especially because your email list is one of your most important assets as a business owner, which is why I think it's important to invest the time in it. 
+
+[00:31:50.950] - Liz
+Okay, so where can people learn more about you? What do you have for them? What's, share all the things?
+
+[00:31:56.530] - Bev
+Yeah. So I have a free audio training called "Fix Your Flow: Get the right emails to the right people." I dive a little deeper into the five email automation pillars that we talked about. So you can download that. And because we have also talked a lot about tags, and I know people can get very confused and overwhelmed with tags versus segments. I have a guide that helps walk you through the process of what information do you need to know, what information don't you need, and if should it be a tag, a segment, or custom field?
+
+[00:32:34.120] - Liz
+That's awesome. Yeah, because custom fields I'm just learning. I've been on ConvertKit for years and years. I'm just really getting into custom fields.
+
+[00:32:42.490] - Bev
+One of those untapped — ConvertKit doesn't talk about it a lot, but it can be such a powerful tool, especially if you have a lot of tags. Some things actually work better as custom fields.
+
+[00:32:54.020] - Liz
+Yes, and I'm sure I'm missing a lot there. So I dig more into that and check that out. I think you also have something for our "Inside the Speaker" bonus bundle?
+
+[00:33:02.690] - Bev
+Yeah. Oh, that was that subscriber strategy.
+
+[00:33:04.240] - Liz
+Oh, that's the subscriber. Okay. I'm making sure we're clear what's what.
+
+[00:33:08.130] - Bev
+Yeah, I got the "Fix Your Flow" audio training that's free for everyone, and then the "Subscriber Strategy" workbook for the...
+
+[00:33:15.990] - Liz
+Inside the Speaker Bonus Bundle. Okay, awesome. Thank you so much again for sharing your knowledge. I learned new things. I'm sure people watching did too.
+
+[00:33:26.300] - Bev
+Thanks, Liz.
+
+

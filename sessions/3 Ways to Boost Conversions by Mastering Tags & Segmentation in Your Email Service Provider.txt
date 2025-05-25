@@ -1,0 +1,128 @@
+Title: 3 Ways to Boost Conversions by Mastering Tags & Segmentation in Your Email Service Provider
+Speaker: Allea Grummert
+Website: duett.co
+Level: Advanced
+Category: Email Marketing
+Length: 21:53
+Year: 2022
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/3-ways-to-boost-conversions-by-mastering-tags-segmentation-in-your-email-service-provider-allea-grummert/
+
+Transcript:
+[00:00:13.430] - Allea
+Hello. Welcome to this advanced email marketing presentation titled Three Ways to Boost Conversions by Mastering Tags and Segmentation in Your Email Service provider. First, I'd like to introduce myself. I'm Allea Grummert and email marketing strategist and conversion copywriter. I help online businesses make a killer first impression through welcome and nurture sequences that engage readers, build brand loyalty and optimize conversions for sales and site traffic. My background is in advertising with a start in online marketing. When I created my personal finance blog called Ask Allea in May 2016.
+
+[00:00:50.550] - Allea
+As I continued to learn the ropes of running a blog and creating content, it became really clear how email marketing is a sustainable and profitable way to connect with readers long term. I work with service providers and content creators, including money bloggers, financial advisors, product and course creators, and membership communities to create tailored strategic welcome initial email sequences that promote products and content readers both love and engage with. You are here today. If you want to better understand the role of tags and segmentation in your email marketing so that you can boost click through rates, pitch high converting targeted offers, and can keep subscribers happy, and opening your emails for years to come.
+
+[00:01:34.320] - Allea
+If this seems like an advanced topic, no worries. I have an act for making complicated things simple. So, it's really doable for you to take and apply what we cover today to your own email marketing. Takeaways you can expect to learn today, how conversion copywriting uses what we know about your audience to position your offer strategically and move your subscribers to act, the value of personalizing your email automation based on segments of your audience versus sending general content to your whole email list, and how this important strategy impacts your overall list of, how you can optimize your welcome sequence and follow up automations to send specific targeted offers to your subscribers. So, they're more likely to resonate with the content you share and click through or buy.
+
+[00:02:19.110] - Allea
+Plus, you'll learn simple ways to incorporate tags to help you understand your subscribers both what they're interested in and what they're not. So, you can provide an intentional personalized experience while they are on your email list, and strategies to increase click through rates, boost conversions, and reduce unsubscribes. So, you have a happy list of engaged email subscribers who are more likely to buy from you if not now, in the future. Before we dive into strategies, I feel like it's important for me to lay out clear definitions for some of the most common terminology.
+
+[00:02:52.780] - Allea
+You'll hear it throughout this presentation. Starting with one that may be new to you, but it's actually the basis for the work that I do with my clients, conversion copywriting. Conversion copywriting is a method of persuasion based on knowledge and understanding of your audience. It's crafted into an intentional strategy, and it encourages your audience to act all through helping your reader better understand or identify their needs and then connecting that with how you offer a solution. And through that is when we ask your audience to engage in what they need to do next in order to take advantage of that solution.
+
+[00:03:29.790] - Allea
+This is different than sending the same message to all subscribers and expecting the same impact for each reader. Instead, conversion copywriting and email marketing strategies understand the value of personalization to increase conversion rates and boost long term brand loyalty. That's why tags and segmentations are so important. That's what we're going to cover today. Now, let's talk about your offer. An offer is something that delivers value to your audience and to your business. Whether the goal is for you to build credibility, boost revenue, or increase page views. It could really be any number of things.
+
+[00:04:05.370] - Allea
+You might not be selling a paid offer, but we are always, quote, unquote selling an action or response. So, offers may be a product, affiliate partner products services, webinar trainings, free content like blog posts, podcast, PDF resources or videos, or really anything that could help make your readers life easier, more enjoyable, or lead to a positive change in their life. If it requires your reader to take action, we can consider that an offer no matter how small an ask it might feel like at the time, that will more likely lead to a higher converting offer down the road. Because you've nurtured your reader and kept them engaged with relevant content.
+
+[00:04:49.050] - Allea
+Next up, let's get clear on your automated sequences. These are the two automated sequences where you will use today's strategies most often. The welcome sequence provides new subscribers with a proper, immediate welcome, so they can connect with the heart of your brand and understand what to expect while being on your email list. In long term, nurture sequence maximizes popular or high performing blog posts, or sending relevant content to segments of your subscribers, including paid offers to your list on autopilot. In many cases, a long term nurture sequence also includes sales emails.
+
+[00:05:22.870] - Allea
+Now for the nitty gritty subscriber details, inside of your email service platform, you have the ability to organize your subscribers through two very significant ways. A tag is a marker of important engagement by a subscriber used in a variety of ways to better connect with them based on their interest or activities. A segment is a collection of subscribers, which can be organized by a variety of settings, most commonly through the use of tags. I always explain it like this. Tags are like ingredients, and segments are like recipes. Much like a recipe contains ingredients.
+
+[00:05:58.370] - Allea
+Segments contain tags. So, like a recipe, a segment is entirely dependent on what it's made of, it's tags. A segment can be made up of a dozen Tags, or only two, segments are pretty flexible like that. So, if you want to personalize an experience for a group of your subscribers, which would be a segment of your email list. You can use tags to identify which subscribers should be included in that particular segment, as well as those who need to be excluded. Okay, let's spend a little more time talking about the value and purpose of tags, and why are tags so important?
+
+[00:06:33.340] - Allea
+Well, like I mentioned, tags allow you to monitor and track the activity of each of your subscribers, so you can personalize their email experience based on their unique engagement. You can use tags to know what your subscribers are interested in, what they've clicked on or what they've purchased, including their optin source, which is the form on your site. Right. So that way you know how people join your list. Webinar Activity, whether your subscribers have registered, attended, or missed a webinar. Preferences, whether they prefer more of one type of your content versus another. Interest, you could track what people click on, whether it's a topic or theme and purchase activity.
+
+[00:07:14.860] - Allea
+So, this would be whether somebody had clicked through to a sales page and purchased, or maybe they haven't yet. Really tags are essentially limitless. By using tags, we're better able to target your readers based on their needs, wants, and desires. When set up correctly, tags allow you to create a user experience that's as unique as each person on your email list. And that's important because every person on your list is different. Yes, they are subscribers, but they're also people. Personalization matters for higher conversions as well.
+
+[00:07:48.700] - Allea
+According to research from the Lyris Annual Email Optimizer Report, 39% of marketers who segmented their email list had higher open rates, 28% had lower unsubscribe rates, 24% had better deliverability, and 24% saw increased sales. Happy Subscribers open your emails, take action on your offers and more favorably, view your brand even after your welcome and nurture sequences end. So, when are tags helpful? Tags allow your email animations and nurture content to achieve everything they're supposed to on your behalf on autopilot. So, tags are helpful when they're used to track specific engagement, send relevant content only to the subscribers that it matters to the most, and trigger activity or follow up sequences based on their activity with your previous emails.
+
+[00:08:41.310] - Allea
+Tags are not helpful when the data you're tracking isn't really beneficial to the subscribers or your overall strategy. Or when the tags themselves are named poorly, and you can't actually remember what their purpose is for. For instance, if you tag subscribers with the term YouTube, can you really recall what that means? That your subscribers say that they want to know about new video updates? Or did they just click on a YouTube link one time? One piece of advice is to be aware of over tagging.
+
+[00:09:09.910] - Allea
+Tagging email subscribers can become like any other feature of marketing. If taken to the extreme, it can be a waste of time because you may be tracking things you don't need. However, if you do not use tags at all, you're really not leveraging this powerful feature of your email service platform. Alright, we're ready to dive in and talk strategy. There are dozens of ways you can use tags to segment your list and engage your subscribers more effectively. But today we're only going to talk about three.
+
+[00:09:38.360] - Allea
+I promised you three ways to help you boost conversions, including an increase in click through rates, a way to pitch high converting targeted offers and strategies to help keep subscribers happy and opening your emails for years to come. So, let's start with the first one. Ask your subscribers to self segment in your welcome sequence. Your welcome sequence is a fantastic time to ask your subscribers what they prefer to learn more about and what issues they're currently struggling with. Or you can use this as an opportunity to organize subscribers based on skill level.
+
+[00:10:08.990] - Allea
+It really all depends on the kind of business or blog you run. To do this, use link triggers as a way to categorize your subscribers. Have your subscribers self segment by asking them to click on the option or more than one option that best suits them like their topical interests, which could be multiple. Or skill level regarding a topic or stage of life, and in this case, you really want to encourage them to only click one of the options. The biggest struggle, or hang up with your blog's topic, like maybe it's investing, or maybe it's understanding retirement. Or have them click on the next big goal in their life or their business.
+
+[00:10:45.750] - Allea
+When they click on a link trigger, they'll get a tag. This tag can trigger any number of automations, including one in the next step that I'll share with you. So here's the tip. Schedule a follow up email to send to those who haven't clicked in the self segmentation email, so they don't have that tag yet. Make sure that you follow up with them to maximize the opportunity for them to share their preferences with you before moving through your automation. How does this strategy help boost conversions?
+
+[00:11:12.060] - Allea
+Well, this strategy ensures subscribers feel heard and understood. It gathers firsthand data of what your audience wants more of, and it creates segments of your audience and determines who needs to receive which relevant targeted offer or nurture content next. When you ask the subscribers for their preferences and then they feel heard from their response, they will experience greater brand loyalty because they're getting exactly what they asked for. These self-segment tags also allow you to see from high level where your subscribers fall in relation to one another, giving you relevant data to help you tailor your future content or products to meet the needs of your audience.
+
+[00:11:50.970] - Allea
+Plus, having these tags allows you to send more targeted offers when you use this next strategy. Using tags to send relevant nurture content to your subscribers. After your subscriber self segment, create and send them an automated follow up sequence based on each of your segments. This could include a nurture sequence based on segment interest or skill level, where you send lots of really valuable content, maybe sending them back to your blog or a sale sequence to promote a specific offer. At this point, you get to share relevant content with your readers and generously.
+
+[00:12:24.470] - Allea
+So, because you'll know they love it and because they requested to know more about it. Here's another tip for people who do not click in the self segmentation email. Be sure to consider which of your follow up sequences would be best suitable for the majority of your audience and plan to send them through that sequence by default. Use each nurture or sales sequence as an opportunity to speak directly to the segment of your audience it's written for. This allows you to tailor the language of the emails more personally, directly talking to the specific need or interest that they have.
+
+[00:12:57.090] - Allea
+Remember, personalized content always performs better than generalized emails, whether you're selling a paid offer or sending readers back to your blog, the overall sequence of emails in a nurture or sales sequence should be designed to help your readers experience a transformation or improvement in their lives. Like creating their first budget, learning how to use a robo advisor, and all this will help them confidently take action, make a change in their life, or complete a purchase in order to help them get there. How does this strategy help boost conversions?
+
+[00:13:29.590] - Allea
+Well, this strategy increases open and click through rates because these email sequences are only being sent to those subscribers who are the best fit to receive the content. It boosts the know like and trust actor with your brand because you're sending them helpful content and solutions to meet their most pressing needs. And it reduces unsubscribes because you're not sending unhelpful on one of content to subscribers it doesn't relate to. All of this means you'll build trust with your subscribers early in their experience with your brand, making them happy readers who will be opening your emails for years to come.
+
+[00:14:02.670] - Allea
+Well, there used to be a time when you would send an email blast to your subscribers, we don't do that anymore, or we shouldn't, especially not when your goal is to connect with your email subscribers in order to boost conversions. Email has become more sophisticated, so now you can allow subscribers to set their own preferences using tags. With this strategy, you can use tags to ask subscribers what they want to receive or what they don't. Gather your subscribers preferences using link triggers and tags in order to limit which emails they'll receive, so they only get what they want.
+
+[00:14:36.910] - Allea
+This strategy puts the power in your subscribers hands to determine what lands in their inbox and when, including their ability to SEO their preferred sending frequency or even mute seasonal promotions. Use the information you gain from these tags to modify your ongoing automations in your live podcast or newsletters. Let's explore both of these examples. First, how to allow subscribers to set their sending frequency. To do this, create tags that associate with each sending frequency option you want to provide, so they're easy to identify and exclude from live broadcasts or newsletters like this, prefer weekly only, prefer monthly only. And then add the link triggers to request your subscribers preferences to any of these places.
+
+[00:15:22.770] - Allea
+Your automated welcome sequence and early email of your ongoing nurture sequence, as well as a broadcast or newsletter sent to your existing subscribers. Incorporate these options into an automated email like your welcome or nurture sequence, to ask your subscribers what they prefer early into their experience of being on your list. If you're setting this up for the first time, be sure to send these out as a broadcast to your list to gather preferences of your existing subscribers, too. Now, none of this matters if you don't know how to put it in action.
+
+[00:15:50.820] - Allea
+So, once you have this set up, exclude these tag subscribers from your new emails unless it's the email you've chosen to send them for that week or within the month only to subscribers with that tag. Then add a link to the footer of your live broadcast emails to allow subscribers to simply click to adjust their preferences. For the second example, we'll cover how to allow subscribers to mute seasonal promotions, just like with the spending frequency strategy. We want subscribers to stay happy on your list even if they don't want to buy what you're selling right now.
+
+[00:16:22.870] - Allea
+We want subscribers to mute themselves, well, you and your emails without completely unsubscribing. To do this, we simply need to give them the choice. For example, say you're running a special over the weekend of Black Friday. Add a link trigger option to your email throughout your promotion. That simply says, would you like to be excluded from these promotions? If so, I'll keep them from hitting your inbox. Click here and I'll update your preferences. Here's an example of what that tag could be on the back end of your email service platform. Would just say mute and then the name of the event or promotion and then the year.
+
+[00:16:57.990] - Allea
+Then add the link triggers to all of your limited time campaign emails. And once that's set up, make sure to exclude that tag from all promotional campaign emails sent to your whole list. So, as you send out emails related to your deals for that weekend, you'll exclude this tag from newsletters. You'll be able to rest assured knowing that you're keeping some of your subscribers very happy by staying out of their inbox for the time being. However, of course, you can return to normal after the promotion is over.
+
+[00:17:26.150] - Allea
+At that point, you can delete the mute tag to keep your email service platform clean and tidy. How does this strategy help boost conversions? It reduces unsubscribes, right. Because you're not sending unhelpful unwanted content to subscribers that it doesn't relate to or who don't want what you're selling, but they want to stay connected. And it builds brand trust because you're asking for and listening to their specific and unique preferences unlike many brands. People love having control over what lands in their inbox and by giving them an option to adjust their preferences versus unsubscribing entirely promotes goodwill and autonomy.
+
+[00:18:04.240] - Allea
+So, subscribers will choose to stay on your list longer and by keeping them happy and subscribe. They're more likely to engage with future offers or promotions to wrap up. Let's review what we covered today. While there are dozens of ways your email marketing strategy could play out, I hope you can use these subscriber, tag and segmentation strategies to help boost conversions throughout your welcome nurture and sales sequences. So, now you know how conversion copywriting uses what we learn about your audience to position your offer strategically and move your subscribers to act. The value of personalizing.
+
+[00:18:38.190] - Allea
+Your email automation is based on segments of your audience versus setting general content to your whole list and how this impacts your overall list health, how you can optimize your welcome sequence and follow up automation to send specific targeted offers to your subscribers. So, they're more likely to resonate with the content and click through or buy. You also learned simple ways to incorporate Tags to help you understand what your subscribers are interested in or what they're not. So, you can be really intentional with the personalized experience that they have while being on your email list.
+
+[00:19:10.650] - Allea
+And lastly, strategies to increase click through rates, boost conversions, and reduce unsubscribes. So, you have a happy list of engaged email subscribers who are more likely to buy from you, if not now, in the future.
+
+[00:19:22.410] - Speaker 2
+And just for blogger breakthrough on the attendees, I have a couple of resources for you. You can access a free behind the scenes tutorial walkthrough of how to segment your new email subscribers on autopilot using tags by going to Duett.co/BBS2022. So that is where you'll get a walkthrough by me step by step instructions. I do it inside of ConvertKit, but the same can be done in a lot of different other platforms as well, so I encourage you to go through to duett.co/BBS2022.
+
+[00:19:53.930] - Speaker 2
+Take a look and see what is possible with your email list as well.
+
+[00:19:58.170] - Allea
+So, thank you.
+
+[00:20:00.810] - Speaker 2
+I'm so grateful that you've watched this entire presentation as a reminder of who I am and the clients I serve. I'm an email marketing strategist and conversion copywriter. I help business owners make a killer first impression through welcome and nurture sequences that engage readers, build brand loyalty and optimize conversions for sales and site traffic. I help my clients create an email ecosystem where new subscribers have a phenomenal experience while being on their list. First, we start with the welcome sequence. So, new subscribers receive a proper welcome, get connected with the heart of your brand and have the power of choice to set and share their own preferences.
+
+[00:20:34.410] - Speaker 2
+Then we develop long term nurture sequences that maximize your best content, pitch offers to relevant segments of your list, and provide consistent traffic to your free blog content or paid offers on your site. I take care of the email strategy, copywriting and text set up, allowing my clients to use their precious brain space and magic superpowers more effectively. While they do that, I take care of their new subscriber email experience from start to finish. There are so many ways to strategize and position your offers through email marketing. So, if your email marketing is not getting the results you want or what you know as possible, we should talk.
+
+[00:21:07.900] - Speaker 2
+I love us to see my clients through this process. And I can help you create a strategic sequence that gets relationships built with your new subscribers, including brand loyalty and converting them towards higher traffic and sales. If you're curious about what's possible for your business and how I can help you, you can start by booking a discovery call with me at Duett.co/call or just go to Duett.co and you'll find the link to the page there. Thank you so much for watching. Be sure to click through to the Special Event Landing page to access your free tutorial video training. And I hope these strategies will help you promote your valuable offers and boost sales and conversions to your email marketing.
+
+

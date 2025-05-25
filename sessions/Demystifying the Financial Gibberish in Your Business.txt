@@ -1,0 +1,170 @@
+Title: Demystifying the Financial Gibberish in Your Business
+Speaker: Clarissa Wilson, Accountant and Founder at Nerdy Number Lovers
+Website: http://nerdynumberlovers.com
+Level: Intermediate
+Category: Business Finance
+Length: 
+Year: 2024
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/demystifying-the-financial-gibberish-in-your-business-clarissa-wilson-2024/
+
+Transcript:
+[00:00:11.680] - Clarissa Wilson
+Hello, and I am excited to be presenting this masterclass, "Understanding the Financial Gibberish in Your Business."
+
+[00:00:24.080] - Clarissa
+A little bit about me and my business. I've been an accountant for over 15 years. Six of those 15 years were actually spent as a government tax auditor. But I have actually been full-time in my business since 2020 because this is what I love doing. I would prefer to be able to help you before an audit comes, because you can be prepared for an audit and an audit can actually be very simple. I've done over 150 audits when I was a tax auditor, and only two of them were very simple and easy because they were technically prepared ahead of time. I do the complete opposite of what I used to do as an auditor in my business to help you manage your finances correctly.
+
+[00:01:12.190] - Clarissa
+My business is "Nerdy Number Lovers," and we serve small business owners, mainly based online, so that you can either do your bookkeeping yourself or we can do it for you. My mission has always been to make the accounting and the bookkeeping as easy as possible for small business owners. I explain everything in plain English so that you do not need an accounting degree to be able to understand what is going on in your business.
+
+[00:01:50.040] - Clarissa
+Because as a business owner, you should be able to look at all of the numbers on your financial statements and be able to understand what is going on in your business, and not just have to look at your bank balance to know if you have enough money or not.
+
+[00:02:07.330] - Clarissa
+Today, we are going to be discussing a couple of different things. Actually, this page was not updated. We are going to be discussing your financial statements and your business. We're going to be discussing bookkeepers, accountants, and CFOs. We want to know —you should be figuring out what you need to be looking at in your financial statements, know how to prepare your financial statements, know how to hire an accountant, a bookkeeper, and a CFO, if you happen to need them, what questions you should be asking them when you hire them, and what questions you should be asking when you're working with them.
+
+[00:02:49.780] - Clarissa
+Let's get started. A Financial Statement is just the records that convey the business activities and the financial performance of your business. The Balance Sheet shows what the business owns, what the business owes, and what has been contributed by the owners and investors of that business.
+
+[00:03:13.570] - Clarissa
+The Profit and Loss statement shows the financial position of the company during a particular period in time. In other words, it shows how much money came in through revenue, which is your sales, and how much money went out to keep the business running, which is your expenses.
+
+[00:03:33.520] - Clarissa
+And the Statement of Cash Flows, which I personally hate the Statement of Cash Flows, I do not use it with any of my clients, but it's one of the main financial statements. It is the statement that measures how well a company generates cash to pay its debts, fund its operating needs, and investments. Another reason why I do not like the Statement of Cash Flows and do not use it, is because the majority of my clients and the businesses that I work with are cash-based businesses. Cash basis versus accrual basis is, in simple terms, how you recognize transactions in your business. 90% of the businesses that I work with are cash-basis businesses, which means you recognize a transaction when cash is actually exchanged.
+
+[00:04:27.030] - Clarissa
+And what that means is when you make a sale, and you receive the cash, that cash is exchanged. If you make a sale and the buyer is using a payment plan, so for example, the cost of the product is $3,000 and they're paying $1,000 a month for three months. So, on month one, you receive $1,000. That $1,000 is your sale because you are cash basis. Now, if you were accrual basis, you would recognize $3,000 of cash sales on month one, and then the money that is received on month two and month three would just reduce your liability account on your balance sheet. This can get confusing, and I don't want to confuse it too much because the majority of you watching this are going to be a cash-basis business. Like I said, 90% of the clients that I work with are cash-basis businesses, and that is just where we are. When cash is actually exchanged, that is when you recognize the transaction.
+
+[00:05:44.620] - Clarissa
+So a statement of cash flows wouldn't affect us because cash is what's flowing in and out. So all you have to do is look at your profit and loss statement, and that'll show you the cash flowing in and out of your business.
+
+[00:06:01.800] - Clarissa
+So a Balance Sheet. I literally just pulled this example from a Google search because I can't just pull a balance sheet from my clients and reveal numbers. It's against my policies. It's against confidentiality policies.
+
+[00:06:18.990] - Clarissa
+A Balance Sheet will show your assets, your liabilities, and your owner's equity on a single statement. So your assets are what your business owns. Your liabilities are what your business owes to someone. And the owner's equity, shareholder's equity, which is what it shows on this statement, are what the owners have put into the business. Whether you put it in when you're starting, whether you put it in as you go along, that's just how it works. The total of all of the assets, so if you look at this, the assets is this whole first column, must equal the total of the liabilities plus the equity. You see this $472,100, $472,100. If these don't balance, then something is off, and usually, it means that you're missing transactions. So, just wanted to point that out. Most of the time, if you are using software, these will always equal. If you have to prepare this yourself on a spreadsheet then you'll have to force them to balance usually, unless you literally have all of the information.
+
+[00:07:46.910] - Clarissa
+The Income statement, this is what most people refer to when they are looking at a financial statement. They're only really looking at their income statement. They're looking at the total money coming in, which is your sales, and then you have these expenses. Most of you watching this wouldn't have your expenses separated out like this. You would literally have them all under operating expenses. This is just going to show how your money moves, going in and out of your business.
+
+[00:08:25.270] - Clarissa
+One big thing about the profit and loss statement is that you want it to have these account names so that you understand what is in that account when you just look at this statement, without having to drill down further and look at the actual transactions that are going through.
+
+[00:08:47.970] - Clarissa
+For advertising costs, an example is one of the big things that I do, is we will actually have sub-accounts under this advertising for say, Facebook ads, for Google ads, for TikTok ads, so that we're splitting them all up so that you can see how much is going to each one of those specifically. We can have when you hire contractors, you can have a marketing contractor account, you can have your VA as its own account, things like that, so that when you look at this statement, you know what is included in those transactions.
+
+[00:09:28.200] - Clarissa
+Then the Statement of Cash Flows, like I said, if you're a cash-basis business, this isn't going to apply at all. I'm just showing you an example. It shows how cash flows through your business, but it only applies to accrual-based businesses. And the problem with a statement of cash flows is you are actually adding back in things where money went out, and you are subtracting where money came in. So a statement of cash flows can be confusing. Another reason why I don't use it, and it's not used for cash-based businesses.
+
+[00:10:21.270] - Clarissa
+How are financial statements prepared? Step one, you have to do your bookkeeping. If your bookkeeping is not done, you cannot prepare your financial statements. So one of the most important financial aspects of your business is doing your bookkeeping. When that is done and all of your purchases, your sales, are sorted into the correct categories, then you can move on to reconciliations. Your reconciliation literally just makes sure that every transaction that went through your bank account and your credit card, is included in the right categories. So, it makes sure that you're not duplicating transactions, and it makes sure that you're not missing transactions that actually did happen.
+
+[00:11:09.230] - Clarissa
+Because if you're using software, sometimes that happens where it won't pull in all of your transactions. So you have to do a reconciliation, which is just checking boxes to make sure that you have all the right numbers. And then you can prepare your financial statements so that you can actually review them.
+
+[00:11:31.380] - Clarissa
+The question is, do you want software or do you want to use a spreadsheet? It honestly depends on which is easier for you and whether you are at a place in your business where you are trying to cut your expenses right now. So if you're trying to cut them, then I would suggest using a spreadsheet. But if you have the funds to pay for software, but also keep in mind that if you cancel the software, then you're missing a lot of your bookkeeping that's going to go on. So you would need to be able to find a way to pull your reports from that software and still be able to do your bookkeeping on a regular basis. On a spreadsheet can be much more time-consuming than doing it in the software. But another thing is the software has always been created for accountants. There is a learning curve when you start using it.
+
+[00:12:34.970] - Clarissa
+Let's move on to the three main financial professionals that you would hire in your business. The first one is a bookkeeper. They handle your lower-level accounting tasks to help keep your business compliant and on track for financial success. You may or may not hire a bookkeeper. If you do not hire one that means you as the business owner, are the bookkeeper, and you have to make sure that your bookkeeping itself is done.
+
+[00:13:05.460] - Clarissa
+The second one is an accountant, and they will normally file your tax returns. They help answer questions about tax regulations and keeping your business compliant with the tax regulations and laws, because there are certain ones that apply to certain industries, and certain types of taxes that you may or may not be familiar with, but now that you own a business, you need to be. An accountant is someone that you should hire whether you want to or not because when you own a business, it can get very complicated to start filing your own tax returns.
+
+[00:13:54.880] - Clarissa
+And then the final one is a CFO, which is a high-level financial professional who can actually help your business achieve higher financial goals, and help you see how your progress is coming along in your business. They can also run your entire accounting department, work with outside accountants, they can oversee your bookkeeper and that stuff. Usually, with the type of businesses that my clients run, this is a fractional CFO. It can be something that you might want, but we'll get into that a little later.
+
+[00:14:34.200] - Clarissa
+So what is a Bookkeeper? A bookkeeper is a financial professional who helps business owners with a multitude of different financial aspects of their business that includes, but is not limited to, categorizing the transactions on the financial state to create the financial statements. They can assist with paying bills, signing invoices, running payroll, doing sales tax. They can help you with keeping your business run smoothly on the financial side. This depends on the type of bookkeeper that you do hire.
+
+[00:15:13.060] - Clarissa
+As we get into these questions and what you need to look for, you can understand a little bit more about bookkeepers, because some are going to be super low-level, where they literally only do categorizing of the transactions, and some can do a little bit more where they can assist you with paying bills, sending invoices, doing payroll, helping with your sales tax. But at the same time, they need to have an accounting education so that they can help you with this stuff.
+
+[00:15:47.460] - Clarissa
+When do you need to hire a bookkeeper? There are three main times when you would need to hire a bookkeeper. One, when you start your business. Two, when you end up doing your bookkeeping yourself, and then it just gets to a point where you can't keep up with it because there's so much to do in your business, and bookkeeping just ends up taking a lot of time. Then you want to hire someone so that your bookkeeping is still done regularly. Then number three, when you really just don't want to do it because, like I said, your bookkeeping needs to be done on a regular basis, and if it's not, then you don't know your numbers. You don't know the financial position of your business.
+
+[00:16:39.070] - Clarissa
+When not to hire a bookkeeper? When you need your taxes prepared and you only need your taxes prepared. I end up getting clients in January and in September because they need their bookkeeping done just to be able to file their taxes. They don't care about looking at their numbers throughout the year, but they do need it done to be able to give it to their accountant. When you do this, you will usually be paying higher rates because you basically need a rush job done.
+
+[00:17:18.240] - Clarissa
+Bookkeeping is not a job that can be done rushed because then somebody's going to be missing something. It's not fun when you miss something. I can tell you this from the audit side, too. If you're missing something, it's not fun. You need to make sure that everything is correct the way that it should be. And when you wait and hire your bookkeeper when it's time for taxes, you're making them rush.
+
+[00:17:51.330] - Clarissa
+So, what questions should you be asking when you're hiring a bookkeeper? I honestly think this is one of the most important questions. "What is your education and training with bookkeeping? And then how long have you been doing bookkeeping? How did you get started with bookkeeping? What systems do you use?" Because there are some where they're going to use a system that you aren't familiar with or that your business isn't using. You want to make sure that you're using the same systems.
+
+[00:18:24.560] - Clarissa
+"How do you keep track of your client work? Basically, what is their CRM? "What is your process for sending month-end reports?" I know some that they send their month-end reports around the 15th to the 20th of the following month. My personal business policy is you get it by the fifth business day of the next month. Usually, the latest would be the seventh or the eighth of the month, depending on when holidays fall and that type of thing.
+
+[00:18:58.920] - Clarissa
+"Do you customize my reports and categories to what I would like them to be?" You're going to find some bookkeepers that do not do this. And if we go back to the profit and loss statement, like I said, you want that to be so that you know what you're looking at when you read your financial statement. If it's not, then you're just going to be confused and you're not going to be able to really use the financial statements to help your own business the right way.
+
+[00:19:33.030] - Clarissa
+And then, "What is your experience with a business like mine?" This is another important question. They need to be able to understand your business and not just take all different kinds of businesses.
+
+[00:19:50.610] - Clarissa
+Questions to ask when you're working with a bookkeeper. You've already hired one, and you should be asking them questions on a regular basis so that you can understand what's going on. You always want to ask when you don't understand why something shows on your financial reports a certain way.
+
+[00:20:09.560] - Clarissa
+You want to ask them to create the financial report so that you can understand it. This goes back to creating those specific categories so that you understand it and you can see where your money is going.
+
+[00:20:22.950] - Clarissa
+You want to ask the bookkeeper if they see that you have multiple of the same transactions going through. This is something that I normally point out to my clients before they even ask me.
+
+[00:20:36.340] - Clarissa
+You want to ask how you can work together to either save more money in your business or make more money. And again, this goes back to the bookkeeper that you hire, some may not be able to answer these questions for helping you save more money or make more money in your business. They just might not have the education. They might not have the ability to be able to see this stuff. That depends on the bookkeeper you hire.
+
+[00:21:05.760] - Clarissa
+Then you want to work with your bookkeeper to help keep your business on the road to financial success. This can include making sure that everything's done on a timely basis, making sure your bookkeeper has access to everything that they need, and then having communication.
+
+[00:21:29.440] - Clarissa
+Questions your bookkeeper should be asking you. A lot of clients that have come to me, they come with their financial statements showing these following accounts: the Ask My Accountant, Uncategorized Expense, Uncategorized Revenue, and Uncategorized Asset. You should never see those on your financial statements when you're looking at them, because it means that your bookkeeper did not ask questions about what transactions are, to get more information. Your bookkeeper should always be asking you if they really do not know, what a certain transaction is so it can be categorized correctly. You should never see these four accounts on your financial statements.
+
+[00:22:17.010] - Clarissa
+They should ask you when they see double transactions, if they're actually legitimate, and when they see transactions that are odd and could possibly be fraud. This part about fraud though, they would have to be working with you for a while to understand what's actually happening in your business to be able to know if something really is odd or not. But this is something that you yourself, as the business owner, could be doing to make sure that you understand what is going on.
+
+[00:22:49.400] - Clarissa
+So where do you find a bookkeeper? You can ask fellow business owners who they work with. You can do a Google search and try to find someone who has a website. You can try Upwork. I would say to be cautious though, because you're going to find a lot of bookkeepers in a third-world country that are going to charge you super-low rates. And it usually means they don't completely understand the bookkeeping. I'm not saying that all of them don't understand it. I'm just saying I've done a lot of cleanup jobs where they have used bookkeepers with really low rates. And there were so many of those: Ask my Accountant, Uncategorized Expense, Uncategorized Revenue, Uncategorized Asset. I highly recommend that you find someone who is located in the same country as you. That way there is more understanding of the same tax laws at least.
+
+[00:23:57.620] - Clarissa
+Because while bookkeeping is the same country to country, you're still going to run into issues with possibly them not covering the right information. So be careful when you're looking for a bookkeeper, with hiring them in the same country at least. You may end up going through a couple of bookkeepers.
+
+[00:24:26.090] - Clarissa
+Okay, so what do you usually need to give your bookkeeper when you're hiring them? View-only access to your bank account. View-only access to your merchant account, Stripe, Square, PayPal, those type of things. Access to your bookkeeping software. Access to a folder with your business purchase receipts and invoices. Anything else that revolves around the finances of your business. Now, this comes with a little bit of a warning here because I understand that for some of you, this is going to be a security concern by having to give this information to them. I personally have never had a client say, "No, I'm not giving you that," because it makes it so much easier when I have this access to be able to just go in and pull the reports.
+
+[00:25:19.180] - Clarissa
+Otherwise, you have to go in and pull all of these financial statements from your accounts and get them to your bookkeeper so that they can do the reconciliations. And that means that you're holding up the entire process. And when I say you can do view-only access to all of these accounts, I have view-only access to over 50 bank accounts, to multiple different Stripe, Square, and PayPal accounts. And this is because I have that many clients that I just need to be able to go in and pull this information. When you do view-only access, they cannot do anything in your account except for pull statements and see exactly what is there.
+
+[00:26:09.520] - Clarissa
+The other thing is you want to make sure that they get their own login information. And this way you are able to see exactly what they are doing in your account when they have their own login, versus using yours. Please do not just give them your username and password, create their own, because if you give them your username and password, whenever they go into your account, it looks like you were doing something. So, if they were to transfer money somewhere, it looks like you did it. So, if it ends up being a fraudulent transfer of money, you technically did it. So, you have no way of proving that it wasn't you because you're logged in as you.
+
+[00:27:05.690] - Clarissa
+The next professional is an Accountant. They will help you with filing tax returns. They can help you with making sure that you're following the right tax laws and regulations for your business. Not all accountants are CPAs, and they do not need to be a CPA to assist you in your business. All CPAs are accountants because you have to have an accounting education to be able to be a CPA.
+
+[00:27:50.420] - Clarissa
+When do you need to hire an accountant? When you start your business, you should have an accountant with your business from the very beginning, so that they understand your business and that they can answer questions for you.
+
+[00:28:05.500] - Clarissa
+When not to hire an accountant? When you need your taxes prepared. And do not try to hire an accountant if your bookkeeping is not done, because then this accountant is either going to charge you an awful lot of money or they're going to turn you away. I've had clients come to me and say, "My accountant told me I do not want your boxes of receipts." Most accountants, when they're preparing their taxes, they want your financial statements. That's it. They don't care about the rest. Normally, they need your financial statements and the last month of the year for your bank statements. That's it. That's all they need.
+
+[00:28:58.080] - Clarissa
+Many business owners will start their business and think that they can handle filing their own tax return on their own, but they quickly learn that a business tax return is a little bit more involved than just doing a W-2. That is why it is so important to find an accountant when you start your business and really get it in there.
+
+[00:29:26.160] - Clarissa
+If you walk away from this training learning anything, you should have an accountant that you can easily turn to, and you should probably hire a bookkeeper. With this presentation, you can also get my hiring guide to hire a bookkeeper, a accountant, and a CFO for your business. It's going to include all of the questions that you would ask them when hiring them, you would ask them when working with them.
+
+[00:30:11.840] - Clarissa
+The last professional is a CFO. This is a high-level financial professional that can help you with preparing budgets and forecasts, analyzing where your business has been successful, and how to keep that growth going, and assisting with other financial professionals in your business, such as helping you with hiring an accountant, helping you with hiring a bookkeeper. The thing with the CFO is that you really don't want to hire a CFO until your business is crossing the $500,000 a year mark. At least this is my opinion. You're going to see other people that have a different opinion where you should hire a CFO first and then go to the other financial professionals. I think you should hire a bookkeeper and accountant first, and then once you cross $500,000 a year, then you can go with the CFO and they can help you with this stuff, because a CFO is going to need certain information already to be able to help you with your business.
+
+[00:31:28.100] - Clarissa
+They're not going to be able to help you so much from the very beginning with growing this stuff if you don't have anything in place. Unlike having a bookkeeper and an accountant, you don't actually need to have a CFO in your business to help keep your business on track financially. A CFO is a part of your business financial team that can help your business grow even more. So when you're really looking to scale, that would be a time to bring in a CFO because they can help you create more reports, to create a forecast, to see if you need to hire certain people in your business to help your business grow even more. This is what I mean by you should cross $500,000 a year before you're ready to hire a CFO.
+
+[00:32:28.210] - Clarissa
+I know I covered a lot of information in this presentation, so you can get my free "Financial Professional Hiring Guide'" with this presentation. Like I said, I go over a lot of the questions that you should be asking when you're hiring, when you are working with, and when you should be hiring your financial professionals, your bookkeeper, your CFO, and your accountant.
+
+[00:33:06.600] - Clarissa
+This guide goes a lot more in-depth into things that I couldn't discuss because I was limited on time in this presentation. You can get that guide at nerdynumberlovers.com/hiringguide.
+
+[00:33:26.080] - Clarissa
+I hope you enjoyed this presentation. You got a lot of information. I look forward to helping you even more in your business with the accounting and the financial stuff. Have a good one.
+
+

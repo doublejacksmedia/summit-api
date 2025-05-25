@@ -1,0 +1,230 @@
+Title: How to Make Your First Affiliate Sale with Less Than 1,000 Pageviews
+Speaker: Aisha Preece
+Website: https://outandbeyond.com/
+Level: Beginner
+Category: Affiliate Marketing
+Length: 24:32
+Year: 2023
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/how-to-make-your-first-affiliate-sale-with-less-than-1000-pageviews-aisha-preece/
+
+Transcript:
+[00:00:12.010] - Liz
+All right, guys. I'm so excited to have Aisha Preece back because her sessions are always just fantastic. I always walk away with things I need to do. I know we tend to, you know, she tends to teach these things meant for newer bloggers, but even established bloggers can get quite a lot from her. So, Aisha, thank you so much for coming back. I really appreciate it.
+
+[00:00:32.410] - Aisha
+Thank you so much for having me. And I really enjoyed last year, and everybody who attended was amazing, so I had to come back. So, thank you everybody who's watching this. I appreciate you, Liz, and I appreciate everybody attending.
+
+[00:00:42.800] - Liz
+Yes. And I know last year we kind of talked about SEO, but this year we're going to talk about affiliate marketing because you've really expanded that. So, why don't you share a little bit of your background of affiliate marketing before we dive into the teaching, just so people know where you're coming from.
+
+[00:00:56.210] - Aisha
+Right. So, I currently have six sites. Two of my sites are more established, so the first site hits $18,000 a month for one site. But then I also set up new sites. And I realize the struggle with newer websites are, we think I'm new, I don't have any traffic, can I make money from affiliates? And what I've done is I've implemented strategies to ensure that even these baby sites, even if you set it up three, four months ago, I want to make sure that you guys can learn how to earn, because that's certainly something I'm doing for my newer sites. Everyone, if you have a lot of traffic, it's easy. But what about newbies, right? Or newbies that have new sites struggling to earn their first $100. So, I want to make sure I can support all of you.
+
+[00:01:38.590] - Liz
+Okay. So, first of all, because it is turning six sites, it's a lot, but let's go ahead. Let's kind of talk about affiliate marketing is where you refer someone to a product, and you earn a commission, you know, if a sale is made. But when you have less page views, it means you have less opportunities for conversion. So, how do you get a conversion when you don't have that many opportunities to?
+
+[00:02:04.700] - Aisha
+Right. So, first things first, you need to think about the type of affiliate program you're going for. Right? And so, the mistake I made before was I signed up to 20 affiliate programs and just kind of place them all over my site. And don't do that. I would sign up to maximum three or four. And especially for a new site, I would really recommend Amazon affiliates. And a lot of people have sometimes negative things to say about Amazon because they cut their commissions. However, we cannot deny Amazon affiliates for a newbie, it can really help you earn that 1st 100, 1000, 2000 dollars. And so what I would do is, if you're a new site right now, and you say you have ten blog posts and you have less than 1000 page views. I would go into those blog posts and right after the intro, I call these the affiliate template blog. Every single one of your blog posts. So, give me an example, give me a niche. Give me an example of a blog post.
+
+[00:03:05.610] - Liz
+Oh, gosh. Beauty and nail stuff.
+
+[00:03:08.330] - Aisha
+So, imagine you have a beauty. Let's just say you have a sustainable beauty and nail blog. Sustainable nails and beauty, right? So, let's just say, you have ten blog posts and they're not making any affiliate income. I would go after the intro and think, go to Amazon, and go to the top reviewed products, right? Take a few of those that are relevant. So, best cruelty-free nail polish, best foundation, best chemical-free foundation. So, it's four or five affiliate products from Amazon that are four star and above. I would take those four products after the intro. I would create a colored box. You can do that quite easily with gutenberg. And I would say, by the way, in a hurry, this is my favorite cruelty-free nail polish. This is my favorite foundation, which doesn't have any chemicals or harm the environment. And every single one of those ten blog posts, I would embed that up the intro. Now, you might think nobody's going to buy that. People are more interested in the content on what you wrote about. However, the beauty about Amazon affiliates is they just need the click. If they click in and buy anything within 24 hours, you get a commission.
+
+[00:04:20.120] - Aisha
+And so, your job is to just get the click. Get them over to Amazon, amazon will do the rest. They've cooked the customer, they know what your customer needs.
+
+[00:04:28.630] - Liz
+Yes, I like that. And I'm actually thinking of the new niche affiliates that I have, which is not beauty or nail. I didn't go for the easy, tell me what I should do. I'm like, yeah, I should go ahead and add those right after you're, right after the first paragraph. Okay, so. You know, that's getting the click, that is the big thing. Besides just that what you're calling the affiliate template block, where else are you putting them? How else are you, you know, ensuring you get that click?
+
+[00:05:00.990] - Aisha
+Good question. So, another thing that a lot of people I noticed, they make the mistake is they only include the links, and they include the links further down. I make sure that I have the Amazon image. It's very important that if you're recommending a product, so best cruelty-free nail polish, you recommend the link. Right? And then you also include the image. Amazon allows you to embed the image. And I'm finding that the conversion is extremely high because human beings, we're visual creatures, we might just click on it because we're curious. Then we're back on Amazon, and then we might go later on after dinner and play around. So that's number one. And number two is I make sure that I have, you know, in an article. My articles are normally at least 1500 words, so they are in depth, useful articles. We're talking at least five or six affiliate links. So, right after the intro in the template block, then a few paragraphs down, we want to make sure it's not spammy, but we also want to make sure that the reader is aware that the link is there and the link is a different color. It's very obvious.
+
+[00:06:08.150] - Liz
+Okay. And I know when you start, you said, yes, newbie bloggers should work on getting into the Amazon affiliate program, but maximum three to four programs. What would you suggest, kind of in determining what those other few programs should be like? How do you take into account the different, you know, program terms and figuring out what's going to work best?
+
+[00:06:30.570] - Aisha
+I would look at your competition, and so what I would do is sometimes when I'm overwhelmed, especially for my 6th site, right? It's a new site, it's a competitive niche. I don't know why I didn't go for an easy niche, for a competitive niche. And I was like, oh, what should I sign up for? And I took a step back and I was like, let's not reinvent the wheel. I went to my competition and I looked at the affiliates they were heavily promoting, and I was like, there's a reason why they're promoting these. And so, then I took a few of those and then I started promoting them, and I can see it's already getting clicked, which is really helpful.
+
+[00:07:04.810] - Liz
+Okay, next question then is some affiliate programs are more discerning than others. So, do you have any tips on applying to the affiliate program to ensure you get accepted? Because I feel like as a newbie blogger, you get rejected from a lot of affiliate programs. So, any tips to make sure they get accepted into the program?
+
+[00:07:24.510] - Aisha
+Yeah, so I think it's like taking a step back and saying, okay, what do they want to gain at this? So, you're talking to somebody, their whole goal is to make money from the affiliates. Your whole goal is to help your reader with an affiliate solution. And so, it's like dating. You don't go in there like, oh, please date me, date me. You go in there saying, hey, I'm a big cherry pie, you want me, right? So, I go in there and I say, Listen, this is my audience. My audience. I'm on social media. You talk about it as though it's a brand, even though even if it's 1000 page views, my 6th site is tiny. I go in there and say, this is the audience, this is my plan for promotion. This is where I'm going to promote it, and this is how I'm going to promote it, and the types of things I'm going to be writing about. And my audience is interested in this, this and this, and they happen to be in that. And so, it's basically sharing your strategy with them and being honest and saying, I want my readers to have a solution.
+
+[00:08:21.690] - Aisha
+You are my solution to my readers problem. Here is my brand and why actually, you're very lucky to work with me.
+
+[00:08:29.490] - Liz
+Okay. I like that. Yeah. And I think just being honest and putting something in the application, I think so many people get rejected because they hit the apply button and they don't kind of make an effort, and it can go a long way. Okay. So, I think a question, especially newer bloggers are wondering and struggling with is how much do you think they can reasonably earn if they're getting 1000 page views a month, maybe even less? What is like, a good kind of goal to earn with affiliate marketing, you think? I mean, obviously the programs and the commissions, it's going to vary, but a range, if you will.
+
+[00:09:06.910] - Aisha
+A niche is also important. So for personal finance, niche is going to earn way more than, say, a pet niche. Right. But just from, say, my second site, my second site had, like, 25,000 page views, and I earned $1,500. And that was not really trying because it was my second site. I reckon if I really pushed my second site with. So, let's just say 1000. So one of my sites got 1000 page views, and I'm making $89. So, $89 with 1000 page views. And so that's purely from Amazon, but also because I had lack of time. So, it's okay to focus on one. Right? So, if you say, listen, I'm going to really go hard with Amazon, when I'm more established, I can focus on other affiliates. You can, which is what I'm doing. Something also, I want to also just reassure all of you, I'm sure someone in the audience has been rejected that Amazon are not making those three sales. So, if you don't make three sales within 180 days, they kick you out. And the first time it happened to me, I was like, oh my God, I'm a failure.
+
+[00:10:06.840] - Aisha
+Listen, it's okay. You just reapply and they re accept you. It's no biggie, don't worry about it. And then you're like, oh, but what about all my affiliate links? All my Amazon links, I have to change them. Go online, google how to switch to Amazon links. There's a really quick way to do it. Or message me on Instagram, I'll teach you. I googled it. And I literally in five minutes, all my affiliate links change. So don't worry if you get rejected and kicked out, just reapply. It's no biggie.
+
+[00:10:31.220] - Liz
+Yes. And I mean, $89 may not sound like a lot, but that's more than enough for the site to pay for itself and then still have a little bit to pay you, realistically speaking. Okay, so we talked about kind of yes, you can Google and I know a few different ways you could tackle that problem. But are you using any programs to help manage your affiliate links. You know there's like Amazon pro links or whatever. Amazon pro, I don't even know what's called. There's [inaudible 00:11:00] affiliates. There's pretty links. There's, you know, Lasso and Island Affiliateable. Like are you using anything like that to help you?
+
+[00:11:09.270] - Aisha
+Honestly, I should, but I don't. Especially if you're a new blogger, don't worry about all that because when you're new, your focus should be content, quality content and converting it. And I'm sure like, Black Friday is on right now. Like, you know, when Black Friday comes again, people, oh my God, I need this, I need that. You don't need that. I made 3000 on a second site with minimum, not much effort. Then I don't use a tool I should, I should because I'm I have a site that earns more. But for my new site, you don't need it. Just get in there, add the affiliate link, add the Amazon image. You can do that without any tools.
+
+[00:11:42.050] - Liz
+Yeah, and I would say with Amazon especially, you need to either use an approved tool, you know, because you're not allowed to mask affiliate links with Amazon. So, they have very specific terms. But yeah, I'm wondering would you mind if we I can either share my screen or if you could share your screen and just show them kind of an example of building that colored block with Gutenberg or finding that link in Amazon just to give them, like, we're visual creatures. And I think seeing it on the screen is much easier to kind of than understand in your head. That'd be okay.
+
+[00:12:12.330] - Aisha
+Yeah, you could share a screen. I mean, I don't have my I'm sure you do. So I'd allow you to share your screen, if you don't mind.
+
+[00:12:20.190] - Liz
+Sure. I can pull up a site. I have several.
+
+[00:12:25.650] - Aisha
+This is why it's amazing. Honestly, you're so practical. This is so valuable for people watching.
+
+[00:12:30.060] - Liz
+Okay, let's go to this one. I'm like, which site am I going to do? Okay, so we'll just do new post. You know, make it up. There's a paragraph here. Okay. Now I want to do like a hey, you're in a hurry. So, Gutenberg, you're saying, am I just using a paragraph or am I just.
+
+[00:12:57.370] - Aisha
+Imagine you say, hey, are you in a hurry, right? And then let's just say you add a link. This cruelty-free nail polish, right?
+
+[00:13:07.560] - Liz
+Yes.
+
+[00:13:09.130] - Aisha
+The cruelty-free nail polish is the part that you link. So, you copy that and then you add the affiliate link there. So, you click on the link there. You add the affiliate link.
+
+[00:13:19.840] - Liz
+That's not a real thing, but we're gonna.
+
+[00:13:20.980] - Aisha
+And make sure when you click on it right, the affiliate link, you have to mark it as open a new tab and no follow. It's quite important that you mark it as open a new tab and no follow. Because any sponsored links, google has required us to declare them as no follow and open these up. Perfect. Okay, so imagine you created a whole blog, right. So now what you do is you basically copy the whole thing. Yeah. Go on more content.
+
+[00:13:49.020] - Liz
+Yeah. Okay.
+
+[00:13:50.910] - Aisha
+So, let's say you copy both.
+
+[00:13:53.690] - Liz
+Okay.
+
+[00:13:54.670] - Aisha
+So you want to create a blog, right?
+
+[00:13:57.240] - Liz
+Okay.
+
+[00:14:02.890] - Aisha
+So, let's say, hey, are you in a hurry? And more content. I turn that into a blog. So, maybe both of them, copy them together.
+
+[00:14:10.480] - Liz
+Okay, sorry.
+
+[00:14:11.580] - Aisha
+Yeah. And then on the three, yeah, then I put group.
+
+[00:14:17.470] - Liz
+Okay.
+
+[00:14:18.340] - Aisha
+This is going to be a reusable block, right? And then you click on the background on the right and you're going to turn that into a different color, whatever you want.
+
+[00:14:29.510] - Liz
+Go with like a, yellow.
+
+[00:14:29.970] - Aisha
+Yeah, there you go. And so, if you want, if you guys want to turn into a reusable block. So ,let's say you click on that and then add two reusable blocks. So, it could be sustainable products or whatever. Yeah.
+
+[00:14:49.230] - Aisha
+So now you have ten blog posts that you want to add this right after the intro. Boom, boom, boom. Every single one, you add the reusable blocks. And so now when someone reads it, it pops out and allow what's, this? And they click on it.
+
+[00:15:01.460] - Liz
+Yeah. So, then if I want to do, it'll pop right up, right? Okay, awesome. Hopefully that makes sense. This is obviously very [crosstalk 00:15:15] 
+
+[00:15:17.240] - Aisha
+That's amazing. Yeah, exactly. And it makes a huge difference because your link is very high up, it's popping out, it's obvious, and it's a solution relevant to your audience. You add that right after the intro.
+
+[00:15:28.140] - Liz
+Okay. And I would say, like, this is a template for this specific affiliate link. It's not for, you know to use this as a template and then edit it for different affiliate links. Correct?
+
+[00:15:40.340] - Aisha
+Correct.
+
+[00:15:41.110] - Liz
+Okay. I'm just making sure I understand the reusable blocks.
+
+[00:15:44.170] - Aisha
+Yeah, so, these are going to the same affiliate link.
+
+[00:15:46.280] - Aisha
+Because if you have, like your site, right. It's likely that if you have a sustainable beauty site, it's going to be relevant products. But if you want to change your product, then create it if a block.
+
+[00:15:56.750] - Liz
+Yeah. Okay, perfect. I just wanted to make sure that was clear. Okay. Anything else you think we should share? I don't know if I should keep sharing my screen or if you think we're good.
+
+[00:16:07.980] - Aisha
+I think we're good, but I just want to share a few tips on also conversion. Right. If we're not, when we run out of time, let me know. But here is something I really, really noticed, because I run a team of writers, I train people how to write, and after six sites, I can't do it on myself. And the biggest mistake that people make is the introduction. Right. When you are writing an affiliate post, or even not a normal post, you might be like, you're looking for the best sustainable products, here are ten stainless products. That's a mistake. You need to think about the pain points of somebody who is Googled best cruelty free nail polish. Number one, what are the pain points why are they googling that? What are they interested in? Number two, you need to then also establish your authority in the introduction. For example, you say, hey, are you looking for cruelty free nail polish? I'm sure that you're really sick of reading about these nail polishes that are being tested on animals. I'm sure maybe you're worried about how it affects on our environment. Don't worry. I am very passionate about sustainability and I have a sustainable blog I run and you talk about your experience and let me share with you my favorite product.
+
+[00:17:23.530] - Aisha
+That's tip number two. You have nine options, right? Don't just go to nine options, give them the first option and the best. Because people get decision fatigue. And I learnt this mistake through my trial and error. I used to just give nine products. And then I realized people don't read nine, they have decision fatigue. So, you say, this is my favorite product because and you give them the reason why. You give them why you choose that. Or if you want, if you really want to make it valuable, you give them three options at the top, highest quality, budget friendly, and the middle compromise. Okay? And when you do that, people want you to tell them, people want to be led. You're like, listen, this is the best if you can afford it, this is the best quality. If you're on a budget, it's okay, you can try this. So, you are giving them solutions, right? And the final major tip that I want to share is, and this is the huge thing is when you are sharing the pros and cons and the features, the mistake we make is we say this is a cruelty free product in red. It's really cute
+
+[00:18:30.910] - Aisha
+Okay, and why would I care? It's really cute and it will stand out during your dinner date. You've got to give the benefit, feature and then benefit. Often we talk about features but we don't say why. Like this foundation is super smooth. Okay, and? It's super smooth, so it will cover all your blemishes and feature, benefit, feature benefits. And finally when you're talking about the cons, am I going on too much? Sorry.
+
+[00:18:59.220] - Liz
+No, you're great. I love this.
+
+[00:19:01.110] - Aisha
+So, when you're talking about the cons, and this was something I noticed when I write of my book, she said the cons are it wipes off really fast. I thought, right, okay, so I'm not compelled to buy this product. So, if you're going to mention a con, think about how we can mitigate it. And so, if it's going to wipe off quickly, right, so you say it wipes off quickly but you don't need much to apply or it's in a really small bottle, so it's easy to carry around. You've got to mitigate that con, especially if it's in that top three.
+
+[00:19:36.730] - Liz
+Okay. No, I love that. That's a great point. And I'm thinking about some of my affiliate posts, I'm like, maybe this is why they're not converting as well.
+
+[00:19:48.800] - Aisha
+I think it's too trial and error, like for me testing and think, oh, that makes sense now because I recently went and bought winter clothes in Amazon and I remember reading a post, I just remember feeling overwhelmed. I'm like, which do I pick? Tell me the best winter coat. And then I went on a post and said, this is the best, because I was outright click buy. Give them the commission. Done.
+
+[00:20:06.940] - Liz
+Yeah. Yeah. No, I love it. I also love that as bloggers are always like, do I want to give this person a commission? Did they give me enough information? Do I want to go look at a different one to click on it? You know what that is?
+
+[00:20:23.180] - Aisha
+Actually, yes. Are you deserving of my click? Yes.
+
+[00:20:28.860] - Liz
+Okay, any final tips? And then I know you have some additional resources you're going to share, but any final last tips?
+
+[00:20:37.840] - Aisha
+So, I think I've shared most of them. Oh, final tips. Okay. Don't be afraid to go for super low volume keywords, especially as a beginner, if they are affiliate type posts, right? And so, if you haven't already, make sure you target affiliate posts such as best, best nail products, best cruelty-free makeup, best make sure you target if you're a new blogger, you already have ten info posts. Make sure that your next ten has best, but then don't just randomly target them. You need to make sure they obviously will do well on Google, right? And so you need to obviously learn SEO. If you don't, I don't know if they can access and buy the last year pass. There's amazing SEO tips on there. So, often when we go for SEO topics, people think, oh, I need to go for low search volume. When you are targeting affiliate type posts such as best cruelty free, don't be afraid to even go for a search volume of even 10. Ten is okay, because you're not going for people go for high volume because they want to monetize with ads, but you don't need that much traffic to convert, convert into money.
+
+[00:21:45.770] - Aisha
+And so a lot of my, like, posts have like, search volume of 10, 20 and they get on page one and then they convert and they convert. So, it's okay to go for low volume.
+
+[00:21:55.570] - Liz
+Yeah, especially when you're doing something like Amazon, right? Because okay, maybe that search volume is only ten, but ten people went, one person clicked on it, they got that, and then they bought a $500 mattress, too, and you got that commission, right? So, just because it's low search volume doesn't necessarily mean it probably means better chance of your converting because you're going to rank faster. But also it doesn't necessarily mean like, low amount of money. It's a different strategy. It's a different monetization strategy that's going to have a different kind of SEO strategy in mind as well.
+
+[00:22:27.330] - Aisha
+Hopefully. Because you're not going to try to go up against these big time bloggers, you need to know, right? What's the strategy that's good for me as a new blogger? Go for low volume. Go for the low volume affiliate keywords. When you've established authority, okay, you can go for the highest search volume later.
+
+[00:22:41.720] - Liz
+Yes. Yes, I love it. Okay, so why don't you tell them about some of the resources you have that they can check out?
+
+[00:22:48.430] - Aisha
+Okay, so I'm going to create I'm doing this special for you guys. I'm going to create a step by step plan for you guys to go from here to making your first affiliate sale. So, I'll share it, and it's free. I will say step one, do this. Step two, do this, by the end of it, you follow the exact process. And I know it works because I use it on my own site. By the end of it, you have the exact process I follow to make my first affiliate sale. My sister, she has a sustainable site, and she followed this with 100 page views, and she made her first sale.
+
+[00:23:19.280] - Liz
+That's awesome.
+
+[00:23:20.290] - Aisha
+So, I'm going to share that, and you know, if you want, you can also contact me on Instagram. But I also have an affiliate master class where I teach over three, four hours all the strategies for smaller and bigger sites. So, how do I get my site from $5,000 to over $10,000? What strategies did I follow? I share my exact sites that I actually work on. So, you see real sites, and if you want, you can access it, and I'll give the opportunity to kind of learn more affiliate strategies with me.
+
+[00:23:50.990] - Liz
+Okay, so those links are below. Aisha, thank you so much again for sharing that. Like I said, I always walk away learning something from you. Again, I'm so glad you came back. Thank you.
+
+[00:24:03.030] - Aisha
+Thank you for having me. And thankfully, I always enjoy it. And I really appreciate you making this as valuable as possible. And thanks, everybody for joining. And don't feel bad for low traffic. You're getting there. You're going to get that first sale soon.
+
+[00:24:13.460] - Liz
+Yes, you will. Just follow Aisha's tip. All right, we'll catch you guys with the rest of the sessions.
+
+

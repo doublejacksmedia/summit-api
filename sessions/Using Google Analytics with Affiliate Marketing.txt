@@ -1,0 +1,479 @@
+Title: Using Google Analytics with Affiliate Marketing
+Speaker: Matt Giovanisci
+Website: https://www.moneylab.co/
+Level: Advanced
+Category: Affiliate Marketing, Data
+Length: 49:25
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/using-google-analytics-with-affiliate-marketing-matt-giovanisci/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton
+All right, Matt, thank you so much for joining the Blogger Breakthrough Summit. I'm super excited to get to talk to you about Google Analytics and Affiliate Marketing. So just thank you for agreeing to do this.
+
+[00:00:10.270] - Matt Giovanisci
+Appreciate it. Yeah. Thanks for having me.
+
+[00:00:11.910] - Liz Stapleton
+Yeah. No, I've been a long time fan. I think I was first introduced to you at my very first Fincon in 2015. You did a session on video.
+
+[00:00:19.780] - Matt Giovanisci
+Oh, yeah. Yeah. Oh, my God. I can't remember that. Yeah, that was my first FinCon.
+
+[00:00:26.070] - Liz Stapleton
+I've had a few sessions at FinCon.
+
+[00:00:27.810] - Matt Giovanisci
+Yes, right.
+
+[00:00:28.740] - Liz Stapleton
+But yeah. And then I've taken some other... This year, though, you've really opened my eyes to Google Analytics and how I can use it to better do affiliate marketing and just run my blog and stuff. I'm super pumped.
+
+[00:00:39.480] - Matt Giovanisci
+To have.
+
+[00:00:40.400] - Liz Stapleton
+You on the talk about it.
+
+[00:00:42.300] - Matt Giovanisci
+I'm glad to be here. I'm glad to do it. I don't get to talk about this subject that often.
+
+[00:00:46.560] - Liz Stapleton
+Yeah. I feel like people just don't even realize all you can do. Everyone tells you install Google Analytics, and you're like, okay. And it stops there.
+
+[00:00:55.700] - Matt Giovanisci
+You have to commit to it in a way because it is free and it is a lot.
+
+[00:01:06.000] - Liz Stapleton
+It is. Yeah. I've started trying to do... Because they even have courses and stuff. So I've started trying to learn more about it but I haven't kept up with it.
+
+[00:01:14.120] - Liz Stapleton
+But yeah, so it's a super powerful tool. It's free. It can be great for affiliate marketing because the more data you have, the better you can do that. So how did you learn to take advantage of this? How did you start digging into.
+
+[00:01:24.540] - Matt Giovanisci
+This stuff? Yeah. I will say that analytics for me has always been the thing you just install on your website, and then I would constantly go and check it and see if I was getting more traffic, which is really all I was using it for. And then the real killer was when they came out with real time analytics. And so now I'm like, well, now how many people are on my site at once? And you get addicted to that.
+
+[00:01:47.670] - Liz Stapleton
+How unproductive can you be.
+
+[00:01:48.730] - Matt Giovanisci
+Because you're checking yourself? Exactly. So at this point, yeah, it becomes incredibly unproductive, especially when you're getting started. Probably part of my addiction is like every single time I send out an email on MoneyLab, I have Google Analytics real time analytics open just to see how many people come to my site. Or if I tweet something like, I will just look. It's not helpful. I learn nothing from it. I just get dopamine. I guess I get this huge dopamine hit. So yeah, for me, and I'm assuming for a lot of other people, that is what analytics is. It is just a time waster. There are things that I have started using it for slowly but surely finding out which pages on my website get the most traffic and then work on those to maybe get more email subscribers before going and trying to optimize the entire website. I'm going to optimize just one post and see if I can get more subscribers. And then you're like, well, okay, am I getting more subscribers if I optimize this? Wait, how do I figure that out? Oh, I have to set up a goal. Okay, well, how do I do that?
+
+[00:03:00.570] - Matt Giovanisci
+And then you start down to like- Sometimes you're.
+
+[00:03:02.710] - Liz Stapleton
+Just like, I don't know how to tell you.
+
+[00:03:04.630] - Matt Giovanisci
+You get to the point where.
+
+[00:03:06.220] - Liz Stapleton
+You're like goals. I feel like it's not talked about. You can set up goals in Google Analytics and things like that.
+
+[00:03:11.910] - Matt Giovanisci
+Yeah. And the other part of it, too, is a lot of... I mean, for me, I noticed that there's discrepancies, and there will be because people have privacy things set on their browsers. And so you used to be able to know which keywords people were searching for, but now because of all the privacy issues, you see a lot of not set. So that's not really that helpful. And you start to go, well, is this even helpful? But you have to build out the entire thing. But what I've learned is not to do everything at once or not to look at Google Analytics is like solving all my problems. It's I have a question and you have to come up with the question first and then go into analytics and figure out how to answer that question with data. And so that is the way... When I set up anything in Google Analytics or whatever, I usually write out a list of questions in Asana. And then I have to scrutinize each question and say, well, is that question actually going to make me more money if I answer it?
+
+[00:04:21.090] - Liz Stapleton
+That's a good point.
+
+[00:04:22.130] - Matt Giovanisci
+Is it going to bring me, depending on what your goal is- to.
+
+[00:04:25.100] - Liz Stapleton
+Figure this question out.
+
+[00:04:26.510] - Matt Giovanisci
+And the answer to it. Yeah. You really need to hone in on the question and then go like, is this worth my time to answer? And then if it is, you can probably answer the question using free tools from Google, including Google Analytics, Google Tag Manager, and Google Data Studio, which is really just essentially all Google Analytics. And then there are some questions that you're like, well, maybe Google Analytics isn't the tool to solve this answer. Like maybe, oh, are people subscribing to my website on this page? Well, maybe your email service provider answers that question and not Google Analytics. And they both can, but there's going to be discrepancies. The thing for me is like, well, I just need one set of numbers to trust or at least one KPI to trust that I can go, okay, well, I'm just going to make that number better. And when it comes to affiliate marketing, which I know that's primarily the reason we're talking about.
+
+[00:05:24.920] - Liz Stapleton
+Analytics- I stumbled on this. I was like, there's got to be a way for me to figure out where people are clicking on my affiliate links. I started there and then I ended up getting a course and jumping on it. I was.
+
+[00:05:34.800] - Matt Giovanisci
+Like, yes. Yes, there's definitely a way to do it. Depending on the affiliate program, the part of the issue that I always run into with affiliate marketing and measuring is finding out the actual dollar amount conversion rate number. Again- the number.
+
+[00:05:52.680] - Liz Stapleton
+Of clicks but how many of those clicks from that page converted? Maybe it's a small number on a page that doesn't send as much but convert to the people better. Yes. That's where it gets nitty-gritty data figuring that.
+
+[00:06:03.290] - Matt Giovanisci
+Stuff out. 100 %. And so there are clever ways to do it. And the biggest question you have to ask yourself is, is it worth my time to do it? Because the gathering of data and building out these spreadsheets or these data studios or whatever is a lot of work. But once you do the work, you're like, okay, well, then once you do this work to figure out the answer to your question, okay, the answer in my case would be like, which page on my website is bringing in the most affiliate income or which pages on my site are bringing the least amount of affiliate income, because maybe that's maybe a better question. Because let's say if I went with the first question, which page on my website brings in the most money, it's already bringing in the most money. So what would you do knowing that information? Well, I would go, cool. I would be like, yeah, dopamine hit. But- I could.
+
+[00:07:04.850] - Liz Stapleton
+Create some new Pinterest pins for it or something maybe.
+
+[00:07:06.980] - Matt Giovanisci
+Yeah, maybe. Yes, you could say, well, I'll just drive more traffic to that blog post then since I know it converts the best. So yes, you're right. That's one way to do it. The other way is or the other question you can ask is like, yeah, which pages on my website are bringing in the least amount? And go, well, that's an easy win, because then you can say, which pages on my website are bringing in the least amount of affiliate links but get the most amount of traffic? So just going on to those pages and adding useful affiliate links will actually earn you more money like that day. And then you can start getting more nitty gritty like, well, okay, which affiliate links on this page are bringing in the most clicks and which aren't? And then that, I mean, I've done that, too, where you can start to say... And again, we're just talking about click data. We may not be talking about actual revenue, but you can make an assumption that like, okay, well, if I can get more clicks to an affiliate link, then I can essentially make more revenue. Now, again, you can get really specific depending on the affiliate program.
+
+[00:08:15.230] - Matt Giovanisci
+If you use a tool like Affluent, for example, you can add sub IDs with impact radius and certain... And I don't do that. I mean, my business partner does. But you can figure out how much money each affiliate link is making. But if you're using something like Amazon, yeah, you might have a hard time. There is a way to do it. And I can show you how to do that. But not everyone has access to this beta thing yet within Amazon. Okay. But basically, there's a thing in Amazon called Content Reports, and that will actually tell you which pages get you the most clicks and revenue specifically. And then you can do some simple math. You can marry it to... You can marry that... It comes out as a spreadsheet. It comes out as a CSV. And you have to give it a date range. And I think the max date range is only 90 days. And so you're really only getting a snapshot. But you can marry that data with the Google Analytics data. So you know how many page views now. And so you can measure page views. You can find out earnings per click and earnings per visitor and things like that.
+
+[00:09:28.820] - Matt Giovanisci
+So it's really useful. But again, it'll probably just tell you, for me, the two things that I really look at are which pages on my website are bringing in the least amount of affiliate money or just affiliate clicks, because it just means there's no affiliate links. And then which affiliate links on each page, starting with my most popular pages, get the least or greatest amount of clicks. And I will reorder things to solve that problem or remove them. So, for example, I had a list post on my site Brew Cabin, which is a home brewing site. And I looked at on that page, which I'll show you all this in analytics if you want to see it, but you can take a single page. And if you set up Google Tag Manager or use a plugin like Lasso, which is the plugin that I sell, which... Yeah, which allows you to just import that. It just sends that data directly to Google Analytics. You can set it up with Tag Manager, too. It's just not as clean.
+
+[00:10:39.090] - Liz Stapleton
+It's just how I started doing it because Lasso hadn't open to beta yet.
+
+[00:10:42.090] - Matt Giovanisci
+Right. So now, yeah, Yeah. With Brew Cabin, we're using Lasso, and we can find out on a specific page. I have seven affiliate links all in these display boxes. All right. Well, which one is getting the most clicks? Well, it turns out number five was getting the.
+
+[00:10:59.700] - Liz Stapleton
+Most number one.
+
+[00:11:01.070] - Matt Giovanisci
+Yeah. Clearly, it's the most popular one. I feel like.
+
+[00:11:04.960] - Liz Stapleton
+People make list posts and they don't think about the order of the list as much. They're just creating the list. And you're like, no, that can actually make a big difference in terms of how long they're on the page, how much money you make from affiliate stuff. It can make a big difference.
+
+[00:11:16.710] - Matt Giovanisci
+Yeah. And that's huge. And then looking at... So that's per page and then per affiliate link. And then there's a holistic view of the entire website. Those are the things that I really look for. And you can do a lot of optimization with a bunch of free tools to do that. Yeah.
+
+[00:11:34.260] - Liz Stapleton
+And I know we're talking about Google Tag Manager. I had not heard of Google Tag Manager until you mentioned it in your course. Yes. And just throughout Google Data Studio. I think you mentioned that in the course as well. And I looked at it and I was like, This is way.
+
+[00:11:46.740] - Matt Giovanisci
+My.
+
+[00:11:47.840] - Liz Stapleton
+Experience.
+
+[00:11:48.640] - Matt Giovanisci
+Level. But Google Tag Manager is.
+
+[00:11:50.870] - Liz Stapleton
+Actually pretty approachable.
+
+[00:11:53.230] - Matt Giovanisci
+So.
+
+[00:11:55.930] - Liz Stapleton
+Instead of basically installing a bunch of every tracking link or whatever into your site, you do the Google Tag Manager, and it runs it for you basically.
+
+[00:12:05.650] - Matt Giovanisci
+Yeah. So you have two different things. You have tags. So tags being like the Facebook pixel tracking code as an example. So that's your tag. And you have the Google Analytics tracking code, which is another tag. You have two different tags, and then you can set up triggers. So when do you want these pieces of code to fire, depending on which pages people are on? And that is what essentially you can do with Tag Manager. But the best part about it is you install Google Tag Manager on your website. You can use a plugin just so you can attach it. And then once it's attached, you don't have to, as either a developer or a person that runs a website, if you want to add Facebook pixel tracking to just one landing page on your website, you don't have to go into your page's code and add that one tracking pixel onto that one page, which can be very difficult, especially on a WordPress site. So what tag manager will let you do is like, okay, well, this is my Facebook pixel tag. Okay, I have that tag. I can use it whenever I want to, but I only want it to fire on a page that contains this URL.
+
+[00:13:12.570] - Matt Giovanisci
+So if you're familiar with things like Optin Monster and all these pop up things where you can say, well, I only want this pop up to appear on this page. It's the same exact thing, but it's with code things.
+
+[00:13:25.480] - Liz Stapleton
+But you don't have to do the coding, which is a nice.
+
+[00:13:27.910] - Matt Giovanisci
+Yeah. You don't have to go into your... Once you install tag manager, and you can do all kinds of stuff, too. If you were using something like, I guess, like Optin Monster, which requires you to add code to your website, either in the header or the footer or wherever, yeah, you don't have to call your developer or you get into WordPress code or theme code and add that.. Right. And then you can test it. With tag manager 2, you can preview it, and then you can see that it works or not before you publish it. Yeah.
+
+[00:14:00.030] - Liz Stapleton
+No, that's awesome.
+
+[00:14:02.490] - Matt Giovanisci
+Okay, so we've.
+
+[00:14:04.610] - Liz Stapleton
+Talked about it a little bit, but how do you build that into a system? Because you said, oh, I used to check my stats all the time.
+
+[00:14:12.460] - Matt Giovanisci
+That's not my thing.
+
+[00:14:13.390] - Liz Stapleton
+Yeah. So how do you build it into a system to work on your... Because I feel like if you're going day by day, oh, which post today? It's not effective either. So how often are you looking at it, making adjustments? How is that a system you use?
+
+[00:14:27.190] - Matt Giovanisci
+You could do it a few ways. You could have stats Saturday, stats Sunday, whatever, where you take a very.
+
+[00:14:37.660] - Liz Stapleton
+Specific- You have alliteration.
+
+[00:14:39.150] - Matt Giovanisci
+Right. Yeah, I do. I was like, it could be Stats Friday. That's boring. But you could take a single day once a week if you wanted to, biweekly, once a month, whatever, and go... And this is as far as the system is concerned. I heavily use Asana. I live and breathe by it. And what I love about Asana the most is recurring tasks. So basically, I will do the work to set up all the things that I need to set up to start tracking the stuff. But when you initially set something up, it's going to take some time to collect that data. And I'm the worst at this, but I also know how to fix it. So the worst I am is like, I added a new thing, a new affiliate link on this page. I'll check it in two hours. I'll check it tomorrow. It's like, give it a month or give it a couple of weeks, depending on how much traffic you have. If you have not a lot of traffic, give yourself at least a month. But if you're doing well and you're getting thousands of people a day, well, then you might be able to check it quicker.
+
+[00:15:48.880] - Matt Giovanisci
+So what I do is basically set up a recurring task in Asana that has a link to whatever exact thing I need to check. So I can just say, I can basically set it up in Asana and then forget it. Now, that means don't bookmark it. Just pretend it doesn't exist. Try your hardest. And then trust that Asana on that day, we'll pop up with a task like, check your stats. It's like, oh, okay. And then check for this answer and then do this if X. So even in the task, you have to be incredibly specific. So that way you're like, oh, on that day, this popped up. I know exactly what I have to do. I'm going to go in and you're going to do that task. And it's going to be like, okay, repeat the following month or repeat the following week. And so that you're doing it over time because you can get overly consumed with trying to optimize your site all at once. And then you don't really know if things are working.
+
+[00:16:45.540] - Liz Stapleton
+What you did work because you can't tell when you did what?
+
+[00:16:48.890] - Matt Giovanisci
+Yes. And another thing to do is you can add annotations within Google Analytics, which I don't do. But you should or at least journal about what you're doing so that you know that like, hey, okay, I went in and I moved this affiliate link up or I took this page and added two more affiliate links, set myself a reminder to go back a month later and check to see if the KPI or the number that I really wanted to increase, increased or not. And if it didn't do... There's a lot of discipline and there's a lot of like, if you could set up a spreadsheet for yourself or an Asana project where you're just like, all you're doing is once a month you're going in and doing this- I have a.
+
+[00:17:33.500] - Liz Stapleton
+Airtable spreadsheet that I go in. So I use ClickUp now, not Asana, but same idea. The recurring task has kept me from constantly checking my stats. It really does help a lot. It's weird because you're like, oh, I know I'll do it. But yeah. And I think in Asana too, if I remember correctly, you could do comments. You could even... Journaling could be in the.
+
+[00:17:53.250] - Matt Giovanisci
+Task if you want. Right. Yeah, especially if that task is recurring and it's just you or if it's somebody else, great. But yeah, you can keep notes for yourself, which is something I definitely should do. I used to do. I don't do as much anymore.
+
+[00:18:08.180] - Liz Stapleton
+I should be doing a lot better at Google and all the other things.
+
+[00:18:11.400] - Matt Giovanisci
+I have it all set up and I have it all tracked. And we do look at it. We make sure that things are working. It's just optimization is not really... We've done so much of that over the years that it's like, how much more can you possibly optimize? You can. There's always... You can always optimize, but at what point does it make financial sense? The return on.
+
+[00:18:34.980] - Liz Stapleton
+Investment of.
+
+[00:18:35.760] - Matt Giovanisci
+That time. Yeah. It's like, well, why not write a new blog post that can gain way more traffic? So you have to weigh it out, which is why I say do it once a month. Do it once a week if you have time, but try to keep it to... It's a slow growing process to optimize over time. Do it.
+
+[00:18:56.820] - Liz Stapleton
+All in- It's a long game.
+
+[00:18:58.250] - Matt Giovanisci
+It's a long game. Yeah. Most things are, right?
+
+[00:19:01.740] - Liz Stapleton
+If they're worthwhile.
+
+[00:19:02.790] - Matt Giovanisci
+If they're worthwhile. Yeah, sure. Yeah.
+
+[00:19:05.200] - Liz Stapleton
+All right. And ideally, if you're brand new, you're starting out right. But most of us didn't. Is there a different approach if you've already got a ton of stuff on your site. I'm not trying to not swear so much, but if you've got a ridiculous amount of stuff on your site and figuring that out, where would you start?
+
+[00:19:25.710] - Matt Giovanisci
+Well, the first place I would start is, let's say you have a ton of content, you have a ton of affiliate links. I would start with just tracking clicks. Just figure out. I mean, I can tell you how to set that up. And just start collecting that data. That's the first thing you should do because without data, you can't make any assumptions or any hypothesis. The easiest way to do that, I think, especially when you have a large site, is you're not going to go into every single affiliate link. You're not going to change the URL. You're not going to add tracking codes to each thing. It's taking too long. So what I would do in that sense is use Google Tag Manager. You have to set that up, at least. And you'll thank me for setting that up for any reason. And just like, that's what you're going to use for Google Analytics. Even if you only use it for Google Analytics, it's still worth it. It's a Google product. So you do that. And then once you have Google Analytics set up across the site, you would create a trigger that would only trigger on links that have certain URLs on them.
+
+[00:20:35.510] - Matt Giovanisci
+So if you are somebody who only uses Amazon, like in my case, I have a site, we only use Amazon links. So I have a link trigger set up in Google Tag Manager. And if you want, I can share my screen to show what it looks like. That was best. So you're seeing the wrong screen, right?
+
+[00:20:57.140] - Liz Stapleton
+I'm not seeing any screen at the moment. But just froze for a second. There we go. I'm seeing a screen.
+
+[00:21:02.920] - Matt Giovanisci
+Yeah, that's the... Oh, wait, what's the... You're not...
+
+[00:21:06.770] - Liz Stapleton
+Now I'm not seeing a screen. I was seeing just a background of a desktop. It's called those mountains.
+
+[00:21:16.900] - Matt Giovanisci
+Okay, yeah. So now you see this Zoom screen? Yes. Okay. All right. So all right, so I'll try to explain as much as I can here. So the only thing you have to really see in this, and maybe I'll switch to a different version just so it makes it a little bit clear to what to start with. So this is my Google tag manager for Brew Cabin, one of my websites. And I have a tag here called Google Analytics Base Tag, which is essentially just a Google Analytics tag. And because this is a Google product, it's already and all you need is your property ID, which is an analytic setting. So since it's all built in, you don't really need to do that. But if you were to use something like Facebook, for example, you can add a new tag and you could call it the FB pixel, and you would add your tag. And so in this case, I don't think Facebook is connected, although it might be now. Who knows? But you could just say... What's that?
+
+[00:22:27.780] - Liz Stapleton
+I was just saying the custom HTML.
+
+[00:22:30.110] - Matt Giovanisci
+Yeah. You just add custom HTML, you paste your tag in there, and now you have the Facebook pixel. But the Facebook pixel isn't going to do anything if it's just a tag. It needs to have a trigger. And the base trigger that every tag manager comes with is all pages, which basically means it'll just fire on every single page. Now I created a trigger here called Affiliate link click or Affiliate link clicked. And I have a base tag or or a Google Analytics tag that fires an event. So again, since this is a Google product, you can say, okay, well, I want the tag type to be Universal Analytics, but the tracking type to be an event. And then when you do that, you can set and I can show you here, it'll say, all right, well, I want this to be an event. And I'm going to categorize it as an interaction and the action of affiliate link clicked. And then I'm going to do click URL, which when you do this, you can pick different pieces that come directly from Google Analytics. So in this case, I click URL. And so what this does is it actually takes the URL that you click and add it into the event.
+
+[00:23:40.540] - Matt Giovanisci
+So that all gets sent into Google Analytics. But if I were to put this right now as is on all pages, well, then every single link on my website, it would be tracked. So what you have to do is create a trigger to only fire that tag on URLs that match your affiliate links. So in this case, I have the trigger type to be just links, right? And you said it is a click. And then instead of setting it to all link clicks, I set it to some link clicks. And then I use a RegX to go to either Amazon.Com or another affiliate program that I'm a part of is morebeer.Com. And I don't need to add a dot com. It's just whatever URL has the word more beer or the word Amazon in it, it is an affiliate link in my case. And so that's as simple as it gets. And so every single time this happens, it's going to send in all this data over into Brew Cabin as an event. So if you go to Brew Cabin and we're in events, you can see these are all the affiliate link clicks and they're all labeled under interactions.
+
+[00:24:59.530] - Matt Giovanisci
+And then you have the event, what was it? Label. And so those are all the full URLs of those things. And so you can see what events they're coming from. So then you could do it. You can reverse engineer it by saying, okay, well, which pages? So now since events have pages, I could say, okay, Conical Fermenters, which is one of my more popular posts. We go into here and interactions is my old version. And then these individual pieces are all Lasso. Okay. Yeah. So this one, this particular one was getting the most clicks, the total events. And I was like, oh, cool, that's great. Except it was listed at number five on that post. And now if you go to that post, it's listed as number one because I'm like, well, if it's already getting the most clicks, why am I going to send people five clicks, five list items- They're still.
+
+[00:25:57.950] - Liz Stapleton
+Interested before they get to it. Exactly.
+
+[00:26:00.780] - Matt Giovanisci
+And so I just basically picked based on the amount of clicks that people were doing, actually did not correlate to where they were listed on the page. And so I just reordered the page to be listed based on what was literally the most popular from people clicking. And that is all done with free tools, basically. Now, the other thing is once you start collecting this data, it's going to take time. And there's events, flows. You can look at you can reverse go through things, which again, when you start having a lot of events, it can get tricky. But that's why you break it down into categories. So we have categories set up for individual affiliate links with Lasso, whereas before I just labeled everything as an interaction. That's why.
+
+[00:26:48.300] - Liz Stapleton
+There's both. And you probably aren't doing that many different affiliates, ideally, you're starting out with the four that you go to. I mean, Amazon's one obviously. It's a.
+
+[00:26:56.420] - Matt Giovanisci
+Little different. Yeah. So, for example, if I was really doing this in-depth on MoneyLab, which has multiple different affiliate links from multiple different companies, you would have to go into this to this trigger- You'd have to add all the link matches.
+
+[00:27:14.850] - Matt Giovanisci
+Yeah, you'd have to add them in. So if I had a ConvertKit link and I wanted to track that, I'd have to go in here and just add the pipe and write convertkit. Com or ConvertKit. Assuming at that point that every single link on my website to ConvertKit was an affiliate link, and it should be, right? Why wouldn't it be? So that's the way you can do it there. And again, this is only going to give you click data. It's not really going to give you - ConvertKit. Conversion. Yeah. But there's a lot you can do with that just trying to get more clicks. Obviously, people are clicking Columbus hopcones. I think that maybe we can add a better affiliate link there that maybe a little bit higher. Maybe it converts a little bit better or whatever. So you can see what your top affiliate links are all just right here, which is super useful.
+
+[00:28:10.780] - Liz Stapleton
+Yeah. Because I've had ones where I'm like, okay, I'm getting a ton of clicks. And I've had no sales. Like, maybe I need to put in a different tool in there that's going to work better because something by now, and it's not.
+
+[00:28:22.370] - Matt Giovanisci
+Right. The other thing you could do, too, is I know you really...
+
+[00:28:25.710] - Matt Giovanisci
+I don't.
+
+[00:28:27.470] - Matt Giovanisci
+Think you can't really do this within Google Analytics, right? So let's say I want to figure out which pages on my website were getting the most traffic, but had the least amount of clicks, like affiliate link clicks. So unfortunately, II mean, you could probably add something like, maybe you can add page views here. Let me just... No, maybe not. So yeah, you basically can't add like, oh, well, how many... This is getting 173 events, meaning it's getting a lot of clicks to my affiliate links.
+
+[00:29:06.980] - Liz Stapleton
+You can go to page views and how many events are on there, right?
+
+[00:29:10.230] - Matt Giovanisci
+So I don't... Well, let's find out.
+
+[00:29:12.910] - Liz Stapleton
+You're the expert, not me.
+
+[00:29:14.580] - Matt Giovanisci
+I know, because I did everything in a different... I'm leading up to another way to do this. Okay. Got you. Sorry. Yeah. So you could... No, no. Hey, if you could do it here, that's great, too. You don't have to do all this.
+
+[00:29:25.720] - Liz Stapleton
+I know it's a lot of things to do all these things, right?
+
+[00:29:27.860] - Matt Giovanisci
+Yeah. Because it's not a...
+
+[00:29:36.240] - Liz Stapleton
+Yeah.
+
+[00:29:38.330] - Matt Giovanisci
+There's no event. I don't think there's event types here, right? Yeah. So I can't add in the event. And so even here, you don't even have... I can't add anything to this. But if you did the landing pages, which I hate this, but apparently this is the only way to do it, is you can have goals. So I have affiliate link click set up as a goal, right? And so I can find out what my conversion rate is per page, but only landing pages. That means that this is only the page that people come from from somewhere else where they land on your website. So this isn't giving you the full story. This is only giving you the landing pages and not the actual page of your website, because people can go to get find pages other ways, whether they're reading, they might land on a page, but then end up on another page and click an affiliate link. So it's like, I want to know that, too. So one of the ways you can find this out is by using Google Data Studio. Now, what I'm going to show you may look intense. I think this.
+
+[00:30:49.550] - Liz Stapleton
+Is really pretty when seeing this in your.
+
+[00:30:52.250] - Matt Giovanisci
+Yes, because I had to design this. It's literally... Yeah, you can add all these pieces in. And I could change the text and I can add these little blocks. So yeah, you have to build it. And this is over kill. This was based on, I think it's nestwire. Com, I think is where you can find this. Yeah, that's a nice add-in.
+
+[00:31:16.920] - Liz Stapleton
+Let's see what's going on. Yeah.
+
+[00:31:20.070] - Matt Giovanisci
+And basically where people coming from? How long are they staying? Are they coming back? And then there's revenue. And so I don't have this set up anymore, but I have affiliate marketing revenue set up. And this is based on... So what you can do with Google Data Studio is you can do data merging. So you can create a list of the data that you want, and then you can say, well, then add in another column, and I want to see that married with this other data. So what I did here was, and this is what I wanted to show you is I created these two lists. And this is really all you would really need to build. And this is really simple. We go into Edit and we click this. So what I'm doing is I'm pulling this data in from Google Analytics. So it's like Google Analytics for Swim University. And we're saying, okay, what's the landing page? Here are the sessions. Here's how many people are visiting the site. But then what's the conversion rate of people who are clicking affiliate links? And the way you do that is, and it's been a long time since I've been in here, I actually had to create my own goal and then do a calculation to find out how much money was being made.
+
+[00:32:43.730] - Matt Giovanisci
+But yeah. But so this was basically telling me like, okay, well, people who are landing on the site are converting at six %. So out of 10,000 people or 11,000 people, six % of those people are clicking affiliate links. That's probably not that useful. But what is useful is these are pretty high. These are all over five %. So I have a filter set to exclude low performing affiliate pages. And so on this side, it's the reverse. I just have a session or I have a filter that's include high conversion. Anything over five % or sorry, anything under five %. All right. So this pool temperature one gets a lot of sessions, but it only converts to  2%. Why is that? Well, chances are it's because there's not enough affiliate links on that page or the affiliate links on that page are completely irrelevant. Or maybe I need to add display boxes and not add them as in text links.
+
+[00:33:42.010] - Liz Stapleton
+I just like the Lasso time it tells me like, is it a display box or what type of link is being clicked on?
+
+[00:33:48.310] - Matt Giovanisci
+Exactly. So I've known just from using my own Lasso is a tool that I had built on my website four or five years ago that was completely custom, where every link was really a display box, like every affiliate link. And so I just saw a massive increase in clicks and revenue because people were like, oh, I know what the price is of this. I know what it looks like. I know what the title is. There's a description. It says buy now on Amazon and a big green button. I know where I'm about to click. And so I'm prequalifying those people. So the people who are clicking that are probably going to buy because why would they click to look? They already have most of the info they need. And it's surrounded by text that's me teaching them how to do something and then going, I recommend using this product to do that. Okay, well, then I need to go do that. So with pool temperature, for example, even hot tub temperature, these are about how to like, what's the perfect pool temperature? What's the best swimming temperature? Well, what am I going to really sell to them?
+
+[00:34:54.860] - Matt Giovanisci
+A thermometer? Maybe. A heater? Sure. It's like, there are things you could do there, but they may not get as many clicks as something where I'm teaching people how to troubleshoot their hot tub, where they're trying to solve a problem. In this case, they're just learning some information. So there is reasons why some of these are low, but it's absolutely worth me going in and saying, well, this one's at  0% and it's about a leaky hot tub. I'm sure there's epoxy or something I can add in there to help stop a hot tub leak. I may need to go in there and add some affiliate links because my gut says that there's probably zero affiliate links on this page. Or they could just not be tracked correctly, and that's another issue. But I'm pretty sure there's probably no affiliate links on this page. But it gets 920 people in the last 30 days. So it's like not insignificant amount of people. You know what I mean? So all of those little things could end up becoming valuable. And the reason, and if anyone's watching and is like, what's this 14,000 number? What I did here was...
+
+[00:36:03.410] - Matt Giovanisci
+So you can create in Google Analytics your own metrics, or sorry, not Google Analytics, Google Data Studio based on analytics. So I could say, for example, if I get and if you go back here, if I got, if we look at, I'll just do the math, top events, and let's say we only have interactions. So 620 actions happened, 620 affiliate links were clicked in a seven-day period. On average, I could go look at that, let those last seven days in all my analytics add all those numbers up and go, well, hey, on average, I make about 10 cents per click. Yeah.
+
+[00:36:51.080] - Liz Stapleton
+How much did you earn in Amazon divided by- Yeah.
+
+[00:36:55.810] - Matt Giovanisci
+Super simple, right? You can put that in a spreadsheet if you wanted to and just add it manually. But I can do it here and say, oh, we'll just create a new metric where it's total events divided by 0.010 or 0, whatever, 10 cents. So that way I can go, oh, when it adds up, it becomes this amount for the last 30 days.
+
+[00:37:19.210] - Liz Stapleton
+And it says estimated.
+
+[00:37:21.070] - Matt Giovanisci
+Yeah, it's estimated. And that's going to change depending on the week, too. Some weeks are going to have average numbers that are higher. So probably only works when you expand it out over the year as opposed to a month or a week.
+
+[00:37:37.170] - Liz Stapleton
+Yeah. And it's different with.
+
+[00:37:38.730] - Matt Giovanisci
+The seasons, too, right? Yeah. It's totally different with the seasons. Yeah. I might get 10 % a click in the summer and five % click in the winter because of the pool season.
+
+[00:37:47.870] - Liz Stapleton
+And someone in a different niche now is Prime shopping time. They're going to get.
+
+[00:37:50.770] - Matt Giovanisci
+A lot more than they- Exactly. Yeah. So it's estimated. It's not showing you the exact number. But I mean, all of this stuff really is like to get some - It's.
+
+[00:38:02.900] - Liz Stapleton
+Figuring out the answers to the question do you want answered? You have to come up with that question first.
+
+[00:38:07.950] - Matt Giovanisci
+And I would say in this particular realm, don't be so concerned about accuracy because it's not.
+
+[00:38:17.150] - Liz Stapleton
+It's going to be perfect. Yeah, because there's all that privacy stuff. But if it gives you a better idea of what direction to take.
+
+[00:38:23.350] - Matt Giovanisci
+It'll.
+
+[00:38:23.980] - Liz Stapleton
+Help.
+
+[00:38:25.180] - Matt Giovanisci
+You. Yeah. And it's really like, data is only going to tell you so much much and you can really get sucked down a rabbit hole with living and breathing by it. But at the same time, intuition and instinct also plays a major part of that. And it's like, I can can go and I sit here and go, well, this page doesn't get a lot of affiliate link clicks because I don't know, the the product wrong. And it's like, well, you have to know which product to pick to increase that. And you can keep testing it. But at the end of the day, day, more valuable is just writing better content that sells affiliate links and that works for your audience. And maybe that alone improves your overall affiliate link clicked and not just where it's placed on the page. Maybe you need better text. Maybe you need a breakout box. Maybe you need to just be more transparent with your phrasing. I don't know. There's so many variables to test. But again, I'm not a super tester. I'm not going to go, well, I believe that being more transparent is going to work better and then measure that.
+
+[00:39:38.590] - Matt Giovanisci
+I'm like, I just know that's going to work. So it's like, I don't need to test that. I'm just going to go and do do that.
+
+[00:39:44.160] - Liz Stapleton
+Yeah.
+
+[00:39:44.920] - Matt Giovanisci
+Yeah. Then build that into my system. So I do that for the rest of my life. Yeah.
+
+[00:39:49.810] - Liz Stapleton
+Hopefully you know your audience.
+
+[00:39:52.070] - Matt Giovanisci
+Well.
+
+[00:39:52.510] - Liz Stapleton
+Enough that you'll be able to figure things out of what's going to work best for you.
+
+[00:39:57.010] - Matt Giovanisci
+Yeah.
+
+[00:39:57.990] - Liz Stapleton
+All right. So I want to be respectful of your your time. Is anything else you think would be helpful helpful know or advice you would give?
+
+[00:40:05.050] - Matt Giovanisci
+Like when it comes to affiliate marketing?
+
+[00:40:07.750] - Liz Stapleton
+And Google Analytics, either or both.
+
+[00:40:09.970] - Matt Giovanisci
+Yeah. I mean, like I said, Google Analytics is really not going to tell you the whole story, but it will shed some light and probably give you a little small wins here and there. But I mean, for me, affiliate marketing has really just always been... It's so funny because it has a bad rap right? Right?
+
+[00:40:29.900] - Liz Stapleton
+Does it? I didn't think so.
+
+[00:40:32.060] - Matt Giovanisci
+You didn't think so? All right. So maybe because I'm I'm now I'm doing Lasso and I'm interacting with affiliate marketers. I was reading this post yesterday about the best affiliate marketing courses out there. And it's like, there's a lot of bad stuff. And there's a lot of really... Yeah, because it can be very like, why does the company want you to promote their own thing? You only really make money if you recruit other people, sounds like. Exactly. So it it I think affiliate marketing works itself into that because so many people do it so bad, right? So it gives everyone else a bad name. But all affiliate marketing is at its core is like you're just running a retail store. You don't make all those products in your retail store, but it's your job as a retail store to sell those products effectively, right?
+
+[00:41:28.780] - Matt Giovanisci
+And you're not going to make all of the money off that because you have to buy it. And you're going to make your retail version. You're going to make your commission, right? And that is what affiliate marketing is. It's like, yeah, I'm not selling Poolshark. I'm not making the Poolshark and then running an e-commerce store and selling it. No, I am just promoting a product that I like that is in my shop. So the way that I think about affiliate marketing in general is that I am running an e-commerce store of digital and physical products, right? And that retail store, like for MoneyLab, for example, which is all digital products, I don't really sell physical physical or I don't really promote physical products unless it's a book recommendation or something. I go, well, if I had a digital store of software products, what would I want to carry as a hobbyist? So that's what's in my store, right? And it makes- makes- It's called your.
+
+[00:42:28.450] - Liz Stapleton
+Resources Huh? It's called your.
+
+[00:42:30.430] - Matt Giovanisci
+Resources page. Exactly. But those things are going to be promoted throughout where it makes sense, right? So if I have a piece of of content, think of each piece of content as if you're interacting with a customer. They came into your store with a question, and you're like, and this makes sense to me because I worked in a pool store since I was 13. And so it's so cut and dry there because we sell a bunch of pool products and people are coming in going like, like, pool is green. What do I do? And I'm like, like, me teach you how to solve your problem and also grab chemicals off the the shelf. Going to add this and you're going to add that. And I give them this remedy and then they go home and they execute that issue. And so if you work at a a Home store, it's the same thing. It's a hobby store where I go, guy comes in, he wants to brew a specific beer. So I'm like, oh, you need this ingredient. You need that. You need this. Here you go. Here's your bucket. Here's the one I like.
+
+[00:43:24.790] - Matt Giovanisci
+This is the one we stock because we like this product. Boom. Think of each blog blog post that interaction. So you walk people through and then also recommend things that they're going to need in order to execute that thing that they came into your store for. So if you think of affiliate marketing as an inventory of products that never go out of stock, then it can be pretty effective. And then also, why would you carry something in your store that doesn't sell or that everyone everyone hates? Stop pitching that product because it's just going to make you your store. I'm not going to shop there. You guys an idiot. He just keeps telling me this thing that doesn't work. It's a snake oil. And that's why I think affiliate marketing gets a bad rap because it's all about... It's not personal at that point. It's like, oh, I'm just going to build a site. A bunch of people are going to flood in. They're just going to buy whatever affiliate link I throw on there. I don't really care.
+
+[00:44:22.490] - Liz Stapleton
+What they click as long as they click and buy it and I get commission.
+
+[00:44:25.590] - Matt Giovanisci
+Exactly. Yeah. So then you're not going to build trust. Right. And then those people are never going to come back to your site. They're never going to click another affiliate link again. And my goal is like, I don't want you to just click one affiliate link and then leave. You should come back and go like, wow, everything this guy recommends, I'm on board. This is great. Great. Or and person really knows what they're talking about, and it's really all about trust. And And so, if you don't have a piece of software or a plugin like Lasso, where you can literally manage affiliate links within WordPress and know where they all are in your store, you could use something like a spreadsheet, where this is what I did before Lasso, which is here is my inventory of affiliate links. These are the products that I like. This is how much money they cost. This is a picture of them. And then if something goes out of stock on Amazon, literally, I'm going to replace it with something else that I also would recommend. So it's like, oh, when that product goes out of stock, I'm going to replace it with this.
+
+[00:45:21.970] - Matt Giovanisci
+If something like ConvertKit that I recommend for email marketing on MoneyLab goes at a business, I better have a backup. Yeah. Yeah.
+
+[00:45:30.490] - Liz Stapleton
+No. And I love Lasso. It's a paid plugin. And I don't care about what I recommend, right? Because I've had stuff as ever. But it's amazing. It pulled in all my pretty links and it pulled in all this other stuff. And it's like, hey, you don't have any affiliate links on this page. I'm going through optimizing my pages.
+
+[00:45:49.710] - Matt Giovanisci
+Yeah. And I appreciate that, too, because I know people look at it as a a plugin, I try so hard not to sell it as a plugin because it's like, plugins are are cheap most of them are free. And it's like, well.
+
+[00:46:04.320] - Liz Stapleton
+We're- for affiliate marketing because you can see what pages are monetized well in terms of what has affiliate links. Because if you were looking at one, you're like, I guarantee that probably doesn't have any links on it. Right. And then you can go into Google Analytics and see what's getting clicked on on what page is. And you could marry that with that. Okay, well, how much revenue did I bring in from that?
+
+[00:46:24.580] - Matt Giovanisci
+Exactly. And the goal in the long run for for was to take all this stuff I showed in in and bring it under one roof with Lasso because Google Analytics is tough. It's tough and not everything gets clicked and tracked properly because of privacy issues. But But you have everything under the same umbrella like with Lasso, we know Lasso knows what links are getting clicked. They know whether it's a display box or an Intex link or anything else we come out with in the future.
+
+[00:46:56.060] - Liz Stapleton
+Future. Guys, weren't able to... I wasn't even like, oh, we're going to talk about about Lasso, he brought, oh, man, I want this plugin.
+
+[00:47:03.680] - Matt Giovanisci
+Yeah. Yeah. I mean, that's I did all this stuff. And I've built this thing four years ago, and I wasn't for sale at all. It was just like my own personal thing.
+
+[00:47:15.750] - Liz Stapleton
+It was like the first version of Ernest, too.
+
+[00:47:17.750] - Matt Giovanisci
+Which then you you became- Right, became. And this was the thing that it made me take affiliate marketing very seriously because it is, like I said, like earlier, I do treat it like a store. I do want my website to last forever. I want to have that since 1939. It's like a website. It's like I do want... Swimming is something I've had for 10 years, and it has never once... I mean, I shouldn't say never once. It has one time dipped in traffic because of 2008 and me not doing things correctly. But ever since 2008, for the last last 10 years, it has consistently made more money and grew in traffic. We're not not a lot of content. We're not promoting on any social media. Our site is very trustworthy. And that's my goal is I feel like trustworthy, like running an online store. It's not really a store, but I treat it as if I ran a pool store in my local town and everyone's coming in asking me me questions, it's like, here's your answer. And then also it's exactly what I did in the pool store, just in digital format. So it works.
+
+[00:48:38.520] - Matt Giovanisci
+And then little optimization pieces because you do run a retail store. So it is interesting to find out where are people walking in the store? Are they they walking- And you go, well, I'm going to move that up here. Here. I've seen.
+
+[00:48:52.090] - Liz Stapleton
+In in the past stores. There's a lot of strategy in store layout as well.
+
+[00:48:56.680] - Matt Giovanisci
+I mean, that's what I used to do. Yeah, I mean, that's for sure.
+
+[00:48:59.430] - Liz Stapleton
+I know I did all all the work in this Yeah, absolutely. All right. That was awesome. Thank you so much. And if anyone has questions or wants to check out moneylab.Co, they absolutely should and you're on Twitter every now and and I think. So all those links down there are going to be below with the link to your site and some notes on this video. And hopefully, you guys found helpful. So thank you again.
+
+[00:49:23.220] - Matt Giovanisci
+Appreciate it. Thank you.
+
+

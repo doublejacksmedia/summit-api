@@ -1,0 +1,272 @@
+Title: SEO To Know: No-Nonsense Tactics To Increase Search Engine Traffic
+Speaker: Niki Robinson
+Website: https://postsbyghost.com/
+Level: Intermediate
+Category: SEO
+Length: 44:09
+Year: 2020
+Lesson Link: https://doublejacksmedia.thrivecart.com/l/blogger-breakthrough-summit-membership/seo-to-know-no-nonsense-tactics-to-increase-search-engine-traffic-niki-robinson/
+
+Transcript:
+[00:00:00.000] - Liz Stapleton, Host
+All right, guys. We're here with Nikki from Post by Ghost, which is a super cute name, by the way. Nikki, welcome and thank you so much.
+
+[00:00:07.560] - Nikki, Posts by Ghost
+Thank you.
+
+[00:00:08.460] - Liz Stapleton, Host
+Yeah. So we're going to be diving into SEO because it's such an expansive... We have multiple sessions on it, but there's so much to learn and to know that. And I'm really excited for your session because we're going to talk about Google Search Console, which I don't know much about. But can you tell us a little bit about your background as well as what we're going to cover today?
+
+[00:00:29.440] - Nikki, Posts by Ghost
+Yeah. So basically I started out probably, I don't know, 15 or more years ago doing freelance writing, and then I grew into doing writing for businesses and bloggers and stuff like that. And so then I naturally progressed into SEO because I really wanted to show businesses and bloggers how they can get better found online. I've been working in SEO for, oh, Jeez, I don't even know, six, eight years probably. We mainly work with... We work with a lot of bloggers, but we also work with a lot of businesses. I speak at conferences on this stuff, and I really like talking about it, and I can talk about it forever. Luckily, there's a time limit on this. That should be helpful.
+
+[00:01:14.420] - Liz Stapleton, Host
+Yeah. We're going to talk about really the practical, tactical aspects, and we're going to talk about how to just use your old content to help you get further with SEO, and what to do when you're creating new content and digging into Search Console to help you, right?
+
+[00:01:30.660] - Nikki, Posts by Ghost
+Yeah, absolutely. I just want to talk about some really practical tips, especially for bloggers. There's some tools that you can use that a lot of bloggers don't even know about or just don't really leverage very well. I'm hoping to give you some really nice, practical things you can do right now to take away and go work on and add to your blog.
+
+[00:01:50.220] - Liz Stapleton, Host
+Yes. I'm excited for this because I'm always looking to expand my knowledge on SEO. Let's go ahead and dive in. I'm going to lead the way, and I'll pop in with questions and stuff.
+
+[00:02:03.160] - Nikki, Posts by Ghost
+Okay, perfect. Yeah. I think the big thing that I want to talk about first is just answering searcher intent. I think people think about keywords in the sense that they think, Oh, I need to do this keyword research. I need to find this perfect keyword, and then it's going to have this magical set of numbers assigned to it. A lot of people are searching for it, and I know I can rank for it. I'm going to cram it in to my content in a way that maybe isn't working. Now, it doesn't mean that you don't want keywords that you know people are searching for a lot, and you know your market is searching for a lot, know your readers, right? But I guess what I'm saying is, when it comes to search or intent, you need to sit down and think about, Okay, how are my readers searching for this? And how can I answer their question with a post? I like to think about keywords. When you think about a focus keyword, I like to think about that as the topic of your post. Okay, so what am I writing about? That's your keyword.
+
+[00:03:07.160] - Nikki, Posts by Ghost
+People think it's this magical thing that they're going to come up with this perfect thing and just stick it in a bunch of places and that's just going to magically make them rank. But it's more than that. It's really about figuring out, again, what your readers want and then answering their questions. A lot of the time I go, when you get emails from people, and I say this to businesses too, it's like when you're out in the field doing customer service, but same goes for bloggers, right? When you get emails from people, when you have people responding your mailing list, you have people commenting on stuff, what are they asking about? What do they want to know from you? That's the stuff that you want to write about. And that's going to lend itself naturally to what keywords are going to be important to your blog. I just want to say a little bit about that because I just feel like there's a lot of shoehorning that goes on. It's just like I need to.
+
+[00:03:57.700] - Liz Stapleton, Host
+Try to get the keyword in this many times, and some of that's... Like, Yoast says you need it in there more or something because you're using a plugin, but you can use related keywords, and that can almost be better. It's called LSI, which I forget what it stands for. But am I totally off base here? Am I using the right terminology?
+
+[00:04:17.190] - Nikki, Posts by Ghost
+No, that's fine. I mean, LSI is fine. I don't like using LSI just because the term just because it's confusing.
+
+[00:04:23.610] - Liz Stapleton, Host
+But I mean- words and phrases that relate to the topic you're talking on. Exactly.
+
+[00:04:28.630] - Nikki, Posts by Ghost
+Exactly, yeah. So I mean, related keywords that support the keyword that you're writing about. So if it's how to make macaroni and cheese, you're obviously going to have various things that naturally fit into that, right? So it's going to be the type of noodle and the type of cheese and the different things. And it's not something that's way out here that's different than you have to also find. It's those natural words that also flow right into what you're already talking about. And I think what I tell people the most is like, get rid of those garbage words I say. The garbage words are when you're saying like it, or that, or whatever, use nouns, adjectives and verb, really specific stuff, and that's what's filling in your content more and making it much more robust. You're not just saying, Then you stir it. Well, what are you stirring? That's a really great way to just naturally add a lot of those, we call them semantic keywords most of the time, those related keywords in a natural way without trying to make some magic happen that is impractical.
+
+[00:05:33.560] - Liz Stapleton, Host
+Yeah. It's understanding how to use the keywords throughout your content to make it the most bang for your buck, if you will, without being obnoxious.
+
+[00:05:45.540] - Nikki, Posts by Ghost
+Yeah. I want to say a little bit, too, about a lot of bloggers are in WordPress, and I really like WordPress SEO. We do specialize in WordPress SEO, but that doesn't mean that you can't do SEO on other platforms. It's a lot more difficult to do SEO on other platforms. I just want to throw that out there. If you've been on Squarespace for a while or something and maybe you don't get a lot of traffic and you're thinking about making the move, Squarespace in particular, I've had a lot of problems with with SEO. The way that the site is structured, like a lot of their templates don't have the proper markup in place, and you just can't get as far as you can with WordPress, for example. If you are using WordPress, I do recommend using an SEO plugin. Yoast is usually pretty much the most common. I like Yoast. I think what I want to say about that, though, is that a lot of people think like, Oh, I just put in a word in that focus keyword field, and then I get that green light, and then I go on my day and I post this optimize.
+
+[00:06:50.910] - Nikki, Posts by Ghost
+But what I encourage people to do is the little indicators that Yoast has, it'll have the green, what you did right, what you did okay, and then what you didn't do right. Those are an okay set of guidelines. They're not terrible. I don't think they're all perfect or great. But the thing is that it's not a bad set of guidelines in terms of where to put things and how to optimize your posts. What I encourage people to do is try to get that green light on as many of those items as possible, if it naturally makes sense. If it's something where you just feel like you're like, Okay, I'm really going overboard on this. Then in that case, it's like, Okay, then dial it back. There's also some things about Yoast where... I know they updated it recently, but you only have to have something like 300 or 500 words in the post for them to say, Yeah, your post is long enough. Most top content that ranks right now is 1,800, 2,200 words. If you have that many words to say about something, then I say cover the topic as extensively as possible. Go into detail about that one specific topic, get specific, talk about one thing, elaborate on it, but don't just add words to add words, right?
+
+[00:08:12.630] - Nikki, Posts by Ghost
+We don't want to just like, Oh, this doesn't have enough words. I'm just going to cram more words in there so that there's more words. That's my went off on a thing here. I know, but.
+
+[00:08:25.090] - Liz Stapleton, Host
+I think it's important because people will so stress if they don't get the light green, right? I can't get a green and just move on. If your post is solid, you feel like you've covered it extensively. It's a machine.
+
+[00:08:41.990] - Nikki, Posts by Ghost
+Right. Exactly. That's a reason that I don't like the readability. There's a readability tab in Yoast now, and that just really sucks because it's like-.
+
+[00:08:52.250] - Liz Stapleton, Host
+Maybe your audience are people with advanced degrees and so you want it to be more complicated or something.
+
+[00:08:58.660] - Nikki, Posts by Ghost
+Exactly. That's the thing. Exactly. It's saying, Oh, you need it to be this reading level, and you need it to include these kinds of words, and be this way, and whatever. That is the opposite of what marketing is. When you run a blog, you're doing marketing, right? Because you are reaching a specific audience with your stuff. You know them better than Yoast is going to. It's like you said, yeah, it's a machine, right? It's like, no, it has no idea what it's doing. I think one more thing too, is that focused keyword field in Yoast, some people will just put a word in there and think that's doing something in itself, but just putting a word in there doesn't.
+
+[00:09:41.050] - Liz Stapleton, Host
+Do anything. It doesn't tell Google, Oh, this is my keyword. Exactly. It's a tool to help you see how well you've optimized your post in terms of on-site SEO or on-page SEO for that particular keyword.
+
+[00:09:53.450] - Nikki, Posts by Ghost
+Right. Exactly. Yep, exactly. Take it as a set of guidelines, not the be all and all, but it's a helpful tool. There's other ones out there too if Yoast isn't working well. I do like Rank Math is a good one that I've gotten more into lately. All-in-one SEO is okay. I don't like that one as much. You don't have as much control over certain things as you do in Yoast. So and Rank Math. So that's what I would recommend for that. But definitely I say use an SEO plugin. It's helpful. It's nice to have that just an extra practical tool in your toolbox to help you optimize your content.
+
+[00:10:29.220] - Liz Stapleton, Host
+Okay. Yeah, I like that. So let's talk about, especially to people who've been blogging for a while and they didn't know what they were doing, how can they make their site more SEO-friendly, their old content, and really start getting it ranking if they've only been getting traffic from Pinterest or something?
+
+[00:10:45.720] - Nikki, Posts by Ghost
+Right. Yeah. That's a big thing I hear is a lot of bloggers have all their eggs in their Pinterest basket. The thing is, if you've been blogging a long time, or even not that long, but let's say you're just not getting a lot of search traffic, if you get to the point where you have a lot of content, what we've been finding to be really successful lately is taking that old content and saying, Okay, what is working? Let's put that in a bucket and say, This stuff is doing well. I know I'm ranking well for this stuff. I'm getting traffic in for this stuff. I know my audience likes this stuff. They like it on social and search. I'm seeing traffic. It's cool. We got that bucket of stuff that works. But then let's take a look at this other bucket. The other bucket is stuff that's not working. Now, if you have a ton of content, you might need somebody to help you get this parsed out because sometimes it can be a little bit hard to analyze. But SEO is a long game, and I do want to just point that out. Even Google themselves says that any concentrated SEO effort can take, I think they say, nine to twelve months, and that's coming from Google.
+
+[00:11:58.060] - Nikki, Posts by Ghost
+What I'm saying is any progress you're making is good. If it takes you a really long time to do all this, that's fine. It's just moving in the right direction is what's important. A lot of bloggers, what I hear is you've been blogging, especially if people have been blogging a long time, they come and they say, Okay, I have stuff that was from the very beginning of when I started blogging and it's embarrassing and I don't want it out there at all and I hate it. I'm like, Well, it doesn't have to be out there. A lot of the time in that, we call it low performing content, OPC, basically in that bucket is usually going to be that stuff, but also some things where you're like, Okay, I'm looking at this. I don't think I'm getting anything out of this, but the meat of it's here, but it's just not good. It could be good, but it's just not very good. There's a couple of different options for what to do with that content. First of all, when it comes to the really bottom of the barrel stuff. I'm talking about stuff that usually we put it in the bucket in the very bottom of the bucket if it is content that has gotten 10 or less hits over the last year.
+
+[00:13:11.040] - Nikki, Posts by Ghost
+In itself, if you add up all things that maybe are under 10 sessions or users or however, I mean, we usually put 10 as a benchmark in general because 10 is like, okay, that means no one's coming to it. Whatever benchmark you're using, that's fine. But if you add all that content up, you may realize that, oh, if I add this up, I am getting a lot with everything, but it's all just not getting any individual piece of this is just not getting anything in the door. Excuse me. Basically, that stuff, what we want to do is say, okay, there's pieces of content on here that are getting nothing. For those, I usually don't say delete it only because of the leader's remorse. Sometimes you're like, Oh, I wrote something about that, and now it's gone.
+
+[00:14:01.120] - Liz Stapleton, Host
+I'm.
+
+[00:14:01.520] - Nikki, Posts by Ghost
+Just that. Yeah, exactly. I think everybody's done it where they're like, Oh, crap, what happened to that thing? You'll have it in your trash bucket in WordPress if you're on WordPress, and that's fine. But I still usually just recommend a couple other things instead of just flat out deleting it just for everyone's sake. Basically, if there is a post that, let's say you want to have it on the blog because let's say it's something that is personal to you, and maybe on social media, people like to see it or something, or you just want to still have it on your blog, but it's just not really conducive to search. Maybe it's just a personal story that in some way, it's just not something that... You know people aren't going to land on it for whatever reason, and that doesn't matter to you, but you still want to keep it on your blog. What you can do with that is it's called no indexing. Basically, what that is, is you're just telling Google like, Hey, I know this post is on my site, but I just want you to ignore it. To do that, usually, and this is another reason I have a good SEO plugin, All in One doesn't have a lot of...
+
+[00:15:13.250] - Nikki, Posts by Ghost
+From my experience, I just haven't seen a lot of control with no index, and that's one of the reasons I don't like it. But Yoast and Rank Math have a.
+
+[00:15:19.600] - Liz Stapleton, Host
+Function where- It makes it super easy. Yeah. I don't know about it, but I believe it.
+
+[00:15:24.870] - Nikki, Posts by Ghost
+Yeah. You literally go into the post, there's a little advanced toggle, and it says, Do you want this to be shown in search? And you say, No, and then it's off search. Then once Google goes through and reads, and the next time it looks at your site, it's going to go, Oh, that's no index. Now I'm just not going to put that... Not keep putting that back up. Now, if it's really bad and embarrassing or whatever, and you're just like, This is terrible and I don't want it. Again, I don't recommend deleting it. I usually say, But let's redirect people to something better, right? That's where 301 redirect comes into play. That says to Google, What we're trying to do... Okay, it's telling Google like, Hey, this is somewhere else, which it doesn't have to be a like for like necessarily. What I always say with a redirect is redirect it to something relevant. So if it was a recipe, try to do something like a similar-.
+
+[00:16:26.120] - Liz Stapleton, Host
+Don't redirect it to something completely different because that's going to give some bad signals to Google. It's not a change. It's better that it goes to 404 and Google eventually is like, Okay, that's just not there anymore. Then to have it go to something completely different and this person, no, they're sending the wrong stuff.
+
+[00:16:45.830] - Nikki, Posts by Ghost
+Yeah. That's the thing is like, if all else fails, you can redirect it to your homepage. There's a few plugins out there that'll just redirect all your 404s to homepage, but I don't recommend doing that at all. Mainly the thing about it is broken links themselves aren't necessarily a direct ranking factor, but here's my take on this. It's that both to Google and your users, if you have a bunch of broken links on your site, it decreases your usability. Nobody likes it. If I'm on a website and I click something and it's broken, I'm like, oh. The odds are I'm just going to X out of that and go find something somewhere else. I'm not going to go try to find it on the same site I was trying to find it on, right? Yes. What you want to do is send people to something that is relevant that keeps them on your site because then you're keeping your traffic going and everything. Then another important point, though, about that is it's always good to also know index that post that you redirected. That's a step that I think a lot of people missed. The idea is you're just covering your bases and just saying like, Hey, this is gone.
+
+[00:17:51.820] - Nikki, Posts by Ghost
+You're telling Google it's gone, but then you're also just making sure that everybody goes somewhere else, and then you're just covering all your bases. I think that's really important. Then you also have your stuff that you're like, Okay. I wrote this when I just started out, and I didn't really know what I was doing, but I did this really cool DIY bench that I built, and it was a cool project. The photos are pretty decent, but the way I wrote it is just like, Oh. What you can do is go back and improve that content. That's the thing is, bloggers a lot of the time, are just focused on like, I got to get all this new stuff out. I got to post three times a week, and I got to come up with all these ideas. Really, I mean, quantity is fine if you're creating really great stuff, but that's the thing is quality is just paramount of anything, right? The thing is, if you produce less content, but it's much better. Yes. Yes, that is so much better. The other thing is, instead of just plowing forward and everything, you've got this reservoir of stuff that's just sitting there, right?
+
+[00:19:07.500] - Nikki, Posts by Ghost
+Why not get this stuff cleaned up, optimize it, round it out, write more content, get those adjectives, nouns, and verbs in there. Get it really robust and looking really good and everything. If the pictures aren't good, go ahead and change them out, of course, and whatever. And adding getting your image alt tags, which I could talk about that too, but getting your H2s, your headers in there really nice, getting those different little pieces that Yoast has green with getting all that put together, but also just making the content better, right? The thing is, if you go ahead and do that, we've seen really nice results when you republish that with a new date. You don't need to like, Hey, guys, this is a new post. You don't need to pretend it's a new thing, but republishing it with a new date is another signal that just tells.
+
+[00:20:07.430] - Liz Stapleton, Host
+Yeah, I actually just did that. I went and I updated a review because I was on page two of Google, and I was like, All right, let me see what I can do. And I went in, I adjusted some things, and I added some updates to my results because it was a review, right? And I just republished it. And so we'll see if I see a little more increase.
+
+[00:20:30.670] - Nikki, Posts by Ghost
+Yeah, absolutely. And that's exactly the idea. And the thing is, too, is don't get discouraged if every single thing you update doesn't immediately or even long term perform as well as you'd hope. The idea, though, is that you're making improvements, right? You made that better. That is going to make your traffic better. It might take a while, but it's going to be the better choice for you long term than to just have this thing that's just not as good, sitting, hanging out there, just being crap. I was going to say something else with that too.
+
+[00:21:05.730] - Liz Stapleton, Host
+Sorry.
+
+[00:21:06.670] - Nikki, Posts by Ghost
+Oh, no, it's fine. I can't remember, but that's okay. But yeah, republished with the new date and making that full progress over time. A lot of times, exactly like you just said, where we see the most opportunity is, I know I'm on page two for a really nice keyword. What can I do? It's a relevant keyword. It totally makes sense. That's exactly what this post is about. I'm on the page two. If I made this better, especially if I look at the stuff on page one, it's like, okay, I can do better than that. Then republish it, make it better. Now here's the thing too, is that Google isn't very smart. Google is getting smarter. Google can hear me say this. But basically, the thing is people think Google is really smart. But a lot of people have been nailed with a few of the most recent updates. The November eighth one was really huge. Then this last core update in January, it both knocked a lot of bloggers. It can be bad. The thing is a lot of people are going, Oh, I thought I was doing everything right. Sometimes there's these growing pains.
+
+[00:22:14.570] - Nikki, Posts by Ghost
+Google goes through an update and it takes a while for things to even out, and it's this growing pains thing. It's really important to not get discouraged if you're like, Okay, I just got nailed by this. Yeah, it can be a catastrophe. Do not get wrong. I'm not minimizing that because it can be. But if you know that you're moving in the right direction, long term, you're still going to see year over year, really nice growth. What's important is to not get discouraged and to keep moving forward and work through those growing pains with Google. But also, if you do get nailed, take a really serious evaluation of like, Okay, what does my site look like overall? I like to use the book analogy, right? If you go and... You're going to publish a book, right? Like a physical book. And if there's a bunch of pages that are low quality, they're not in order, they don't make sense, they're not speaking to your audience, you're not just going to be like, Yeah, go to print. You're going to go back and you're going to rewrite that, you're going to take out the stuff that doesn't make sense.
+
+[00:23:17.430] - Nikki, Posts by Ghost
+You're going to rearrange things and get it all really great. And that's the thing is take a really honest look at the state of your blog as a whole. And if you're relying on just a few pieces of content to get people in the door, that lower quality content can be dragging down the overall quality of your site. And so we want to think about this as like, Okay, what am I doing here? What can I be doing? And to continue to see some nice growth and search. So yeah, that's my take on that.
+
+[00:23:51.970] - Liz Stapleton, Host
+Yeah. And I do just want to note, when you're republishing, don't schedule it for the future because it is going to screw you up. So you need to schedule it for a time of 30 pass. Do it from 10 minutes pass or whatever if you need to. But don't go in a publish post and to republish it, do a future date. Don't schedule it because that'll screw stuff up.
+
+[00:24:13.410] - Nikki, Posts by Ghost
+Yes, that's a really excellent point. Yeah, because that'll essentially take your post off of Google. Basically, when you draft your post, which is what you're doing when you do that, you're effectively no indexing it. You're taking your post off the radar and Google is like, There was something here. The thing is, is like, I think it's really important to note that if your top content starts to sink.
+
+[00:24:36.230] - Nikki, Posts by Ghost
+Then.
+
+[00:24:37.400] - Nikki, Posts by Ghost
+There's reason to go ahead and improve it. But I like to go with, if it ain't broke, don't fix it. If you have content that is ranking in a really high position for a nice keyword and you're bringing in a lot of traffic until that starts to drop, it might not be your best post. But you know what? If you change it, and this is where Google gets really finicky. I mean, there's no guarantee that you change it, and then Google is like, Oh, yeah, I love this now. They might be like, Oh, I don't like this anymore. Even if you added something relevant or better. I know that's frustrating, a little bit counterint, but when you're relying on income and everything from your performing stuff, it's like, don't mess with it. But if you're starting to see a general decline from all your traffic and if your top stuff starts to dip, then yeah, go for it. That is the time to go ahead and make that move because that's what we've done with certain sites who come in and they've just said, year over year, I just keep going down. It's like, okay, you know what?
+
+[00:25:37.780] - Nikki, Posts by Ghost
+Now it's time to let's evaluate your top 10 posts. Especially for bloggers who've been blogging a really long time. You may have been the king or the queen of that topic six years ago, and now it's like everybody else is doing it too. It's like, oh, crap. It's really important to recognize all of those things. Yeah, for sure. Okay.
+
+[00:26:02.100] - Liz Stapleton, Host
+All right. So let's go ahead and see if we can talk a little bit about Google Search Console, which everyone I feel like is aware of Google Analytics.
+
+[00:26:11.240] - Liz Stapleton, Host
+But.
+
+[00:26:11.990] - Liz Stapleton, Host
+Fewer people are aware of Google Search Console and the data it can provide you in terms of figuring out what to write and what's doing well. So would you mind diving into that, please?
+
+[00:26:24.490] - Nikki, Posts by Ghost
+Yeah, absolutely. So just quickly before I share my screen here, I do want to just say that what's really cool about Google Search Console is it really gives you the opportunity to proactively monitor what's going on with your search traffic. That's just something that you can set up different goals and different things in Google Analytics, and that is a very handy tool. But Google Search Console is really what's going to give you that forefront of information to be like, Okay, how am I doing? What can I do better? Let me just share my screen, see if this works.
+
+[00:26:59.800] - Liz Stapleton, Host
+Yes.
+
+[00:27:00.070] - Nikki, Posts by Ghost
+Okay, awesome. Essentially, when you go to, and this is just a tester blog that we've been running out here, do not pay attention to anything specific with this in terms of what's on here, but this is one of our tester ones. But anyway, basically you have a few reports here. You have your performance report and your coverage report. Now, one thing that I want to point out first and foremost is that if you have a security problem or a manual action on your account, both of those, especially the manual action, indicates that Google is very upset with something about how you've structured your content. With bloggers, a lot of the time, the most common thing that we see is unnatural linking structure, which can be caused by if you did old link parties and stuff like that back in the day and trading a lot of links. What happens then is maybe you've moved on and your blog is of higher quality, but you've interchanged links with people who haven't kept up their content and stuff like that. Then you've got all these links that look like they were in trade. What also happens with that is if you don't have no follows on links that- Are paid?
+
+[00:28:14.260] - Nikki, Posts by Ghost
+Yeah, are paid, right. That can look like you're trying to be a shyster, so we want to not do that.
+
+[00:28:20.040] - Liz Stapleton, Host
+Keep everything above board.
+
+[00:28:21.990] - Nikki, Posts by Ghost
+Exactly.
+
+[00:28:22.630] - Liz Stapleton, Host
+Make sure you attend sessions is on the legal side of blogging.
+
+[00:28:26.110] - Nikki, Posts by Ghost
+Yes, seriously. Listen to them. I do not take legal advice from me. If you do have one of those things, you're going to get a big red box at the very top when you come to your main overview page, and that's something to pay attention to. Those things live over, if you look to the left here, you've got the security and manual actions, and if you had something here, you have no issues detected. But if you did, it would be on the overview page loud and clear, and that is something to address immediately because it means you are being actively penalized by Google. All right, so a couple of cool things. Well, first of all, actually, let me just say one other thing here, too. What's really important, what I think is a very important tool that is really awesome with Search Console is that you can put your site map right in here and basically submit your site map, and then you can make sure that Google is reading your site map. So your site map is going to have basically all of your... It's going to have all your content. It's going to have your pages and your posts and stuff like that.
+
+[00:29:29.120] - Nikki, Posts by Ghost
+But this is a nice way to just make sure it's working. I mean, it should read it pretty much every day. This is the last read couple of days ago. That's what we want. We can check and it says, Oh, it's success. There's no errors. If there's any errors with anything, it'll tell you and that's really handy. Okay, so another really cool feature that I really think is great is this URL inspection tool. Now, the URL inspection tool is just this bar right up at the top here. What you can do with this is a few things. First of all, it allows you to look and see if something is on Google and if it's got any problems. I'm just going to put a post in here, and it's going to take a look at what's going on with Google. It's going to look it up, and it's going to tell me what's going on. I can just take a couple of seconds here. Okay, so then it shows up and it says, URL is on Google. Hey, awesome. I can click this open and it'll say, Submitted an index. That's because it's in my site map, and I can see that it just looked at it on the 19th.
+
+[00:30:31.170] - Nikki, Posts by Ghost
+That's awesome. I can see down here, it'll tell me if there's anything that has errors. Now, a lot of the time where you will have errors is stuff like if you are using a recipe plugin and you have, it's called schema markup is what recipe plugins do. This will tell you if there are errors with how your content is structured in your plugin and that's stuff that you would want to go fix right away. But here's another reason that this is really cool. If you go on here, it'll also tell you, it'll say, URL is not on Google, and that's something to check as well. Let's say you want to make sure something actually got no index, right? This will tell you it's not on there, it'll tell you why and whatever, which is really helpful, and you can be like, Awesome, that's what I want. There's also a button over here on the right that says to test your live URL. This ran a few days ago. If I want to test the live URL to make sure that it's still up, maybe I changed something or maybe something was going weird with my blog, then I can test the live URL.
+
+[00:31:36.080] - Nikki, Posts by Ghost
+I'm not going to do that because it takes a couple of minutes and it's annoying. But then you can just make sure you get up to date information. But here is the other super cool thing about this. Let's say you go back to this post and you're like, Okay, I am improving this. It's awesome now. I want Google to know that I have purposely improved this. It's optimized. I'm stoked. I don't want to wait. Google usually gets around it. Especially if you have a site map submitted and you update your content regularly, Google is usually looking through your content pretty frequently. But let's say I'm like, No, I want to make sure that this is on Google's radar because I just updated it. This right here, page change request indexing, and I didn't update this, so I'm not going to click it, but you literally can just click this and it's going to get it up on Google's radar and get it in queue so that Google is going to look at it just a little bit more quickly, which gives you a little bit more of a head start in terms of getting that back on Google's radar and all of that.
+
+[00:32:34.330] - Nikki, Posts by Ghost
+One thing I will say is do not abuse this tool. It's something where you probably only want to submit. I usually say, a handful of URLs a day. Now, if you're really improving your content and you're making it awesome, you probably aren't going to do five posts in a day. That's probably the upload.
+
+[00:32:51.920] - Liz Stapleton, Host
+Yeah, it takes time.
+
+[00:32:53.220] - Nikki, Posts by Ghost
+This shouldn't be a problem. But if you start submitting a lot of stuff in here, Google starts to get crappy and think you're trying to game the system or something, so pro tip on that. Then cool other thing, and this is something that's really great about Search Console, and that is that you just get a lot more in-depth information than you get in Google Analytics because it's specifically focused on Search, and you get a lot more keyword data, which you don't really get in Analytics ever since Search has been privatized, which was a sad day indeed, when that happened whenever that was 15 years ago. Anyway, so sad for us to do that. Anyway, so your performance report, if you open this report, there's a couple of cool things you can do. My favorite thing to do on here is, first of all, you can toggle these on and off.
+
+[00:33:50.320] - Nikki, Posts by Ghost
+This starts to look really crazy. Usually I try to maybe just look at one thing at a time because otherwise it's crazy. But cool thing you can do is basically there's a compare feature. If I want to see compare the last seven days to the previous period, I want to see how I'm doing this week compared to last week, but I can even look up. What I really like doing, especially is, and I'm not sure how much data I have in this one, so I'm not going to do it, but I like doing stuff like compare last three months year over year. This is really great for bloggers that have a lot of seasonal content. Let's say I want to look at October through December this year compared to last year or 2019 compared to 2018 or whatever. Because you don't want to compare that block to the previous three months because it's not going to give you.
+
+[00:34:34.220] - Liz Stapleton, Host
+Right- Totally. Yeah, exactly. Your personal finance blog for January traffic is always up.
+
+[00:34:39.150] - Nikki, Posts by Ghost
+Exactly.
+
+[00:34:39.970] - Liz Stapleton, Host
+Comparing January to December is not going to really help you figure out if you're improving year over year. In general, I think with SEO is usually the smarter play.
+
+[00:34:49.720] - Nikki, Posts by Ghost
+Oh, absolutely. Exactly. That's super true for a lot of things, especially anything, right? A DIY project might be more conducive to spring. Recipes show up more around Thanksgiving and Christmas, that stuff. I'm going to just compare, and I can click Apply, and then it's going to give me some nice little data. Now, what's really cool is it gives me data across these different metrics. I can see how many times it's been clicked on, so I have a little increase here. I can see the total impressions. Now, this is the thing. Impressions is data that you just can't get anywhere else. This is why Google Search Console is so cool, because impressions basically tells you how many times- Your.
+
+[00:35:32.270] - Liz Stapleton, Host
+Stuff showed up in search that people saw it, but they didn't necessarily click on it.
+
+[00:35:36.370] - Nikki, Posts by Ghost
+Exactly. That's such a cool data point because you can see like, okay, I showed... A lot of what we'll see sometimes... Well, sometimes what we'll see is like, I'm showing up more in search, but people aren't clicking. Then it's like, Okay, well, how can I optimize what they're seeing so that they click? Because it's showing up. They're like, What the heck? That's where your click-through rate will come into play as well. Then you've got average position, and that's just the average position of all your keywords. Don't be alarmed if this is a really, excuse me, high number just because it's all the keywords. It's not going to be like two or something. It's probably going to be something like this. Now, one thing that's also handy is with the new Search Console, which came out, I don't know, probably a year and a half ago or so, it's got a lot of features that help you navigate it. There's a lot of these little question marks where you can click these Learn More buttons. That's really handy if you're like, Okay, I don't remember what this is, and I don't know why it's important to me.
+
+[00:36:37.440] - Nikki, Posts by Ghost
+Lots of links to help issues and stuff like that. But here's where this can be really helpful. It doesn't actually matter which ones of these you toggle, but if you go down here... Well, actually, it does when you sort this report. It doesn't matter if you drop it into a Excel sheet, it doesn't matter. But anyway, for our purposes, we're looking at this. What's cool is you have a few different things here. For me, the main things are the queries and the pages. What you can do is, especially on this compare feature, click to sort by the difference.
+
+[00:37:10.890] - Nikki, Posts by Ghost
+If you're searching, especially year over year or something, these numbers are going to be much more dramatic than you're seeing right here. But if I see, okay, let's say these numbers are much bigger or something, but if I see my vegan pizza restaurant, that dropped 2,000 clicks and maybe 10,000 impressions or something like that. I can do the same thing on this and sort.
+
+[00:37:33.200] - Liz Stapleton, Host
+The.
+
+[00:37:33.830] - Nikki, Posts by Ghost
+Same way. Basically, what I want to do then is... Here, actually, the impressions have a little bit bigger numbers, so you can see how it's more dramatic. But that's the thing is this is going to tell you what top content is dropping, which is big and over time and stuff like that, so what you should maybe go ahead and improve. Then this is going to give you, Okay, which post should I work on and which ones... And then also what stuff's improving? And then it's like, Oh, and that might inspire you to do other... Don't do two posts that are too similar because that's keyword cannibalization. You don't want to do that. But this can also inspire you to be like, Oh, my readers actually like finding this type of stuff. Maybe I should have more recipes with meat substitutes or whatever. The same report goes for pages. Again, you can just sort by this difference. You can see, okay, these are my posts that are dropping in impressions or clicks or click-through rate, any of those things. Then you can evaluate why that's happening, where you're losing ground, what needs to happen, and all of that.
+
+[00:38:42.630] - Nikki, Posts by Ghost
+You can click right from here to inspect the URL, which it does that thing that we just did up here, which is nice because then you can say, Oh, is there something wrong with it? I can look at it and see like, Okay, what's going on? That's really handy. But that's the biggest thing for me in terms of why... Here, I just want to show you. Oh, I did it. That didn't work. I was going to show you something cool. Oh, well, whatever. But anyway, this URL is on Google. I can see it was submitted an index. That's what we want and what have you. Those are the main things that I think... I mean, there's a lot more you can do with Search Console. There really is, and there's a lot of cool stuff. But those are the main things that I.
+
+[00:39:24.680] - Liz Stapleton, Host
+Really like. Is there a good resource for learning more about how to use Google Search Console that you know of?
+
+[00:39:31.530] - Nikki, Posts by Ghost
+Yeah, that's a great question. Google Search Console, their help now is actually pretty good. They have basically a... If you Google it, there's a set of instructions basically for it. I have a whole unit in a course that I teach on it because for bloggers, there's some things that you can use a little differently and stuff like that. But yeah, the material from Google themselves is not too technical. It's pretty good now that they've revamped this. They really wanted this with the revamps about a year and a half ago or whatever that was. They really wanted it to be more accessible to not just people who are data nerds and me. I would just use their help sessions.
+
+[00:40:24.040] - Liz Stapleton, Host
+Yeah. Okay. No, good to know. That was fantastic. I certainly want to be respectful of your time. So any final words before we tell them a super awesome free thing you have for all the attendees? So any final words about SEO?
+
+[00:40:39.230] - Nikki, Posts by Ghost
+Well, I would say that in general, especially if you've been blogging a long time, getting a site audit is a really good idea because there's a lot of free tools out there that you can use to scan your site, and that's fine. But sometimes they're just going to give you this large dump of stuff, and you're like, What's the most important thing to do? Do I have to do everything on this list? What is this even? That stuff can be terrifying. When you get an audit, a person who will do a good audit like myself will, but we'll give you a plan of attack that's literally a step-by-step. Here's what to do, and here's where to focus your energy first, and here's what you don't need to worry about and that thing. But like I said, especially if you've been blogging a long time, and any good SEO audit, in my opinion, includes a content audit as well, but you can do that separately, and that can help you learn what's just working, what's just not. If you're like, Oh, I don't even know where I stand on SEO, an audit is a really, really good place to start.
+
+[00:41:39.980] - Liz Stapleton, Host
+Okay, yeah. Then you want to tell the attendees about the free thing you have for them, which I mean, who doesn't love free stuff? And this is so helpful. I have so much to dig into my Google search console because I know it was there, but I couldn't tell you the last time I looked at it. I definitely didn't know looking at it. I'm like, I need to get in there. I have a lot of homework to do, and I'm sure many other to you as well. But what do you have for our attendees?
+
+[00:42:09.380] - Nikki, Posts by Ghost
+Yeah. So basically we have our free SEO keyword checklist, and it's going to give you a nice little... Now it's not everything, but it gives you a nice little rundown on how to optimize a post for a specific keyword that's free. Then when you grab that, we're going to send you an offer basically for a discount on our playbook. That's going to give you a lot more information on how to do all this stuff and a lot of the things I've been talking about today, especially when it comes to getting that old content cleaned up, because for bloggers, that is just so huge. We've seen so many good results with doing stuff like that. I really want to make sure that you have those tools in your arsenal to do that because it can really make a huge difference in your search traffic.
+
+[00:42:53.970] - Liz Stapleton, Host
+Yeah. I mean, unlike some other sources of traffic, Google's been around. I feel like it's less volatile in a lot of ways than some other ones. So, I mean, yes, it goes through updates and there's dips and whatnot. But I think it is a more steady and reliable source of traffic than some other platforms out there. So definitely it's a great way to... Everyone uses Google.
+
+[00:43:24.190] - Nikki, Posts by Ghost
+Yeah. And the thing is that Google is always getting smarter, always improving. And the thing is, when you do this and you follow the best practices, it's not tricks, right? It's just practical ways. You're making your site better. You're making it better for your users, and that's why it's better in search. I mean, that's really it. It's a long term, that's what we need to be thinking about.
+
+[00:43:46.070] - Liz Stapleton, Host
+Yeah. So thank you. Thank you so much for sharing your knowledge. Super helpful. Your generosity with your time, I really appreciate it.
+
+[00:43:53.480] - Nikki, Posts by Ghost
+Oh, no, thank you for having me. This has been wonderful. I'm so excited to be part of this.
+
+[00:43:58.630] - Liz Stapleton, Host
+Everyone, go check out that freebie. The link is below. Just check out her site. She's obviously an amazing resource. So thank you again.
+
+
