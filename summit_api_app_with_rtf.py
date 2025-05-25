@@ -99,7 +99,8 @@ def get_summit_session():
 
     # 2. Try matching .txt transcript blocks
     for block in session_blocks:
-        if query in block.lower():
+        keywords = query.lower().split()
+if all(word in block.lower() for word in keywords):
             meta = extract_metadata_from_block(block)
             if meta:
                 print(f"✅ Matched TXT session: {meta['title']}")
