@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, abort, send_from_directory
 import pandas as pd
 import os
+import glob
 
 app = Flask(__name__)
 
@@ -9,25 +10,23 @@ app = Flask(__name__)
 def serve_openapi():
     return send_from_directory(os.getcwd(), "openapi.yaml", mimetype="text/yaml")
 
- # Load the metadata CSV
+# Load the metadata CSV
 metadata = pd.read_csv("Summit Smart Library - Smart Summit Libarary content.csv")
 
-# Load all session .txt files from the sessions/ folder
+# Load and cache all .txt session blocks
 def load_transcript_blocks(folder_path="sessions"):
     blocks = []
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".txt"):
-            full_path = os.path.join(folder_path, filename)
-            try:
-                with open(full_path, "r", encoding="utf-8") as f:
-                    content = f.read().strip()
-                    blocks.append(content)
-            except Exception as e:
-                print(f"⚠️ Error reading {filename}: {e}")
+    for filepath in glob.glob(os.path.join(folder_path, "**/*.txt"), recursive=True):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                blocks.append(content)
+        except Exception as e:
+            print(f"⚠️ Error reading {filepath}: {e}")
     print(f"✅ Loaded {len(blocks)} session blocks from {folder_path}")
     return blocks
 
-# Parse metadata and transcript from a single block
+# Parse metadata and extract from one block
 def extract_metadata_from_block(block):
     lines = block.strip().splitlines()
     meta = {}
@@ -44,9 +43,6 @@ def extract_metadata_from_block(block):
             meta["level"] = line.replace("Level:", "").strip()
         elif line.startswith("Category:"):
             meta["category"] = line.replace("Category:", "").strip()
-        elif line.startswith("Length:"):
-            raw_length = line.replace("Length:", "").strip()
-            meta["length"] = float(raw_length) if raw_length else 0.0
         elif line.startswith("Year:"):
             meta["year"] = line.replace("Year:", "").strip()
         elif line.startswith("Lesson Link:"):
@@ -57,16 +53,17 @@ def extract_metadata_from_block(block):
             break
 
     required = ["title", "speaker", "website", "year", "lesson_link"]
-    if not all(field in meta and meta[field] for field in required):
-        print(f"❌ Skipped session: missing required metadata in block starting with '{lines[0]}'")
+    if not all(meta.get(field) for field in required):
+        print(f"❌ Skipped session: missing metadata in block starting with '{lines[0]}'")
         return None
 
-    meta["summary"] = "\n".join(transcript_lines[:5]).strip()  # Use first 5 lines as preview
+    meta["summary"] = "\n".join(transcript_lines[:5]).strip()
     return meta
 
-# Load and cache session blocks at startup
+# Cache transcript blocks
 session_blocks = load_transcript_blocks()
 print(f"🔎 Loaded {len(session_blocks)} transcript blocks.")
+
 @app.route("/get_summit_session", methods=["POST"])
 def get_summit_session():
     request_api_key = request.headers.get("X-API-Key")
@@ -78,11 +75,10 @@ def get_summit_session():
     query = request.json.get("query", "").lower().strip()
     print(f"🔍 Incoming query: {query}")
 
-    # Try matching against the metadata CSV first
+    # 1. Try matching CSV
     for _, row in metadata.iterrows():
         title = str(row.get("Session Title", "")).lower().strip()
         category = str(row.get("Category", "")).lower().strip()
-
         if query in title or query in category:
             if all([
                 row.get("Session Title"),
@@ -101,7 +97,7 @@ def get_summit_session():
                     "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
                 })
 
-    # Fallback to searching transcript blocks
+    # 2. Try matching .txt transcript blocks
     for block in session_blocks:
         if query in block.lower():
             meta = extract_metadata_from_block(block)
