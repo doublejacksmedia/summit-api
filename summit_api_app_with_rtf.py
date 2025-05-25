@@ -115,13 +115,13 @@ for block in session_blocks:
                 "summary": meta["summary"]
             })
 
-if results:
-    return jsonify(results)
+    if results:
+        return jsonify(results)
 
-print("❌ No matching session found.")
-return jsonify({
-    "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
-    })
+    print("❌ No matching session found.")
+    return jsonify({
+        "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
+        })
 
 @app.route("/ping")
 def ping():
