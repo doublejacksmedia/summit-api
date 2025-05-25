@@ -98,24 +98,29 @@ def get_summit_session():
                 })
 
     # 2. Try matching from session blocks
-    for block in session_blocks:
-        keywords = query.split()
-        if all(word in block.lower() for word in keywords):
-            meta = extract_metadata_from_block(block)
-            if meta:
-                print(f"✅ Matched TXT session: {meta['title']}")
-                return jsonify({
-                    "title": meta["title"],
-                    "speaker": meta["speaker"],
-                    "website": meta["website"],
-                    "year": meta["year"],
-                    "lesson_link": meta["lesson_link"],
-                    "summary": meta["summary"]
-                })
+    results = []
+keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
 
-    print("❌ No matching session found.")
-    return jsonify({
-        "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
+for block in session_blocks:
+    if any(word in block.lower() for word in keywords):
+        meta = extract_metadata_from_block(block)
+        if meta:
+            print(f"✅ Matched TXT session: {meta['title']}")
+            results.append({
+                "title": meta["title"],
+                "speaker": meta["speaker"],
+                "website": meta["website"],
+                "year": meta["year"],
+                "lesson_link": meta["lesson_link"],
+                "summary": meta["summary"]
+            })
+
+if results:
+    return jsonify(results)
+
+print("❌ No matching session found.")
+return jsonify({
+    "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
     })
 
 @app.route("/ping")
