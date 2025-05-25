@@ -5,15 +5,14 @@ import glob
 
 app = Flask(__name__)
 
-# Serve the OpenAPI spec
 @app.route("/openapi.yaml")
 def serve_openapi():
     return send_from_directory(os.getcwd(), "openapi.yaml", mimetype="text/yaml")
 
-# Load the metadata CSV
+# Load metadata CSV
 metadata = pd.read_csv("Summit Smart Library - Smart Summit Libarary content.csv")
 
-# Load and cache all .txt session blocks
+# Load .txt session blocks
 def load_transcript_blocks(folder_path="sessions"):
     blocks = []
     for filepath in glob.glob(os.path.join(folder_path, "**/*.txt"), recursive=True):
@@ -26,7 +25,6 @@ def load_transcript_blocks(folder_path="sessions"):
     print(f"✅ Loaded {len(blocks)} session blocks from {folder_path}")
     return blocks
 
-# Extract metadata from .txt block
 def extract_metadata_from_block(block):
     lines = block.strip().splitlines()
     meta = {}
@@ -79,21 +77,17 @@ def get_summit_session():
     print(f"🔍 Incoming query: {query} | follow_up: {follow_up}")
     keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
 
-    # Define relevant categories for common intents
     list_growth_keywords = ["grow", "list", "subscribers", "opt-in", "freebie", "signup", "bundle", "challenge"]
     relevant_categories = ["Email Marketing", "Pinterest Marketing", "List Building"]
 
-    # Determine if it's a list-building query
     is_list_growth_query = any(word in query for word in list_growth_keywords)
 
-    # Limit sessions to Email Marketing if it's a list growth query
     filtered_metadata = metadata
     if is_list_growth_query:
         filtered_metadata = filtered_metadata[filtered_metadata["Category"].isin(relevant_categories)]
 
     scored_matches = []
 
-    # Score metadata
     for _, row in filtered_metadata.iterrows():
         text = f"{row.get('Session Title', '')} {row.get('Category', '')}".lower()
         score = sum(1 for word in keywords if word in text)
@@ -114,16 +108,12 @@ def get_summit_session():
                 "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
             })
 
-    # Score .txt blocks
     for block in session_blocks:
         meta = extract_metadata_from_block(block)
         if not meta:
             continue
-
-        # Optional category filter
         if is_list_growth_query and meta.get("category") not in relevant_categories:
             continue
-
         score = sum(1 for word in keywords if word in block.lower())
         if score > 0:
             meta["score"] = score
@@ -135,11 +125,13 @@ def get_summit_session():
             "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
         })
 
-    # Sort and respond
     scored_matches.sort(key=lambda x: x["score"], reverse=True)
+
     if follow_up:
-        print("📚 Returning top 3–5 follow-up sessions")
-        return jsonify(scored_matches[1:6])
+        print("📚 Returning top 3–5 related sessions")
+        top_title = scored_matches[0]["title"].lower()
+        related = [s for s in scored_matches if s["title"].lower() != top_title]
+        return jsonify(related[:5])
 
     top = scored_matches[0]
     print(f"⭐️ Top session match: {top['title']}")
