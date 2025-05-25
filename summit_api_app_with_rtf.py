@@ -60,6 +60,9 @@ def extract_metadata_from_block(block):
     meta["summary"] = "\n".join(transcript_lines[:5]).strip()
     return meta
 
+# Common English stop words to exclude
+ENGLISH_STOP_WORDS = {"the", "and", "you", "your", "how", "can", "to", "with", "for", "of", "in", "a", "on"}
+
 # Cache transcript blocks
 session_blocks = load_transcript_blocks()
 print(f"🔎 Loaded {len(session_blocks)} transcript blocks.")
@@ -99,21 +102,21 @@ def get_summit_session():
 
     # 2. Try matching from session blocks
     results = []
-keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
+    keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
 
-for block in session_blocks:
-    if any(word in block.lower() for word in keywords):
-        meta = extract_metadata_from_block(block)
-        if meta:
-            print(f"✅ Matched TXT session: {meta['title']}")
-            results.append({
-                "title": meta["title"],
-                "speaker": meta["speaker"],
-                "website": meta["website"],
-                "year": meta["year"],
-                "lesson_link": meta["lesson_link"],
-                "summary": meta["summary"]
-            })
+    for block in session_blocks:
+        if any(word in block.lower() for word in keywords):
+            meta = extract_metadata_from_block(block)
+            if meta:
+                print(f"✅ Matched TXT session: {meta['title']}")
+                results.append({
+                    "title": meta["title"],
+                    "speaker": meta["speaker"],
+                    "website": meta["website"],
+                    "year": meta["year"],
+                    "lesson_link": meta["lesson_link"],
+                    "summary": meta["summary"]
+                })
 
     if results:
         return jsonify(results)
@@ -121,7 +124,7 @@ for block in session_blocks:
     print("❌ No matching session found.")
     return jsonify({
         "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
-        })
+    })
 
 @app.route("/ping")
 def ping():
