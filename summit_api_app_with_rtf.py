@@ -60,7 +60,7 @@ def extract_metadata_from_block(block):
     meta["summary"] = "\n".join(transcript_lines[:5]).strip()
     return meta
 
-# Common English stop words to exclude
+# Basic stopword list
 ENGLISH_STOP_WORDS = {"the", "and", "you", "your", "how", "can", "to", "with", "for", "of", "in", "a", "on"}
 
 # Cache transcript blocks
@@ -75,55 +75,68 @@ def get_summit_session():
     if request_api_key != expected_api_key:
         abort(401, description="Unauthorized: Invalid or missing API key")
 
-    query = request.json.get("query", "").lower().strip()
-    print(f"🔍 Incoming query: {query}")
+    data = request.json
+    query = data.get("query", "").lower().strip()
+    follow_up = data.get("follow_up", False)
 
-    # 1. Try matching CSV metadata
-    for _, row in metadata.iterrows():
-        title = str(row.get("Session Title", "")).lower().strip()
-        category = str(row.get("Category", "")).lower().strip()
-        if query in title or query in category:
-            if all([
-                row.get("Session Title"),
-                row.get("Speaker"),
-                row.get("Speaker Website"),
-                row.get("Year"),
-                row.get("Lesson")
-            ]):
-                print(f"✅ Matched CSV session: {row['Session Title']}")
-                return jsonify({
-                    "title": row["Session Title"],
-                    "speaker": row["Speaker"],
-                    "website": row["Speaker Website"],
-                    "year": row["Year"],
-                    "lesson_link": row["Lesson"],
-                    "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
-                })
-
-    # 2. Try matching from session blocks
-    results = []
+    print(f"🔍 Incoming query: {query} | follow_up: {follow_up}")
     keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
 
+    scored_matches = []
+
+    # Search metadata
+    for _, row in metadata.iterrows():
+        text = f"{row.get('Session Title', '')} {row.get('Category', '')}".lower()
+        score = sum(1 for word in keywords if word in text)
+
+        if score > 0 and all([
+            row.get("Session Title"),
+            row.get("Speaker"),
+            row.get("Speaker Website"),
+            row.get("Year"),
+            row.get("Lesson")
+        ]):
+            scored_matches.append({
+                "score": score,
+                "title": row["Session Title"],
+                "speaker": row["Speaker"],
+                "website": row["Speaker Website"],
+                "year": row["Year"],
+                "lesson_link": row["Lesson"],
+                "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
+            })
+
+    # Search transcript blocks
     for block in session_blocks:
-        if any(word in block.lower() for word in keywords):
+        score = sum(1 for word in keywords if word in block.lower())
+        if score > 0:
             meta = extract_metadata_from_block(block)
             if meta:
-                print(f"✅ Matched TXT session: {meta['title']}")
-                results.append({
-                    "title": meta["title"],
-                    "speaker": meta["speaker"],
-                    "website": meta["website"],
-                    "year": meta["year"],
-                    "lesson_link": meta["lesson_link"],
-                    "summary": meta["summary"]
-                })
+                meta["score"] = score
+                scored_matches.append(meta)
 
-    if results:
-        return jsonify(results)
+    if not scored_matches:
+        print("❌ No matching session found.")
+        return jsonify({
+            "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
+        })
 
-    print("❌ No matching session found.")
+    # Sort by score descending
+    scored_matches.sort(key=lambda x: x["score"], reverse=True)
+
+    if follow_up:
+        print(f"📚 Returning top 3–5 follow-up sessions")
+        return jsonify(scored_matches[1:6])  # Skip top result shown before
+
+    print(f"⭐️ Returning top session: {scored_matches[0]['title']}")
+    top = scored_matches[0]
     return jsonify({
-        "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
+        "title": top["title"],
+        "speaker": top["speaker"],
+        "website": top["website"],
+        "year": top["year"],
+        "lesson_link": top["lesson_link"],
+        "summary": top["summary"]
     })
 
 @app.route("/ping")
