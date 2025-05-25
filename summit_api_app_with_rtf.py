@@ -9,7 +9,7 @@ app = Flask(__name__)
 def serve_openapi():
     return send_from_directory(os.getcwd(), "openapi.yaml", mimetype="text/yaml")
 
-# Load the metadata CSV
+ # Load the metadata CSV
 metadata = pd.read_csv("Summit Smart Library - Smart Summit Libarary content.csv")
 
 # Load all session .txt files from the sessions/ folder
@@ -66,7 +66,7 @@ def extract_metadata_from_block(block):
 
 # Load and cache session blocks at startup
 session_blocks = load_transcript_blocks()
-
+print(f"🔎 Loaded {len(session_blocks)} transcript blocks.")
 @app.route("/get_summit_session", methods=["POST"])
 def get_summit_session():
     request_api_key = request.headers.get("X-API-Key")
