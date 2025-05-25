@@ -26,7 +26,7 @@ def load_transcript_blocks(folder_path="sessions"):
     print(f"✅ Loaded {len(blocks)} session blocks from {folder_path}")
     return blocks
 
-# Parse metadata and extract from one block
+# Extract metadata from .txt block
 def extract_metadata_from_block(block):
     lines = block.strip().splitlines()
     meta = {}
@@ -60,10 +60,8 @@ def extract_metadata_from_block(block):
     meta["summary"] = "\n".join(transcript_lines[:5]).strip()
     return meta
 
-# Basic stopword list
 ENGLISH_STOP_WORDS = {"the", "and", "you", "your", "how", "can", "to", "with", "for", "of", "in", "a", "on"}
 
-# Cache transcript blocks
 session_blocks = load_transcript_blocks()
 print(f"🔎 Loaded {len(session_blocks)} transcript blocks.")
 
@@ -71,7 +69,6 @@ print(f"🔎 Loaded {len(session_blocks)} transcript blocks.")
 def get_summit_session():
     request_api_key = request.headers.get("X-API-Key")
     expected_api_key = os.environ.get("API_KEY")
-
     if request_api_key != expected_api_key:
         abort(401, description="Unauthorized: Invalid or missing API key")
 
@@ -82,13 +79,24 @@ def get_summit_session():
     print(f"🔍 Incoming query: {query} | follow_up: {follow_up}")
     keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
 
+    # Define relevant categories for common intents
+    list_growth_keywords = ["grow", "list", "subscribers", "opt-in", "freebie", "signup", "bundle", "challenge"]
+    relevant_categories = ["Email Marketing", "Pinterest Marketing", "List Building"]
+
+    # Determine if it's a list-building query
+    is_list_growth_query = any(word in query for word in list_growth_keywords)
+
+    # Limit sessions to Email Marketing if it's a list growth query
+    filtered_metadata = metadata
+    if is_list_growth_query:
+        filtered_metadata = filtered_metadata[filtered_metadata["Category"].isin(relevant_categories)]
+
     scored_matches = []
 
-    # Search metadata
-    for _, row in metadata.iterrows():
+    # Score metadata
+    for _, row in filtered_metadata.iterrows():
         text = f"{row.get('Session Title', '')} {row.get('Category', '')}".lower()
         score = sum(1 for word in keywords if word in text)
-
         if score > 0 and all([
             row.get("Session Title"),
             row.get("Speaker"),
@@ -106,14 +114,20 @@ def get_summit_session():
                 "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
             })
 
-    # Search transcript blocks
+    # Score .txt blocks
     for block in session_blocks:
+        meta = extract_metadata_from_block(block)
+        if not meta:
+            continue
+
+        # Optional category filter
+        if is_list_growth_query and meta.get("category") not in relevant_categories:
+            continue
+
         score = sum(1 for word in keywords if word in block.lower())
         if score > 0:
-            meta = extract_metadata_from_block(block)
-            if meta:
-                meta["score"] = score
-                scored_matches.append(meta)
+            meta["score"] = score
+            scored_matches.append(meta)
 
     if not scored_matches:
         print("❌ No matching session found.")
@@ -121,15 +135,14 @@ def get_summit_session():
             "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
         })
 
-    # Sort by score descending
+    # Sort and respond
     scored_matches.sort(key=lambda x: x["score"], reverse=True)
-
     if follow_up:
-        print(f"📚 Returning top 3–5 follow-up sessions")
-        return jsonify(scored_matches[1:6])  # Skip top result shown before
+        print("📚 Returning top 3–5 follow-up sessions")
+        return jsonify(scored_matches[1:6])
 
-    print(f"⭐️ Returning top session: {scored_matches[0]['title']}")
     top = scored_matches[0]
+    print(f"⭐️ Top session match: {top['title']}")
     return jsonify({
         "title": top["title"],
         "speaker": top["speaker"],
