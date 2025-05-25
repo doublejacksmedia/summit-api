@@ -113,7 +113,7 @@ if all(word in block.lower() for word in keywords):
                     "summary": meta["summary"]
                 })
 
-    print("❌ No matching session found.")
+        print("❌ No matching session found.")
     return jsonify({
         "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
     })
