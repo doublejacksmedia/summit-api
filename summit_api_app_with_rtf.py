@@ -9,10 +9,8 @@ app = Flask(__name__)
 def serve_openapi():
     return send_from_directory(os.getcwd(), "openapi.yaml", mimetype="text/yaml")
 
-# Load metadata CSV
 metadata = pd.read_csv("Summit Smart Library - Smart Summit Libarary content.csv")
 
-# Load .txt session blocks
 def load_transcript_blocks(folder_path="sessions"):
     blocks = []
     for filepath in glob.glob(os.path.join(folder_path, "**/*.txt"), recursive=True):
@@ -29,7 +27,6 @@ def extract_metadata_from_block(block):
     lines = block.strip().splitlines()
     meta = {}
     transcript_lines = []
-
     for line in lines:
         if line.startswith("Title:"):
             meta["title"] = line.replace("Title:", "").strip()
@@ -52,7 +49,7 @@ def extract_metadata_from_block(block):
 
     required = ["title", "speaker", "website", "year", "lesson_link"]
     if not all(meta.get(field) for field in required):
-        print(f"❌ Skipped session: missing metadata in block starting with '{lines[0]}'")
+        print(f"❌ Skipped session: missing metadata")
         return None
 
     meta["summary"] = "\n".join(transcript_lines[:5]).strip()
@@ -73,34 +70,36 @@ def get_summit_session():
     data = request.json
     query = data.get("query", "").lower().strip()
     follow_up = data.get("follow_up", False)
+    print(f"🔍 Query: {query} | Follow-up: {follow_up}")
 
-    print(f"🔍 Incoming query: {query} | follow_up: {follow_up}")
     keywords = [word for word in query.split() if word not in ENGLISH_STOP_WORDS]
-
     list_growth_keywords = ["grow", "list", "subscribers", "opt-in", "freebie", "signup", "bundle", "challenge"]
     relevant_categories = ["Email Marketing", "Pinterest Marketing", "List Building"]
 
     is_list_growth_query = any(word in query for word in list_growth_keywords)
 
-    filtered_metadata = metadata
-    if is_list_growth_query:
-        filtered_metadata = filtered_metadata[filtered_metadata["Category"].isin(relevant_categories)]
+    results = []
 
-    scored_matches = []
+    # Score CSV sessions
+    for _, row in metadata.iterrows():
+        if not all([row.get("Session Title"), row.get("Speaker"), row.get("Speaker Website"),
+                    row.get("Year"), row.get("Lesson")]):
+            continue
 
-    for _, row in filtered_metadata.iterrows():
-        text = f"{row.get('Session Title', '')} {row.get('Category', '')}".lower()
+        category = row.get("Category", "").strip()
+        level = row.get("Level", "").strip()
+        title = row.get("Session Title", "").strip()
+
+        if is_list_growth_query and category not in relevant_categories:
+            continue
+
+        text = f"{title} {category}".lower()
         score = sum(1 for word in keywords if word in text)
-        if score > 0 and all([
-            row.get("Session Title"),
-            row.get("Speaker"),
-            row.get("Speaker Website"),
-            row.get("Year"),
-            row.get("Lesson")
-        ]):
-            scored_matches.append({
+
+        if score > 0:
+            results.append({
                 "score": score,
-                "title": row["Session Title"],
+                "title": title,
                 "speaker": row["Speaker"],
                 "website": row["Speaker Website"],
                 "year": row["Year"],
@@ -108,33 +107,39 @@ def get_summit_session():
                 "summary": row.get("Session Description", "This session provides actionable advice on the selected topic.")
             })
 
+    # Score transcript blocks
     for block in session_blocks:
         meta = extract_metadata_from_block(block)
         if not meta:
             continue
         if is_list_growth_query and meta.get("category") not in relevant_categories:
             continue
+
         score = sum(1 for word in keywords if word in block.lower())
         if score > 0:
             meta["score"] = score
-            scored_matches.append(meta)
+            results.append(meta)
 
-    if not scored_matches:
-        print("❌ No matching session found.")
+    if not results:
         return jsonify({
             "message": "That topic wasn’t covered in the Blogger Breakthrough Summit sessions I have access to."
         })
 
-    scored_matches.sort(key=lambda x: x["score"], reverse=True)
+    # Sort and deduplicate by title
+    results.sort(key=lambda x: x["score"], reverse=True)
+    seen = set()
+    deduped = []
+    for r in results:
+        if r["title"].lower() not in seen:
+            seen.add(r["title"].lower())
+            deduped.append(r)
 
     if follow_up:
-        print("📚 Returning top 3–5 related sessions")
-        top_title = scored_matches[0]["title"].lower()
-        related = [s for s in scored_matches if s["title"].lower() != top_title]
-        return jsonify(related[:5])
+        print("📚 Returning 3–5 related sessions (excluding top)")
+        return jsonify(deduped[1:6])
 
-    top = scored_matches[0]
-    print(f"⭐️ Top session match: {top['title']}")
+    top = deduped[0]
+    print(f"⭐️ Top session: {top['title']}")
     return jsonify({
         "title": top["title"],
         "speaker": top["speaker"],
@@ -151,8 +156,7 @@ def ping():
 @app.route("/test", methods=["POST"])
 def test():
     data = request.json
-    print(f"🔥 TEST POST received: {data}")
-    return jsonify({"message": "POST worked!"})
+    return jsonify({"message": "POST worked!", "echo": data})
 
 @app.route("/")
 def home():
@@ -160,5 +164,4 @@ def home():
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
-    print("✅ Flask server starting...")
     app.run(host="0.0.0.0", port=port, debug=True)
